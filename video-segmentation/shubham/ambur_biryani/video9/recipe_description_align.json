@@ -1,0 +1,6104 @@
+[
+  {
+    "title": "Rinse and Soak Rice",
+    "description": "Rinse seeraga samba rice 2–3 times until the water runs clear. Soak it in water for 30 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.648
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.642
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=150s",
+        "ingredients": [
+          "White rice",
+          "Red curry"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the rice and curry mixture"
+        ],
+        "utensils": [
+          "Large pot or pressure cooker",
+          "Spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.62
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=180s",
+        "ingredients": [
+          "Chicken",
+          "Spicy rice (*identified as \"spicy samayals\")"
+        ],
+        "actions": [
+          "Flipping/churning rice and chicken in the pot",
+          "Transferring rice and chicken onto a banana leaf"
+        ],
+        "utensils": [
+          "Non-stick pot (or pan)",
+          "Spade-shaped spatula (kitchen tool)",
+          "Banana leaf (for serving)",
+          "Serving spoon"
+        ],
+        "confidence": 0.605
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.603
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.597
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.585
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.583
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.579
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.577
+      }
+    ]
+  },
+  {
+    "title": "Soak Red Chillies",
+    "description": "Soak 10–12 dried red chillies in hot water for 10–15 minutes to soften them.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=10s",
+        "ingredients": [
+          "Red dried chilies"
+        ],
+        "actions": [
+          "Picking dried chilies",
+          "Placing dried chilies into a plastic cup",
+          "Adding liquid to dried chilies",
+          "Pouring the liquid with chilies into the food processor",
+          "Securing the lid on the food processor"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Transparent plastic cup",
+          "Measuring cup",
+          "Food processor"
+        ],
+        "confidence": 0.698
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.587
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.585
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.584
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.582
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.58
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=150s",
+        "ingredients": [
+          "White rice",
+          "Red curry"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the rice and curry mixture"
+        ],
+        "utensils": [
+          "Large pot or pressure cooker",
+          "Spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.575
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.573
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.573
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.572
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.571
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.565
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.541
+      }
+    ]
+  },
+  {
+    "title": "Grind Red Chilli Paste",
+    "description": "Grind the soaked chillies into a smooth paste using minimal water.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=30s",
+        "ingredients": [
+          "Garlic pods",
+          "Curry leaves",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Bay leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Melting butter",
+          "Adding garlic pods",
+          "Adding curry leaves",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding bay leaves",
+          "Adding ginger-garlic paste",
+          "Stirring the paste"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spoon",
+          "Gas stove",
+          "Spoon (for adding ingredients)"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.746
+      }
+    ]
+  },
+  {
+    "title": "Heat Oil and Ghee",
+    "description": "In a heavy-bottomed pot, heat gingelly oil and ghee together on medium flame.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.75
+      }
+    ]
+  },
+  {
+    "title": "Fry Whole Spices",
+    "description": "Add cloves, cardamom, cinnamon, bay leaf, and fennel seeds. Sauté until fragrant.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=30s",
+        "ingredients": [
+          "Garlic pods",
+          "Curry leaves",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Bay leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Melting butter",
+          "Adding garlic pods",
+          "Adding curry leaves",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding bay leaves",
+          "Adding ginger-garlic paste",
+          "Stirring the paste"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spoon",
+          "Gas stove",
+          "Spoon (for adding ingredients)"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.697
+      }
+    ]
+  },
+  {
+    "title": "Sauté Onions",
+    "description": "Add thinly sliced onions and fry until golden brown, stirring often to avoid burning.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.822
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.733
+      }
+    ]
+  },
+  {
+    "title": "Add Ginger-Garlic Paste",
+    "description": "Stir in ginger paste and garlic paste. Cook for 1–2 minutes until the raw smell disappears.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=30s",
+        "ingredients": [
+          "Garlic pods",
+          "Curry leaves",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Bay leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Melting butter",
+          "Adding garlic pods",
+          "Adding curry leaves",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding bay leaves",
+          "Adding ginger-garlic paste",
+          "Stirring the paste"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spoon",
+          "Gas stove",
+          "Spoon (for adding ingredients)"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.655
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.639
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.631
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.63
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.621
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.619
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.619
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.608
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.602
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.59
+      }
+    ]
+  },
+  {
+    "title": "Cook Tomatoes",
+    "description": "Add chopped tomatoes and cook until they turn soft and the oil starts to separate.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.821
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.703
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.697
+      }
+    ]
+  },
+  {
+    "title": "Add Chilli Paste and Turmeric",
+    "description": "Mix in the ground red chilli paste and turmeric powder. Sauté for 3–4 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=10s",
+        "ingredients": [
+          "Red dried chilies"
+        ],
+        "actions": [
+          "Picking dried chilies",
+          "Placing dried chilies into a plastic cup",
+          "Adding liquid to dried chilies",
+          "Pouring the liquid with chilies into the food processor",
+          "Securing the lid on the food processor"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Transparent plastic cup",
+          "Measuring cup",
+          "Food processor"
+        ],
+        "confidence": 0.649
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=30s",
+        "ingredients": [
+          "Garlic pods",
+          "Curry leaves",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Bay leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Melting butter",
+          "Adding garlic pods",
+          "Adding curry leaves",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding bay leaves",
+          "Adding ginger-garlic paste",
+          "Stirring the paste"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spoon",
+          "Gas stove",
+          "Spoon (for adding ingredients)"
+        ],
+        "confidence": 0.625
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=150s",
+        "ingredients": [
+          "White rice",
+          "Red curry"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the rice and curry mixture"
+        ],
+        "utensils": [
+          "Large pot or pressure cooker",
+          "Spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.624
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.621
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.621
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.618
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.614
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.614
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.592
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.589
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.581
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.57
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.555
+      }
+    ]
+  },
+  {
+    "title": "Add Yogurt and Herbs",
+    "description": "Stir in thick curd, mint leaves, and coriander leaves. Cook for 2–3 minutes until well combined.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.623
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.615
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.613
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.612
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.607
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.606
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=30s",
+        "ingredients": [
+          "Garlic pods",
+          "Curry leaves",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Bay leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Melting butter",
+          "Adding garlic pods",
+          "Adding curry leaves",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding bay leaves",
+          "Adding ginger-garlic paste",
+          "Stirring the paste"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spoon",
+          "Gas stove",
+          "Spoon (for adding ingredients)"
+        ],
+        "confidence": 0.604
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.585
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.582
+      }
+    ]
+  },
+  {
+    "title": "Add Meat and Salt",
+    "description": "Add cleaned mutton or chicken. Season with salt. Stir well to coat the meat with the masala.",
+    "aligned_chunks": [
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=180s",
+        "ingredients": [
+          "Chicken",
+          "Spicy rice (*identified as \"spicy samayals\")"
+        ],
+        "actions": [
+          "Flipping/churning rice and chicken in the pot",
+          "Transferring rice and chicken onto a banana leaf"
+        ],
+        "utensils": [
+          "Non-stick pot (or pan)",
+          "Spade-shaped spatula (kitchen tool)",
+          "Banana leaf (for serving)",
+          "Serving spoon"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.693
+      }
+    ]
+  },
+  {
+    "title": "Cook Meat Until Tender",
+    "description": "Cover and cook the meat on medium heat until it is tender and oil begins to separate from the masala. Stir occasionally.",
+    "aligned_chunks": [
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.716
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.716
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.681
+      }
+    ]
+  },
+  {
+    "title": "Boil Water for Rice",
+    "description": "In a separate large pot, bring enough water to a boil. Add a pinch of salt.",
+    "aligned_chunks": [
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.873
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.794
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.786
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.738
+      }
+    ]
+  },
+  {
+    "title": "Cook Rice Until 80% Done",
+    "description": "Add the soaked rice to boiling water and cook until it's about 80% cooked. The grains should be firm but cooked through.",
+    "aligned_chunks": [
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=150s",
+        "ingredients": [
+          "White rice",
+          "Red curry"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the rice and curry mixture"
+        ],
+        "utensils": [
+          "Large pot or pressure cooker",
+          "Spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=180s",
+        "ingredients": [
+          "Chicken",
+          "Spicy rice (*identified as \"spicy samayals\")"
+        ],
+        "actions": [
+          "Flipping/churning rice and chicken in the pot",
+          "Transferring rice and chicken onto a banana leaf"
+        ],
+        "utensils": [
+          "Non-stick pot (or pan)",
+          "Spade-shaped spatula (kitchen tool)",
+          "Banana leaf (for serving)",
+          "Serving spoon"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.702
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.682
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.681
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.644
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.644
+      }
+    ]
+  },
+  {
+    "title": "Drain Rice",
+    "description": "Drain the rice immediately using a colander and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=150s",
+        "ingredients": [
+          "White rice",
+          "Red curry"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the rice and curry mixture"
+        ],
+        "utensils": [
+          "Large pot or pressure cooker",
+          "Spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.817
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.814
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.813
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=180s",
+        "ingredients": [
+          "Chicken",
+          "Spicy rice (*identified as \"spicy samayals\")"
+        ],
+        "actions": [
+          "Flipping/churning rice and chicken in the pot",
+          "Transferring rice and chicken onto a banana leaf"
+        ],
+        "utensils": [
+          "Non-stick pot (or pan)",
+          "Spade-shaped spatula (kitchen tool)",
+          "Banana leaf (for serving)",
+          "Serving spoon"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.743
+      }
+    ]
+  },
+  {
+    "title": "Layer Rice Over Meat",
+    "description": "Spread the semi-cooked rice evenly over the cooked meat masala in the pot.",
+    "aligned_chunks": [
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=150s",
+        "ingredients": [
+          "White rice",
+          "Red curry"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the rice and curry mixture"
+        ],
+        "utensils": [
+          "Large pot or pressure cooker",
+          "Spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.854
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.847
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.837
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.833
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.831
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.825
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.825
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=180s",
+        "ingredients": [
+          "Chicken",
+          "Spicy rice (*identified as \"spicy samayals\")"
+        ],
+        "actions": [
+          "Flipping/churning rice and chicken in the pot",
+          "Transferring rice and chicken onto a banana leaf"
+        ],
+        "utensils": [
+          "Non-stick pot (or pan)",
+          "Spade-shaped spatula (kitchen tool)",
+          "Banana leaf (for serving)",
+          "Serving spoon"
+        ],
+        "confidence": 0.816
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.815
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.809
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.803
+      }
+    ]
+  },
+  {
+    "title": "Add Garnishes",
+    "description": "Drizzle lemon juice over the rice. Sprinkle some mint and coriander leaves for extra aroma.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=150s",
+        "ingredients": [
+          "White rice",
+          "Red curry"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the rice and curry mixture"
+        ],
+        "utensils": [
+          "Large pot or pressure cooker",
+          "Spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=180s",
+        "ingredients": [
+          "Chicken",
+          "Spicy rice (*identified as \"spicy samayals\")"
+        ],
+        "actions": [
+          "Flipping/churning rice and chicken in the pot",
+          "Transferring rice and chicken onto a banana leaf"
+        ],
+        "utensils": [
+          "Non-stick pot (or pan)",
+          "Spade-shaped spatula (kitchen tool)",
+          "Banana leaf (for serving)",
+          "Serving spoon"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.736
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=30s",
+        "ingredients": [
+          "Garlic pods",
+          "Curry leaves",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Bay leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Melting butter",
+          "Adding garlic pods",
+          "Adding curry leaves",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding bay leaves",
+          "Adding ginger-garlic paste",
+          "Stirring the paste"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spoon",
+          "Gas stove",
+          "Spoon (for adding ingredients)"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.703
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.683
+      }
+    ]
+  },
+  {
+    "title": "Seal and Dum Cook",
+    "description": "Cover the pot tightly with a lid (use dough or foil for a better seal). Cook on a low flame for 15–20 minutes (dum cooking).",
+    "aligned_chunks": [
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.677
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.655
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.641
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.632
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.63
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.612
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.607
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.604
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.59
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.584
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.572
+      }
+    ]
+  },
+  {
+    "title": "Rest the Biryani",
+    "description": "Turn off the heat and let the biryani rest for 10 minutes before opening the lid.",
+    "aligned_chunks": [
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.714
+      }
+    ]
+  },
+  {
+    "title": "Gently Mix and Serve",
+    "description": "Gently fluff and mix the biryani from the sides without breaking the rice. Serve hot with brinjal curry and raita.",
+    "aligned_chunks": [
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=190s",
+        "ingredients": [
+          "Biryani rice",
+          "Meat pieces",
+          "Boiled egg",
+          "Raita (white yogurt-based condiment)"
+        ],
+        "actions": [
+          "Piling biryani rice onto a banana leaf",
+          "Placing pieces of meat next to the rice",
+          "Adding boiled eggs to the plate",
+          "Serving raita beside the biryani",
+          "Mixing meat with biryani",
+          "Adding raita to the biryani"
+        ],
+        "utensils": [
+          "Metal spoon/spade",
+          "Banana leaf (used as a serving plate)"
+        ],
+        "confidence": 0.873
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=150s",
+        "ingredients": [
+          "White rice",
+          "Red curry"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the rice and curry mixture"
+        ],
+        "utensils": [
+          "Large pot or pressure cooker",
+          "Spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=200s",
+        "ingredients": [
+          "Fried rice",
+          "Thin papadums",
+          "White yogurt-like raita or sauce",
+          "Purple-colored garnish or spice (possibly dried rose petals or a similar ingredient)"
+        ],
+        "actions": [
+          "Breaking apart papadums",
+          "Mixing papadum with fried rice",
+          "Adding raita or sauce to the fried rice",
+          "Breaking apart the fried rice with fingers"
+        ],
+        "utensils": [
+          "None are distinctly visible in the frames provided."
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=50s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies (entire, not chopped)",
+          "Mustard seeds",
+          "Turmeric powder",
+          "Curry leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Adding chopped onions to the pressure cooker",
+          "Covering onions with a lid",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the cooker",
+          "Stirring the mixture",
+          "Adding mustard seeds",
+          "Stirring again",
+          "Adding turmeric powder",
+          "Adding ginger-garlic paste",
+          "Stirring the curry with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Metal spoon",
+          "Gas stove",
+          "Various plants (background, decorative)"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=110s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Water",
+          "Spices (in the curry)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Adding water to the curry",
+          "Stirring curry with a wooden spoon",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=40s",
+        "ingredients": [
+          "Onions",
+          "Salt",
+          "Oil/fat/ghee (in the pot)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "210-215",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=210s",
+        "ingredients": [
+          "Spiced rice (yellowish with visible spices)",
+          "Fried onions or garlic (visible chunks)"
+        ],
+        "actions": [
+          "Mixing spiced rice",
+          "Holding a portion of spiced rice and fried onions or garlic in the hand"
+        ],
+        "utensils": [
+          "Banana leaf (used as a plate or serving surface)",
+          "Hand (the person is using their hand to mix and pick up the rice)"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=60s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Curry leaves",
+          "Ground spices (in the pot)"
+        ],
+        "actions": [
+          "Stirring the spices",
+          "Adding chopped tomatoes to the pot",
+          "Adding curry leaves to the pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=170s",
+        "ingredients": [
+          "Fluffy, yellow rice with spices",
+          "Pieces of meat or protein (possibly chicken)"
+        ],
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring rice with a wooden spatula",
+          "Scooping rice and meat with a spoon"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=120s",
+        "ingredients": [
+          "Basmati rice",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding water to the pressure cooker",
+          "Placing the lid on the pressure cooker",
+          "Stirring rice",
+          "Adding salt to the boiling water",
+          "Adding rice to boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Red bowl",
+          "Metal lid"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=130s",
+        "ingredients": [
+          "White rice",
+          "Water"
+        ],
+        "actions": [
+          "Holding rice",
+          "Pouring rice into water",
+          "Mixing rice in water",
+          "Transferring rice-water mixture into a pot"
+        ],
+        "utensils": [
+          "Red bowl",
+          "Metal pot",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=90s",
+        "ingredients": [
+          "A white, creamy substance (likely yogurt or cream)",
+          "Lemon juice",
+          "Spices in the mixture (not individually identifiable)"
+        ],
+        "actions": [
+          "Adding yogurt or cream to the pressure cooker",
+          "Squeezing lemon juice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker",
+          "Mixing the ingredients together with a wooden spoon"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A small container for holding the creamy substance",
+          "A wooden spoon or spatula",
+          "A lemon"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=30s",
+        "ingredients": [
+          "Garlic pods",
+          "Curry leaves",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Bay leaves",
+          "Ginger-garlic paste"
+        ],
+        "actions": [
+          "Melting butter",
+          "Adding garlic pods",
+          "Adding curry leaves",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding bay leaves",
+          "Adding ginger-garlic paste",
+          "Stirring the paste"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Wooden spoon",
+          "Gas stove",
+          "Spoon (for adding ingredients)"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=180s",
+        "ingredients": [
+          "Chicken",
+          "Spicy rice (*identified as \"spicy samayals\")"
+        ],
+        "actions": [
+          "Flipping/churning rice and chicken in the pot",
+          "Transferring rice and chicken onto a banana leaf"
+        ],
+        "utensils": [
+          "Non-stick pot (or pan)",
+          "Spade-shaped spatula (kitchen tool)",
+          "Banana leaf (for serving)",
+          "Serving spoon"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.701
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=70s",
+        "ingredients": [
+          "Chopped tomatoes",
+          "Fresh green herbs (likely coriander and curry leaves)",
+          "Spices (not individually identifiable)",
+          "Oil or ghee"
+        ],
+        "actions": [
+          "Adding fresh green herbs to the pressure cooker",
+          "Stirring the contents of the pressure cooker with a wooden spatula",
+          "Cooking the mixture in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spatula",
+          "Stove"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=80s",
+        "ingredients": [
+          "Red tomato paste",
+          "Herbs and spices (visible in the pot)"
+        ],
+        "actions": [
+          "Spreading tomato paste in the pot",
+          "Mixing curry with a wooden spatula",
+          "Cooking vegetables in the pressure cooker"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=20s",
+        "ingredients": [
+          "Red-colored mixture (blended ingredients, likely some form of chutney or paste)",
+          "Yellow oil (likely cooking oil)"
+        ],
+        "actions": [
+          "Blending ingredients",
+          "Scooping the blended mixture",
+          "Pouring oil into the pressure cooker"
+        ],
+        "utensils": [
+          "Blender jar",
+          "Wooden spoon",
+          "Pressure cooker",
+          "Oil container"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Spice mixture (red and green chutneys or curry base)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding chicken pieces to the curry",
+          "Mixing chicken with the curry using the spatula"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Pressure cooker"
+        ],
+        "confidence": 0.672
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=0s",
+        "ingredients": [
+          "Spicy rice (with visible spices and ingredients mixed in)",
+          "Raw chicken pieces",
+          "Red chili peppers"
+        ],
+        "actions": [
+          "Scooping spicy rice and chicken pieces from the pot",
+          "Placing the rice and chicken on a banana leaf",
+          "Scooping the spicy rice and forming a portion",
+          "Holding and showcasing a bowl of red chili peppers"
+        ],
+        "utensils": [
+          "Pot or cooking pan",
+          "Serving spoon or spatula",
+          "Clear bowl",
+          "Metal fork"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=140s",
+        "ingredients": [
+          "White rice",
+          "Water",
+          "Cooking oil (for the subsequent boiling pot)"
+        ],
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and water mixture",
+          "Opening the pressure cooker to reveal cooked food (in the subsequent pot)"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Pressure cooker (stainless steel)",
+          "Black cooking pot"
+        ],
+        "confidence": 0.656
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=160s",
+        "ingredients": [
+          "Rice",
+          "Oil",
+          "Spices (visible as being stirred into the rice)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Placing the lid on the pressure cooker",
+          "Securing the whistle on the pressure cooker",
+          "Locking the pressure cooker handle"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon (for stirring)",
+          "Pressure cooker valve and whistle"
+        ],
+        "confidence": 0.654
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=DorxTA0igIE&t=180s",
+        "ingredients": [
+          "Chicken",
+          "Spicy rice (*identified as \"spicy samayals\")"
+        ],
+        "actions": [
+          "Flipping/churning rice and chicken in the pot",
+          "Transferring rice and chicken onto a banana leaf"
+        ],
+        "utensils": [
+          "Non-stick pot (or pan)",
+          "Spade-shaped spatula (kitchen tool)",
+          "Banana leaf (for serving)",
+          "Serving spoon"
+        ],
+        "confidence": 0.654
+      }
+    ]
+  }
+]

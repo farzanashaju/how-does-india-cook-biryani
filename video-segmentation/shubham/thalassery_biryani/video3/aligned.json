@@ -1,0 +1,522 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:23,824",
+    "audio_description": "Welcome to Telugu Ruchi! On this channel, we show you various flavored rice recipes like biryani, pulao, fried rice, khichdi, and more. Today, let’s look at a traditional and tasty one.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.672
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:23,824 --> 00:00:53,034",
+    "audio_description": "Today, we’ll see how to make flavorful Thalassery Chicken Biryani. For the masala: 10g cinnamon, 5g cloves, 10g cardamom, 10g pepper, 5g black cumin, 5g fennel, 5g star anise.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.425
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.497
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.633
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:53,034 --> 00:01:14,686",
+    "audio_description": "[No transcript; assumed silence or background action]",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:01:14,686 --> 00:01:43,575",
+    "audio_description": "Also add: 15g cashews, 15g raisins, 75g onions, salt to taste, 2 bay leaves, 5g turmeric, half kg chicken, enough water, 50g tomatoes, 50g shallots.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.697
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:43,575 --> 00:02:11,960",
+    "audio_description": "75g curd, hot water as needed, 10ml oil, ½ kg Jeera Samba rice, 1g saffron, ghee as needed, 10ml lemon juice. To start, heat a pan and dry roast the cinnamon and cloves.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.502
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.624
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:13,444 --> 00:02:41,355",
+    "audio_description": "Add black cumin, fennel, star anise and roast lightly. Then add poppy seeds and roast briefly. Transfer to a plate and let cool.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.686
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:44,663 --> 00:02:58,129",
+    "audio_description": "Grind into a fine powder and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.702
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:13,942 --> 00:03:37,955",
+    "audio_description": "In the same pan, add ginger, garlic, green chili, coriander, mint, and salt. Grind it into a smooth paste and keep it aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=0s",
+        "actions": [
+          "Not specified",
+          "No cooking actions visible"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.689
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:08,683 --> 00:04:38,603",
+    "audio_description": "In a clay pot, heat ghee. Fry the cashews and raisins, and set them aside. Then fry onions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=0s",
+        "actions": [
+          "Not specified",
+          "No cooking actions visible"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.712
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:54,144 --> 00:05:19,694",
+    "audio_description": "Add bay leaves and turmeric. Then add the earlier ground chicken masala paste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.771
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:40,247 --> 00:06:06,370",
+    "audio_description": "Add chopped tomatoes, mix well, cover and cook for 15 minutes. Then add the chopped shallots.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.677
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:09,391 --> 00:06:31,733",
+    "audio_description": "Add the fried onions, the masala powder we made earlier, and curd. Mix thoroughly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.735
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:37,858 --> 00:07:06,665",
+    "audio_description": "Cover and cook for 5 minutes, then set aside. In another clay pot, boil water with black cumin, salt, and oil.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=0s",
+        "actions": [
+          "Not specified",
+          "No cooking actions visible"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.689
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:09,668 --> 00:07:34,120",
+    "audio_description": "Add Jeera Samba rice. Cook till 70% done. Drain the rice completely.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.704
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:56,733 --> 00:08:26,281",
+    "audio_description": "Layer the cooked chicken masala at the bottom. Add lemon juice, saffron water, ghee. Cover and cook on dum (steam) for 15 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.626
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:08:28,576 --> 00:08:56,976",
+    "audio_description": "Finally, garnish with the fried cashews, raisins, coriander, and onions. The delicious Thalassery Chicken Biryani is ready!",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=20s",
+        "actions": [
+          "No distinct cooking actions visible, just presentation of the dish"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.778
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:09:11,219 --> 00:09:17,934",
+    "audio_description": "If you like our recipes, hit the like button, share it, and please subscribe to Telugu Ruchi.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=10s",
+        "actions": [
+          "Not applicable (the frames provided are introductory screens with no visible cooking actions)"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "30-35",
+        "url": "https://www.youtube.com/watch?v=VPKDh8jdLQ4&t=30s",
+        "actions": [
+          "Serving biryani on a banana leaf",
+          "Presenting ingredients",
+          "Displaying spices"
+        ],
+        "confidence_score": 0.777
+      }
+    ]
+  }
+]

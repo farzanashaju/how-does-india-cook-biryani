@@ -1,0 +1,6317 @@
+[
+  {
+    "title": "Prepare the marinade",
+    "description": "In a large bowl, mix yogurt, ginger paste, garlic paste, biryani masala, salt, and a pinch of sugar until well combined.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.824
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "ingredients": [
+          "Red chili powder",
+          "Yellow food color",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Measuring spoon"
+        ],
+        "confidence": 0.809
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "ingredients": [
+          "Biryani masala",
+          "Dried onion slices",
+          "Yogurt"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "White plastic spoon"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken (pieces)",
+          "Garlic/ginger paste",
+          "Biryani masala",
+          "Knods/Khoya (white crumbled ingredient)"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "utensils": [
+          "Large metal pot"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "ingredients": [
+          "Yogurt",
+          "Biryani Masala",
+          "Red Chilli Powder"
+        ],
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "utensils": [
+          "Blender jar"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "ingredients": [
+          "White potatoes",
+          "Tomato-based sauce",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Spotted ladle",
+          "Spoon"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.732
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "ingredients": [
+          "Lemon juice",
+          "Cooking oil",
+          "Salt"
+        ],
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Measuring spoons"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.672
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.653
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.613
+      }
+    ]
+  },
+  {
+    "title": "Marinate the mutton",
+    "description": "Add the mutton to the marinade and coat evenly. Cover and refrigerate for at least 4 hours, preferably overnight.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.578
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.559
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.555
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.546
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.536
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.516
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.514
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.503
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "title": "Prep the potatoes",
+    "description": "Peel the potatoes, cut them in half, and rub them with salt and turmeric.",
+    "aligned_chunks": [
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce"
+        ],
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle"
+        ],
+        "confidence": 0.822
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=39s",
+        "ingredients": [
+          "Peeled potatoes"
+        ],
+        "actions": [
+          "Piercing potato with fork",
+          "Checking potato texture with fork",
+          "Placing potato back in bowl"
+        ],
+        "utensils": [
+          "Gloved hand",
+          "Fork"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "ingredients": [
+          "White potatoes",
+          "Tomato-based sauce",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Spotted ladle",
+          "Spoon"
+        ],
+        "confidence": 0.794
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken (pieces)",
+          "Garlic/ginger paste",
+          "Biryani masala",
+          "Knods/Khoya (white crumbled ingredient)"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "utensils": [
+          "Large metal pot"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "ingredients": [
+          "Lemon juice",
+          "Cooking oil",
+          "Salt"
+        ],
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Measuring spoons"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Curry leaves"
+        ],
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Bowl for pouring liquid",
+          "Gloves"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.716
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.684
+      }
+    ]
+  },
+  {
+    "title": "Fry the potatoes",
+    "description": "Heat mustard oil in a pan and shallow fry the potatoes until golden on all sides. Set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "ingredients": [
+          "Lemon juice",
+          "Cooking oil",
+          "Salt"
+        ],
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Measuring spoons"
+        ],
+        "confidence": 0.736
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce"
+        ],
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "ingredients": [
+          "White potatoes",
+          "Tomato-based sauce",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Spotted ladle",
+          "Spoon"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=39s",
+        "ingredients": [
+          "Peeled potatoes"
+        ],
+        "actions": [
+          "Piercing potato with fork",
+          "Checking potato texture with fork",
+          "Placing potato back in bowl"
+        ],
+        "utensils": [
+          "Gloved hand",
+          "Fork"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.659
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.656
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken (pieces)",
+          "Garlic/ginger paste",
+          "Biryani masala",
+          "Knods/Khoya (white crumbled ingredient)"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "utensils": [
+          "Large metal pot"
+        ],
+        "confidence": 0.651
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Curry leaves"
+        ],
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Bowl for pouring liquid",
+          "Gloves"
+        ],
+        "confidence": 0.646
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.632
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.631
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.627
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.624
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.608
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.598
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.581
+      }
+    ]
+  },
+  {
+    "title": "Slice the onions",
+    "description": "Thinly slice the onions for frying.",
+    "aligned_chunks": [
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "ingredients": [
+          "Fried onions (or caramelized onions)",
+          "Beaten eggs"
+        ],
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Metal mixing bowl",
+          "Slotted spoon",
+          "Bowl for beaten eggs",
+          "Spoon to pour eggs"
+        ],
+        "confidence": 0.899
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.891
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=59s",
+        "ingredients": [
+          "Sliced onions"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring onions with the ladle",
+          "Cooking onions until they turn brown"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large metal pot or pan"
+        ],
+        "confidence": 0.865
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.777
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.773
+      }
+    ]
+  },
+  {
+    "title": "Fry the onions (beresta)",
+    "description": "Deep fry the sliced onions in hot oil until golden brown and crisp. Drain on paper towels and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=59s",
+        "ingredients": [
+          "Sliced onions"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring onions with the ladle",
+          "Cooking onions until they turn brown"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large metal pot or pan"
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "ingredients": [
+          "Fried onions (or caramelized onions)",
+          "Beaten eggs"
+        ],
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Metal mixing bowl",
+          "Slotted spoon",
+          "Bowl for beaten eggs",
+          "Spoon to pour eggs"
+        ],
+        "confidence": 0.81
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "ingredients": [
+          "Lemon juice",
+          "Cooking oil",
+          "Salt"
+        ],
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Measuring spoons"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.669
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.666
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.645
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.641
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.627
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.621
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.617
+      }
+    ]
+  },
+  {
+    "title": "Heat whole spices",
+    "description": "In a large heavy-bottom pot, heat mustard oil and add bay leaves, cloves, cardamoms, cinnamon, mace, and nutmeg.",
+    "aligned_chunks": [
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "ingredients": [
+          "Lemon juice",
+          "Cooking oil",
+          "Salt"
+        ],
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Measuring spoons"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=229s",
+        "ingredients": [
+          "Cinnamon stick",
+          "Bay leaves",
+          "Cloves",
+          "Green cardamom"
+        ],
+        "actions": [
+          "Displaying ingredients on a plate",
+          "Preparing to cook the ingredients"
+        ],
+        "utensils": [
+          "White plate",
+          "Large pot or pressure cooker"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "ingredients": [
+          "Bay leaf",
+          "Cloves",
+          "Cinnamon stick",
+          "Cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large pot"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Curry leaves"
+        ],
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Bowl for pouring liquid",
+          "Gloves"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.653
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.647
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.643
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.627
+      }
+    ]
+  },
+  {
+    "title": "Cook the mutton",
+    "description": "Add the marinated mutton to the pot. Cook on medium-high heat until the meat starts to brown and the oil begins to separate.",
+    "aligned_chunks": [
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "ingredients": [
+          "Lemon juice",
+          "Cooking oil",
+          "Salt"
+        ],
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Measuring spoons"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.702
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.681
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.633
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.623
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.611
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.576
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.574
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.567
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.562
+      }
+    ]
+  },
+  {
+    "title": "Add fried potatoes to mutton",
+    "description": "Once the mutton is nearly tender, add the fried potatoes and cook together for a few minutes to absorb flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "ingredients": [
+          "White potatoes",
+          "Tomato-based sauce",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Spotted ladle",
+          "Spoon"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce"
+        ],
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "ingredients": [
+          "Fried onions (or caramelized onions)",
+          "Beaten eggs"
+        ],
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Metal mixing bowl",
+          "Slotted spoon",
+          "Bowl for beaten eggs",
+          "Spoon to pour eggs"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=39s",
+        "ingredients": [
+          "Peeled potatoes"
+        ],
+        "actions": [
+          "Piercing potato with fork",
+          "Checking potato texture with fork",
+          "Placing potato back in bowl"
+        ],
+        "utensils": [
+          "Gloved hand",
+          "Fork"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken (pieces)",
+          "Garlic/ginger paste",
+          "Biryani masala",
+          "Knods/Khoya (white crumbled ingredient)"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "utensils": [
+          "Large metal pot"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.688
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Curry leaves"
+        ],
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Bowl for pouring liquid",
+          "Gloves"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.666
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.617
+      }
+    ]
+  },
+  {
+    "title": "Soak saffron",
+    "description": "In a small bowl, soak saffron strands in warm milk for 10 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Milk"
+        ],
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle",
+          "White spatula or spoon"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.681
+      }
+    ]
+  },
+  {
+    "title": "Add aromatic waters",
+    "description": "Mix rose water and kewra water into the saffron milk. Set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=169s",
+        "ingredients": [
+          "Kewra water",
+          "Rose water",
+          "Mughlai meetha attar"
+        ],
+        "actions": [
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding attar to the bowl"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Measuring spoon"
+        ],
+        "confidence": 0.841
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Curry leaves"
+        ],
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Bowl for pouring liquid",
+          "Gloves"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Milk"
+        ],
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle",
+          "White spatula or spoon"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.627
+      }
+    ]
+  },
+  {
+    "title": "Parboil the rice",
+    "description": "Boil a large pot of water with salt and whole garam masalas. Add rinsed basmati rice and cook until 70% done. Drain immediately.",
+    "aligned_chunks": [
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "ingredients": [
+          "Bay leaf",
+          "Cloves",
+          "Cinnamon stick",
+          "Cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large pot"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=169s",
+        "ingredients": [
+          "Kewra water",
+          "Rose water",
+          "Mughlai meetha attar"
+        ],
+        "actions": [
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding attar to the bowl"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Measuring spoon"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "ingredients": [
+          "White potatoes",
+          "Tomato-based sauce",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Spotted ladle",
+          "Spoon"
+        ],
+        "confidence": 0.695
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "ingredients": [
+          "Lemon juice",
+          "Cooking oil",
+          "Salt"
+        ],
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Measuring spoons"
+        ],
+        "confidence": 0.695
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.682
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.666
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Curry leaves"
+        ],
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Bowl for pouring liquid",
+          "Gloves"
+        ],
+        "confidence": 0.658
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.632
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.614
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.605
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.597
+      }
+    ]
+  },
+  {
+    "title": "Grease the biryani pot",
+    "description": "Lightly grease the base of a heavy-bottomed pot with ghee.",
+    "aligned_chunks": [
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.819
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "ingredients": [
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "utensils": [
+          "Metal pot with rice",
+          "Metal spoon",
+          "Metal flat lid",
+          "Pink and white checkered towel"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.715
+      }
+    ]
+  },
+  {
+    "title": "First layer - mutton and potatoes",
+    "description": "Spread a layer of cooked mutton and potatoes at the bottom of the pot.",
+    "aligned_chunks": [
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce"
+        ],
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle"
+        ],
+        "confidence": 0.824
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "ingredients": [
+          "White potatoes",
+          "Tomato-based sauce",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Spotted ladle",
+          "Spoon"
+        ],
+        "confidence": 0.823
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.815
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.81
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken (pieces)",
+          "Garlic/ginger paste",
+          "Biryani masala",
+          "Knods/Khoya (white crumbled ingredient)"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "utensils": [
+          "Large metal pot"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=39s",
+        "ingredients": [
+          "Peeled potatoes"
+        ],
+        "actions": [
+          "Piercing potato with fork",
+          "Checking potato texture with fork",
+          "Placing potato back in bowl"
+        ],
+        "utensils": [
+          "Gloved hand",
+          "Fork"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Curry leaves"
+        ],
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Bowl for pouring liquid",
+          "Gloves"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.694
+      }
+    ]
+  },
+  {
+    "title": "Second layer - rice",
+    "description": "Add a layer of the parboiled rice over the mutton.",
+    "aligned_chunks": [
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.861
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "ingredients": [
+          "Bay leaf",
+          "Cloves",
+          "Cinnamon stick",
+          "Cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large pot"
+        ],
+        "confidence": 0.828
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.704
+      }
+    ]
+  },
+  {
+    "title": "Add toppings to layer",
+    "description": "Sprinkle fried onions, garam masala powder, a few drops of ghee, and a portion of the saffron milk mixture over the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "ingredients": [
+          "Biryani masala",
+          "Dried onion slices",
+          "Yogurt"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "White plastic spoon"
+        ],
+        "confidence": 0.821
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken (pieces)",
+          "Garlic/ginger paste",
+          "Biryani masala",
+          "Knods/Khoya (white crumbled ingredient)"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "utensils": [
+          "Large metal pot"
+        ],
+        "confidence": 0.821
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "ingredients": [
+          "Red chili powder",
+          "Yellow food color",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Measuring spoon"
+        ],
+        "confidence": 0.818
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "ingredients": [
+          "Yogurt",
+          "Biryani Masala",
+          "Red Chilli Powder"
+        ],
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "utensils": [
+          "Blender jar"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "ingredients": [
+          "Fried onions (or caramelized onions)",
+          "Beaten eggs"
+        ],
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Metal mixing bowl",
+          "Slotted spoon",
+          "Bowl for beaten eggs",
+          "Spoon to pour eggs"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "ingredients": [
+          "White potatoes",
+          "Tomato-based sauce",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Spotted ladle",
+          "Spoon"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "ingredients": [
+          "Bay leaf",
+          "Cloves",
+          "Cinnamon stick",
+          "Cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large pot"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.764
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.764
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "ingredients": [
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "utensils": [
+          "Metal pot with rice",
+          "Metal spoon",
+          "Metal flat lid",
+          "Pink and white checkered towel"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=59s",
+        "ingredients": [
+          "Sliced onions"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring onions with the ladle",
+          "Cooking onions until they turn brown"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large metal pot or pan"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Milk"
+        ],
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle",
+          "White spatula or spoon"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.655
+      }
+    ]
+  },
+  {
+    "title": "Repeat layers",
+    "description": "Repeat the layering with the remaining mutton, rice, and toppings, finishing with rice on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.857
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.829
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.786
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "ingredients": [
+          "Potatoes",
+          "Spices (including cinnamon sticks)",
+          "Cheese (Khoa)",
+          "Rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "utensils": [
+          "Ladle",
+          "Large cooking pot",
+          "Spoon (gloved hand)"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "ingredients": [
+          "Bay leaf",
+          "Cloves",
+          "Cinnamon stick",
+          "Cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large pot"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.713
+      }
+    ]
+  },
+  {
+    "title": "Seal the pot",
+    "description": "Cover the pot with a tight lid or seal it with dough to trap the steam.",
+    "aligned_chunks": [
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Milk"
+        ],
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle",
+          "White spatula or spoon"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "ingredients": [
+          "Fried onions (or caramelized onions)",
+          "Beaten eggs"
+        ],
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Metal mixing bowl",
+          "Slotted spoon",
+          "Bowl for beaten eggs",
+          "Spoon to pour eggs"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.679
+      }
+    ]
+  },
+  {
+    "title": "Dum cook the biryani",
+    "description": "Place the sealed pot over a low flame or a griddle and cook for 30–40 minutes to allow flavors to meld.",
+    "aligned_chunks": [
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.64
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.627
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "ingredients": [
+          "Fried onions (or caramelized onions)",
+          "Beaten eggs"
+        ],
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Metal mixing bowl",
+          "Slotted spoon",
+          "Bowl for beaten eggs",
+          "Spoon to pour eggs"
+        ],
+        "confidence": 0.627
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.619
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.618
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.615
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Milk"
+        ],
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle",
+          "White spatula or spoon"
+        ],
+        "confidence": 0.605
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.603
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.603
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.591
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.582
+      }
+    ]
+  },
+  {
+    "title": "Rest the biryani",
+    "description": "Turn off the heat and let the biryani rest, covered, for 10 minutes before opening.",
+    "aligned_chunks": [
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "ingredients": [
+          "Biryani masala",
+          "Dried onion slices",
+          "Yogurt"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "White plastic spoon"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "ingredients": [
+          "Potatoes",
+          "Chicken (pieces)",
+          "Garlic/ginger paste",
+          "Biryani masala",
+          "Knods/Khoya (white crumbled ingredient)"
+        ],
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "utensils": [
+          "Large metal pot"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "ingredients": [
+          "Yogurt",
+          "Biryani Masala",
+          "Red Chilli Powder"
+        ],
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "utensils": [
+          "Blender jar"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "ingredients": [
+          "Red chili powder",
+          "Yellow food color",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Measuring spoon"
+        ],
+        "confidence": 0.737
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.681
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.655
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.636
+      }
+    ]
+  },
+  {
+    "title": "Serve",
+    "description": "Serve hot with boiled eggs, raita, or salad.",
+    "aligned_chunks": [
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Boiled eggs",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "utensils": [
+          "Metal spoon",
+          "Pressure cooker (or cooking pot)",
+          "Serving plate",
+          "Ladle (used for scooping rice)"
+        ],
+        "confidence": 0.811
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "ingredients": [
+          "Chickpeas",
+          "Hard-boiled eggs",
+          "Yellow rice (likely seasoned with turmeric or saffron)"
+        ],
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Serving spoon",
+          "Round tray or plate"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "ingredients": [
+          "Fried onions (or caramelized onions)",
+          "Beaten eggs"
+        ],
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Metal mixing bowl",
+          "Slotted spoon",
+          "Bowl for beaten eggs",
+          "Spoon to pour eggs"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Milk"
+        ],
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle",
+          "White spatula or spoon"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce or broth",
+          "Possible spices in the broth (not clearly visible)"
+        ],
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "utensils": [
+          "Ladle with holes",
+          "Metal strainer",
+          "Glass bowl"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=249s",
+        "ingredients": [
+          "Boiled noodles",
+          "Chicken pieces"
+        ],
+        "actions": [
+          "Straining noodles",
+          "Picking up chicken pieces"
+        ],
+        "utensils": [
+          "Strainer",
+          "Plate",
+          "Bowl",
+          "Gloved hand"
+        ],
+        "confidence": 0.736
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "ingredients": [
+          "Orange liquid (possibly a sauce or puree)",
+          "Residue left in the strainer"
+        ],
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Spoon with orange handle"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "ingredients": [
+          "Red liquid (likely a tomato-based mixture or sauce)"
+        ],
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Glass bowl"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.716
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "ingredients": [
+          "Peeled potatoes",
+          "Liquid (potato starch or water)"
+        ],
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "utensils": [
+          "Metal sieve",
+          "Red bowl",
+          "White bowl"
+        ],
+        "confidence": 0.712
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "ingredients": [
+          "Cherry tomatoes",
+          "Garlic cloves",
+          "Spices (various seeds and peppercorns)",
+          "Fresh basil leaves",
+          "Oil (in a container)",
+          "Spaghetti"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "ingredients": [
+          "Ginger garlic paste",
+          "Water",
+          "Cashew nuts",
+          "Vegetables (onions, carrots, and other vegetables visible in the background)"
+        ],
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "utensils": [
+          "Red saucepan",
+          "Measuring cup",
+          "Spoon"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "ingredients": [
+          "Lemon juice",
+          "Cooking oil",
+          "Salt"
+        ],
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Measuring spoons"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "ingredients": [
+          "Liquid substance (likely a mixture or puree)",
+          "Vegetables (appearing as lemons and a cucumber)"
+        ],
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "utensils": [
+          "Red pot",
+          "Metal strainer",
+          "Ladle",
+          "Plate"
+        ],
+        "confidence": 0.663
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil",
+          "Thinly sliced onions"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "utensils": [
+          "White bowl",
+          "Metal pot (pressure cooker)",
+          "Measuring cup"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "ingredients": [
+          "Rice",
+          "A yellow-colored mixture (likely a combination of spices and oil)"
+        ],
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "utensils": [
+          "Large perforated ladle"
+        ],
+        "confidence": 0.66
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "ingredients": [
+          "shredded yellow and white cheese"
+        ],
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "utensils": [
+          "metal strainer",
+          "large bowl",
+          "pink and gray checkered cloth"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "ingredients": [
+          "Water",
+          "Potatoes",
+          "Spices (in the pot, including visible bay leaves and possibly cumin seeds)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Red measuring cup",
+          "Spatula",
+          "White bowl"
+        ],
+        "confidence": 0.648
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "ingredients": [
+          "Tomato puree or sauce",
+          "Ground spices (red and brown)",
+          "Salt",
+          "Oil or butter"
+        ],
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "Metal bowl or pot",
+          "Metal spoon",
+          "Mixing spoon"
+        ],
+        "confidence": 0.643
+      }
+    ]
+  }
+]

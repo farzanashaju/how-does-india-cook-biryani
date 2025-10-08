@@ -1,0 +1,5805 @@
+[
+  {
+    "audio_timestamp": "00:00:07,979 --> 00:00:18,509",
+    "audio_description": "You.",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:00:32,566 --> 00:00:42,201",
+    "audio_description": "Assalamu Alaikum! Hello everyone! Welcome to Taste of Chennai. Today we are going to see how to make the famous Ambur Mutton Biriyani at home.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=50s",
+        "actions": [
+          "No cooking actions are shown in the video frames."
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=440s",
+        "actions": [
+          "Lifting the pot lid with a pot holder"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.704
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:43,719 --> 00:01:09,117",
+    "audio_description": "I have taken Jeera Samba rice to make Ambur Mutton Biriyani. If you want, you can use Basmati rice too, but traditionally Jeera Samba rice is used. I’ve taken about 600 grams. You can adjust the quantity of mutton based on how much rice you’re using. I’ve taken 800 grams of mutton for 600 grams of rice. Take 100 grams of ginger garlic paste—that’s about 4-5 tablespoons.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=40s",
+        "actions": [
+          "Displaying ingredients (showing rice)"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=50s",
+        "actions": [
+          "No cooking actions are shown in the video frames."
+        ],
+        "confidence_score": 0.461
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=140s",
+        "actions": [
+          "Stirring onions",
+          "Adding bay leaves",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=150s",
+        "actions": [
+          "Adding ginger garlic paste",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=160s",
+        "actions": [
+          "Adding ginger garlic paste to the pan",
+          "Stirring the ginger garlic paste",
+          "Adding red chili paste to the pan"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.51
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.481
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.495
+      },
+      {
+        "timestamp": "480-490",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=480s",
+        "actions": [
+          "Stirring curry",
+          "Adding soaked rice to the pan"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=490s",
+        "actions": [
+          "Adding soaked rice to the pan",
+          "Stirring curry (or spiced liquid)"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "540-550",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=540s",
+        "actions": [
+          "Stirring rice"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.452
+      },
+      {
+        "timestamp": "600-610",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=600s",
+        "actions": [
+          "None (the video frames show a still image of the plated dish)"
+        ],
+        "confidence_score": 0.442
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "620-621",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=620s",
+        "actions": [
+          "No distinct cooking actions are visible."
+        ],
+        "confidence_score": 0.488
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:11,311 --> 00:01:40,724",
+    "audio_description": "I’ve taken around 20 red chillies. Soak them in hot water for a while and grind into a fine paste. Use around 20 chillies for the rice quantity I mentioned—you’ll get the right level of spice. If you take fewer, it won’t be spicy enough. If you like it spicy, you can use around 25. I’m adding 3 tablespoons of ghee to the pan, followed by about half a cup of oil.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=0s",
+        "actions": [
+          "Scraping the pan",
+          "Adding meat pieces",
+          "Sprinkling salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=40s",
+        "actions": [
+          "Displaying ingredients (showing rice)"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=50s",
+        "actions": [
+          "No cooking actions are shown in the video frames."
+        ],
+        "confidence_score": 0.463
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=70s",
+        "actions": [
+          "Placing red chillies in a bowl",
+          "Pouring water over red chillies"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=80s",
+        "actions": [
+          "None observed (no actions being performed)"
+        ],
+        "confidence_score": 0.354
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=90s",
+        "actions": [
+          "Pouring ghee into the pan",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=100s",
+        "actions": [
+          "Pouring ghee into the pot",
+          "Pouring oil into the pot",
+          "Showing spices to the camera"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=140s",
+        "actions": [
+          "Stirring onions",
+          "Adding bay leaves",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=150s",
+        "actions": [
+          "Adding ginger garlic paste",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=160s",
+        "actions": [
+          "Adding ginger garlic paste to the pan",
+          "Stirring the ginger garlic paste",
+          "Adding red chili paste to the pan"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=200s",
+        "actions": [
+          "Scraping the pan",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=230s",
+        "actions": [
+          "Adding salt to meat in the pan"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=250s",
+        "actions": [
+          "Stirring chicken",
+          "Mixing sauce with chicken"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=260s",
+        "actions": [
+          "Adding sliced onions to the wok",
+          "Stirring the contents in the wok"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.564
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=280s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pan"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=300s",
+        "actions": [
+          "Adding curd to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=360s",
+        "actions": [
+          "Placing a lid on the pan",
+          "Covering the pan",
+          "Stirring the curry (implied by the previous action of having used tongs)"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=430s",
+        "actions": [
+          "Adding water to the saucepan",
+          "Stirring the contents of the saucepan",
+          "Covering the saucepan with a lid"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "470-480",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=470s",
+        "actions": [
+          "Cooking curry on a stove",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "480-490",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=480s",
+        "actions": [
+          "Stirring curry",
+          "Adding soaked rice to the pan"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=490s",
+        "actions": [
+          "Adding soaked rice to the pan",
+          "Stirring curry (or spiced liquid)"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=510s",
+        "actions": [
+          "Placing lid on pan",
+          "Removing lid from pan",
+          "Stirring curry",
+          "Adding a white powder (likely flour or spice) to the curry"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "540-550",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=540s",
+        "actions": [
+          "Stirring rice"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.444
+      },
+      {
+        "timestamp": "600-610",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=600s",
+        "actions": [
+          "None (the video frames show a still image of the plated dish)"
+        ],
+        "confidence_score": 0.443
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "620-621",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=620s",
+        "actions": [
+          "No distinct cooking actions are visible."
+        ],
+        "confidence_score": 0.506
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:44,334 --> 00:02:04,450",
+    "audio_description": "Once the oil is hot, add 2 pieces of cinnamon, 10 cardamoms, and 10 cloves. I’ve taken 350 grams of onion—slice and keep them aside. We will be adding the onions in two batches. Let’s add a bit first and the remaining half later.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=0s",
+        "actions": [
+          "Scraping the pan",
+          "Adding meat pieces",
+          "Sprinkling salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=90s",
+        "actions": [
+          "Pouring ghee into the pan",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=100s",
+        "actions": [
+          "Pouring ghee into the pot",
+          "Pouring oil into the pot",
+          "Showing spices to the camera"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=140s",
+        "actions": [
+          "Stirring onions",
+          "Adding bay leaves",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=150s",
+        "actions": [
+          "Adding ginger garlic paste",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=200s",
+        "actions": [
+          "Scraping the pan",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=250s",
+        "actions": [
+          "Stirring chicken",
+          "Mixing sauce with chicken"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=260s",
+        "actions": [
+          "Adding sliced onions to the wok",
+          "Stirring the contents in the wok"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=300s",
+        "actions": [
+          "Adding curd to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "450-460",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=450s",
+        "actions": [
+          "Stirring curry",
+          "Adding ingredients to the pan",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.658
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:06,626 --> 00:02:27,872",
+    "audio_description": "Sauté the onions for a while. You don’t need to sauté them too much like in other biriyanis—just until they turn a light pink. Once it’s sautéed to that level, add the ginger garlic paste and fry until the raw smell goes away.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=0s",
+        "actions": [
+          "Scraping the pan",
+          "Adding meat pieces",
+          "Sprinkling salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=140s",
+        "actions": [
+          "Stirring onions",
+          "Adding bay leaves",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=150s",
+        "actions": [
+          "Adding ginger garlic paste",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=160s",
+        "actions": [
+          "Adding ginger garlic paste to the pan",
+          "Stirring the ginger garlic paste",
+          "Adding red chili paste to the pan"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=260s",
+        "actions": [
+          "Adding sliced onions to the wok",
+          "Stirring the contents in the wok"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.512
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=440s",
+        "actions": [
+          "Lifting the pot lid with a pot holder"
+        ],
+        "confidence_score": 0.512
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.514
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.497
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.545
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:36,530 --> 00:02:57,082",
+    "audio_description": "After the ginger garlic paste is cooked, add the red chilli paste we prepared. Fry well until the oil separates.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=0s",
+        "actions": [
+          "Scraping the pan",
+          "Adding meat pieces",
+          "Sprinkling salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.81
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=70s",
+        "actions": [
+          "Placing red chillies in a bowl",
+          "Pouring water over red chillies"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=80s",
+        "actions": [
+          "None observed (no actions being performed)"
+        ],
+        "confidence_score": 0.457
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=90s",
+        "actions": [
+          "Pouring ghee into the pan",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=100s",
+        "actions": [
+          "Pouring ghee into the pot",
+          "Pouring oil into the pot",
+          "Showing spices to the camera"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=140s",
+        "actions": [
+          "Stirring onions",
+          "Adding bay leaves",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.81
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=150s",
+        "actions": [
+          "Adding ginger garlic paste",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.81
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=160s",
+        "actions": [
+          "Adding ginger garlic paste to the pan",
+          "Stirring the ginger garlic paste",
+          "Adding red chili paste to the pan"
+        ],
+        "confidence_score": 0.816
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.794
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=200s",
+        "actions": [
+          "Scraping the pan",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=260s",
+        "actions": [
+          "Adding sliced onions to the wok",
+          "Stirring the contents in the wok"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "540-550",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=540s",
+        "actions": [
+          "Stirring rice"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "600-610",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=600s",
+        "actions": [
+          "None (the video frames show a still image of the plated dish)"
+        ],
+        "confidence_score": 0.562
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:58,163 --> 00:03:09,014",
+    "audio_description": "Frying it in oil like this gives the biriyani a natural color. If you don’t want to use red chilli paste, you can use red chilli powder instead. Both will work well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=0s",
+        "actions": [
+          "Scraping the pan",
+          "Adding meat pieces",
+          "Sprinkling salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.496
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=70s",
+        "actions": [
+          "Placing red chillies in a bowl",
+          "Pouring water over red chillies"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=80s",
+        "actions": [
+          "None observed (no actions being performed)"
+        ],
+        "confidence_score": 0.366
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=90s",
+        "actions": [
+          "Pouring ghee into the pan",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=100s",
+        "actions": [
+          "Pouring ghee into the pot",
+          "Pouring oil into the pot",
+          "Showing spices to the camera"
+        ],
+        "confidence_score": 0.518
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.522
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=140s",
+        "actions": [
+          "Stirring onions",
+          "Adding bay leaves",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=150s",
+        "actions": [
+          "Adding ginger garlic paste",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=160s",
+        "actions": [
+          "Adding ginger garlic paste to the pan",
+          "Stirring the ginger garlic paste",
+          "Adding red chili paste to the pan"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=200s",
+        "actions": [
+          "Scraping the pan",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.522
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.525
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=260s",
+        "actions": [
+          "Adding sliced onions to the wok",
+          "Stirring the contents in the wok"
+        ],
+        "confidence_score": 0.51
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.518
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.486
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.527
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.478
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.461
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.528
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:29,415 --> 00:03:52,703",
+    "audio_description": "At this stage, add the mutton and fry it for 10 minutes. You can also add pressure-cooked mutton directly. Now add salt as needed for the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=0s",
+        "actions": [
+          "Scraping the pan",
+          "Adding meat pieces",
+          "Sprinkling salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=40s",
+        "actions": [
+          "Displaying ingredients (showing rice)"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=50s",
+        "actions": [
+          "No cooking actions are shown in the video frames."
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=230s",
+        "actions": [
+          "Adding salt to meat in the pan"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "480-490",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=480s",
+        "actions": [
+          "Stirring curry",
+          "Adding soaked rice to the pan"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=490s",
+        "actions": [
+          "Adding soaked rice to the pan",
+          "Stirring curry (or spiced liquid)"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "540-550",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=540s",
+        "actions": [
+          "Stirring rice"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.509
+      },
+      {
+        "timestamp": "600-610",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=600s",
+        "actions": [
+          "None (the video frames show a still image of the plated dish)"
+        ],
+        "confidence_score": 0.514
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "620-621",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=620s",
+        "actions": [
+          "No distinct cooking actions are visible."
+        ],
+        "confidence_score": 0.538
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:17,560 --> 00:04:40,122",
+    "audio_description": "At this stage, add the remaining onions and mix well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.872
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.88
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.876
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=140s",
+        "actions": [
+          "Stirring onions",
+          "Adding bay leaves",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.876
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=150s",
+        "actions": [
+          "Adding ginger garlic paste",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.799
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.854
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=260s",
+        "actions": [
+          "Adding sliced onions to the wok",
+          "Stirring the contents in the wok"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.88
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.813
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.816
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.788
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.775
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:53,790 --> 00:04:59,697",
+    "audio_description": "Now I’m adding half a cup of thick curd.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.862
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.908
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=300s",
+        "actions": [
+          "Adding curd to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.897
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.797
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.811
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.809
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:03,730 --> 00:05:24,216",
+    "audio_description": "Mix it well. We’ve used very few ingredients in this biriyani, so it's easier to make compared to other biriyanis. In other types, each ingredient must be cooked thoroughly. That’s not the case here—just add them one by one and it comes together quickly. The biriyani will be ready in about an hour.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=440s",
+        "actions": [
+          "Lifting the pot lid with a pot holder"
+        ],
+        "confidence_score": 0.478
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "540-550",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=540s",
+        "actions": [
+          "Stirring rice"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.442
+      },
+      {
+        "timestamp": "600-610",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=600s",
+        "actions": [
+          "None (the video frames show a still image of the plated dish)"
+        ],
+        "confidence_score": 0.476
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.566
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:25,617 --> 00:05:50,017",
+    "audio_description": "Next, add the tomatoes. I’ve taken 300 grams. Mix well and wait until they are mashed. Along with this, add half a cup of mint and coriander leaves. Mix everything well and let it cook.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=40s",
+        "actions": [
+          "Displaying ingredients (showing rice)"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=140s",
+        "actions": [
+          "Stirring onions",
+          "Adding bay leaves",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=150s",
+        "actions": [
+          "Adding ginger garlic paste",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=300s",
+        "actions": [
+          "Adding curd to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=330s",
+        "actions": [
+          "Adding tomatoes to the pan",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.823
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=360s",
+        "actions": [
+          "Placing a lid on the pan",
+          "Covering the pan",
+          "Stirring the curry (implied by the previous action of having used tongs)"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=440s",
+        "actions": [
+          "Lifting the pot lid with a pot holder"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=510s",
+        "actions": [
+          "Placing lid on pan",
+          "Removing lid from pan",
+          "Stirring curry",
+          "Adding a white powder (likely flour or spice) to the curry"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.666
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:00,312 --> 00:06:28,408",
+    "audio_description": "Cover and cook for 10 minutes. The tomato must mash well and oil should separate—wait till that happens. Stir occasionally to prevent sticking. After the oil has separated, add the juice of half a lemon.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=90s",
+        "actions": [
+          "Pouring ghee into the pan",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=100s",
+        "actions": [
+          "Pouring ghee into the pot",
+          "Pouring oil into the pot",
+          "Showing spices to the camera"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=180s",
+        "actions": [
+          "Adding tomato paste or sauce to the pan",
+          "Stirring the mixture with a spatula",
+          "Cooking and mixing the ingredients together"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=200s",
+        "actions": [
+          "Scraping the pan",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=390s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.521
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.469
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.531
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:43,124 --> 00:07:10,192",
+    "audio_description": "Now let’s measure the water. Use hot water since the mutton is raw—it will cook faster. Add 2 cups of water for every 1 cup of rice. I’ve taken 3 cups of rice, so that’s 6 cups of water, plus 3 cups extra for cooking the mutton—total 9 cups. Add water as you normally do for rice, with 3 extra cups for the mutton.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=40s",
+        "actions": [
+          "Displaying ingredients (showing rice)"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=50s",
+        "actions": [
+          "No cooking actions are shown in the video frames."
+        ],
+        "confidence_score": 0.489
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=70s",
+        "actions": [
+          "Placing red chillies in a bowl",
+          "Pouring water over red chillies"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=90s",
+        "actions": [
+          "Pouring ghee into the pan",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=100s",
+        "actions": [
+          "Pouring ghee into the pot",
+          "Pouring oil into the pot",
+          "Showing spices to the camera"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=200s",
+        "actions": [
+          "Scraping the pan",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=300s",
+        "actions": [
+          "Adding curd to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.521
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=390s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=430s",
+        "actions": [
+          "Adding water to the saucepan",
+          "Stirring the contents of the saucepan",
+          "Covering the saucepan with a lid"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.531
+      },
+      {
+        "timestamp": "480-490",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=480s",
+        "actions": [
+          "Stirring curry",
+          "Adding soaked rice to the pan"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=490s",
+        "actions": [
+          "Adding soaked rice to the pan",
+          "Stirring curry (or spiced liquid)"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=510s",
+        "actions": [
+          "Placing lid on pan",
+          "Removing lid from pan",
+          "Stirring curry",
+          "Adding a white powder (likely flour or spice) to the curry"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "540-550",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=540s",
+        "actions": [
+          "Stirring rice"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.446
+      },
+      {
+        "timestamp": "600-610",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=600s",
+        "actions": [
+          "None (the video frames show a still image of the plated dish)"
+        ],
+        "confidence_score": 0.461
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "620-621",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=620s",
+        "actions": [
+          "No distinct cooking actions are visible."
+        ],
+        "confidence_score": 0.505
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:10,461 --> 00:07:35,504",
+    "audio_description": "If the mutton is good quality, it will cook in 30 minutes. Now let’s mix it and close the lid. We’ll check after half an hour. It’s been 20 minutes—let’s open it and check a piece.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=50s",
+        "actions": [
+          "No cooking actions are shown in the video frames."
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=360s",
+        "actions": [
+          "Placing a lid on the pan",
+          "Covering the pan",
+          "Stirring the curry (implied by the previous action of having used tongs)"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=430s",
+        "actions": [
+          "Adding water to the saucepan",
+          "Stirring the contents of the saucepan",
+          "Covering the saucepan with a lid"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=440s",
+        "actions": [
+          "Lifting the pot lid with a pot holder"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=510s",
+        "actions": [
+          "Placing lid on pan",
+          "Removing lid from pan",
+          "Stirring curry",
+          "Adding a white powder (likely flour or spice) to the curry"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.679
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:36,937 --> 00:08:01,980",
+    "audio_description": "The mutton is only 50% cooked, it needs more time. Let’s close the lid and wait 15 more minutes. Check again—if it's cooked well, then we can add the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=40s",
+        "actions": [
+          "Displaying ingredients (showing rice)"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=50s",
+        "actions": [
+          "No cooking actions are shown in the video frames."
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=360s",
+        "actions": [
+          "Placing a lid on the pan",
+          "Covering the pan",
+          "Stirring the curry (implied by the previous action of having used tongs)"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=430s",
+        "actions": [
+          "Adding water to the saucepan",
+          "Stirring the contents of the saucepan",
+          "Covering the saucepan with a lid"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=440s",
+        "actions": [
+          "Lifting the pot lid with a pot holder"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "480-490",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=480s",
+        "actions": [
+          "Stirring curry",
+          "Adding soaked rice to the pan"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=490s",
+        "actions": [
+          "Adding soaked rice to the pan",
+          "Stirring curry (or spiced liquid)"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=510s",
+        "actions": [
+          "Placing lid on pan",
+          "Removing lid from pan",
+          "Stirring curry",
+          "Adding a white powder (likely flour or spice) to the curry"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "540-550",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=540s",
+        "actions": [
+          "Stirring rice"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "550-560",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=550s",
+        "actions": [
+          "Mixing rice and eggs",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "600-610",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=600s",
+        "actions": [
+          "None (the video frames show a still image of the plated dish)"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "620-621",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=620s",
+        "actions": [
+          "No distinct cooking actions are visible."
+        ],
+        "confidence_score": 0.657
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:08:12,511 --> 00:08:35,647",
+    "audio_description": "Mix it well and close the lid. Keep the flame at medium. I’ll open it after 10 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=360s",
+        "actions": [
+          "Placing a lid on the pan",
+          "Covering the pan",
+          "Stirring the curry (implied by the previous action of having used tongs)"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=380s",
+        "actions": [
+          "Pouring lemon juice into the curry",
+          "Placing a lid on the pan",
+          "Stirring the curry with a ladle"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=430s",
+        "actions": [
+          "Adding water to the saucepan",
+          "Stirring the contents of the saucepan",
+          "Covering the saucepan with a lid"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=440s",
+        "actions": [
+          "Lifting the pot lid with a pot holder"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=510s",
+        "actions": [
+          "Placing lid on pan",
+          "Removing lid from pan",
+          "Stirring curry",
+          "Adding a white powder (likely flour or spice) to the curry"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.672
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:08:38,043 --> 00:09:02,544",
+    "audio_description": "Once the water has dried out well, we’ll place it on dum (steam cook). I added a little ghee on top. I placed an old dosa stone below and left it on dum for 10 to 15 minutes, then turned off the heat. After switching off, let it rest for 10 minutes. Now the hot and delicious Ambur Mutton Biriyani is ready!",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.521
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=50s",
+        "actions": [
+          "No cooking actions are shown in the video frames."
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=60s",
+        "actions": [
+          "Measuring mutton",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=70s",
+        "actions": [
+          "Placing red chillies in a bowl",
+          "Pouring water over red chillies"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=90s",
+        "actions": [
+          "Pouring ghee into the pan",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=100s",
+        "actions": [
+          "Pouring ghee into the pot",
+          "Pouring oil into the pot",
+          "Showing spices to the camera"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=110s",
+        "actions": [
+          "Adding cinnamon sticks to the pot",
+          "Adding cardamom to the pot",
+          "Adding cloves to the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.509
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=210s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton in the pan"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=220s",
+        "actions": [
+          "Adding mutton to the pan",
+          "Stirring mutton with a spatula"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.524
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.516
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=430s",
+        "actions": [
+          "Adding water to the saucepan",
+          "Stirring the contents of the saucepan",
+          "Covering the saucepan with a lid"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.458
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.564
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:09:14,240 --> 00:09:16,230",
+    "audio_description": "Now let’s serve it hot.",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:09:26,018 --> 00:09:44,293",
+    "audio_description": "It looks very yummy and amazing. Try making biriyani in different ways—everyone at home will definitely love it. When you make this biriyani, the aroma will fill the whole house. The taste is excellent—try it and let me know how it turned out!",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.566
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:09:44,293 --> 00:10:03,851",
+    "audio_description": "I hope you all liked this video. If you did, please like and share it with your friends and family. There are more interesting recipes like this coming on our channel. If you want to keep watching them, don’t forget to subscribe to our channel, Taste of Chennai. I’ll see you in another exciting video tomorrow. Thank you so much for watching.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=10s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Stirring the mixture in the pot",
+          "Adding sliced tomatoes to the pot",
+          "Adding fresh cilantro to the pot"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=20s",
+        "actions": [
+          "Pouring rice into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=30s",
+        "actions": [
+          "Stirring rice and meat",
+          "Serving the fried rice on a plate with boiled egg"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=40s",
+        "actions": [
+          "Displaying ingredients (showing rice)"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=120s",
+        "actions": [
+          "Adding onions to the pan",
+          "Spreading onions in the pan",
+          "Stirring onions"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=130s",
+        "actions": [
+          "Stirring onions",
+          "Frying spices",
+          "Mixing the contents in the pan"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=170s",
+        "actions": [
+          "Adding red chili paste to the pan",
+          "Stirring spices and onions in the pan"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=190s",
+        "actions": [
+          "Stirring tomato mixture",
+          "Scraping the sides of the pan to gather mixture",
+          "Cooking the tomato-based mixture"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=240s",
+        "actions": [
+          "Adding salt to chicken",
+          "Stirring chicken with a spatula"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=270s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring the mixture with a wooden spatula"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=290s",
+        "actions": [
+          "Mixing meat and onions in sauce",
+          "Adding curd to the dish"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=310s",
+        "actions": [
+          "Adding white sauce or paste to the curry",
+          "Stirring curry with the black spatula",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.794
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=320s",
+        "actions": [
+          "Stirring meat",
+          "Adding sliced tomatoes to the pan"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=340s",
+        "actions": [
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the curry to mix the ingredients"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=350s",
+        "actions": [
+          "Mixing the curry",
+          "Stirring the ingredients together"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=370s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=400s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to the pan"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=410s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=420s",
+        "actions": [
+          "Boiling the mixture",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=440s",
+        "actions": [
+          "Lifting the pot lid with a pot holder"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "460-470",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=460s",
+        "actions": [
+          "Placing the pot cover on the pan",
+          "Stirring the contents in the pan with a spatula"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=500s",
+        "actions": [
+          "Stirring curry"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=510s",
+        "actions": [
+          "Placing lid on pan",
+          "Removing lid from pan",
+          "Stirring curry",
+          "Adding a white powder (likely flour or spice) to the curry"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=520s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Stirring the rice and spices",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=530s",
+        "actions": [
+          "Removing lid from pot",
+          "Displaying cooked rice"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "560-570",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=560s",
+        "actions": [
+          "Scooping rice onto a plate",
+          "Piling rice into a heap on the plate"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "570-580",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=570s",
+        "actions": [
+          "Serving rice and meat onto a plate",
+          "Piling rice and meat together"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "580-590",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=580s",
+        "actions": [
+          "Placing boiled egg on rice"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "590-600",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=590s",
+        "actions": [
+          "Slicing/peeling egg (implied, not directly observed in these frames)"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "610-620",
+        "url": "https://www.youtube.com/watch?v=aF-NYduPBaA&t=610s",
+        "actions": [
+          "Served rice",
+          "Placed meat on rice",
+          "Added hard-boiled egg to the dish"
+        ],
+        "confidence_score": 0.746
+      }
+    ]
+  }
+]

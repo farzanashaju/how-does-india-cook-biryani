@@ -1,0 +1,2061 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:24,769",
+    "audio_description": "Hello Foodies, Welcome to Wish My Food. Today’s recipe is…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.784
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:24,769 --> 00:00:49,441",
+    "audio_description": "First, take a pan...",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "confidence_score": 0.864
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=30s",
+        "actions": [
+          "Adding black cardamom",
+          "Adding cumin seeds",
+          "Adding fennel seeds",
+          "Stirring spices",
+          "Roasting spices on low flame"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "confidence_score": 0.807
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "confidence_score": 0.879
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=120s",
+        "actions": [
+          "Adding tofu to the pan",
+          "Stirring tofu with a spatula",
+          "Cooking on high flame"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "confidence_score": 0.861
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "confidence_score": 0.862
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.79
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:49,441 --> 00:01:12,322",
+    "audio_description": "Now, slowly add ghee into the biryani handi. To the melted ghee, add a couple of cloves, a piece of cinnamon, one mace, one black cardamom, two green cardamoms, one bay leaf, and a teaspoon of shahi jeera.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=30s",
+        "actions": [
+          "Adding black cardamom",
+          "Adding cumin seeds",
+          "Adding fennel seeds",
+          "Stirring spices",
+          "Roasting spices on low flame"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=60s",
+        "actions": [
+          "Adding green cardamoms to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Stirring the spices in the pot",
+          "Adding onion slices to the pot",
+          "Stirring the onions in the pot",
+          "Frying onions until light golden"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=120s",
+        "actions": [
+          "Adding tofu to the pan",
+          "Stirring tofu with a spatula",
+          "Cooking on high flame"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=150s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and chilies in a small metal bowl",
+          "Covering the saucepan with the glass lid",
+          "Simmering the mixture for 3 minutes"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=180s",
+        "actions": [
+          "Adding garlic cloves to the pot",
+          "Adding green cardamom to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding slitted green chilies to the pot",
+          "Adding salt to the pot",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.603
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:13,183 --> 00:01:41,736",
+    "audio_description": "Once the color starts to change slightly, add 1 tablespoon of ginger-garlic paste. After frying that, grind and add your special masala powder. Pour a little water so the masalas don’t burn.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.588
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:43,272 --> 00:02:00,906",
+    "audio_description": "You’ll see the ghee floating over the curd-based masala — just like this. Now, add the paste of 6-7 green chilies. This biryani gets its spice only from green chilies, not red chili powder.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=60s",
+        "actions": [
+          "Adding green cardamoms to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Stirring the spices in the pot",
+          "Adding onion slices to the pot",
+          "Stirring the onions in the pot",
+          "Frying onions until light golden"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=150s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and chilies in a small metal bowl",
+          "Covering the saucepan with the glass lid",
+          "Simmering the mixture for 3 minutes"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=180s",
+        "actions": [
+          "Adding garlic cloves to the pot",
+          "Adding green cardamom to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding slitted green chilies to the pot",
+          "Adding salt to the pot",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.495
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.509
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:00,906 --> 00:02:19,772",
+    "audio_description": "Add some water, then drop in the paneer cubes. Boil them for a few minutes so all the flavors get absorbed. Some people think there’s no importance to marination — that's okay, but this method enhances the flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=110s",
+        "actions": [
+          "Sauteing mixture",
+          "Adding paneer cubes"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.516
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.519
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:19,772 --> 00:02:46,080",
+    "audio_description": "Boil for just 3 minutes on high flame — no more. Then reduce to a simmer. Add 1 cup of fried brown onions to the handi. You can also use store-bought fried onions if needed.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.504
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=60s",
+        "actions": [
+          "Adding green cardamoms to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Stirring the spices in the pot",
+          "Adding onion slices to the pot",
+          "Stirring the onions in the pot",
+          "Frying onions until light golden"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.514
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.551
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:46,317 --> 00:03:14,902",
+    "audio_description": "After 2–3 minutes, remove the onions and set them aside. Now, add 2 liters of water and bring it to a boil. While boiling, add 3-inch cinnamon stick, 2 black cardamoms, half a teaspoon of…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=30s",
+        "actions": [
+          "Adding black cardamom",
+          "Adding cumin seeds",
+          "Adding fennel seeds",
+          "Stirring spices",
+          "Roasting spices on low flame"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=60s",
+        "actions": [
+          "Adding green cardamoms to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Stirring the spices in the pot",
+          "Adding onion slices to the pot",
+          "Stirring the onions in the pot",
+          "Frying onions until light golden"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=120s",
+        "actions": [
+          "Adding tofu to the pan",
+          "Stirring tofu with a spatula",
+          "Cooking on high flame"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=150s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and chilies in a small metal bowl",
+          "Covering the saucepan with the glass lid",
+          "Simmering the mixture for 3 minutes"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.547
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:14,902 --> 00:03:28,402",
+    "audio_description": "Salt… a little more salt… sea salt.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "confidence_score": 0.876
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=90s",
+        "actions": [
+          "Adding salt",
+          "Adding curd",
+          "Whisking curd into the mixture",
+          "Sautéing well to combine curd"
+        ],
+        "confidence_score": 0.876
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=180s",
+        "actions": [
+          "Adding garlic cloves to the pot",
+          "Adding green cardamom to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding slitted green chilies to the pot",
+          "Adding salt to the pot",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.844
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.721
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:28,741 --> 00:03:45,008",
+    "audio_description": "After boiling well for 5–6 minutes, add 2 cups of soaked basmati rice. Cook on high flame only till it's 80% done. 80% means the rice should be almost fully cooked, but still firm.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.564
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:45,008 --> 00:04:01,900",
+    "audio_description": "At 80% done, stop boiling. Strain the rice…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "confidence_score": 0.803
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.821
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "confidence_score": 0.825
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.833
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "confidence_score": 0.826
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.749
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:02,338 --> 00:04:31,415",
+    "audio_description": "Layer the rice over the paneer masala. Now cover with a lid tightly. Cook on high flame for 4 minutes, then on low flame for 5 minutes. Then turn off the stove and let it rest for 30 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=110s",
+        "actions": [
+          "Sauteing mixture",
+          "Adding paneer cubes"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=150s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and chilies in a small metal bowl",
+          "Covering the saucepan with the glass lid",
+          "Simmering the mixture for 3 minutes"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "confidence_score": 0.603
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:31,499 --> 00:04:53,959",
+    "audio_description": "Just look at how good it turned out! The taste is on the next level — very mild and flavorful. If you want more spice, serve with spicy mirchi ka salan. Did you like it? Then like, share, and...",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.622
+      }
+    ]
+  }
+]

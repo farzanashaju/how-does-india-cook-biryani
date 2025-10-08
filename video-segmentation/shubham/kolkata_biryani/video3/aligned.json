@@ -1,0 +1,2258 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:19,167",
+    "audio_description": "Today I’m sharing a Kolkata-style biryani recipe with you, which includes potatoes and eggs. It’s quite light, with a perfect blend of spices—not too heavy—so you can easily enjoy a full plate. It’s also very easy to make.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=70s",
+        "actions": [
+          "Adding sliced onion to oil",
+          "Stirring onions",
+          "Cooking onions until they turn golden"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=210s",
+        "actions": [
+          "Covering the pot with aluminum foil",
+          "Placing the glass lid on the foil-covered pot",
+          "Adjusting the foil over the pot",
+          "Covering the pot with the foil for cooking"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.685
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:19,167 --> 00:00:47,045",
+    "audio_description": "First, we’ve taken 600 grams of chicken. Then we added 4 to 5 teaspoons of yogurt, 1 to 2 teaspoons of ginger-garlic-green chili paste, fried onions, salt, Kashmiri red chili, turmeric powder, biryani masala, and 2 teaspoons of kewra water.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.61
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:47,045 --> 00:01:02,536",
+    "audio_description": "In a cooker or pot, add ghee. Then add soaked potatoes and hard-boiled eggs. Add a pinch of turmeric powder and fry them for 3 minutes. We had cut the potatoes in half, and the eggs are hard-boiled.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=210s",
+        "actions": [
+          "Covering the pot with aluminum foil",
+          "Placing the glass lid on the foil-covered pot",
+          "Adjusting the foil over the pot",
+          "Covering the pot with the foil for cooking"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.657
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:02,536 --> 00:01:24,254",
+    "audio_description": "Take out the eggs. We fried the potatoes until golden and crisp and set them aside. In the leftover oil, we added chopped onions. Mix and cook until golden. The onions must be well browned.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.819
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=70s",
+        "actions": [
+          "Adding sliced onion to oil",
+          "Stirring onions",
+          "Cooking onions until they turn golden"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.68
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:24,254 --> 00:01:45,549",
+    "audio_description": "Add the chicken and mix it well. Cook it on medium flame for about 5 minutes. After that, we added the fried potatoes. Cook them for another 5 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.674
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:45,549 --> 00:02:10,323",
+    "audio_description": "The most special part of Kolkata chicken biryani is the potatoes and eggs—so don’t skip them. After cooking the potatoes like this, we added water—just enough to submerge the chicken. Mix it well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.603
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:10,323 --> 00:02:26,894",
+    "audio_description": "Take the gravy out into a bowl. Add saffron milk to it and mix. This yakhni is now ready—it’s essential for biryani. To prepare the rice, we added salt and whole spices to boiling water.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=130s",
+        "actions": [
+          "Scooping gravy into a bowl",
+          "Adding saffron milk to the gravy",
+          "Mixing the gravy and saffron milk with a spoon"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=210s",
+        "actions": [
+          "Covering the pot with aluminum foil",
+          "Placing the glass lid on the foil-covered pot",
+          "Adjusting the foil over the pot",
+          "Covering the pot with the foil for cooking"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.592
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:26,894 --> 00:02:52,038",
+    "audio_description": "Mix well. Note: Kolkata-style biryani doesn’t use whole spices, so after boiling we’ll remove them. Then add the soaked rice—we used 2 cups—and cook it to 70%, then strain and set it aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.57
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:52,038 --> 00:03:13,216",
+    "audio_description": "Add about a spoonful of kewra water—it gives a great flavor. Then add the prepared yakhni and layer the rice well. Spread the rice evenly. Then again add kewra water and—",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "confidence_score": 0.834
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=210s",
+        "actions": [
+          "Covering the pot with aluminum foil",
+          "Placing the glass lid on the foil-covered pot",
+          "Adjusting the foil over the pot",
+          "Covering the pot with the foil for cooking"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.625
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:13,216 --> 00:03:30,800",
+    "audio_description": "—it adds a wonderful aroma. Please try this chicken recipe at least once; you’ll love it. We've layered the yakhni. Then we top it with fried onions and ghee. Now we’ll seal it—",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=210s",
+        "actions": [
+          "Covering the pot with aluminum foil",
+          "Placing the glass lid on the foil-covered pot",
+          "Adjusting the foil over the pot",
+          "Covering the pot with the foil for cooking"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.611
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:30,800 --> 00:03:56,905",
+    "audio_description": "Cover it well, and cook on medium flame for 15 to 20 minutes. After that, our biryani is perfectly ready. Just look—it’s perfect chicken biryani. The rice is so fluffy and well-separated.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.527
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "confidence_score": 0.539
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:56,905 --> 00:04:01,342",
+    "audio_description": "If you’re not subscribed to the channel, don’t forget to subscribe. See you in the next video—bye!",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "confidence_score": 0.7
+      }
+    ]
+  }
+]

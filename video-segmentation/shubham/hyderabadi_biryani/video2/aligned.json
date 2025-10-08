@@ -1,0 +1,1317 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:18,408",
+    "audio_description": "Hello Foodies, Welcome to Wish My Food. The most awaited recipe is Hyderabadi Chicken Dum Biryani. Let's see how to prepare this. If you follow this as it is, you will get the perfect restaurant style biryani taste every time. This is a very tasty biryani. Let's start.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "confidence_score": 0.493
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=120s",
+        "actions": [
+          "Cooking sauce (boiling)",
+          "Adding cheese to the pan",
+          "Stirring sauce"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "confidence_score": 0.524
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "confidence_score": 0.482
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:24,567 --> 00:00:53,557",
+    "audio_description": "Take 500 grams of chicken. To this, add 1 tsp shahi jeera (caraway seeds), 1 tsp freshly crushed ginger garlic paste, 1/4 cup fried onions, and 1/2 cup chopped coriander.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=100s",
+        "actions": [
+          "Adding cardamom pods to the water",
+          "Adding a cinnamon stick to the water",
+          "Adding cloves to the water",
+          "Adding cumin seeds to the water",
+          "Adding ginger garlic paste to the water",
+          "Adding a bay leaf to the water"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "confidence_score": 0.549
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:56,426 --> 00:01:26,414",
+    "audio_description": "Now add 1 tbsp red chili powder, 1 tsp cumin powder, 1/2 tsp turmeric, 1 tsp garam masala, 1 tsp coriander powder, and salt. Mix everything well. Then add 1/4 cup yogurt and mix thoroughly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.809
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=100s",
+        "actions": [
+          "Adding cardamom pods to the water",
+          "Adding a cinnamon stick to the water",
+          "Adding cloves to the water",
+          "Adding cumin seeds to the water",
+          "Adding ginger garlic paste to the water",
+          "Adding a bay leaf to the water"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=160s",
+        "actions": [
+          "Pouring saffron milk into the rice",
+          "Covering the rice with tissue napkins",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "confidence_score": 0.64
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:26,617 --> 00:01:54,308",
+    "audio_description": "Take half a biryani leaf (bay leaf), 4-5 cardamoms, and a small cinnamon stick and massage everything well into the chicken. Now refrigerate this for one hour. Meanwhile, boil 2 liters of water. To this add 5–6 cloves...",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=100s",
+        "actions": [
+          "Adding cardamom pods to the water",
+          "Adding a cinnamon stick to the water",
+          "Adding cloves to the water",
+          "Adding cumin seeds to the water",
+          "Adding ginger garlic paste to the water",
+          "Adding a bay leaf to the water"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=120s",
+        "actions": [
+          "Cooking sauce (boiling)",
+          "Adding cheese to the pan",
+          "Stirring sauce"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "confidence_score": 0.533
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "confidence_score": 0.485
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:55,978 --> 00:02:20,194",
+    "audio_description": "Soak 1.5 cups of basmati rice in water. (Repeated words in original seem like a speech glitch or stutter, so translated just once.)",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=120s",
+        "actions": [
+          "Cooking sauce (boiling)",
+          "Adding cheese to the pan",
+          "Stirring sauce"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "confidence_score": 0.642
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:25,712 --> 00:02:53,894",
+    "audio_description": "In the rice, add 2 tbsp chopped mint, two pinches of garam masala powder, 3 tbsp ghee, and 3 tbsp fried onions. Add 1 tbsp of the hot water that was soaked with saffron.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=100s",
+        "actions": [
+          "Adding cardamom pods to the water",
+          "Adding a cinnamon stick to the water",
+          "Adding cloves to the water",
+          "Adding cumin seeds to the water",
+          "Adding ginger garlic paste to the water",
+          "Adding a bay leaf to the water"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "confidence_score": 0.775
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "confidence_score": 0.815
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=160s",
+        "actions": [
+          "Pouring saffron milk into the rice",
+          "Covering the rice with tissue napkins",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "confidence_score": 0.603
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:54,028 --> 00:03:17,872",
+    "audio_description": "Now turn off the stove and let it sit for 15 to 25 minutes before serving. That’s when the perfect flavor develops. Did you see? That’s the perfect Hyderabadi Chicken Dum Biryani!",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "confidence_score": 0.504
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "confidence_score": 0.522
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:25,770 --> 00:03:27,526",
+    "audio_description": "Ba ba ba ba",
+    "aligned_chunks": []
+  }
+]

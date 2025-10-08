@@ -1,0 +1,2839 @@
+[
+  {
+    "audio_timestamp": "00:00:00,824 --> 00:00:29,460",
+    "audio_description": "Hello and welcome back to my YouTube channel. Today on Khana Khazana, I’ll be making a very yummy dish — Beef Biryani. You can make this anytime — on Eid, Bakrid, or any festival. You can also make this biryani with mutton, i.e., goat meat.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=40s",
+        "actions": [
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.504
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.711
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:30,304 --> 00:00:57,152",
+    "audio_description": "So first, we’ll prepare the yakhni (broth). I’ve added the meat into a pressure cooker — it’s 1 kg of beef. I’ve also added two glasses of water. To tenderize the meat, I’ve added 1 teaspoon of salt and 1 teaspoon of cumin seeds.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=40s",
+        "actions": [
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=120s",
+        "actions": [
+          "Pouring green chili peppers into the pressure cooker",
+          "Adding sesame seeds into the pressure cooker",
+          "Adding ginger garlic paste into the pressure cooker"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.528
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.615
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:00,527 --> 00:01:17,858",
+    "audio_description": "And 4 to 5 green cardamoms, 2 teaspoons of fennel seeds — fennel gives a very nice flavor. In Lucknow, fennel is always added to biryani. Also adding 4 to 5 bay leaves.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.483
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.509
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=40s",
+        "actions": [
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.428
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=120s",
+        "actions": [
+          "Pouring green chili peppers into the pressure cooker",
+          "Adding sesame seeds into the pressure cooker",
+          "Adding ginger garlic paste into the pressure cooker"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "confidence_score": 0.523
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.508
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.525
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.508
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "confidence_score": 0.491
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.481
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.422
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.531
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.522
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.637
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:19,022 --> 00:01:35,881",
+    "audio_description": "Now we’ll give it a light mix, then I’ll close the lid of the pressure cooker. We’ll cook this on low flame until it gives 7 to 8 whistles. As you can see, the broth is done after 7 whistles on low flame — the meat is nicely tender.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=40s",
+        "actions": [
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=120s",
+        "actions": [
+          "Pouring green chili peppers into the pressure cooker",
+          "Adding sesame seeds into the pressure cooker",
+          "Adding ginger garlic paste into the pressure cooker"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.506
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.496
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:38,816 --> 00:02:05,277",
+    "audio_description": "And our yakhni is ready. I’ve set it aside. Meanwhile, let’s start the next process. I’ve taken a large pot and added 2 tablespoons of mustard oil. Now I’m adding one medium-sized chopped onion.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=100s",
+        "actions": [
+          "Adding oil to the pot",
+          "Placing chopped onions into the pot",
+          "Stirring onions with oil"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=110s",
+        "actions": [
+          "Adding onion rings to oil",
+          "Stirring onion rings in oil"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.674
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:08,500 --> 00:02:34,909",
+    "audio_description": "Adding 2 tablespoons of crushed ginger-garlic paste. I’ll cook the paste well with the onions. Make sure to sauté it properly so that the oil separates from the masala. Then we’ll add the meat.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=40s",
+        "actions": [
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=100s",
+        "actions": [
+          "Adding oil to the pot",
+          "Placing chopped onions into the pot",
+          "Stirring onions with oil"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=110s",
+        "actions": [
+          "Adding onion rings to oil",
+          "Stirring onion rings in oil"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=120s",
+        "actions": [
+          "Pouring green chili peppers into the pressure cooker",
+          "Adding sesame seeds into the pressure cooker",
+          "Adding ginger garlic paste into the pressure cooker"
+        ],
+        "confidence_score": 0.803
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.627
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:36,444 --> 00:03:00,778",
+    "audio_description": "So I’m directly adding the meat pieces from the yakhni into this. Do not add the whole spices from the yakhni, just the meat. I’ve also added the water from the yakhni. So now both the meat and broth have been added to the pot.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=40s",
+        "actions": [
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=100s",
+        "actions": [
+          "Adding oil to the pot",
+          "Placing chopped onions into the pot",
+          "Stirring onions with oil"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.679
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:02,331 --> 00:03:21,198",
+    "audio_description": "Now we’ll add salt here. About 2 teaspoons of salt is perfect — I’ve added a full 2 teaspoons. You can also taste and adjust it later, after adding the rice. Now I’m adding half a chopped lemon.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.52
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=100s",
+        "actions": [
+          "Adding oil to the pot",
+          "Placing chopped onions into the pot",
+          "Stirring onions with oil"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.468
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.569
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:23,897 --> 00:03:53,108",
+    "audio_description": "Give this a gentle mix. You can also add juice of half a lemon if you prefer. I’ve added the half lemon here. Now I’m adding the rice — two glasses of raw rice. Since we’re making it like a pulao-style biryani…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=40s",
+        "actions": [
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.736
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:53,479 --> 00:04:18,774",
+    "audio_description": "… and we had one glass of broth from the yakhni, the total water added to the rice is three glasses for two glasses of rice. The rice had been soaked for half an hour. I’ve stirred it gently so it doesn't break.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=110s",
+        "actions": [
+          "Adding onion rings to oil",
+          "Stirring onion rings in oil"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.635
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:20,007 --> 00:04:41,557",
+    "audio_description": "Now I’ve mixed a pinch of red food color in a bit of water. I’m adding 2 to 4 drops of kewra water. If you’re using the larger bottle of kewra, just add 1 teaspoon.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.514
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.593
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:41,557 --> 00:05:10,750",
+    "audio_description": "After placing on dum (slow cooking), the rice has become perfectly soft, the color is well absorbed, and the fragrance of the kewra essence has blended beautifully. Now I’m going to serve it. I’ve turned off the flame — and this delicious biryani is ready.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=100s",
+        "actions": [
+          "Adding oil to the pot",
+          "Placing chopped onions into the pot",
+          "Stirring onions with oil"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "confidence_score": 0.709
+      }
+    ]
+  }
+]

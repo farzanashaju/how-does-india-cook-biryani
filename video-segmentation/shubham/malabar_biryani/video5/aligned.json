@@ -1,0 +1,4183 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:25,478",
+    "audio_description": "Today we’ll see a superb Kerala-style mutton biryani recipe. In this Malabar-style biryani, first the mutton is well cooked with a gravy, then the rice is fried, and finally both are layered and cooked on dum to make a delicious mutton biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.495
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.527
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.527
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.487
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:25,748 --> 00:00:55,634",
+    "audio_description": "Let’s see how tasty Malabar biryani is made. First, we take a pressure cooker and add 750 grams of mutton. Then we add whole spices, pepper powder, garam masala, and salt. Mix everything well and cook the mutton.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.522
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=39s",
+        "actions": [
+          "Mixing meat and spices",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=49s",
+        "actions": [
+          "Pouring water into the pot",
+          "Closing the lid of the pressure cooker"
+        ],
+        "confidence_score": 0.5
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=109s",
+        "actions": [
+          "Adding coriander and mint leaves",
+          "Pouring curd into the pot",
+          "Sprinkling salt over the mixture"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=119s",
+        "actions": [
+          "Adding salt",
+          "Adding garam masala",
+          "Adding pepper powder",
+          "Mixing the contents"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.533
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:56,679 --> 00:01:23,174",
+    "audio_description": "We also prepare a gravy like a yakhni base. For that, take a pot, add oil and ghee. Once it heats up, add onions and sauté until they turn soft.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=39s",
+        "actions": [
+          "Mixing meat and spices",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=59s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Pouring ghee into the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=79s",
+        "actions": [
+          "Frying onions",
+          "Adding ginger garlic green chilli paste to the pot"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=109s",
+        "actions": [
+          "Adding coriander and mint leaves",
+          "Pouring curd into the pot",
+          "Sprinkling salt over the mixture"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=119s",
+        "actions": [
+          "Adding salt",
+          "Adding garam masala",
+          "Adding pepper powder",
+          "Mixing the contents"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=139s",
+        "actions": [
+          "Cooking tomatoes",
+          "Stirring curry"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Squeezing lemon juice into the pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=239s",
+        "actions": [
+          "Pouring ghee",
+          "Pouring oil",
+          "Adding onion slices to the pot"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=249s",
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot",
+          "Adding cumin seeds to the pot",
+          "Stirring cumin seeds with onions"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.571
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:27,712 --> 00:01:56,197",
+    "audio_description": "We sauté this well for a couple of minutes. Then add tomatoes, some fresh coriander leaves, mint leaves, and curd. Also add a little salt.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=39s",
+        "actions": [
+          "Mixing meat and spices",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=49s",
+        "actions": [
+          "Pouring water into the pot",
+          "Closing the lid of the pressure cooker"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=109s",
+        "actions": [
+          "Adding coriander and mint leaves",
+          "Pouring curd into the pot",
+          "Sprinkling salt over the mixture"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=119s",
+        "actions": [
+          "Adding salt",
+          "Adding garam masala",
+          "Adding pepper powder",
+          "Mixing the contents"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=139s",
+        "actions": [
+          "Cooking tomatoes",
+          "Stirring curry"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Squeezing lemon juice into the pot"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.612
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:58,391 --> 00:02:26,793",
+    "audio_description": "Add garam masala and some pepper powder. Mix well. Cook the tomatoes until they soften completely. After cooking for a couple of minutes, the tomatoes become soft and the gravy thickens.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=119s",
+        "actions": [
+          "Adding salt",
+          "Adding garam masala",
+          "Adding pepper powder",
+          "Mixing the contents"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=139s",
+        "actions": [
+          "Cooking tomatoes",
+          "Stirring curry"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Squeezing lemon juice into the pot"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=239s",
+        "actions": [
+          "Pouring ghee",
+          "Pouring oil",
+          "Adding onion slices to the pot"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.553
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:29,002 --> 00:02:56,763",
+    "audio_description": "While the gravy is cooking, the mutton will also be done. Release the pressure and add the mutton to the gravy. Squeeze in half a lemon for tanginess. Mix the cooked mutton into the gravy.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=49s",
+        "actions": [
+          "Pouring water into the pot",
+          "Closing the lid of the pressure cooker"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=119s",
+        "actions": [
+          "Adding salt",
+          "Adding garam masala",
+          "Adding pepper powder",
+          "Mixing the contents"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Squeezing lemon juice into the pot"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=239s",
+        "actions": [
+          "Pouring ghee",
+          "Pouring oil",
+          "Adding onion slices to the pot"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.6
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:57,926 --> 00:03:25,146",
+    "audio_description": "The mutton is already nicely tender. We won’t cook it further, just simmer it in the gravy for a couple of minutes. Then, we’ll prepare the rice. Mix the mutton in the gravy once again before that.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.641
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:26,479 --> 00:03:56,264",
+    "audio_description": "We had fried some onions earlier for garnish, so now we’ll add those birista onions. Since we pressure-cooked the mutton earlier, it’s already soft. We won’t cook it more, just mix and let it rest.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=79s",
+        "actions": [
+          "Frying onions",
+          "Adding ginger garlic green chilli paste to the pot"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.622
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:56,585 --> 00:04:20,040",
+    "audio_description": "To prepare the rice, heat a pot, add ghee and oil, then add half an onion and sauté well. Add cumin seeds, and now add the jeerakasala rice (small-grain aromatic rice), about half a kilogram.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=39s",
+        "actions": [
+          "Mixing meat and spices",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=59s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Pouring ghee into the pot"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=79s",
+        "actions": [
+          "Frying onions",
+          "Adding ginger garlic green chilli paste to the pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=89s",
+        "actions": [
+          "Adding ginger garlic green chili paste to the wok",
+          "Stirring the paste with onions",
+          "Frying the mixture for 2 minutes"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=109s",
+        "actions": [
+          "Adding coriander and mint leaves",
+          "Pouring curd into the pot",
+          "Sprinkling salt over the mixture"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=119s",
+        "actions": [
+          "Adding salt",
+          "Adding garam masala",
+          "Adding pepper powder",
+          "Mixing the contents"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=139s",
+        "actions": [
+          "Cooking tomatoes",
+          "Stirring curry"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Squeezing lemon juice into the pot"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=239s",
+        "actions": [
+          "Pouring ghee",
+          "Pouring oil",
+          "Adding onion slices to the pot"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=249s",
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot",
+          "Adding cumin seeds to the pot",
+          "Stirring cumin seeds with onions"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.632
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:21,408 --> 00:04:50,180",
+    "audio_description": "Add the rice and sauté it for 2–3 minutes. In Malabar biryani, the rice is also lightly fried first. After frying for 2–3 minutes, add hot water to cook the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=49s",
+        "actions": [
+          "Pouring water into the pot",
+          "Closing the lid of the pressure cooker"
+        ],
+        "confidence_score": 0.493
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=279s",
+        "actions": [
+          "Adding hot water to the bowl"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.538
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:52,069 --> 00:05:18,579",
+    "audio_description": "Now we’ve added hot water along with some coriander leaves, mint leaves, and a couple of green chilies. Cook the rice fully, 100%. As you can see, the rice is nicely cooked now.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=39s",
+        "actions": [
+          "Mixing meat and spices",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=49s",
+        "actions": [
+          "Pouring water into the pot",
+          "Closing the lid of the pressure cooker"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=79s",
+        "actions": [
+          "Frying onions",
+          "Adding ginger garlic green chilli paste to the pot"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=89s",
+        "actions": [
+          "Adding ginger garlic green chili paste to the wok",
+          "Stirring the paste with onions",
+          "Frying the mixture for 2 minutes"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.819
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=109s",
+        "actions": [
+          "Adding coriander and mint leaves",
+          "Pouring curd into the pot",
+          "Sprinkling salt over the mixture"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=119s",
+        "actions": [
+          "Adding salt",
+          "Adding garam masala",
+          "Adding pepper powder",
+          "Mixing the contents"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=139s",
+        "actions": [
+          "Cooking tomatoes",
+          "Stirring curry"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Squeezing lemon juice into the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=279s",
+        "actions": [
+          "Adding hot water to the bowl"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.797
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.797
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.671
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:19,930 --> 00:05:46,846",
+    "audio_description": "Once the rice is fully cooked, layer it over the mutton gravy. Top it with fried onions, coriander and mint leaves for garnish, and add a few dry fruits like cashews and raisins.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=39s",
+        "actions": [
+          "Mixing meat and spices",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=49s",
+        "actions": [
+          "Pouring water into the pot",
+          "Closing the lid of the pressure cooker"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=79s",
+        "actions": [
+          "Frying onions",
+          "Adding ginger garlic green chilli paste to the pot"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=109s",
+        "actions": [
+          "Adding coriander and mint leaves",
+          "Pouring curd into the pot",
+          "Sprinkling salt over the mixture"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=119s",
+        "actions": [
+          "Adding salt",
+          "Adding garam masala",
+          "Adding pepper powder",
+          "Mixing the contents"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=139s",
+        "actions": [
+          "Cooking tomatoes",
+          "Stirring curry"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.607
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:48,026 --> 00:06:07,535",
+    "audio_description": "After 5 minutes of dum cooking, a superb Malabar mutton biryani will be ready. It tastes absolutely amazing, especially when made with jeerakasala rice. The yakhni is also prepared differently, giving it a unique taste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=69s",
+        "actions": [
+          "Adding sliced onion to the pot",
+          "Stirring the sliced onion",
+          "Frying the onion until soft"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=99s",
+        "actions": [
+          "Stirring the mixture",
+          "Adding tomatoes to the pot",
+          "Adding fresh coriander and mint leaves to the pot"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=129s",
+        "actions": [
+          "Mixing ingredients",
+          "Covering the pot",
+          "Cooking until tomatoes are soft"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=189s",
+        "actions": [
+          "Mixing curry",
+          "Stirring mixture",
+          "Cooking in a pot"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=239s",
+        "actions": [
+          "Pouring ghee",
+          "Pouring oil",
+          "Adding onion slices to the pot"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.532
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:08,615 --> 00:06:36,357",
+    "audio_description": "It’s really enjoyable to eat. The mutton is super soft. And since we first fried the rice and then cooked and layered it on the yakhni and gave it a dum, the rice has absorbed all the flavors perfectly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=0s",
+        "actions": [
+          "Mixing rice with nuts and spices",
+          "Serving rice onto a plate",
+          "Adding grated coconut to the rice"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=29s",
+        "actions": [
+          "Adding mutton to the pressure cooker",
+          "Adding pepper powder to the mutton",
+          "Adding garam masala to the mutton",
+          "Adding salt to the mutton"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=179s",
+        "actions": [
+          "Adding cooked meat to the pot",
+          "Stirring the mixture",
+          "Mixing the meat with masala"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=229s",
+        "actions": [
+          "Checking mutton for doneness",
+          "Closing the pot lid",
+          "Adding ghee"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=259s",
+        "actions": [
+          "Stirring onions",
+          "Adding jeera rice to the pot",
+          "Mixing and frying rice"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=269s",
+        "actions": [
+          "Mixing rice",
+          "Frying rice"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=289s",
+        "actions": [
+          "Mixing rice",
+          "Adding fresh mint leaves",
+          "Adding fresh coriander leaves"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=299s",
+        "actions": [
+          "Adding fresh mint leaves to the pot",
+          "Adding coriander leaves to the pot",
+          "Adding green chili to the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=339s",
+        "actions": [
+          "Adding rice to the bowl",
+          "Stirring the rice",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=349s",
+        "actions": [
+          "Adding fresh coriander to rice",
+          "Adding fried onions to rice",
+          "Adding fried dry fruits to rice",
+          "Placing a lid on the pot"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=359s",
+        "actions": [
+          "Cooking on Dum",
+          "Removing the lid to reveal the cooked rice",
+          "Stirring the rice"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=369s",
+        "actions": [
+          "Scraping rice onto a plate with a ladle",
+          "Serving rice onto a plate"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.65
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:36,778 --> 00:06:44,677",
+    "audio_description": "Don’t forget to subscribe to our channel and hit the bell icon. See you again with another recipe. Till then, take care and bye!",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=9s",
+        "actions": [
+          "Scooping rice with the spoon."
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=19s",
+        "actions": [
+          "Serving rice",
+          "Holding a piece of mutton with onions",
+          "Cooking mutton in a pan"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=149s",
+        "actions": [
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=169s",
+        "actions": [
+          "Stirring curry",
+          "Adding cooked mutton to the pot"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=199s",
+        "actions": [
+          "Mixing curry",
+          "Adding fried onions to the curry mixture"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=209s",
+        "actions": [
+          "Adding fried onions to the curry",
+          "Stirring the curry with a spoon"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=219s",
+        "actions": [
+          "Stirring the curry with a ladle",
+          "Checking the cooking mutton with a ladle"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=309s",
+        "actions": [
+          "Adding water to the pot",
+          "Covering the pot",
+          "Stirring rice",
+          "Removing the lid to check the rice"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=319s",
+        "actions": [
+          "Cooking rice",
+          "Placing the metal lid on the pot",
+          "Adding cooked rice to the gravy",
+          "Stirring the rice and gravy together"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=329s",
+        "actions": [
+          "Mixing rice and vegetables/meat",
+          "Adding fresh coriander to the rice",
+          "Adding fried onions to the rice",
+          "Adding another layer of rice"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=379s",
+        "actions": [
+          "Scooping rice and beans"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "389-399",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=389s",
+        "actions": [
+          "Scooping rice",
+          "Holding rice and meat mixture"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "399-406",
+        "url": "https://www.youtube.com/watch?v=yV3JAFDqR0c&t=399s",
+        "actions": [
+          "Holding and displaying rice",
+          "Squeezing and manipulating rice into a ball"
+        ],
+        "confidence_score": 0.728
+      }
+    ]
+  }
+]

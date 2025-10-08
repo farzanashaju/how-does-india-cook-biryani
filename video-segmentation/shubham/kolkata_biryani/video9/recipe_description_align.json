@@ -1,0 +1,5045 @@
+[
+  {
+    "title": "Prepare the marinade",
+    "description": "In a large bowl, mix yogurt, ginger paste, garlic paste, biryani masala, salt, and a pinch of sugar until well combined.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "ingredients": [
+          "Ginger garlic paste"
+        ],
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "utensils": [
+          "A red saucepan"
+        ],
+        "confidence": 0.824
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.737
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.737
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "ingredients": [
+          "Yogurt (1/2 cup)",
+          "Yellow potatoes",
+          "Red sauce (likely tomato-based)"
+        ],
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Baking tray"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.497
+      }
+    ]
+  },
+  {
+    "title": "Marinate the mutton",
+    "description": "Add the mutton to the marinade and coat evenly. Cover and refrigerate for at least 4 hours, preferably overnight.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.569
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.401
+      }
+    ]
+  },
+  {
+    "title": "Prep the potatoes",
+    "description": "Peel the potatoes, cut them in half, and rub them with salt and turmeric.",
+    "aligned_chunks": [
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.841
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.831
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.831
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "ingredients": [
+          "Yellow potatoes",
+          "Red curry or sauce"
+        ],
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Colander or strainer",
+          "Pot"
+        ],
+        "confidence": 0.828
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil"
+        ],
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "utensils": [
+          "Bowl",
+          "Pot",
+          "Measuring cup"
+        ],
+        "confidence": 0.825
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "ingredients": [
+          "Cooking oil",
+          "Chopped potatoes"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Cooking measuring cup",
+          "Slotted spoon"
+        ],
+        "confidence": 0.825
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.823
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "ingredients": [
+          "Mashed potatoes"
+        ],
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Red bowl",
+          "Measuring cup",
+          "Metal mixing bowl"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "ingredients": [
+          "Yellow boiled potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "utensils": [
+          "Metal slotted spoon",
+          "Large white cooking pot"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "ingredients": [
+          "Red chilli powder",
+          "Yellow food color",
+          "Boiled potatoes",
+          "Sauteed onions"
+        ],
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Small spoon for measuring spices",
+          "Bowl for holding potatoes"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "ingredients": [
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Slotted spoon"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle or gravy dish"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "ingredients": [
+          "White rice",
+          "Yellow-colored seasoning (possibly turmeric)",
+          "Butter/clarified butter"
+        ],
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large metal pot/pan",
+          "Metal cover/lid"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "ingredients": [
+          "Yogurt (1/2 cup)",
+          "Yellow potatoes",
+          "Red sauce (likely tomato-based)"
+        ],
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Baking tray"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "ingredients": [
+          "Water",
+          "Bay leaves",
+          "Green chilies",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Star anise",
+          "Yellow spice (likely turmeric)"
+        ],
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Ladle",
+          "Rubber gloves"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.599
+      }
+    ]
+  },
+  {
+    "title": "Fry the potatoes",
+    "description": "Heat mustard oil in a pan and shallow fry the potatoes until golden on all sides. Set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.736
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "ingredients": [
+          "Yellow boiled potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "utensils": [
+          "Metal slotted spoon",
+          "Large white cooking pot"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil"
+        ],
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "utensils": [
+          "Bowl",
+          "Pot",
+          "Measuring cup"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "ingredients": [
+          "Cooking oil",
+          "Chopped potatoes"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Cooking measuring cup",
+          "Slotted spoon"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle or gravy dish"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.717
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "ingredients": [
+          "Red chilli powder",
+          "Yellow food color",
+          "Boiled potatoes",
+          "Sauteed onions"
+        ],
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Small spoon for measuring spices",
+          "Bowl for holding potatoes"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "ingredients": [
+          "Yellow potatoes",
+          "Red curry or sauce"
+        ],
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Colander or strainer",
+          "Pot"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "ingredients": [
+          "Mashed potatoes"
+        ],
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Red bowl",
+          "Measuring cup",
+          "Metal mixing bowl"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "ingredients": [
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Slotted spoon"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.661
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.63
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "ingredients": [
+          "Yogurt (1/2 cup)",
+          "Yellow potatoes",
+          "Red sauce (likely tomato-based)"
+        ],
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Baking tray"
+        ],
+        "confidence": 0.618
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.476
+      }
+    ]
+  },
+  {
+    "title": "Slice the onions",
+    "description": "Thinly slice the onions for frying.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.844
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "ingredients": [
+          "Red chilli powder",
+          "Yellow food color",
+          "Boiled potatoes",
+          "Sauteed onions"
+        ],
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Small spoon for measuring spices",
+          "Bowl for holding potatoes"
+        ],
+        "confidence": 0.777
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.641
+      }
+    ]
+  },
+  {
+    "title": "Fry the onions (beresta)",
+    "description": "Deep fry the sliced onions in hot oil until golden brown and crisp. Drain on paper towels and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.777
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil"
+        ],
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "utensils": [
+          "Bowl",
+          "Pot",
+          "Measuring cup"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "ingredients": [
+          "Cooking oil",
+          "Chopped potatoes"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Cooking measuring cup",
+          "Slotted spoon"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.703
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "ingredients": [
+          "Red chilli powder",
+          "Yellow food color",
+          "Boiled potatoes",
+          "Sauteed onions"
+        ],
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Small spoon for measuring spices",
+          "Bowl for holding potatoes"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.488
+      }
+    ]
+  },
+  {
+    "title": "Heat whole spices",
+    "description": "In a large heavy-bottom pot, heat mustard oil and add bay leaves, cloves, cardamoms, cinnamon, mace, and nutmeg.",
+    "aligned_chunks": [
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=160s",
+        "ingredients": [
+          "Bay leaves",
+          "Star anise",
+          "Green chilies",
+          "Black cardamom"
+        ],
+        "actions": [
+          "Placing spices in a pot",
+          "Adding ingredients to the pot"
+        ],
+        "utensils": [
+          "White plate",
+          "Metal cooking pot"
+        ],
+        "confidence": 0.774
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil"
+        ],
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "utensils": [
+          "Bowl",
+          "Pot",
+          "Measuring cup"
+        ],
+        "confidence": 0.764
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "ingredients": [
+          "Cooking oil",
+          "Chopped potatoes"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Cooking measuring cup",
+          "Slotted spoon"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "utensils": [
+          "Pot",
+          "Spoon"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "ingredients": [
+          "Water",
+          "Bay leaves",
+          "Green chilies",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Star anise",
+          "Yellow spice (likely turmeric)"
+        ],
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Ladle",
+          "Rubber gloves"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.688
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.517
+      }
+    ]
+  },
+  {
+    "title": "Cook the mutton",
+    "description": "Add the marinated mutton to the pot. Cook on medium-high heat until the meat starts to brown and the oil begins to separate.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil"
+        ],
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "utensils": [
+          "Bowl",
+          "Pot",
+          "Measuring cup"
+        ],
+        "confidence": 0.702
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "ingredients": [
+          "Cooking oil",
+          "Chopped potatoes"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Cooking measuring cup",
+          "Slotted spoon"
+        ],
+        "confidence": 0.702
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.648
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=230s",
+        "ingredients": [
+          "Marinated yellow fruit pieces",
+          "Orange-red sauce"
+        ],
+        "actions": [
+          "Transferring fruit pieces from the strainer to a bowl",
+          "Pouring orange-red sauce over fruit pieces"
+        ],
+        "utensils": [
+          "White bowl",
+          "Strainer",
+          "Rubber gloves"
+        ],
+        "confidence": 0.62
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.392
+      }
+    ]
+  },
+  {
+    "title": "Add fried potatoes to mutton",
+    "description": "Once the mutton is nearly tender, add the fried potatoes and cook together for a few minutes to absorb flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "ingredients": [
+          "Cooking oil",
+          "Chopped potatoes"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Cooking measuring cup",
+          "Slotted spoon"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "ingredients": [
+          "Yellow potatoes",
+          "Red curry or sauce"
+        ],
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Colander or strainer",
+          "Pot"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "ingredients": [
+          "Mashed potatoes"
+        ],
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Red bowl",
+          "Measuring cup",
+          "Metal mixing bowl"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil"
+        ],
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "utensils": [
+          "Bowl",
+          "Pot",
+          "Measuring cup"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "ingredients": [
+          "Yellow boiled potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "utensils": [
+          "Metal slotted spoon",
+          "Large white cooking pot"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "ingredients": [
+          "Red chilli powder",
+          "Yellow food color",
+          "Boiled potatoes",
+          "Sauteed onions"
+        ],
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Small spoon for measuring spices",
+          "Bowl for holding potatoes"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle or gravy dish"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "ingredients": [
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Slotted spoon"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "ingredients": [
+          "Yogurt (1/2 cup)",
+          "Yellow potatoes",
+          "Red sauce (likely tomato-based)"
+        ],
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Baking tray"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.533
+      }
+    ]
+  },
+  {
+    "title": "Soak saffron",
+    "description": "In a small bowl, soak saffron strands in warm milk for 10 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "ingredients": [
+          "Cooked white rice",
+          "Yellow rice flakes",
+          "Saffron strands"
+        ],
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "utensils": [
+          "Metal steamer lid",
+          "Stainless steel pot",
+          "Metal slotted spoon"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "ingredients": [
+          "Orange liquid (possibly tomato puree or curry base)",
+          "Milk"
+        ],
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon",
+          "Glass measuring cup"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.575
+      }
+    ]
+  },
+  {
+    "title": "Add aromatic waters",
+    "description": "Mix rose water and kewra water into the saffron milk. Set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "ingredients": [
+          "Water",
+          "Bay leaves",
+          "Green chilies",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Star anise",
+          "Yellow spice (likely turmeric)"
+        ],
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Ladle",
+          "Rubber gloves"
+        ],
+        "confidence": 0.79
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=20s",
+        "ingredients": [
+          "Water",
+          "Maida (flour)"
+        ],
+        "actions": [
+          "Adding water to the mixture",
+          "Mixing the contents with a wooden spoon",
+          "Pouring the mixture through a strainer",
+          "Scraping the mixture through the strainer with a spatula"
+        ],
+        "utensils": [
+          "Red mixing bowl",
+          "Wooden spoon",
+          "Strainer",
+          "Orange spatula"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "ingredients": [
+          "Orange liquid (possibly tomato puree or curry base)",
+          "Milk"
+        ],
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon",
+          "Glass measuring cup"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "ingredients": [
+          "Cooked white rice",
+          "Yellow rice flakes",
+          "Saffron strands"
+        ],
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "utensils": [
+          "Metal steamer lid",
+          "Stainless steel pot",
+          "Metal slotted spoon"
+        ],
+        "confidence": 0.737
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.565
+      }
+    ]
+  },
+  {
+    "title": "Parboil the rice",
+    "description": "Boil a large pot of water with salt and whole garam masalas. Add rinsed basmati rice and cook until 70% done. Drain immediately.",
+    "aligned_chunks": [
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "utensils": [
+          "Pot",
+          "Spoon"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.698
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "ingredients": [
+          "Water",
+          "Bay leaves",
+          "Green chilies",
+          "Cinnamon sticks",
+          "Cardamom pods",
+          "Star anise",
+          "Yellow spice (likely turmeric)"
+        ],
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Ladle",
+          "Rubber gloves"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "ingredients": [
+          "White rice",
+          "Yellow-colored seasoning (possibly turmeric)",
+          "Butter/clarified butter"
+        ],
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large metal pot/pan",
+          "Metal cover/lid"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.663
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.655
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.655
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.649
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=20s",
+        "ingredients": [
+          "Water",
+          "Maida (flour)"
+        ],
+        "actions": [
+          "Adding water to the mixture",
+          "Mixing the contents with a wooden spoon",
+          "Pouring the mixture through a strainer",
+          "Scraping the mixture through the strainer with a spatula"
+        ],
+        "utensils": [
+          "Red mixing bowl",
+          "Wooden spoon",
+          "Strainer",
+          "Orange spatula"
+        ],
+        "confidence": 0.643
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "ingredients": [
+          "Cooked white rice",
+          "Yellow rice flakes",
+          "Saffron strands"
+        ],
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "utensils": [
+          "Metal steamer lid",
+          "Stainless steel pot",
+          "Metal slotted spoon"
+        ],
+        "confidence": 0.621
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "ingredients": [
+          "Shredded cheese",
+          "Poha (flattened rice flakes)",
+          "Yellow food color"
+        ],
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Small glass jar"
+        ],
+        "confidence": 0.603
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "ingredients": [
+          "Yellow rice",
+          "Potato pieces"
+        ],
+        "actions": [
+          "None visible"
+        ],
+        "utensils": [
+          "None visible"
+        ],
+        "confidence": 0.5
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.466
+      }
+    ]
+  },
+  {
+    "title": "Grease the biryani pot",
+    "description": "Lightly grease the base of a heavy-bottomed pot with ghee.",
+    "aligned_chunks": [
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.859
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.794
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "ingredients": [
+          "Orange liquid (possibly tomato puree or curry base)",
+          "Milk"
+        ],
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon",
+          "Glass measuring cup"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.618
+      }
+    ]
+  },
+  {
+    "title": "First layer - mutton and potatoes",
+    "description": "Spread a layer of cooked mutton and potatoes at the bottom of the pot.",
+    "aligned_chunks": [
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "ingredients": [
+          "Yellow boiled potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "utensils": [
+          "Metal slotted spoon",
+          "Large white cooking pot"
+        ],
+        "confidence": 0.844
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "ingredients": [
+          "Cooking oil",
+          "Chopped potatoes"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Cooking measuring cup",
+          "Slotted spoon"
+        ],
+        "confidence": 0.841
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.831
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "ingredients": [
+          "Yellow potatoes",
+          "Red curry or sauce"
+        ],
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Colander or strainer",
+          "Pot"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "ingredients": [
+          "Red chilli powder",
+          "Yellow food color",
+          "Boiled potatoes",
+          "Sauteed onions"
+        ],
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Small spoon for measuring spices",
+          "Bowl for holding potatoes"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.825
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle or gravy dish"
+        ],
+        "confidence": 0.824
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.821
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil"
+        ],
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "utensils": [
+          "Bowl",
+          "Pot",
+          "Measuring cup"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "ingredients": [
+          "Mashed potatoes"
+        ],
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Red bowl",
+          "Measuring cup",
+          "Metal mixing bowl"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "ingredients": [
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Slotted spoon"
+        ],
+        "confidence": 0.794
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.79
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "ingredients": [
+          "Yogurt (1/2 cup)",
+          "Yellow potatoes",
+          "Red sauce (likely tomato-based)"
+        ],
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Baking tray"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.717
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "ingredients": [
+          "Cooked white rice",
+          "Yellow rice flakes",
+          "Saffron strands"
+        ],
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "utensils": [
+          "Metal steamer lid",
+          "Stainless steel pot",
+          "Metal slotted spoon"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.601
+      }
+    ]
+  },
+  {
+    "title": "Second layer - rice",
+    "description": "Add a layer of the parboiled rice over the mutton.",
+    "aligned_chunks": [
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.859
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "ingredients": [
+          "White rice",
+          "Yellow-colored seasoning (possibly turmeric)",
+          "Butter/clarified butter"
+        ],
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large metal pot/pan",
+          "Metal cover/lid"
+        ],
+        "confidence": 0.849
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.842
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.829
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.828
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.819
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "utensils": [
+          "Pot",
+          "Spoon"
+        ],
+        "confidence": 0.816
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.815
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "ingredients": [
+          "Cooked white rice",
+          "Yellow rice flakes",
+          "Saffron strands"
+        ],
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "utensils": [
+          "Metal steamer lid",
+          "Stainless steel pot",
+          "Metal slotted spoon"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "ingredients": [
+          "Shredded cheese",
+          "Poha (flattened rice flakes)",
+          "Yellow food color"
+        ],
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Small glass jar"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "ingredients": [
+          "Yellow rice",
+          "Potato pieces"
+        ],
+        "actions": [
+          "None visible"
+        ],
+        "utensils": [
+          "None visible"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.647
+      }
+    ]
+  },
+  {
+    "title": "Add toppings to layer",
+    "description": "Sprinkle fried onions, garam masala powder, a few drops of ghee, and a portion of the saffron milk mixture over the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.837
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.825
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.821
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "ingredients": [
+          "Red chilli powder",
+          "Yellow food color",
+          "Boiled potatoes",
+          "Sauteed onions"
+        ],
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Small spoon for measuring spices",
+          "Bowl for holding potatoes"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "ingredients": [
+          "Potatoes",
+          "Sliced onion",
+          "Water",
+          "Salt",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon",
+          "Wooden surface"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "ingredients": [
+          "White rice",
+          "Yellow-colored seasoning (possibly turmeric)",
+          "Butter/clarified butter"
+        ],
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large metal pot/pan",
+          "Metal cover/lid"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "ingredients": [
+          "Cooked white rice",
+          "Yellow rice flakes",
+          "Saffron strands"
+        ],
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "utensils": [
+          "Metal steamer lid",
+          "Stainless steel pot",
+          "Metal slotted spoon"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "utensils": [
+          "Pot",
+          "Spoon"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "ingredients": [
+          "Orange liquid (possibly tomato puree or curry base)",
+          "Milk"
+        ],
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon",
+          "Glass measuring cup"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "ingredients": [
+          "Shredded cheese",
+          "Poha (flattened rice flakes)",
+          "Yellow food color"
+        ],
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Small glass jar"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "ingredients": [
+          "Yellow rice",
+          "Potato pieces"
+        ],
+        "actions": [
+          "None visible"
+        ],
+        "utensils": [
+          "None visible"
+        ],
+        "confidence": 0.579
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.555
+      }
+    ]
+  },
+  {
+    "title": "Repeat layers",
+    "description": "Repeat the layering with the remaining mutton, rice, and toppings, finishing with rice on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.825
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "ingredients": [
+          "White rice",
+          "Yellow-colored seasoning (possibly turmeric)",
+          "Butter/clarified butter"
+        ],
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large metal pot/pan",
+          "Metal cover/lid"
+        ],
+        "confidence": 0.814
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.809
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "ingredients": [
+          "White rice",
+          "Vegetable oil",
+          "Ghee"
+        ],
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spoon"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "utensils": [
+          "Pot",
+          "Spoon"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "ingredients": [
+          "Cooked white rice",
+          "Yellow rice flakes",
+          "Saffron strands"
+        ],
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "utensils": [
+          "Metal steamer lid",
+          "Stainless steel pot",
+          "Metal slotted spoon"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "ingredients": [
+          "Shredded cheese",
+          "Poha (flattened rice flakes)",
+          "Yellow food color"
+        ],
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal strainer",
+          "Small glass jar"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "ingredients": [
+          "Yellow rice",
+          "Potato pieces"
+        ],
+        "actions": [
+          "None visible"
+        ],
+        "utensils": [
+          "None visible"
+        ],
+        "confidence": 0.641
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.619
+      }
+    ]
+  },
+  {
+    "title": "Seal the pot",
+    "description": "Cover the pot with a tight lid or seal it with dough to trap the steam.",
+    "aligned_chunks": [
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "ingredients": [
+          "Yellow potatoes",
+          "Red curry or sauce"
+        ],
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Colander or strainer",
+          "Pot"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "ingredients": [
+          "Yellow boiled potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "utensils": [
+          "Metal slotted spoon",
+          "Large white cooking pot"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle or gravy dish"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "ingredients": [
+          "Orange liquid (possibly tomato puree or curry base)",
+          "Milk"
+        ],
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon",
+          "Glass measuring cup"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.57
+      }
+    ]
+  },
+  {
+    "title": "Dum cook the biryani",
+    "description": "Place the sealed pot over a low flame or a griddle and cook for 30–40 minutes to allow flavors to meld.",
+    "aligned_chunks": [
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "ingredients": [
+          "Yellow potatoes",
+          "Red curry or sauce"
+        ],
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Colander or strainer",
+          "Pot"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.695
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "ingredients": [
+          "Potatoes",
+          "Red curry sauce",
+          "Bay leaves",
+          "Cassia bark",
+          "Water (in a separate bowl)"
+        ],
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Ladle",
+          "White bowl"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "ingredients": [
+          "Yellow boiled potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "utensils": [
+          "Metal slotted spoon",
+          "Large white cooking pot"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle or gravy dish"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.645
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (likely potatoes) in a red curry sauce"
+        ],
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon or serving ladle"
+        ],
+        "confidence": 0.643
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.639
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.63
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "ingredients": [
+          "Orange liquid (possibly tomato puree or curry base)",
+          "Milk"
+        ],
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon",
+          "Glass measuring cup"
+        ],
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.606
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.435
+      }
+    ]
+  },
+  {
+    "title": "Rest the biryani",
+    "description": "Turn off the heat and let the biryani rest, covered, for 10 minutes before opening.",
+    "aligned_chunks": [
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "ingredients": [
+          "Potatoes",
+          "Biryani Masala (spice blend)",
+          "Rice"
+        ],
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Basil leaves",
+          "Pasta",
+          "Oil (in the bowl)",
+          "Black peppercorns",
+          "Salt"
+        ],
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "utensils": [
+          "Fork (next to the plate)",
+          "Plate/bowl for oil"
+        ],
+        "confidence": 0.59
+      }
+    ]
+  },
+  {
+    "title": "Serve",
+    "description": "Serve hot with boiled eggs, raita, or salad.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "ingredients": [
+          "Cooked onions",
+          "Yellowish liquid (possibly broth or water)",
+          "Red powder (possibly chili powder or spice)"
+        ],
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "utensils": [
+          "Skimmer/spoon (to scoop onions)",
+          "Large bowl",
+          "Red measuring cup",
+          "Spoon (for sprinkling powder)"
+        ],
+        "confidence": 0.786
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "ingredients": [
+          "Yellow potatoes",
+          "Red curry or sauce"
+        ],
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Colander or strainer",
+          "Pot"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow saffron-infused rice (or similar flavored rice)",
+          "Potatoes"
+        ],
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Spoon",
+          "White plate"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "ingredients": [
+          "Chunks of potatoes",
+          "Reddish-brown sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "utensils": [
+          "Deep frying pan or pot",
+          "Slotted spoon or spatula"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "ingredients": [
+          "White rice",
+          "Yellow rice seasoning (possibly saffron or turmeric)",
+          "Fries or cylindrical fried snacks"
+        ],
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Spatula or ladle",
+          "White serving plate"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "ingredients": [
+          "Red chilli powder",
+          "Yellow food color",
+          "Boiled potatoes",
+          "Sauteed onions"
+        ],
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "utensils": [
+          "Large metal mixing bowl",
+          "Small spoon for measuring spices",
+          "Bowl for holding potatoes"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "ingredients": [
+          "Yellow boiled potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "utensils": [
+          "Metal slotted spoon",
+          "Large white cooking pot"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "ingredients": [
+          "Orange liquid (likely a mixture or base for a recipe)",
+          "Sugar",
+          "Clarified butter (ghee)",
+          "Salt",
+          "A pinch of lemon juice",
+          "Some liquid (possibly water or vinegar)"
+        ],
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small cup or bowl for holding ingredients",
+          "Spoon for adding ingredients"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Water",
+          "Gravy or sauce"
+        ],
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "ingredients": [
+          "Orange liquid (possibly tomato puree or curry base)",
+          "Milk"
+        ],
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon",
+          "Glass measuring cup"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "ingredients": [
+          "Potatoes",
+          "Red sauce or curry"
+        ],
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Ladle or gravy dish"
+        ],
+        "confidence": 0.738
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "ingredients": [
+          "Cooking oil",
+          "Chopped potatoes"
+        ],
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Cooking measuring cup",
+          "Slotted spoon"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Cooking oil"
+        ],
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "utensils": [
+          "Bowl",
+          "Pot",
+          "Measuring cup"
+        ],
+        "confidence": 0.658
+      }
+    ]
+  }
+]

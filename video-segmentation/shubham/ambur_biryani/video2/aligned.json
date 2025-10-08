@@ -1,0 +1,3585 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:22,643",
+    "audio_description": "Hello foodies, welcome to Wish My Food! Today’s special is Tamil Nadu’s famous Ambur Chicken Dum Biryani. This is a traditional Muslim recipe from Ambur, a town in Tamil Nadu. It’s rich in flavor and very spicy and tasty. The best part is that both the chicken and rice are cooked together in dum (steam). So, there’s no issue like undercooked chicken or hard rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=20s",
+        "actions": [
+          "Scooping rice",
+          "Measuring rice"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=170s",
+        "actions": [
+          "Adding sliced tomatoes to the pot",
+          "Adding sliced red and green bell peppers to the pot",
+          "Adding slit green chilies to the pot",
+          "Sprinkling salt over the ingredients",
+          "Pouring whisked curd into the pot"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=230s",
+        "actions": [
+          "Scooping cooked rice",
+          "Draining rice",
+          "Layering rice onto cooked chicken"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.573
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:22,643 --> 00:00:52,090",
+    "audio_description": "Every time, it turns out to be a super hit recipe. Let’s start. First, take 2 cups (approx. 185g per cup) of Jeera rice. Add fennel seeds along with the rice. Wash the rice thoroughly once and soak it for some time, so that the aroma is retained.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=20s",
+        "actions": [
+          "Scooping rice",
+          "Measuring rice"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=60s",
+        "actions": [
+          "Grinding chilies and sesame seeds"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=70s",
+        "actions": [
+          "Pouring turmeric paste into the pot",
+          "Adding oil to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding cloves to the pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=80s",
+        "actions": [
+          "Adding cardamoms to the oil",
+          "Adding a bay leaf to the oil",
+          "Pouring sliced onions into the oil",
+          "Stirring the onions in the oil",
+          "Frying the onions to a light golden color"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=230s",
+        "actions": [
+          "Scooping cooked rice",
+          "Draining rice",
+          "Layering rice onto cooked chicken"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=290s",
+        "actions": [
+          "Covering dough in flour",
+          "Resting dough for 25-30 minutes"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.617
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:52,090 --> 00:01:07,548",
+    "audio_description": "In Ambur Chicken Biryani, the spice comes from red chilies alone. You need to use dried red chilies. Break them and soak them slightly. If you don’t have stone mortar, you can use a mixer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.504
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=40s",
+        "actions": [
+          "Boiling water",
+          "Adding dry chilies to boiling water",
+          "Adding cumin seeds to boiling water"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=50s",
+        "actions": [
+          "Placing chili peppers in water",
+          "Sifting chili peppers with a colander",
+          "Pouring water out",
+          "Placing chili peppers on a cutting board"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=60s",
+        "actions": [
+          "Grinding chilies and sesame seeds"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=170s",
+        "actions": [
+          "Adding sliced tomatoes to the pot",
+          "Adding sliced red and green bell peppers to the pot",
+          "Adding slit green chilies to the pot",
+          "Sprinkling salt over the ingredients",
+          "Pouring whisked curd into the pot"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.527
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:09,471 --> 00:01:38,141",
+    "audio_description": "Grind into a smooth paste. Now take a biryani pot and heat 1/3 cup (approx. 80 ml) of oil. Once it’s hot, add 4 pieces of cinnamon stick and 4 cloves.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=40s",
+        "actions": [
+          "Boiling water",
+          "Adding dry chilies to boiling water",
+          "Adding cumin seeds to boiling water"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=50s",
+        "actions": [
+          "Placing chili peppers in water",
+          "Sifting chili peppers with a colander",
+          "Pouring water out",
+          "Placing chili peppers on a cutting board"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=70s",
+        "actions": [
+          "Pouring turmeric paste into the pot",
+          "Adding oil to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding cloves to the pot"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=120s",
+        "actions": [
+          "Mixing tomato paste",
+          "Adding coriander powder",
+          "Stirring mixture",
+          "Adding chicken"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=170s",
+        "actions": [
+          "Adding sliced tomatoes to the pot",
+          "Adding sliced red and green bell peppers to the pot",
+          "Adding slit green chilies to the pot",
+          "Sprinkling salt over the ingredients",
+          "Pouring whisked curd into the pot"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.521
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=200s",
+        "actions": [
+          "Separating gravy",
+          "Pouring lemon juice into the pot",
+          "Adding chopped coriander and mint to the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.511
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.53
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:38,378 --> 00:02:00,805",
+    "audio_description": "Avoid using pre-ground spices. Whole spices give a better taste. Fry until the onions turn light golden brown. Then add 2 tablespoons of ginger-garlic paste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=70s",
+        "actions": [
+          "Pouring turmeric paste into the pot",
+          "Adding oil to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding cloves to the pot"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=80s",
+        "actions": [
+          "Adding cardamoms to the oil",
+          "Adding a bay leaf to the oil",
+          "Pouring sliced onions into the oil",
+          "Stirring the onions in the oil",
+          "Frying the onions to a light golden color"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=120s",
+        "actions": [
+          "Mixing tomato paste",
+          "Adding coriander powder",
+          "Stirring mixture",
+          "Adding chicken"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.524
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.598
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:03,066 --> 00:02:21,409",
+    "audio_description": "Once it starts frying well, add 2 teaspoons of coriander powder. When the oil starts separating, add 1 kg of chicken cut into medium pieces. Cook until the chicken turns golden brown on medium flame.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=70s",
+        "actions": [
+          "Pouring turmeric paste into the pot",
+          "Adding oil to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding cloves to the pot"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=80s",
+        "actions": [
+          "Adding cardamoms to the oil",
+          "Adding a bay leaf to the oil",
+          "Pouring sliced onions into the oil",
+          "Stirring the onions in the oil",
+          "Frying the onions to a light golden color"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=120s",
+        "actions": [
+          "Mixing tomato paste",
+          "Adding coriander powder",
+          "Stirring mixture",
+          "Adding chicken"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=200s",
+        "actions": [
+          "Separating gravy",
+          "Pouring lemon juice into the pot",
+          "Adding chopped coriander and mint to the pot"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=280s",
+        "actions": [
+          "Adjusting the chopped herbs",
+          "Ariaing the rice",
+          "Mixing rice with herbs"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.617
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:23,164 --> 00:02:49,927",
+    "audio_description": "It takes about 15 minutes for the chicken to get half-cooked. Always remember, after cleaning the chicken, it should remain inside the marinade for at least 30 minutes. That’s when chicken cooks perfectly during dum. Even chicken shop people know this.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.478
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=20s",
+        "actions": [
+          "Scooping rice",
+          "Measuring rice"
+        ],
+        "confidence_score": 0.436
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=80s",
+        "actions": [
+          "Adding cardamoms to the oil",
+          "Adding a bay leaf to the oil",
+          "Pouring sliced onions into the oil",
+          "Stirring the onions in the oil",
+          "Frying the onions to a light golden color"
+        ],
+        "confidence_score": 0.468
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.495
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.497
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.503
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.489
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=290s",
+        "actions": [
+          "Covering dough in flour",
+          "Resting dough for 25-30 minutes"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.436
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.498
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:50,485 --> 00:03:17,569",
+    "audio_description": "Once cooked, add 3 chopped tomatoes, 3 slit green chilies, enough salt, ½ cup (about 125 ml) whisked curd, 1½ tablespoons garam masala, and 1 cup (250 ml) water. Mix everything well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=40s",
+        "actions": [
+          "Boiling water",
+          "Adding dry chilies to boiling water",
+          "Adding cumin seeds to boiling water"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=50s",
+        "actions": [
+          "Placing chili peppers in water",
+          "Sifting chili peppers with a colander",
+          "Pouring water out",
+          "Placing chili peppers on a cutting board"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=60s",
+        "actions": [
+          "Grinding chilies and sesame seeds"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=70s",
+        "actions": [
+          "Pouring turmeric paste into the pot",
+          "Adding oil to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding cloves to the pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=170s",
+        "actions": [
+          "Adding sliced tomatoes to the pot",
+          "Adding sliced red and green bell peppers to the pot",
+          "Adding slit green chilies to the pot",
+          "Sprinkling salt over the ingredients",
+          "Pouring whisked curd into the pot"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=200s",
+        "actions": [
+          "Separating gravy",
+          "Pouring lemon juice into the pot",
+          "Adding chopped coriander and mint to the pot"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=230s",
+        "actions": [
+          "Scooping cooked rice",
+          "Draining rice",
+          "Layering rice onto cooked chicken"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=280s",
+        "actions": [
+          "Adjusting the chopped herbs",
+          "Ariaing the rice",
+          "Mixing rice with herbs"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.576
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:17,569 --> 00:03:31,137",
+    "audio_description": "When chicken is 90% cooked, take one cup of gravy out. Add 1 tablespoon lemon juice, a little chopped coriander and mint leaves, mix well, turn off the stove, and set it aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=70s",
+        "actions": [
+          "Pouring turmeric paste into the pot",
+          "Adding oil to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding cloves to the pot"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=120s",
+        "actions": [
+          "Mixing tomato paste",
+          "Adding coriander powder",
+          "Stirring mixture",
+          "Adding chicken"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=200s",
+        "actions": [
+          "Separating gravy",
+          "Pouring lemon juice into the pot",
+          "Adding chopped coriander and mint to the pot"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=230s",
+        "actions": [
+          "Scooping cooked rice",
+          "Draining rice",
+          "Layering rice onto cooked chicken"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=280s",
+        "actions": [
+          "Adjusting the chopped herbs",
+          "Ariaing the rice",
+          "Mixing rice with herbs"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.644
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:33,871 --> 00:03:52,788",
+    "audio_description": "Into another pot, add 3 tablespoons of salt. Add the soaked rice into boiling water. Also, add 2 teaspoons of oil. Cook the rice up to 80% only. Everyone knows what 80% cooked rice looks like.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=20s",
+        "actions": [
+          "Scooping rice",
+          "Measuring rice"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=40s",
+        "actions": [
+          "Boiling water",
+          "Adding dry chilies to boiling water",
+          "Adding cumin seeds to boiling water"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=50s",
+        "actions": [
+          "Placing chili peppers in water",
+          "Sifting chili peppers with a colander",
+          "Pouring water out",
+          "Placing chili peppers on a cutting board"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=70s",
+        "actions": [
+          "Pouring turmeric paste into the pot",
+          "Adding oil to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding cloves to the pot"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=170s",
+        "actions": [
+          "Adding sliced tomatoes to the pot",
+          "Adding sliced red and green bell peppers to the pot",
+          "Adding slit green chilies to the pot",
+          "Sprinkling salt over the ingredients",
+          "Pouring whisked curd into the pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=200s",
+        "actions": [
+          "Separating gravy",
+          "Pouring lemon juice into the pot",
+          "Adding chopped coriander and mint to the pot"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=230s",
+        "actions": [
+          "Scooping cooked rice",
+          "Draining rice",
+          "Layering rice onto cooked chicken"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.651
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:54,037 --> 00:04:07,840",
+    "audio_description": "Now, take the 80% cooked rice and cook it until it reaches 90%. (Note: This line seems to have some repeated and jumbled words, likely due to subtitle OCR issues.)",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=20s",
+        "actions": [
+          "Scooping rice",
+          "Measuring rice"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=230s",
+        "actions": [
+          "Scooping cooked rice",
+          "Draining rice",
+          "Layering rice onto cooked chicken"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.755
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:09,915 --> 00:04:27,617",
+    "audio_description": "After that, pour the reserved gravy over the rice. Then add the leftover rice water (starch water) over the biryani. Seal the pot with a lid and cook on low flame for 20 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=20s",
+        "actions": [
+          "Scooping rice",
+          "Measuring rice"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=40s",
+        "actions": [
+          "Boiling water",
+          "Adding dry chilies to boiling water",
+          "Adding cumin seeds to boiling water"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=50s",
+        "actions": [
+          "Placing chili peppers in water",
+          "Sifting chili peppers with a colander",
+          "Pouring water out",
+          "Placing chili peppers on a cutting board"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=70s",
+        "actions": [
+          "Pouring turmeric paste into the pot",
+          "Adding oil to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding cloves to the pot"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=80s",
+        "actions": [
+          "Adding cardamoms to the oil",
+          "Adding a bay leaf to the oil",
+          "Pouring sliced onions into the oil",
+          "Stirring the onions in the oil",
+          "Frying the onions to a light golden color"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=170s",
+        "actions": [
+          "Adding sliced tomatoes to the pot",
+          "Adding sliced red and green bell peppers to the pot",
+          "Adding slit green chilies to the pot",
+          "Sprinkling salt over the ingredients",
+          "Pouring whisked curd into the pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=200s",
+        "actions": [
+          "Separating gravy",
+          "Pouring lemon juice into the pot",
+          "Adding chopped coriander and mint to the pot"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=230s",
+        "actions": [
+          "Scooping cooked rice",
+          "Draining rice",
+          "Layering rice onto cooked chicken"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=290s",
+        "actions": [
+          "Covering dough in flour",
+          "Resting dough for 25-30 minutes"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.61
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:28,732 --> 00:04:55,882",
+    "audio_description": "After 20 minutes, check – it will look perfect. No need to do anything else. This is the perfect texture. At this stage, add 2 tablespoons of ghee, a little chopped coriander and mint, mix gently, and fluff the biryani slowly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=120s",
+        "actions": [
+          "Mixing tomato paste",
+          "Adding coriander powder",
+          "Stirring mixture",
+          "Adding chicken"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=200s",
+        "actions": [
+          "Separating gravy",
+          "Pouring lemon juice into the pot",
+          "Adding chopped coriander and mint to the pot"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=280s",
+        "actions": [
+          "Adjusting the chopped herbs",
+          "Ariaing the rice",
+          "Mixing rice with herbs"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.558
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:55,882 --> 00:05:14,564",
+    "audio_description": "If it's crumbly, it’s like Hyderabadi biryani. But in Tamil Nadu biryani, the rice is softer. It should be soft enough to hold in a spoon without breaking. That’s the texture expected here.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=20s",
+        "actions": [
+          "Scooping rice",
+          "Measuring rice"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=30s",
+        "actions": [
+          "Pouring rice into a bowl",
+          "Scarping rice into the bowl",
+          "Boiling water"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=40s",
+        "actions": [
+          "Boiling water",
+          "Adding dry chilies to boiling water",
+          "Adding cumin seeds to boiling water"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=100s",
+        "actions": [
+          "Mixing onions in water",
+          "Adding bay leaves",
+          "Stirring onions and spices in water"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=120s",
+        "actions": [
+          "Mixing tomato paste",
+          "Adding coriander powder",
+          "Stirring mixture",
+          "Adding chicken"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=170s",
+        "actions": [
+          "Adding sliced tomatoes to the pot",
+          "Adding sliced red and green bell peppers to the pot",
+          "Adding slit green chilies to the pot",
+          "Sprinkling salt over the ingredients",
+          "Pouring whisked curd into the pot"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=200s",
+        "actions": [
+          "Separating gravy",
+          "Pouring lemon juice into the pot",
+          "Adding chopped coriander and mint to the pot"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=230s",
+        "actions": [
+          "Scooping cooked rice",
+          "Draining rice",
+          "Layering rice onto cooked chicken"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=240s",
+        "actions": [
+          "Scooping rice",
+          "Combining rice in the pot"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=280s",
+        "actions": [
+          "Adjusting the chopped herbs",
+          "Ariaing the rice",
+          "Mixing rice with herbs"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.618
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:14,564 --> 00:05:32,940",
+    "audio_description": "Serve it with a side of boiled egg, chicken sherva (gravy), and chilled raita for the next-level combination. Did you like it? Will you try it? If so, don’t forget to check the detailed recipe and subscribe!",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=0s",
+        "actions": [
+          "Scooping fried rice",
+          "Placing fried rice onto a banana leaf"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=10s",
+        "actions": [
+          "Serving chicken and rice",
+          "Placing chicken in curry sauce",
+          "Squeezing lemon on the dish",
+          "Holding the plate"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=20s",
+        "actions": [
+          "Scooping rice",
+          "Measuring rice"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=80s",
+        "actions": [
+          "Adding cardamoms to the oil",
+          "Adding a bay leaf to the oil",
+          "Pouring sliced onions into the oil",
+          "Stirring the onions in the oil",
+          "Frying the onions to a light golden color"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=90s",
+        "actions": [
+          "Adding ingredients to a bowl",
+          "Stirring onions in a bowl",
+          "Frying onions"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=110s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Adding ground chili paste to the pot",
+          "Mixing the pastes with the contents in the pot"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=130s",
+        "actions": [
+          "Adding chicken pieces to the bowl",
+          "Stirring chicken with the mixture",
+          "Frying chicken until lightly golden brown",
+          "Stirring the chicken mixture every 3 minutes"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=140s",
+        "actions": [
+          "Stirring chicken",
+          "Marinating chicken",
+          "Mixing ingredients in a pot"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=150s",
+        "actions": [
+          "Mixing chicken with sauce",
+          "Stirring the pot contents"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=160s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in sauce"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=180s",
+        "actions": [
+          "Pouring whisked curd into the pot",
+          "Adding caramel masala to the pot",
+          "Pouring water into the pot",
+          "Stirring the contents of the pot",
+          "Covering the pot to cook"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=190s",
+        "actions": [
+          "Stirring gravy",
+          "Covering the pot/pressure cooker",
+          "Removing the lid to check the curry"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=210s",
+        "actions": [
+          "Adding fresh cilantro to chicken curry",
+          "Stirring the chicken curry",
+          "Pouring water into a pot",
+          "Adding salt to the pot",
+          "Adding soaked rice to the pot",
+          "Stirring the pot with the slotted spoon"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=220s",
+        "actions": [
+          "Adding oil to rice",
+          "Stirring rice",
+          "Mixing oil into rice"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=250s",
+        "actions": [
+          "Pouring gravy over biryani",
+          "Placing a lid on the pot",
+          "Placing a water bowl near the cooking pot"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=260s",
+        "actions": [
+          "Placing a bowl in the pot",
+          "Boiling liquid on low flame",
+          "Watching as the mixture cooks for 20 minutes"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=270s",
+        "actions": [
+          "Placing the lid on the pot",
+          "Adding paneer to the rice",
+          "Adding chopped coriander and mint to the rice"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=290s",
+        "actions": [
+          "Covering dough in flour",
+          "Resting dough for 25-30 minutes"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=300s",
+        "actions": [
+          "Mixing rice and meat",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=310s",
+        "actions": [
+          "Scooping rice",
+          "Placing rice on a banana leaf",
+          "Piling rice on the banana leaf"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=320s",
+        "actions": [
+          "Serving chicken and fried rice",
+          "Placing lemon wedge on the serving dish",
+          "Placing a portion of sauce in a separate bowl",
+          "Arranging sliced onions beside the dish"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "330-333",
+        "url": "https://www.youtube.com/watch?v=ajbVOfXT8ME&t=330s",
+        "actions": [
+          "Pouring sauce onto meat",
+          "Serving meat and sauce onto rice"
+        ],
+        "confidence_score": 0.731
+      }
+    ]
+  }
+]

@@ -1,0 +1,4331 @@
+[
+  {
+    "title": "Make green masala paste",
+    "description": "Combine fresh coriander leaves, mint leaves, and green chilies in a blender.",
+    "aligned_chunks": [
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies",
+          "Cashews",
+          "Mint leaves",
+          "Coriander leaves"
+        ],
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "utensils": [
+          "Blue-handled pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.865
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "ingredients": [
+          "Small onions",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "utensils": [
+          "Blue-handled pot",
+          "Wooden spoon",
+          "Serving spatula"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.839
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.816
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "ingredients": [
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower",
+          "Fennel seeds",
+          "Bay leaves",
+          "Onion (sliced)"
+        ],
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "utensils": [
+          "Blue and white cooking pot",
+          "Wooden spoon",
+          "Metal strainer"
+        ],
+        "confidence": 0.813
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "ingredients": [
+          "Ghee",
+          "Bay leaves",
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower (or similar spice)",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "utensils": [
+          "Blue cooking pot",
+          "Small black bowl",
+          "Ladle or spoon (to add ingredients)"
+        ],
+        "confidence": 0.777
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "ingredients": [
+          "Pieces of meat",
+          "Brown sauce or seasoning",
+          "Green paste",
+          "Salt"
+        ],
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue cooking pot",
+          "Metal container for holding green paste"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=189s",
+        "ingredients": [
+          "Vegetables (diced or sliced)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Stirring soup",
+          "Adding ingredients to soup",
+          "Simmering soup"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Blue pot"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.702
+      }
+    ]
+  },
+  {
+    "title": "Grind green masala",
+    "description": "Add a little water and grind the mixture into a smooth, fine green paste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "ingredients": [
+          "Pieces of meat",
+          "Brown sauce or seasoning",
+          "Green paste",
+          "Salt"
+        ],
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue cooking pot",
+          "Metal container for holding green paste"
+        ],
+        "confidence": 0.874
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "ingredients": [
+          "Small onions",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "utensils": [
+          "Blue-handled pot",
+          "Wooden spoon",
+          "Serving spatula"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "ingredients": [
+          "1/4 cup water",
+          "Oil",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A metal saucepan with a white handle",
+          "A blue-handled pot",
+          "A black measuring spoon",
+          "A small black container for ghee"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies",
+          "Cashews",
+          "Mint leaves",
+          "Coriander leaves"
+        ],
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "utensils": [
+          "Blue-handled pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "ingredients": [
+          "Meat",
+          "Tomato pieces",
+          "Water"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Blue and white cooking pot"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.655
+      }
+    ]
+  },
+  {
+    "title": "Begin chicken marination",
+    "description": "Place the chicken pieces in a large mixing bowl.",
+    "aligned_chunks": [
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.896
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.891
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.876
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.855
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat"
+        ],
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "utensils": [
+          "Spoon",
+          "Blue cooking pot"
+        ],
+        "confidence": 0.819
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "ingredients": [
+          "Meat",
+          "Tomato pieces",
+          "Water"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Blue and white cooking pot"
+        ],
+        "confidence": 0.818
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "ingredients": [
+          "Fish pieces",
+          "Curry or soup base"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue pressure cooker (with a blue lid)"
+        ],
+        "confidence": 0.818
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.817
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.815
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "ingredients": [
+          "Pieces of meat",
+          "Brown sauce or seasoning",
+          "Green paste",
+          "Salt"
+        ],
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue cooking pot",
+          "Metal container for holding green paste"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.759
+      }
+    ]
+  },
+  {
+    "title": "Add spices and yogurt",
+    "description": "Add turmeric powder, red chili powder, salt, curd, and ginger-garlic paste to the chicken.",
+    "aligned_chunks": [
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.877
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.844
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.822
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.822
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "ingredients": [
+          "Pieces of meat",
+          "Brown sauce or seasoning",
+          "Green paste",
+          "Salt"
+        ],
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue cooking pot",
+          "Metal container for holding green paste"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.698
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.651
+      }
+    ]
+  },
+  {
+    "title": "Mix in green masala",
+    "description": "Add the prepared green masala paste to the bowl and mix thoroughly to coat the chicken.",
+    "aligned_chunks": [
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.866
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.823
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.815
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "ingredients": [
+          "Pieces of meat",
+          "Brown sauce or seasoning",
+          "Green paste",
+          "Salt"
+        ],
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue cooking pot",
+          "Metal container for holding green paste"
+        ],
+        "confidence": 0.79
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "ingredients": [
+          "Small onions",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "utensils": [
+          "Blue-handled pot",
+          "Wooden spoon",
+          "Serving spatula"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies",
+          "Cashews",
+          "Mint leaves",
+          "Coriander leaves"
+        ],
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "utensils": [
+          "Blue-handled pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.684
+      }
+    ]
+  },
+  {
+    "title": "Marinate the chicken",
+    "description": "Cover and let the chicken marinate for at least 30 minutes to absorb the flavors.",
+    "aligned_chunks": [
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.736
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.688
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.68
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.677
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.667
+      }
+    ]
+  },
+  {
+    "title": "Wash and soak rice",
+    "description": "Rinse the Seeraga Samba rice until the water runs clear, then soak it in water for 20 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "ingredients": [
+          "2 cups of soaked rice",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=199s",
+        "ingredients": [
+          "Rice"
+        ],
+        "actions": [
+          "Adding rice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat"
+        ],
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "utensils": [
+          "Spoon",
+          "Blue cooking pot"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "ingredients": [
+          "1/4 cup water",
+          "Oil",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A metal saucepan with a white handle",
+          "A blue-handled pot",
+          "A black measuring spoon",
+          "A small black container for ghee"
+        ],
+        "confidence": 0.682
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.68
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "ingredients": [
+          "Meat",
+          "Tomato pieces",
+          "Water"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Blue and white cooking pot"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.672
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.669
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.641
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.607
+      }
+    ]
+  },
+  {
+    "title": "Parboil the rice",
+    "description": "Boil water in a large pot, add salt and a few drops of oil, then add the soaked rice and cook until 80% done.",
+    "aligned_chunks": [
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "ingredients": [
+          "2 cups of soaked rice",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.828
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "ingredients": [
+          "1 tbsp Oil"
+        ],
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "utensils": [
+          "Blue pot with handles",
+          "Small black bowl (for oil)"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "ingredients": [
+          "1/4 cup water",
+          "Oil",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A metal saucepan with a white handle",
+          "A blue-handled pot",
+          "A black measuring spoon",
+          "A small black container for ghee"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=199s",
+        "ingredients": [
+          "Rice"
+        ],
+        "actions": [
+          "Adding rice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=29s",
+        "ingredients": [
+          "1 tbsp oil",
+          "1.5 tbsp ginger (20g)"
+        ],
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding ginger to the pan"
+        ],
+        "utensils": [
+          "Blue saucepan",
+          "Black measuring spoon"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "ingredients": [
+          "Pieces of meat",
+          "Brown sauce or seasoning",
+          "Green paste",
+          "Salt"
+        ],
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue cooking pot",
+          "Metal container for holding green paste"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "ingredients": [
+          "Meat",
+          "Tomato pieces",
+          "Water"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Blue and white cooking pot"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat"
+        ],
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "utensils": [
+          "Spoon",
+          "Blue cooking pot"
+        ],
+        "confidence": 0.732
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=39s",
+        "ingredients": [
+          "Garlic",
+          "Oil"
+        ],
+        "actions": [
+          "Adding garlic to the pot",
+          "Stirring garlic in the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "ingredients": [
+          "Chunks of meat",
+          "Greenish-yellow curry or sauce"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "utensils": [
+          "Large blue pot (or Dutch oven)",
+          "Wooden spatula"
+        ],
+        "confidence": 0.695
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.695
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.631
+      }
+    ]
+  },
+  {
+    "title": "Drain and set aside rice",
+    "description": "Once 80% cooked, drain the rice in a colander and let it rest.",
+    "aligned_chunks": [
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "ingredients": [
+          "2 cups of soaked rice",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=199s",
+        "ingredients": [
+          "Rice"
+        ],
+        "actions": [
+          "Adding rice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat"
+        ],
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "utensils": [
+          "Spoon",
+          "Blue cooking pot"
+        ],
+        "confidence": 0.774
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.708
+      }
+    ]
+  },
+  {
+    "title": "Heat ghee and oil",
+    "description": "In a heavy-bottomed pan, heat ghee and oil on medium heat.",
+    "aligned_chunks": [
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "ingredients": [
+          "1/4 cup water",
+          "Oil",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A metal saucepan with a white handle",
+          "A blue-handled pot",
+          "A black measuring spoon",
+          "A small black container for ghee"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "ingredients": [
+          "Ghee",
+          "Bay leaves",
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower (or similar spice)",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "utensils": [
+          "Blue cooking pot",
+          "Small black bowl",
+          "Ladle or spoon (to add ingredients)"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=29s",
+        "ingredients": [
+          "1 tbsp oil",
+          "1.5 tbsp ginger (20g)"
+        ],
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding ginger to the pan"
+        ],
+        "utensils": [
+          "Blue saucepan",
+          "Black measuring spoon"
+        ],
+        "confidence": 0.841
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "ingredients": [
+          "1 tbsp Oil"
+        ],
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "utensils": [
+          "Blue pot with handles",
+          "Small black bowl (for oil)"
+        ],
+        "confidence": 0.814
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=39s",
+        "ingredients": [
+          "Garlic",
+          "Oil"
+        ],
+        "actions": [
+          "Adding garlic to the pot",
+          "Stirring garlic in the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.684
+      }
+    ]
+  },
+  {
+    "title": "Add whole spices",
+    "description": "Add bay leaves, cloves, cardamom, cinnamon, and fennel seeds to the hot ghee-oil mix. Sauté until aromatic.",
+    "aligned_chunks": [
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "ingredients": [
+          "Ghee",
+          "Bay leaves",
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower (or similar spice)",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "utensils": [
+          "Blue cooking pot",
+          "Small black bowl",
+          "Ladle or spoon (to add ingredients)"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies",
+          "Cashews",
+          "Mint leaves",
+          "Coriander leaves"
+        ],
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "utensils": [
+          "Blue-handled pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "ingredients": [
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower",
+          "Fennel seeds",
+          "Bay leaves",
+          "Onion (sliced)"
+        ],
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "utensils": [
+          "Blue and white cooking pot",
+          "Wooden spoon",
+          "Metal strainer"
+        ],
+        "confidence": 0.702
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=189s",
+        "ingredients": [
+          "Vegetables (diced or sliced)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Stirring soup",
+          "Adding ingredients to soup",
+          "Simmering soup"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Blue pot"
+        ],
+        "confidence": 0.638
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.608
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.601
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.568
+      }
+    ]
+  },
+  {
+    "title": "Sauté onions",
+    "description": "Add thinly sliced onions to the pan and cook until they turn golden brown.",
+    "aligned_chunks": [
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "ingredients": [
+          "Small onions",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "utensils": [
+          "Blue-handled pot",
+          "Wooden spoon",
+          "Serving spatula"
+        ],
+        "confidence": 0.854
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "ingredients": [
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower",
+          "Fennel seeds",
+          "Bay leaves",
+          "Onion (sliced)"
+        ],
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "utensils": [
+          "Blue and white cooking pot",
+          "Wooden spoon",
+          "Metal strainer"
+        ],
+        "confidence": 0.837
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=109s",
+        "ingredients": [
+          "Chopped onions"
+        ],
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot"
+        ],
+        "utensils": [
+          "Blue-handled pot",
+          "Wooden spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.837
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=169s",
+        "ingredients": [
+          "Tomatoes (sliced)"
+        ],
+        "actions": [
+          "Opening the pressure cooker",
+          "Adding sliced tomatoes to the curry",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Blue pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.764
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies",
+          "Cashews",
+          "Mint leaves",
+          "Coriander leaves"
+        ],
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "utensils": [
+          "Blue-handled pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "ingredients": [
+          "Pieces of meat",
+          "Brown sauce or seasoning",
+          "Green paste",
+          "Salt"
+        ],
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue cooking pot",
+          "Metal container for holding green paste"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=189s",
+        "ingredients": [
+          "Vegetables (diced or sliced)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Stirring soup",
+          "Adding ingredients to soup",
+          "Simmering soup"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Blue pot"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.679
+      }
+    ]
+  },
+  {
+    "title": "Add tomatoes",
+    "description": "Add chopped tomatoes and cook until they soften and blend into the onion mixture.",
+    "aligned_chunks": [
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "ingredients": [
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower",
+          "Fennel seeds",
+          "Bay leaves",
+          "Onion (sliced)"
+        ],
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "utensils": [
+          "Blue and white cooking pot",
+          "Wooden spoon",
+          "Metal strainer"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=109s",
+        "ingredients": [
+          "Chopped onions"
+        ],
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot"
+        ],
+        "utensils": [
+          "Blue-handled pot",
+          "Wooden spoon",
+          "Metal bowl"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=169s",
+        "ingredients": [
+          "Tomatoes (sliced)"
+        ],
+        "actions": [
+          "Opening the pressure cooker",
+          "Adding sliced tomatoes to the curry",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Blue pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.829
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies",
+          "Cashews",
+          "Mint leaves",
+          "Coriander leaves"
+        ],
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "utensils": [
+          "Blue-handled pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.679
+      }
+    ]
+  },
+  {
+    "title": "Add marinated chicken",
+    "description": "Add the marinated chicken along with all the marinade to the pan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.874
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.847
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.843
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.838
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.744
+      }
+    ]
+  },
+  {
+    "title": "Cook chicken",
+    "description": "Cook on medium heat, stirring occasionally, until the chicken is about 80% cooked and the masala thickens.",
+    "aligned_chunks": [
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.82
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat"
+        ],
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "utensils": [
+          "Spoon",
+          "Blue cooking pot"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "title": "Layer rice over chicken",
+    "description": "Evenly spread the partially cooked rice over the chicken in the pan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.865
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.86
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Chicken pieces",
+          "Spices (brown residue)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Glass bowl"
+        ],
+        "confidence": 0.856
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.851
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.848
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat"
+        ],
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "utensils": [
+          "Spoon",
+          "Blue cooking pot"
+        ],
+        "confidence": 0.841
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "ingredients": [
+          "2 cups of soaked rice",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.835
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=199s",
+        "ingredients": [
+          "Rice"
+        ],
+        "actions": [
+          "Adding rice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.831
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.774
+      }
+    ]
+  },
+  {
+    "title": "Sprinkle garam masala",
+    "description": "Sprinkle garam masala powder evenly over the layered rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat"
+        ],
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "utensils": [
+          "Spoon",
+          "Blue cooking pot"
+        ],
+        "confidence": 0.83
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "ingredients": [
+          "Raw chicken pieces",
+          "Turmeric powder",
+          "Coriander powder"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "utensils": [
+          "Large blue pot with handles",
+          "Wooden spoon"
+        ],
+        "confidence": 0.818
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=199s",
+        "ingredients": [
+          "Rice"
+        ],
+        "actions": [
+          "Adding rice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.816
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "ingredients": [
+          "2 cups of soaked rice",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.79
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.753
+      }
+    ]
+  },
+  {
+    "title": "Seal and dum cook",
+    "description": "Cover the pan tightly with a lid. Optionally seal edges with dough and cook on low heat for 15–20 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.569
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.542
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.542
+      }
+    ]
+  },
+  {
+    "title": "Let biryani rest",
+    "description": "Turn off the heat and let the biryani rest, covered, for 10 minutes to allow flavors to settle.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.675
+      }
+    ]
+  },
+  {
+    "title": "Gently mix and serve",
+    "description": "Open the lid, gently fluff and mix the biryani without breaking the rice grains. Serve hot in donne or banana leaves if available.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "ingredients": [
+          "Biryani rice",
+          "Chicken drumstick",
+          "Fried chicken pieces",
+          "Boiled eggs (halved)",
+          "Raita (yogurt-based side dish)"
+        ],
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "utensils": [
+          "Metal spoon"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "ingredients": [
+          "Chicken pieces",
+          "Biryani masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Wooden spoon",
+          "Small black dish for spices"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "ingredients": [
+          "Chickpea curry (visible in the bowl)"
+        ],
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "utensils": [
+          "Bowls (on the shelves)",
+          "Wooden shelves",
+          "Teapots and containers (on the shelves)"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "ingredients": [
+          "Chunks of meat",
+          "Greenish-yellow curry or sauce"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "utensils": [
+          "Large blue pot (or Dutch oven)",
+          "Wooden spatula"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "ingredients": [
+          "Fish pieces",
+          "Curry or soup base"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue pressure cooker (with a blue lid)"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat"
+        ],
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "utensils": [
+          "Spoon",
+          "Blue cooking pot"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "ingredients": [
+          "Ghee",
+          "Bay leaves",
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower (or similar spice)",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "utensils": [
+          "Blue cooking pot",
+          "Small black bowl",
+          "Ladle or spoon (to add ingredients)"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken leg",
+          "Fried items (potato fritters or similar)",
+          "Halved boiled egg",
+          "White coconut-based side dish (thokku or appalam)"
+        ],
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "utensils": [
+          "Banana leaf (as a serving plate)"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "ingredients": [
+          "Cinnamon stick",
+          "Cloves",
+          "Cardamom pods",
+          "Star anise",
+          "Mace",
+          "Stoneflower",
+          "Fennel seeds",
+          "Bay leaves",
+          "Onion (sliced)"
+        ],
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "utensils": [
+          "Blue and white cooking pot",
+          "Wooden spoon",
+          "Metal strainer"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.688
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "ingredients": [
+          "Pieces of meat",
+          "Brown sauce or seasoning",
+          "Green paste",
+          "Salt"
+        ],
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Blue cooking pot",
+          "Metal container for holding green paste"
+        ],
+        "confidence": 0.68
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "ingredients": [
+          "Chopped onions",
+          "Garlic",
+          "Curry leaves",
+          "Coriander (cilantro) leaves",
+          "Green chili",
+          "Turmeric powder",
+          "Curd (4 tablespoons)",
+          "Water (1/4 cup)"
+        ],
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "utensils": [
+          "Blue-handled cooking pot",
+          "Wooden spatula",
+          "Blender",
+          "Measuring cup"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "ingredients": [
+          "Chopped onions",
+          "Green chilies",
+          "Cashews",
+          "Mint leaves",
+          "Coriander leaves"
+        ],
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "utensils": [
+          "Blue-handled pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "ingredients": [
+          "2 cups of soaked rice",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=199s",
+        "ingredients": [
+          "Rice"
+        ],
+        "actions": [
+          "Adding rice to the pot"
+        ],
+        "utensils": [
+          "Blue pot",
+          "Glass bowl"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=189s",
+        "ingredients": [
+          "Vegetables (diced or sliced)",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Stirring soup",
+          "Adding ingredients to soup",
+          "Simmering soup"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Blue pot"
+        ],
+        "confidence": 0.654
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice"
+        ],
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "utensils": [
+          "None are clearly visible in the provided frames."
+        ],
+        "confidence": 0.645
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "ingredients": [
+          "Cooked dish (appetizer) on the plate"
+        ],
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "utensils": [
+          "Plate",
+          "Spoon"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.604
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "ingredients": [
+          "No specific ingredients are clearly identifiable from the video frames."
+        ],
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "ingredients": [
+          "Mixture in a plate (appears to be a prepared dish)"
+        ],
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "utensils": [
+          "None visibly used or mentioned in the frames"
+        ],
+        "confidence": 0.642
+      }
+    ]
+  }
+]

@@ -1,0 +1,2436 @@
+[
+  {
+    "audio_timestamp": "00:00:12,451 --> 00:00:27,689",
+    "audio_description": "Hello friends! Welcome to Mettur Kitchen! Today in Mettur Kitchen, we are going to prepare a delicious, ready-to-serve, super tasty chicken biryani. For this, we need to prepare a small masala which will give the biryani an excellent flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.664
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:27,689 --> 00:00:49,002",
+    "audio_description": "To make this, take a pan and add about one tablespoon of oil. Once the oil is hot, add about one tablespoon of chopped ginger — it’s roughly 20 grams. Along with that, add one tablespoon of garlic — crushed.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=29s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding ginger to the pan"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=39s",
+        "actions": [
+          "Adding garlic to the pot",
+          "Stirring garlic in the pot"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=109s",
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.505
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.543
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:49,002 --> 00:01:11,597",
+    "audio_description": "Add about 12 small onions, which I’ve chopped into two or three pieces each. Add them to the mix. After sautéing for a bit, add 5 green chilies sliced in half. Also add 5 cashew nuts, a handful of mint leaves, and a handful of coriander leaves.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=109s",
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=169s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Adding sliced tomatoes to the curry",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=189s",
+        "actions": [
+          "Stirring soup",
+          "Adding ingredients to soup",
+          "Simmering soup"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.646
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:12,474 --> 00:01:23,831",
+    "audio_description": "Once it cools down, transfer everything to a blender jar. Add about ¼ cup of thick yogurt, and finally ¼ cup of water. Grind everything well. I’ve already ground it to a paste like this.",
+    "aligned_chunks": [
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.593
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:24,153 --> 00:01:50,983",
+    "audio_description": "Now, for making the biryani, take a pot and add about 4 tablespoons of oil. Also add 3–4 tablespoons of ghee. Once it gets hot, add 2 bay leaves, 4 pieces of cinnamon, 5 cloves, 5 cardamoms, a bit of star anise, and a small...",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.486
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=29s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding ginger to the pan"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=39s",
+        "actions": [
+          "Adding garlic to the pot",
+          "Stirring garlic in the pot"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=109s",
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot"
+        ],
+        "confidence_score": 0.564
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=189s",
+        "actions": [
+          "Stirring soup",
+          "Adding ingredients to soup",
+          "Simmering soup"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=199s",
+        "actions": [
+          "Adding rice to the pot"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.489
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.446
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.565
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:50,983 --> 00:02:08,467",
+    "audio_description": "...fennel seed (sombu). Sauté until the onions turn golden brown — this is very important. As you can see now, the onions have turned a nice golden brown. At this stage, we need to add the chicken. I’m using ¾ kg of chicken with bones today.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=109s",
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.562
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:08,467 --> 00:02:28,733",
+    "audio_description": "Add the chicken and mix it well with the sautéed onions. After a thorough mix, add the following masala: ¼ teaspoon turmeric powder, 1 teaspoon coriander powder, and 1 teaspoon biryani masala (or chicken masala, if you don’t have biryani masala).",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=49s",
+        "actions": [
+          "Adding chopped onions to the pot",
+          "Stirring onions with a wooden spoon",
+          "Adding green chilies to the pot"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=109s",
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=189s",
+        "actions": [
+          "Stirring soup",
+          "Adding ingredients to soup",
+          "Simmering soup"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.508
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.619
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:28,733 --> 00:02:50,013",
+    "audio_description": "Mix it all thoroughly. Then add the ground masala paste we made earlier. Also add salt to taste — I’ve used a little more than 1 teaspoon, just as per taste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.655
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:52,104 --> 00:03:19,038",
+    "audio_description": "As you can see now, the chicken and masala are cooking well and everything looks beautiful. Now add half a tomato, chopped like this. Mix that in well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.827
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=59s",
+        "actions": [
+          "Adding cashews",
+          "Adding mint leaves",
+          "Adding coriander leaves",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=109s",
+        "actions": [
+          "Adding onions to the pot",
+          "Stirring onions in the pot"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.819
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.865
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.799
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.799
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.785
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.787
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:19,038 --> 00:03:43,287",
+    "audio_description": "Now you’ll see that the chicken, masala, and water are boiling nicely. Once it reaches this stage, we need to add the rice. Today I’m using 2 cups (400 grams) of seeraga samba rice. I’ve rinsed and cleaned it well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=199s",
+        "actions": [
+          "Adding rice to the pot"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.624
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:43,287 --> 00:04:08,987",
+    "audio_description": "Cook it on a medium flame. If you’re using a pressure cooker, give it just one whistle on medium flame. That way, when we open it, it’ll be cooked just right. Let it sit for 20–30 minutes undisturbed. Only then the biryani will be perfectly cooked and super tasty.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.489
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "confidence_score": 0.477
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=169s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Adding sliced tomatoes to the curry",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.506
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=259s",
+        "actions": [
+          "Tasting dish on plate",
+          "Holding plate with dish"
+        ],
+        "confidence_score": 0.491
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.457
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.553
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:08,987 --> 00:04:30,487",
+    "audio_description": "Today, I’ve made a little bit of chicken biryani. Along with it, I’ve added a boiled egg and curd raita — that’s it. Our delicious, aromatic chicken biryani is now ready! Let’s serve and taste it now.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=0s",
+        "actions": [
+          "Placing biryani on a banana leaf",
+          "Adding a chicken drumstick to the biryani",
+          "Placing fried chicken pieces beside the biryani",
+          "Placing boiled eggs beside the biryani",
+          "Adding raita beside the biryani"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=9s",
+        "actions": [
+          "Presenting rice and chicken",
+          "Talking about the dish",
+          "Gesturing to emphasize points"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=19s",
+        "actions": [
+          "Pouring oil into the pot"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=69s",
+        "actions": [
+          "Stirring onions and spices",
+          "Adding curd to the pot",
+          "Adding water to the pot"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=79s",
+        "actions": [
+          "Adding water to a saucepan",
+          "Blending the contents of the saucepan",
+          "Pouring oil into a pot",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=119s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken and spices with a wooden spoon"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=129s",
+        "actions": [
+          "Stirring chicken",
+          "Adding turmeric powder to the pot",
+          "Adding coriander powder to the pot"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=139s",
+        "actions": [
+          "Adding Biryani masala to chicken",
+          "Adding chilli powder to chicken",
+          "Stirring chicken and spices"
+        ],
+        "confidence_score": 0.843
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=149s",
+        "actions": [
+          "Stirring meat with wooden spatula",
+          "Pouring green paste into pot",
+          "Adding salt to pot"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Mixing meat with curry"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=209s",
+        "actions": [
+          "Adding soaked rice to the pot",
+          "Adding lemon juice to the pot"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=219s",
+        "actions": [
+          "Stirring curry",
+          "Placing lid on cooker",
+          "Cooking on medium heat",
+          "Turning off the heat and letting the cooker sit"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=239s",
+        "actions": [
+          "Scooping rice and meat with a spoon",
+          "Placing rice and meat on a banana leaf"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=249s",
+        "actions": [
+          "Placing fried items on the banana leaf",
+          "Placing halved boiled eggs on the banana leaf",
+          "Adding white coconut-based side dish to the banana leaf",
+          "Arranging rice and chicken leg on the banana leaf"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.75
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:31,836 --> 00:04:40,560",
+    "audio_description": "It tastes absolutely great! You too should definitely try this recipe at home. If you liked this video, please subscribe to Mettur Kitchen. May your day be bright and beautiful!",
+    "aligned_chunks": [
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=89s",
+        "actions": [
+          "Adding ghee to the pot",
+          "Adding bay leaves to the pot",
+          "Adding spices (cinnamon, cloves, cardamom, star anise, mace, stoneflower, fennel seeds) to the pot"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=99s",
+        "actions": [
+          "Adding spices to the pot",
+          "Stirring the spices",
+          "Adding onions to the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=179s",
+        "actions": [
+          "Stirring curry",
+          "Adding water to pot"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=229s",
+        "actions": [
+          "Cooking with a pressure cooker",
+          "Opening the pressure cooker lid to reveal the cooked dish"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=269s",
+        "actions": [
+          "Holding a plate",
+          "Savoring food (eating from the plate)"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "279-280",
+        "url": "https://www.youtube.com/watch?v=-DoPE08CvUI&t=279s",
+        "actions": [
+          "Holding a bowl of chickpea curry"
+        ],
+        "confidence_score": 0.702
+      }
+    ]
+  }
+]

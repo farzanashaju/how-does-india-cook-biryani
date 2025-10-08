@@ -1,0 +1,4408 @@
+[
+  {
+    "title": "Soak Rice",
+    "description": "Wash the basmati rice thoroughly under running water. Soak it in water for 30 minutes, then drain.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "ingredients": [
+          "Basmati rice",
+          "Coriander leaves",
+          "Mint leaves",
+          "Bay leaves",
+          "Cardamom pods",
+          "Dried red chilies"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "utensils": [
+          "Large pot",
+          "Cooking spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.829
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.824
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (possibly green beans)"
+        ],
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "utensils": [
+          "Metal colander",
+          "Large metal pot",
+          "Spatula"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "ingredients": [
+          "Rice",
+          "Spices (possibly including cardamom pods)"
+        ],
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.723
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom pods",
+          "Cinnamon stick",
+          "Green chilies",
+          "Cloves",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Spoon"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Green Cardamoms",
+          "Cinnamon stick",
+          "Cloves"
+        ],
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spatula",
+          "Metal pan"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "ingredients": [
+          "Cubed tofu",
+          "Water",
+          "Spices (not clearly identifiable)"
+        ],
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Wooden spatula",
+          "Teacup (for measuring water)"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Milk"
+        ],
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Red measuring cup",
+          "Pressure cooker lid"
+        ],
+        "confidence": 0.677
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.669
+      }
+    ]
+  },
+  {
+    "title": "Soak Saffron",
+    "description": "Warm the milk slightly and add saffron strands. Let it infuse and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Milk"
+        ],
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Red measuring cup",
+          "Pressure cooker lid"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.692
+      }
+    ]
+  },
+  {
+    "title": "Fry Onions",
+    "description": "Heat oil in a pan. Add thinly sliced onions and fry until golden brown and crisp. Stir occasionally to prevent burning.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "ingredients": [
+          "Onions",
+          "Ginger garlic paste"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "utensils": [
+          "Non-stick frying pan",
+          "Wooden spatula",
+          "Induction cooktop"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.673
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.671
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.657
+      }
+    ]
+  },
+  {
+    "title": "Separate Fried Onions",
+    "description": "Once fried, drain onions on paper towel. Set aside half for garnishing and use the other half for marination.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "ingredients": [
+          "Dry fried cumin seeds",
+          "Cardamom pods",
+          "Other dry spices"
+        ],
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Transfer spoon",
+          "Mixer jar"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "ingredients": [
+          "Onions",
+          "Ginger garlic paste"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "utensils": [
+          "Non-stick frying pan",
+          "Wooden spatula",
+          "Induction cooktop"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.67
+      }
+    ]
+  },
+  {
+    "title": "Prepare Nut Paste",
+    "description": "Grind cashew nuts and peeled almonds with a little water or milk to make a smooth, thick paste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "ingredients": [
+          "Cubed tofu",
+          "Water",
+          "Spices (not clearly identifiable)"
+        ],
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Wooden spatula",
+          "Teacup (for measuring water)"
+        ],
+        "confidence": 0.698
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom pods",
+          "Cinnamon stick",
+          "Green chilies",
+          "Cloves",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Spoon"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Milk"
+        ],
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Red measuring cup",
+          "Pressure cooker lid"
+        ],
+        "confidence": 0.688
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.677
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "ingredients": [
+          "Onions",
+          "Ginger garlic paste"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "utensils": [
+          "Non-stick frying pan",
+          "Wooden spatula",
+          "Induction cooktop"
+        ],
+        "confidence": 0.672
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.65
+      }
+    ]
+  },
+  {
+    "title": "Mix Marinade",
+    "description": "In a large bowl, combine curd, ginger-garlic paste, nut paste, fresh cream, garam masala, turmeric, red chili powder, white pepper, nutmeg, mace powder, salt, and half of the fried onions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "ingredients": [
+          "Onions",
+          "Ginger garlic paste"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "utensils": [
+          "Non-stick frying pan",
+          "Wooden spatula",
+          "Induction cooktop"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "ingredients": [
+          "Basmati rice",
+          "Coriander leaves",
+          "Mint leaves",
+          "Bay leaves",
+          "Cardamom pods",
+          "Dried red chilies"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "utensils": [
+          "Large pot",
+          "Cooking spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "ingredients": [
+          "Dry fried cumin seeds",
+          "Cardamom pods",
+          "Other dry spices"
+        ],
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Transfer spoon",
+          "Mixer jar"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=90s",
+        "ingredients": [
+          "Salt",
+          "Curd"
+        ],
+        "actions": [
+          "Adding salt",
+          "Adding curd",
+          "Whisking curd into the mixture",
+          "Sautéing well to combine curd"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Cooking pot"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "ingredients": [
+          "Chee (likely cumin seeds)",
+          "Cinnamon stick",
+          "Blade of mace",
+          "Black cardamom"
+        ],
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "utensils": [
+          "Skillet or frying pan",
+          "Green spoon"
+        ],
+        "confidence": 0.737
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=180s",
+        "ingredients": [
+          "Garlic cloves",
+          "Green cardamom",
+          "Bay leaf",
+          "Green chilies",
+          "Salt"
+        ],
+        "actions": [
+          "Adding garlic cloves to the pot",
+          "Adding green cardamom to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding slitted green chilies to the pot",
+          "Adding salt to the pot",
+          "Stirring the pot contents"
+        ],
+        "utensils": [
+          "Large pot",
+          "Spatula"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.688
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "ingredients": [
+          "Chunks of tofu",
+          "Charcoal briquettes"
+        ],
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "utensils": [
+          "Stainless steel pot with a lid",
+          "Pressure cooker (for the tofu)",
+          "Metal strainer"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.681
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "title": "Marinate Meat",
+    "description": "Add chicken or mutton pieces to the marinade. Mix well and let it rest for at least 1 hour, preferably in the refrigerator.",
+    "aligned_chunks": [
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.659
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.641
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Green Cardamoms",
+          "Cinnamon stick",
+          "Cloves"
+        ],
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spatula",
+          "Metal pan"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.626
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.619
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.596
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.571
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.551
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.545
+      }
+    ]
+  },
+  {
+    "title": "Heat Ghee and Whole Spices",
+    "description": "In a heavy-bottomed pan or handi, heat ghee. Add whole spices: cardamoms, bay leaf, cinnamon stick, and cloves. Sauté for a few seconds until aromatic.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "ingredients": [
+          "Chee (likely cumin seeds)",
+          "Cinnamon stick",
+          "Blade of mace",
+          "Black cardamom"
+        ],
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "utensils": [
+          "Skillet or frying pan",
+          "Green spoon"
+        ],
+        "confidence": 0.681
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=180s",
+        "ingredients": [
+          "Garlic cloves",
+          "Green cardamom",
+          "Bay leaf",
+          "Green chilies",
+          "Salt"
+        ],
+        "actions": [
+          "Adding garlic cloves to the pot",
+          "Adding green cardamom to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding slitted green chilies to the pot",
+          "Adding salt to the pot",
+          "Stirring the pot contents"
+        ],
+        "utensils": [
+          "Large pot",
+          "Spatula"
+        ],
+        "confidence": 0.663
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=60s",
+        "ingredients": [
+          "2 Green Cardamoms",
+          "1 Bay Leaf",
+          "1 tsp Shahi Jeera (Cumin Seeds)",
+          "1/2 cup Onion slices"
+        ],
+        "actions": [
+          "Adding green cardamoms to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Stirring the spices in the pot",
+          "Adding onion slices to the pot",
+          "Stirring the onions in the pot",
+          "Frying onions until light golden"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Cutting board"
+        ],
+        "confidence": 0.656
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Green Cardamoms",
+          "Cinnamon stick",
+          "Cloves"
+        ],
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spatula",
+          "Metal pan"
+        ],
+        "confidence": 0.654
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "ingredients": [
+          "Cubed tofu",
+          "Water",
+          "Spices (not clearly identifiable)"
+        ],
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Wooden spatula",
+          "Teacup (for measuring water)"
+        ],
+        "confidence": 0.653
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=140s",
+        "ingredients": [
+          "Burnt charcoal",
+          "Cardamoms",
+          "Tofu cubes",
+          "Spice mixture (yellowish-green curry base)"
+        ],
+        "actions": [
+          "Placing burnt charcoal with cardamoms and a bit of the spice mixture onto tofu cubes",
+          "Adding ingredients to the pan using a metal spoon"
+        ],
+        "utensils": [
+          "Bowl for holding charcoal and spices",
+          "Metal spoon"
+        ],
+        "confidence": 0.644
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "ingredients": [
+          "Cinnamon sticks",
+          "Black cardamom seeds",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "utensils": [
+          "Large stainless steel pan",
+          "Wooden spoon (for stirring)"
+        ],
+        "confidence": 0.644
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "ingredients": [
+          "Dry fried cumin seeds",
+          "Cardamom pods",
+          "Other dry spices"
+        ],
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Transfer spoon",
+          "Mixer jar"
+        ],
+        "confidence": 0.643
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.641
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Milk"
+        ],
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Red measuring cup",
+          "Pressure cooker lid"
+        ],
+        "confidence": 0.64
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "ingredients": [
+          "Basmati rice",
+          "Coriander leaves",
+          "Mint leaves",
+          "Bay leaves",
+          "Cardamom pods",
+          "Dried red chilies"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "utensils": [
+          "Large pot",
+          "Cooking spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.637
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=30s",
+        "ingredients": [
+          "Black cardamom",
+          "Shahi jeera (cumin seeds)",
+          "Saunf (fennel seeds)",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Adding black cardamom",
+          "Adding cumin seeds",
+          "Adding fennel seeds",
+          "Stirring spices",
+          "Roasting spices on low flame"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=150s",
+        "ingredients": [
+          "Burnt charcoal",
+          "Cardamoms",
+          "Chilies"
+        ],
+        "actions": [
+          "Placing burnt charcoal with cardamoms and chilies in a small metal bowl",
+          "Covering the saucepan with the glass lid",
+          "Simmering the mixture for 3 minutes"
+        ],
+        "utensils": [
+          "Ladle",
+          "Small metal bowl",
+          "Saucepan",
+          "Glass lid"
+        ],
+        "confidence": 0.635
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom pods",
+          "Cinnamon stick",
+          "Green chilies",
+          "Cloves",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Spoon"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.63
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.628
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.624
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "ingredients": [
+          "Rice",
+          "Spices (possibly including cardamom pods)"
+        ],
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.575
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.572
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.56
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.548
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.517
+      }
+    ]
+  },
+  {
+    "title": "Cook Marinated Meat",
+    "description": "Add the marinated meat to the pan. Cook on medium heat, stirring occasionally.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.673
+      }
+    ]
+  },
+  {
+    "title": "Simmer Until Tender",
+    "description": "Cover and cook until the meat is tender and oil starts to separate from the masala. Add a little water if needed.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "ingredients": [
+          "Cubed tofu",
+          "Water",
+          "Spices (not clearly identifiable)"
+        ],
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Wooden spatula",
+          "Teacup (for measuring water)"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.723
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom pods",
+          "Cinnamon stick",
+          "Green chilies",
+          "Cloves",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Spoon"
+        ],
+        "confidence": 0.703
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.613
+      }
+    ]
+  },
+  {
+    "title": "Boil Water for Rice",
+    "description": "In a large pot, bring water to a boil. Add salt and optional whole spices (e.g., a bay leaf, cardamom).",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=60s",
+        "ingredients": [
+          "2 Green Cardamoms",
+          "1 Bay Leaf",
+          "1 tsp Shahi Jeera (Cumin Seeds)",
+          "1/2 cup Onion slices"
+        ],
+        "actions": [
+          "Adding green cardamoms to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Stirring the spices in the pot",
+          "Adding onion slices to the pot",
+          "Stirring the onions in the pot",
+          "Frying onions until light golden"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Cutting board"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=180s",
+        "ingredients": [
+          "Garlic cloves",
+          "Green cardamom",
+          "Bay leaf",
+          "Green chilies",
+          "Salt"
+        ],
+        "actions": [
+          "Adding garlic cloves to the pot",
+          "Adding green cardamom to the pot",
+          "Adding a bay leaf to the pot",
+          "Adding slitted green chilies to the pot",
+          "Adding salt to the pot",
+          "Stirring the pot contents"
+        ],
+        "utensils": [
+          "Large pot",
+          "Spatula"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "ingredients": [
+          "Chee (likely cumin seeds)",
+          "Cinnamon stick",
+          "Blade of mace",
+          "Black cardamom"
+        ],
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "utensils": [
+          "Skillet or frying pan",
+          "Green spoon"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=170s",
+        "ingredients": [
+          "Cinnamon sticks",
+          "Black cardamom seeds",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding cinnamon sticks to the pan",
+          "Adding black cardamom to the water",
+          "Adding cumin seeds to the water"
+        ],
+        "utensils": [
+          "Large stainless steel pan",
+          "Wooden spoon (for stirring)"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "ingredients": [
+          "Basmati rice",
+          "Coriander leaves",
+          "Mint leaves",
+          "Bay leaves",
+          "Cardamom pods",
+          "Dried red chilies"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "utensils": [
+          "Large pot",
+          "Cooking spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom pods",
+          "Cinnamon stick",
+          "Green chilies",
+          "Cloves",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Spoon"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "ingredients": [
+          "Cubed tofu",
+          "Water",
+          "Spices (not clearly identifiable)"
+        ],
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Wooden spatula",
+          "Teacup (for measuring water)"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=30s",
+        "ingredients": [
+          "Black cardamom",
+          "Shahi jeera (cumin seeds)",
+          "Saunf (fennel seeds)",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Adding black cardamom",
+          "Adding cumin seeds",
+          "Adding fennel seeds",
+          "Stirring spices",
+          "Roasting spices on low flame"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "ingredients": [
+          "Dry fried cumin seeds",
+          "Cardamom pods",
+          "Other dry spices"
+        ],
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Transfer spoon",
+          "Mixer jar"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=90s",
+        "ingredients": [
+          "Salt",
+          "Curd"
+        ],
+        "actions": [
+          "Adding salt",
+          "Adding curd",
+          "Whisking curd into the mixture",
+          "Sautéing well to combine curd"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Cooking pot"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "ingredients": [
+          "Rice",
+          "Spices (possibly including cardamom pods)"
+        ],
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.628
+      }
+    ]
+  },
+  {
+    "title": "Parboil Rice",
+    "description": "Add soaked rice to the boiling water. Cook until 70% done (grains should still have a slight bite), then drain thoroughly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "ingredients": [
+          "Basmati rice",
+          "Coriander leaves",
+          "Mint leaves",
+          "Bay leaves",
+          "Cardamom pods",
+          "Dried red chilies"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "utensils": [
+          "Large pot",
+          "Cooking spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.817
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (possibly green beans)"
+        ],
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "utensils": [
+          "Metal colander",
+          "Large metal pot",
+          "Spatula"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "ingredients": [
+          "Rice",
+          "Spices (possibly including cardamom pods)"
+        ],
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "ingredients": [
+          "Cubed tofu",
+          "Water",
+          "Spices (not clearly identifiable)"
+        ],
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Wooden spatula",
+          "Teacup (for measuring water)"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom pods",
+          "Cinnamon stick",
+          "Green chilies",
+          "Cloves",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Spoon"
+        ],
+        "confidence": 0.682
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Green Cardamoms",
+          "Cinnamon stick",
+          "Cloves"
+        ],
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spatula",
+          "Metal pan"
+        ],
+        "confidence": 0.673
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.663
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Milk"
+        ],
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Red measuring cup",
+          "Pressure cooker lid"
+        ],
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "title": "Start Biryani Layering",
+    "description": "In a thick-bottomed pan or handi, spread a layer of cooked meat with masala at the bottom.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (possibly green beans)"
+        ],
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "utensils": [
+          "Metal colander",
+          "Large metal pot",
+          "Spatula"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "ingredients": [
+          "Chee (likely cumin seeds)",
+          "Cinnamon stick",
+          "Blade of mace",
+          "Black cardamom"
+        ],
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "utensils": [
+          "Skillet or frying pan",
+          "Green spoon"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.732
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "ingredients": [
+          "Chunks of tofu",
+          "Charcoal briquettes"
+        ],
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "utensils": [
+          "Stainless steel pot with a lid",
+          "Pressure cooker (for the tofu)",
+          "Metal strainer"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.698
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.664
+      }
+    ]
+  },
+  {
+    "title": "Add Rice Layer",
+    "description": "Spread a layer of parboiled rice evenly over the meat layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (possibly green beans)"
+        ],
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "utensils": [
+          "Metal colander",
+          "Large metal pot",
+          "Spatula"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.82
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Green Cardamoms",
+          "Cinnamon stick",
+          "Cloves"
+        ],
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spatula",
+          "Metal pan"
+        ],
+        "confidence": 0.816
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "ingredients": [
+          "Rice",
+          "Spices (possibly including cardamom pods)"
+        ],
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=50s",
+        "ingredients": [
+          "Chee (likely cumin seeds)",
+          "Cinnamon stick",
+          "Blade of mace",
+          "Black cardamom"
+        ],
+        "actions": [
+          "Adding cumin seeds to the skillet",
+          "Adding cinnamon stick to the skillet",
+          "Adding mace blade to the skillet",
+          "Adding black cardamom to the skillet"
+        ],
+        "utensils": [
+          "Skillet or frying pan",
+          "Green spoon"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Milk"
+        ],
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Red measuring cup",
+          "Pressure cooker lid"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "ingredients": [
+          "Basmati rice",
+          "Coriander leaves",
+          "Mint leaves",
+          "Bay leaves",
+          "Cardamom pods",
+          "Dried red chilies"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "utensils": [
+          "Large pot",
+          "Cooking spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=160s",
+        "ingredients": [
+          "Chunks of tofu",
+          "Charcoal briquettes"
+        ],
+        "actions": [
+          "Removing charcoal briquettes",
+          "Holding a strainer with charcoal aside",
+          "Placing tofu chunks in a pot"
+        ],
+        "utensils": [
+          "Stainless steel pot with a lid",
+          "Pressure cooker (for the tofu)",
+          "Metal strainer"
+        ],
+        "confidence": 0.765
+      }
+    ]
+  },
+  {
+    "title": "Add Aromatics",
+    "description": "Drizzle the saffron-infused milk, rose water, and kewra water over the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Vegetables (possibly green beans)"
+        ],
+        "actions": [
+          "Draining rice",
+          "Transferring rice into a pot",
+          "Sprinkling masala on rice"
+        ],
+        "utensils": [
+          "Metal colander",
+          "Large metal pot",
+          "Spatula"
+        ],
+        "confidence": 0.854
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.841
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.833
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "ingredients": [
+          "Basmati rice",
+          "Coriander leaves",
+          "Mint leaves",
+          "Bay leaves",
+          "Cardamom pods",
+          "Dried red chilies"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "utensils": [
+          "Large pot",
+          "Cooking spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.83
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=190s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom pods",
+          "Cinnamon stick",
+          "Green chilies",
+          "Cloves",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Boiling water",
+          "Stirring spices in water"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Spoon"
+        ],
+        "confidence": 0.815
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.811
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=130s",
+        "ingredients": [
+          "Cubed tofu",
+          "Water",
+          "Spices (not clearly identifiable)"
+        ],
+        "actions": [
+          "Stirring tofu",
+          "Adding water to the pan",
+          "Sauteing tofu and spices"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Wooden spatula",
+          "Teacup (for measuring water)"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=240s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Milk"
+        ],
+        "actions": [
+          "Drizzling ghee",
+          "Adding milk",
+          "Covering the pressure cooker",
+          "Dhum on High flame for 4 minutes and Low flame for 7 minutes"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Red measuring cup",
+          "Pressure cooker lid"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=250s",
+        "ingredients": [
+          "Rice",
+          "Spices (possibly including cardamom pods)"
+        ],
+        "actions": [
+          "Covering the pressure cooker",
+          "Resting the rice for 30 minutes",
+          "Fluffing the cooked rice with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=20s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Green Cardamoms",
+          "Cinnamon stick",
+          "Cloves"
+        ],
+        "actions": [
+          "Serving rice and chicken",
+          "Placing cardamoms in the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cloves to the pan"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spatula",
+          "Metal pan"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.747
+      }
+    ]
+  },
+  {
+    "title": "Add Herbs and Onions",
+    "description": "Sprinkle chopped mint leaves, coriander leaves, and the remaining fried onions on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=200s",
+        "ingredients": [
+          "Basmati rice",
+          "Coriander leaves",
+          "Mint leaves",
+          "Bay leaves",
+          "Cardamom pods",
+          "Dried red chilies"
+        ],
+        "actions": [
+          "Boiling water",
+          "Adding coriander and mint choppings",
+          "Adding soaked Basmati rice to boiling water"
+        ],
+        "utensils": [
+          "Large pot",
+          "Cooking spatula",
+          "Measuring cup"
+        ],
+        "confidence": 0.903
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=70s",
+        "ingredients": [
+          "Onions",
+          "Ginger garlic paste"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Adding ginger garlic paste",
+          "Sauteing ingredients"
+        ],
+        "utensils": [
+          "Non-stick frying pan",
+          "Wooden spatula",
+          "Induction cooktop"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=80s",
+        "ingredients": [
+          "Ground masala",
+          "Onions",
+          "Water",
+          "Salt"
+        ],
+        "actions": [
+          "Adding ground masala to onions",
+          "Pouring water into the pan",
+          "Stirring the contents",
+          "Adding salt"
+        ],
+        "utensils": [
+          "Large cooking pan/pot",
+          "Yellow measuring cup",
+          "Wooden spoon"
+        ],
+        "confidence": 0.819
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "ingredients": [
+          "Dry fried cumin seeds",
+          "Cardamom pods",
+          "Other dry spices"
+        ],
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Transfer spoon",
+          "Mixer jar"
+        ],
+        "confidence": 0.817
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=10s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Bay leaves",
+          "Fresh curry leaves"
+        ],
+        "actions": [
+          "Serving rice",
+          "Adding bay leaves and curry leaves to rice"
+        ],
+        "utensils": [
+          "Plate with ornate edges"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=230s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee (clarified butter)",
+          "Chopped green onions"
+        ],
+        "actions": [
+          "Straining rice with a colander",
+          "Drizzling ghee over rice",
+          "Stirring the rice"
+        ],
+        "utensils": [
+          "Ladle",
+          "Colander",
+          "Large cooking pot",
+          "Spatula (red handle)"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.726
+      }
+    ]
+  },
+  {
+    "title": "Seal the Pot",
+    "description": "Cover the pan with a tight-fitting lid or seal with dough to trap the steam.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.717
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.63
+      }
+    ]
+  },
+  {
+    "title": "Dum Cook the Biryani",
+    "description": "Cook on low heat for 20–25 minutes to allow flavors to meld using the traditional 'dum' method.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.59
+      }
+    ]
+  },
+  {
+    "title": "Rest Before Serving",
+    "description": "Let the biryani rest for 5–10 minutes after turning off the heat before opening the lid.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.642
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.56
+      }
+    ]
+  },
+  {
+    "title": "Serve Mughlai Biryani",
+    "description": "Gently mix the layers before serving to preserve texture. Serve hot with raita or salan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=270s",
+        "ingredients": [
+          "Cooked rice",
+          "Spiced chicken (or meat pieces)",
+          "A yellow vegetable (may be bell pepper or similar)"
+        ],
+        "actions": [
+          "Transferring cooked rice",
+          "Piling rice on the plate",
+          "Serving spiced chicken with rice",
+          "Adding text instruction: \"Serve with Spicy Mirchi Ka Salan\""
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Plate with a banana leaf"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "290-293",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=290s",
+        "ingredients": [
+          "Rice",
+          "Pieces of fried food (possibly paneer or meat)",
+          "Coriander leaves",
+          "Raita or yogurt-based sauce"
+        ],
+        "actions": [
+          "Serving rice and fried food"
+        ],
+        "utensils": [
+          "Golden spoon or serving spoon"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=0s",
+        "ingredients": [
+          "Cooked rice",
+          "Small pieces of fried or cooked food (possibly paneer or fried plantains)"
+        ],
+        "actions": [
+          "Scooping rice with a wooden spoon",
+          "Serving rice onto a banana leaf"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Black non-stick pan",
+          "Green banana leaf for serving"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=260s",
+        "ingredients": [
+          "Cooked rice",
+          "Spices (scattered throughout the rice)"
+        ],
+        "actions": [
+          "Flipping rice",
+          "Showing rice texture"
+        ],
+        "utensils": [
+          "Wooden spoon"
+        ],
+        "confidence": 0.663
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=100s",
+        "ingredients": [
+          "Green chili paste",
+          "Spiced ingredients (onions and spices)"
+        ],
+        "actions": [
+          "Adding green chili paste to the pan",
+          "Stirring the mixture in the pan",
+          "Sautéing the mixture"
+        ],
+        "utensils": [
+          "Yellow spatula",
+          "Black cooking pan",
+          "Stovetop"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=210s",
+        "ingredients": [
+          "Basmati rice",
+          "Spices (as implied by the bay leaf and other seasoning in the pot)",
+          "Green chilies (visible in the pot)"
+        ],
+        "actions": [
+          "Adding soaked Basmati rice to the pot",
+          "Stirring the contents in the pot",
+          "Cooking on high flame to reach 80% heat"
+        ],
+        "utensils": [
+          "Metal pot",
+          "Metal strainer (for draining rice)",
+          "Ladle"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=280s",
+        "ingredients": [
+          "Rice",
+          "Mirchi Ka Salan (Spicy Chilli Slaw)",
+          "Mint leaves (as garnish)",
+          "Various vegetables (seen in background)"
+        ],
+        "actions": [
+          "Holding the serving plate",
+          "Placing garnish on the rice",
+          "Serving rice onto a plate"
+        ],
+        "utensils": [
+          "Serving plate (with decorative golden border)",
+          "Pair of serving tongs"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=80lt5q4HTuE&t=40s",
+        "ingredients": [
+          "Dry fried cumin seeds",
+          "Cardamom pods",
+          "Other dry spices"
+        ],
+        "actions": [
+          "Frying spices",
+          "Transferring spices to a mixer jar",
+          "Grinding spices into a fine powder"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Transfer spoon",
+          "Mixer jar"
+        ],
+        "confidence": 0.651
+      }
+    ]
+  }
+]

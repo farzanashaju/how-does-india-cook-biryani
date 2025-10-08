@@ -1,0 +1,4588 @@
+[
+  {
+    "title": "Prepare Marinade",
+    "description": "In a large bowl, combine yogurt, ginger-garlic paste, red chili powder, turmeric, salt, and lemon juice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Turmeric powder",
+          "Red chili powder"
+        ],
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Measuring spoon (for turmeric powder)",
+          "Measuring spoon (for red chili powder)"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=90s",
+        "ingredients": [
+          "Chicken pieces",
+          "Dried spices (possibly cumin seeds)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to the chicken",
+          "Stirring chicken with a wooden spatula",
+          "Adding salt to the chicken and spices mixture"
+        ],
+        "utensils": [
+          "Deep non-stick pan",
+          "White plate",
+          "Metal spoon",
+          "Wooden spatula"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "ingredients": [
+          "White rice",
+          "Red chili powder",
+          "Ground black pepper"
+        ],
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "utensils": [
+          "Metal pan",
+          "Spice shaker",
+          "Wooden spatula"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes",
+          "Cream or yogurt",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Green measuring cup",
+          "Cooking pan"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "ingredients": [
+          "Mustard seeds",
+          "Salt",
+          "Finely chopped onions"
+        ],
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "utensils": [
+          "A black cooking pot",
+          "A white bowl",
+          "A wooden spatula"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=210s",
+        "ingredients": [
+          "White rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding rice to a pot",
+          "Stirring rice",
+          "Pouring red sauce onto rice"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.732
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.709
+      }
+    ]
+  },
+  {
+    "title": "Marinate the Meat",
+    "description": "Add the mutton or chicken pieces to the marinade. Mix well and let it rest for at least 1-2 hours in the refrigerator.",
+    "aligned_chunks": [
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=90s",
+        "ingredients": [
+          "Chicken pieces",
+          "Dried spices (possibly cumin seeds)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to the chicken",
+          "Stirring chicken with a wooden spatula",
+          "Adding salt to the chicken and spices mixture"
+        ],
+        "utensils": [
+          "Deep non-stick pan",
+          "White plate",
+          "Metal spoon",
+          "Wooden spatula"
+        ],
+        "confidence": 0.673
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=70s",
+        "ingredients": [
+          "Chicken pieces",
+          "Oil",
+          "Spices (e.g., bay leaves, cardamom pods)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken pieces with a spatula"
+        ],
+        "utensils": [
+          "Green bowl",
+          "Large black cooking pot",
+          "Wooden spatula"
+        ],
+        "confidence": 0.649
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.632
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Dark-colored spices or sauce (possibly soy sauce or spices)"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in a pan with sauce"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Non-stick frying pan"
+        ],
+        "confidence": 0.632
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken in pan",
+          "Adding potatoes to pan"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Slotted spatula",
+          "White bowl"
+        ],
+        "confidence": 0.618
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.605
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.592
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Turmeric powder",
+          "Red chili powder"
+        ],
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Measuring spoon (for turmeric powder)",
+          "Measuring spoon (for red chili powder)"
+        ],
+        "confidence": 0.59
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.585
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "ingredients": [
+          "Tomatoes",
+          "Chicken",
+          "Potatoes",
+          "Tomato slices (added)",
+          "Curry or sauce (reddish-brown liquid)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "utensils": [
+          "Pot or pan",
+          "Wooden spoon",
+          "Ladle"
+        ],
+        "confidence": 0.58
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.579
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes",
+          "Cream or yogurt",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Green measuring cup",
+          "Cooking pan"
+        ],
+        "confidence": 0.574
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.554
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.553
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.499
+      }
+    ]
+  },
+  {
+    "title": "Prepare Potatoes",
+    "description": "Peel and cut potatoes in halves. Rinse and pat them dry.",
+    "aligned_chunks": [
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=160s",
+        "ingredients": [
+          "Water",
+          "Shredded potatoes",
+          "Sugar"
+        ],
+        "actions": [
+          "Adding shredded potatoes to the water",
+          "Adding sugar to the pot",
+          "Boiling the mixture",
+          "Stirring the contents with a wooden spoon",
+          "Pouring ingredients into the pot"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Sieve"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken in pan",
+          "Adding potatoes to pan"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Slotted spatula",
+          "White bowl"
+        ],
+        "confidence": 0.774
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "ingredients": [
+          "Tomatoes",
+          "Chicken",
+          "Potatoes",
+          "Tomato slices (added)",
+          "Curry or sauce (reddish-brown liquid)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "utensils": [
+          "Pot or pan",
+          "Wooden spoon",
+          "Ladle"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes",
+          "Cream or yogurt",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Green measuring cup",
+          "Cooking pan"
+        ],
+        "confidence": 0.712
+      }
+    ]
+  },
+  {
+    "title": "Fry Potatoes",
+    "description": "Heat oil in a deep pan and fry the potato halves until golden brown. Remove and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.688
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=70s",
+        "ingredients": [
+          "Chicken pieces",
+          "Oil",
+          "Spices (e.g., bay leaves, cardamom pods)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken pieces with a spatula"
+        ],
+        "utensils": [
+          "Green bowl",
+          "Large black cooking pot",
+          "Wooden spatula"
+        ],
+        "confidence": 0.681
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.657
+      }
+    ]
+  },
+  {
+    "title": "Heat Oil and Fry Whole Spices",
+    "description": "In a large pot, heat oil. Add cumin seeds, black peppercorns, cloves, cardamoms, cinnamon, and bay leaf. Fry for 30-40 seconds until fragrant.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.659
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.651
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.642
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.637
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=90s",
+        "ingredients": [
+          "Chicken pieces",
+          "Dried spices (possibly cumin seeds)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to the chicken",
+          "Stirring chicken with a wooden spatula",
+          "Adding salt to the chicken and spices mixture"
+        ],
+        "utensils": [
+          "Deep non-stick pan",
+          "White plate",
+          "Metal spoon",
+          "Wooden spatula"
+        ],
+        "confidence": 0.633
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "ingredients": [
+          "Mustard seeds",
+          "Salt",
+          "Finely chopped onions"
+        ],
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "utensils": [
+          "A black cooking pot",
+          "A white bowl",
+          "A wooden spatula"
+        ],
+        "confidence": 0.625
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.623
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "ingredients": [
+          "White rice",
+          "Red chili powder",
+          "Ground black pepper"
+        ],
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "utensils": [
+          "Metal pan",
+          "Spice shaker",
+          "Wooden spatula"
+        ],
+        "confidence": 0.623
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.597
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=70s",
+        "ingredients": [
+          "Chicken pieces",
+          "Oil",
+          "Spices (e.g., bay leaves, cardamom pods)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken pieces with a spatula"
+        ],
+        "utensils": [
+          "Green bowl",
+          "Large black cooking pot",
+          "Wooden spatula"
+        ],
+        "confidence": 0.571
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.568
+      }
+    ]
+  },
+  {
+    "title": "Add and Fry Onions",
+    "description": "Add sliced onions to the pot. Fry them on medium heat until deep golden brown, stirring occasionally.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "ingredients": [
+          "Mustard seeds",
+          "Salt",
+          "Finely chopped onions"
+        ],
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "utensils": [
+          "A black cooking pot",
+          "A white bowl",
+          "A wooden spatula"
+        ],
+        "confidence": 0.845
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.816
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=190s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Lime wedges",
+          "Fresh green herbs (cilantro)"
+        ],
+        "actions": [
+          "Adding lime wedges to the pan",
+          "Sprinkling fresh green herbs over the dish",
+          "Stirring the mixture in the pan"
+        ],
+        "utensils": [
+          "A deep cooking pan (not clearly identifiable beyond its shape and use)"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.689
+      }
+    ]
+  },
+  {
+    "title": "Cook Tomatoes",
+    "description": "Add chopped tomatoes to the browned onions. Cook until the tomatoes are soft and the mixture thickens.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "ingredients": [
+          "Mustard seeds",
+          "Salt",
+          "Finely chopped onions"
+        ],
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "utensils": [
+          "A black cooking pot",
+          "A white bowl",
+          "A wooden spatula"
+        ],
+        "confidence": 0.823
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "ingredients": [
+          "Tomatoes",
+          "Chicken",
+          "Potatoes",
+          "Tomato slices (added)",
+          "Curry or sauce (reddish-brown liquid)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "utensils": [
+          "Pot or pan",
+          "Wooden spoon",
+          "Ladle"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=190s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Lime wedges",
+          "Fresh green herbs (cilantro)"
+        ],
+        "actions": [
+          "Adding lime wedges to the pan",
+          "Sprinkling fresh green herbs over the dish",
+          "Stirring the mixture in the pan"
+        ],
+        "utensils": [
+          "A deep cooking pan (not clearly identifiable beyond its shape and use)"
+        ],
+        "confidence": 0.723
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.672
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=10s",
+        "ingredients": [
+          "Egg mixture"
+        ],
+        "actions": [
+          "Pouring egg mixture into the pan"
+        ],
+        "utensils": [
+          "Black non-stick pan",
+          "White bowl"
+        ],
+        "confidence": 0.669
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.644
+      }
+    ]
+  },
+  {
+    "title": "Add Marinated Meat",
+    "description": "Add the marinated meat along with all the marinade to the pot. Stir well to combine with the onion-tomato base.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.681
+      }
+    ]
+  },
+  {
+    "title": "Cook Meat Until Tender",
+    "description": "Cover and cook the meat on medium heat until tender and oil separates from the masala. Add water as needed during cooking.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.693
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=160s",
+        "ingredients": [
+          "Water",
+          "Shredded potatoes",
+          "Sugar"
+        ],
+        "actions": [
+          "Adding shredded potatoes to the water",
+          "Adding sugar to the pot",
+          "Boiling the mixture",
+          "Stirring the contents with a wooden spoon",
+          "Pouring ingredients into the pot"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Sieve"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.666
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=70s",
+        "ingredients": [
+          "Chicken pieces",
+          "Oil",
+          "Spices (e.g., bay leaves, cardamom pods)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken pieces with a spatula"
+        ],
+        "utensils": [
+          "Green bowl",
+          "Large black cooking pot",
+          "Wooden spatula"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.651
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.619
+      }
+    ]
+  },
+  {
+    "title": "Add Powdered Spices",
+    "description": "Mix in coriander powder and garam masala powder. Cook for a few more minutes to deepen the flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Turmeric powder",
+          "Red chili powder"
+        ],
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Measuring spoon (for turmeric powder)",
+          "Measuring spoon (for red chili powder)"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "ingredients": [
+          "White rice",
+          "Red chili powder",
+          "Ground black pepper"
+        ],
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "utensils": [
+          "Metal pan",
+          "Spice shaker",
+          "Wooden spatula"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.69
+      }
+    ]
+  },
+  {
+    "title": "Add Fried Potatoes and Herbs",
+    "description": "Add the fried potatoes, chopped mint leaves, coriander leaves, and slit green chilies. Stir gently to blend.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.777
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=190s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Lime wedges",
+          "Fresh green herbs (cilantro)"
+        ],
+        "actions": [
+          "Adding lime wedges to the pan",
+          "Sprinkling fresh green herbs over the dish",
+          "Stirring the mixture in the pan"
+        ],
+        "utensils": [
+          "A deep cooking pan (not clearly identifiable beyond its shape and use)"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "ingredients": [
+          "Mustard seeds",
+          "Salt",
+          "Finely chopped onions"
+        ],
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "utensils": [
+          "A black cooking pot",
+          "A white bowl",
+          "A wooden spatula"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=160s",
+        "ingredients": [
+          "Water",
+          "Shredded potatoes",
+          "Sugar"
+        ],
+        "actions": [
+          "Adding shredded potatoes to the water",
+          "Adding sugar to the pot",
+          "Boiling the mixture",
+          "Stirring the contents with a wooden spoon",
+          "Pouring ingredients into the pot"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Sieve"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken in pan",
+          "Adding potatoes to pan"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Slotted spatula",
+          "White bowl"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.732
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=70s",
+        "ingredients": [
+          "Chicken pieces",
+          "Oil",
+          "Spices (e.g., bay leaves, cardamom pods)"
+        ],
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken pieces with a spatula"
+        ],
+        "utensils": [
+          "Green bowl",
+          "Large black cooking pot",
+          "Wooden spatula"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "ingredients": [
+          "Tomatoes",
+          "Chicken",
+          "Potatoes",
+          "Tomato slices (added)",
+          "Curry or sauce (reddish-brown liquid)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "utensils": [
+          "Pot or pan",
+          "Wooden spoon",
+          "Ladle"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes",
+          "Cream or yogurt",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Green measuring cup",
+          "Cooking pan"
+        ],
+        "confidence": 0.655
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.627
+      }
+    ]
+  },
+  {
+    "title": "Rinse and Soak Rice",
+    "description": "Rinse the basmati rice in water 2-3 times. Soak in water for 30 minutes, then drain.",
+    "aligned_chunks": [
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "ingredients": [
+          "White rice",
+          "Saffron strands",
+          "Ground spices"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "utensils": [
+          "Mixing spoon",
+          "Lid for the pot",
+          "Pot or pan for cooking rice"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=170s",
+        "ingredients": [
+          "Cooked rice"
+        ],
+        "actions": [
+          "Transferring rice from pot",
+          "Placing lid on pressure cooker",
+          "Removing pressure cooker lid"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Stainless steel pot",
+          "Strainer",
+          "Pressure cooker"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "ingredients": [
+          "White rice",
+          "Red chili powder",
+          "Ground black pepper"
+        ],
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "utensils": [
+          "Metal pan",
+          "Spice shaker",
+          "Wooden spatula"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=210s",
+        "ingredients": [
+          "White rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding rice to a pot",
+          "Stirring rice",
+          "Pouring red sauce onto rice"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.659
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=160s",
+        "ingredients": [
+          "Water",
+          "Shredded potatoes",
+          "Sugar"
+        ],
+        "actions": [
+          "Adding shredded potatoes to the water",
+          "Adding sugar to the pot",
+          "Boiling the mixture",
+          "Stirring the contents with a wooden spoon",
+          "Pouring ingredients into the pot"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Sieve"
+        ],
+        "confidence": 0.637
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.52
+      }
+    ]
+  },
+  {
+    "title": "Boil Water for Rice",
+    "description": "Bring a large pot of water to a boil. Add salt generously.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "ingredients": [
+          "Mustard seeds",
+          "Salt",
+          "Finely chopped onions"
+        ],
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "utensils": [
+          "A black cooking pot",
+          "A white bowl",
+          "A wooden spatula"
+        ],
+        "confidence": 0.89
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.859
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=160s",
+        "ingredients": [
+          "Water",
+          "Shredded potatoes",
+          "Sugar"
+        ],
+        "actions": [
+          "Adding shredded potatoes to the water",
+          "Adding sugar to the pot",
+          "Boiling the mixture",
+          "Stirring the contents with a wooden spoon",
+          "Pouring ingredients into the pot"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Sieve"
+        ],
+        "confidence": 0.833
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.821
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=90s",
+        "ingredients": [
+          "Chicken pieces",
+          "Dried spices (possibly cumin seeds)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to the chicken",
+          "Stirring chicken with a wooden spatula",
+          "Adding salt to the chicken and spices mixture"
+        ],
+        "utensils": [
+          "Deep non-stick pan",
+          "White plate",
+          "Metal spoon",
+          "Wooden spatula"
+        ],
+        "confidence": 0.814
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.751
+      }
+    ]
+  },
+  {
+    "title": "Cook Rice Partially",
+    "description": "Add soaked rice to boiling water. Cook until 70-80% done. Drain and keep aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=210s",
+        "ingredients": [
+          "White rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding rice to a pot",
+          "Stirring rice",
+          "Pouring red sauce onto rice"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "ingredients": [
+          "White rice",
+          "Saffron strands",
+          "Ground spices"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "utensils": [
+          "Mixing spoon",
+          "Lid for the pot",
+          "Pot or pan for cooking rice"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "ingredients": [
+          "White rice",
+          "Red chili powder",
+          "Ground black pepper"
+        ],
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "utensils": [
+          "Metal pan",
+          "Spice shaker",
+          "Wooden spatula"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=170s",
+        "ingredients": [
+          "Cooked rice"
+        ],
+        "actions": [
+          "Transferring rice from pot",
+          "Placing lid on pressure cooker",
+          "Removing pressure cooker lid"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Stainless steel pot",
+          "Strainer",
+          "Pressure cooker"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=160s",
+        "ingredients": [
+          "Water",
+          "Shredded potatoes",
+          "Sugar"
+        ],
+        "actions": [
+          "Adding shredded potatoes to the water",
+          "Adding sugar to the pot",
+          "Boiling the mixture",
+          "Stirring the contents with a wooden spoon",
+          "Pouring ingredients into the pot"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Sieve"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.672
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.654
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.581
+      }
+    ]
+  },
+  {
+    "title": "Start Layering",
+    "description": "In a large heavy-bottomed pot, spread half of the cooked rice at the bottom.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.859
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "ingredients": [
+          "White rice",
+          "Saffron strands",
+          "Ground spices"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "utensils": [
+          "Mixing spoon",
+          "Lid for the pot",
+          "Pot or pan for cooking rice"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=210s",
+        "ingredients": [
+          "White rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding rice to a pot",
+          "Stirring rice",
+          "Pouring red sauce onto rice"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.821
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=170s",
+        "ingredients": [
+          "Cooked rice"
+        ],
+        "actions": [
+          "Transferring rice from pot",
+          "Placing lid on pressure cooker",
+          "Removing pressure cooker lid"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Stainless steel pot",
+          "Strainer",
+          "Pressure cooker"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "ingredients": [
+          "White rice",
+          "Red chili powder",
+          "Ground black pepper"
+        ],
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "utensils": [
+          "Metal pan",
+          "Spice shaker",
+          "Wooden spatula"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.719
+      }
+    ]
+  },
+  {
+    "title": "Add Meat Mixture",
+    "description": "Spread the cooked meat masala with potatoes evenly over the rice layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "ingredients": [
+          "White rice",
+          "Saffron strands",
+          "Ground spices"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "utensils": [
+          "Mixing spoon",
+          "Lid for the pot",
+          "Pot or pan for cooking rice"
+        ],
+        "confidence": 0.857
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "ingredients": [
+          "White rice",
+          "Red chili powder",
+          "Ground black pepper"
+        ],
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "utensils": [
+          "Metal pan",
+          "Spice shaker",
+          "Wooden spatula"
+        ],
+        "confidence": 0.845
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.836
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=210s",
+        "ingredients": [
+          "White rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding rice to a pot",
+          "Stirring rice",
+          "Pouring red sauce onto rice"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.816
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.81
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "ingredients": [
+          "Tomatoes",
+          "Chicken",
+          "Potatoes",
+          "Tomato slices (added)",
+          "Curry or sauce (reddish-brown liquid)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "utensils": [
+          "Pot or pan",
+          "Wooden spoon",
+          "Ladle"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken in pan",
+          "Adding potatoes to pan"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Slotted spatula",
+          "White bowl"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.774
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=160s",
+        "ingredients": [
+          "Water",
+          "Shredded potatoes",
+          "Sugar"
+        ],
+        "actions": [
+          "Adding shredded potatoes to the water",
+          "Adding sugar to the pot",
+          "Boiling the mixture",
+          "Stirring the contents with a wooden spoon",
+          "Pouring ingredients into the pot"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spoon",
+          "Sieve"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=170s",
+        "ingredients": [
+          "Cooked rice"
+        ],
+        "actions": [
+          "Transferring rice from pot",
+          "Placing lid on pressure cooker",
+          "Removing pressure cooker lid"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Stainless steel pot",
+          "Strainer",
+          "Pressure cooker"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes",
+          "Cream or yogurt",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Green measuring cup",
+          "Cooking pan"
+        ],
+        "confidence": 0.756
+      }
+    ]
+  },
+  {
+    "title": "Top Final Rice Layer",
+    "description": "Add the remaining rice on top. Gently level it out.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=210s",
+        "ingredients": [
+          "White rice",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding rice to a pot",
+          "Stirring rice",
+          "Pouring red sauce onto rice"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Spoon"
+        ],
+        "confidence": 0.874
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.872
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.859
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.848
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "ingredients": [
+          "White rice",
+          "Saffron strands",
+          "Ground spices"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "utensils": [
+          "Mixing spoon",
+          "Lid for the pot",
+          "Pot or pan for cooking rice"
+        ],
+        "confidence": 0.846
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=170s",
+        "ingredients": [
+          "Cooked rice"
+        ],
+        "actions": [
+          "Transferring rice from pot",
+          "Placing lid on pressure cooker",
+          "Removing pressure cooker lid"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Stainless steel pot",
+          "Strainer",
+          "Pressure cooker"
+        ],
+        "confidence": 0.841
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "ingredients": [
+          "White rice",
+          "Red chili powder",
+          "Ground black pepper"
+        ],
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "utensils": [
+          "Metal pan",
+          "Spice shaker",
+          "Wooden spatula"
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.763
+      }
+    ]
+  },
+  {
+    "title": "Add Final Garnish",
+    "description": "Drizzle saffron milk on top. Sprinkle remaining mint, coriander, and some reserved fried onions if available.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "ingredients": [
+          "White rice",
+          "Saffron strands",
+          "Ground spices"
+        ],
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "utensils": [
+          "Mixing spoon",
+          "Lid for the pot",
+          "Pot or pan for cooking rice"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "ingredients": [
+          "Potatoes",
+          "Oil",
+          "Fried onions",
+          "Garlic"
+        ],
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "utensils": [
+          "Pan",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "ingredients": [
+          "Mustard seeds",
+          "Salt",
+          "Finely chopped onions"
+        ],
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "utensils": [
+          "A black cooking pot",
+          "A white bowl",
+          "A wooden spatula"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "ingredients": [
+          "Tomatoes",
+          "Lemons",
+          "Green chilies",
+          "Fresh coriander (cilantro)",
+          "White rice"
+        ],
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "utensils": [
+          "A pot or pan",
+          "A bowl for serving rice",
+          "A spoon or spatula (handled by the person)"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "ingredients": [
+          "White rice",
+          "Red chili flakes",
+          "Bay leaves",
+          "Fried onions"
+        ],
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "utensils": [
+          "Pressure cooker pot"
+        ],
+        "confidence": 0.685
+      }
+    ]
+  },
+  {
+    "title": "Seal and Dum Cook",
+    "description": "Seal the pot with a tight-fitting lid or dough. Place on low heat and cook for 20-25 minutes for dum (steam) cooking.",
+    "aligned_chunks": [
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.615
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.599
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Dark-colored spices or sauce (possibly soy sauce or spices)"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in a pan with sauce"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Non-stick frying pan"
+        ],
+        "confidence": 0.596
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.589
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.58
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.577
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.534
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "ingredients": [
+          "Tomatoes",
+          "Chicken",
+          "Potatoes",
+          "Tomato slices (added)",
+          "Curry or sauce (reddish-brown liquid)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "utensils": [
+          "Pot or pan",
+          "Wooden spoon",
+          "Ladle"
+        ],
+        "confidence": 0.531
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.518
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes",
+          "Cream or yogurt",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Green measuring cup",
+          "Cooking pan"
+        ],
+        "confidence": 0.504
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.482
+      }
+    ]
+  },
+  {
+    "title": "Rest and Serve",
+    "description": "Let the biryani rest for 10 minutes after cooking. Gently fluff and mix before serving with raita or salad.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.681
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "ingredients": [
+          "Tomatoes",
+          "Chicken",
+          "Potatoes",
+          "Tomato slices (added)",
+          "Curry or sauce (reddish-brown liquid)"
+        ],
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "utensils": [
+          "Pot or pan",
+          "Wooden spoon",
+          "Ladle"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "ingredients": [
+          "Cooked white rice",
+          "Saffron-infused milk or liquid",
+          "Grated or chopped vegetables (potatoes, bell peppers)",
+          "Whole spices (cardamom, cinnamon, cloves)",
+          "Chopped nuts or garnish (raisins or cashews)"
+        ],
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "utensils": [
+          "Large cooking pan or skillet",
+          "Spoon with a yellow handle",
+          "Glass serving dish",
+          "Ladle"
+        ],
+        "confidence": 0.647
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.632
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "ingredients": [
+          "Onion pieces",
+          "Oil/ghee",
+          "Green paste (likely a mixture of spices or herbs)",
+          "Yellowish spice (possibly turmeric or mustard seeds)"
+        ],
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "utensils": [
+          "Spatula",
+          "Skimmer/spoon for scooping",
+          "Cooking pot"
+        ],
+        "confidence": 0.623
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Dark-colored spices or sauce (possibly soy sauce or spices)"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in a pan with sauce"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Non-stick frying pan"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.619
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes",
+          "Cream or yogurt",
+          "Red sauce"
+        ],
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Green measuring cup",
+          "Cooking pan"
+        ],
+        "confidence": 0.617
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "ingredients": [
+          "Chunks of cooked meat",
+          "Potatoes (cut into chunks)",
+          "Dark-colored sauce or gravy",
+          "Cream (being added)"
+        ],
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "utensils": [
+          "Black cooking pot or pan",
+          "Green measuring cup or small jug"
+        ],
+        "confidence": 0.615
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green chilies",
+          "Chopped vegetables (tomatoes, green beans)",
+          "Cooked meat (chicken or similar)"
+        ],
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "utensils": [
+          "Plate or serving dish"
+        ],
+        "confidence": 0.574
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "ingredients": [
+          "Chicken pieces (white and raw)",
+          "Star anise",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Black peppercorns",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "utensils": [
+          "A black cooking pan",
+          "A metal spoon",
+          "A white plate"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "ingredients": [
+          "Minced garlic or ginger",
+          "Sautéed onions and spices (possibly including bay leaves and cardamom pods)"
+        ],
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "utensils": [
+          "Black cooking pan",
+          "Wooden spatula"
+        ],
+        "confidence": 0.656
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "ingredients": [
+          "Chopped onions",
+          "Peeled and chopped potatoes",
+          "A white powder (presumably salt)"
+        ],
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "utensils": [
+          "Large pot or wok",
+          "Pressure cooker (for boiling potatoes)",
+          "Spoon for adding salt"
+        ],
+        "confidence": 0.651
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "ingredients": [
+          "Sliced tomatoes",
+          "Halved limes",
+          "Green chilies",
+          "Fresh cilantro (coriander leaves)",
+          "Cooked chicken",
+          "White rice",
+          "Spices (red and brown bits visible in the rice)",
+          "Garlic cloves"
+        ],
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "utensils": [
+          "Large cooking pot or pan",
+          "Spatula or spoon with a yellow handle"
+        ],
+        "confidence": 0.636
+      }
+    ]
+  }
+]

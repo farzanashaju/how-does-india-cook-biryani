@@ -1,0 +1,3607 @@
+[
+  {
+    "title": "Prepare Marinade",
+    "description": "In a bowl, combine yogurt, ginger-garlic paste, turmeric, red chili powder, coriander powder, garam masala, lemon juice, and salt. Mix well to form a marinade.",
+    "aligned_chunks": [
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=100s",
+        "ingredients": [
+          "Green cardamom pods",
+          "Cinnamon stick",
+          "Cloves",
+          "Cumin seeds (Shah Jeera)",
+          "Ginger garlic paste",
+          "Bay leaf"
+        ],
+        "actions": [
+          "Adding cardamom pods to the water",
+          "Adding a cinnamon stick to the water",
+          "Adding cloves to the water",
+          "Adding cumin seeds to the water",
+          "Adding ginger garlic paste to the water",
+          "Adding a bay leaf to the water"
+        ],
+        "utensils": [
+          "Cooking pot with yellow handles"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "ingredients": [
+          "Visible pieces of chicken",
+          "Green herbs (likely cilantro)",
+          "Red chili powder",
+          "Cumin powder",
+          "Dhanio powder",
+          "Garam masala",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Hand (for mixing)",
+          "White pot with red handles"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "ingredients": [
+          "Chicken",
+          "Shah Jeera (Cumin Seeds)",
+          "Ginger Garlic Paste",
+          "Fried Onion"
+        ],
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "utensils": [
+          "Pressure cooker with red handles",
+          "Metal strainer"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "ingredients": [
+          "Spiced chicken pieces",
+          "Yogurt (indicated as 250ml curd)"
+        ],
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "utensils": [
+          "A pressure cooker pot"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "ingredients": [
+          "Ginger paste",
+          "Salt",
+          "Bay leaf",
+          "Cloves",
+          "Green cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Metal spoon",
+          "Metal strainer",
+          "Ladle"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red powder (likely chili powder)",
+          "Yellow powder (possibly turmeric)",
+          "Green herbs (likely cilantro or parsley)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "A red-handled pressure cooker",
+          "A small measuring spoon"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.681
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "ingredients": [
+          "Chopped green herbs (likely coriander)",
+          "Browned onions",
+          "Chicken pieces",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Hand for mixing"
+        ],
+        "confidence": 0.66
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.659
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "ingredients": [
+          "Chicken pieces in sauce"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.639
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.628
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.599
+      }
+    ]
+  },
+  {
+    "title": "Marinate Chicken",
+    "description": "Add chicken pieces to the marinade along with green chilies, half of the mint and coriander leaves. Mix thoroughly and cover. Refrigerate for at least 4 hours or overnight.",
+    "aligned_chunks": [
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "ingredients": [
+          "Chilled coconut cream",
+          "Marinated chicken",
+          "Shredded coconut"
+        ],
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Strainer",
+          "Ladle",
+          "Bowl"
+        ],
+        "confidence": 0.656
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "ingredients": [
+          "Spiced chicken pieces",
+          "Yogurt (indicated as 250ml curd)"
+        ],
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "utensils": [
+          "A pressure cooker pot"
+        ],
+        "confidence": 0.646
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red powder (likely chili powder)",
+          "Yellow powder (possibly turmeric)",
+          "Green herbs (likely cilantro or parsley)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "A red-handled pressure cooker",
+          "A small measuring spoon"
+        ],
+        "confidence": 0.628
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "ingredients": [
+          "Visible pieces of chicken",
+          "Green herbs (likely cilantro)",
+          "Red chili powder",
+          "Cumin powder",
+          "Dhanio powder",
+          "Garam masala",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Hand (for mixing)",
+          "White pot with red handles"
+        ],
+        "confidence": 0.623
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "ingredients": [
+          "Chicken",
+          "Shah Jeera (Cumin Seeds)",
+          "Ginger Garlic Paste",
+          "Fried Onion"
+        ],
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "utensils": [
+          "Pressure cooker with red handles",
+          "Metal strainer"
+        ],
+        "confidence": 0.62
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "ingredients": [
+          "Chicken pieces in sauce"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.593
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "ingredients": [
+          "Ginger paste",
+          "Salt",
+          "Bay leaf",
+          "Cloves",
+          "Green cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Metal spoon",
+          "Metal strainer",
+          "Ladle"
+        ],
+        "confidence": 0.592
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.582
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken (cooked)",
+          "Mint leaves (garnish)"
+        ],
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "utensils": [
+          "Ladle (used for serving)",
+          "Plate"
+        ],
+        "confidence": 0.572
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=100s",
+        "ingredients": [
+          "Green cardamom pods",
+          "Cinnamon stick",
+          "Cloves",
+          "Cumin seeds (Shah Jeera)",
+          "Ginger garlic paste",
+          "Bay leaf"
+        ],
+        "actions": [
+          "Adding cardamom pods to the water",
+          "Adding a cinnamon stick to the water",
+          "Adding cloves to the water",
+          "Adding cumin seeds to the water",
+          "Adding ginger garlic paste to the water",
+          "Adding a bay leaf to the water"
+        ],
+        "utensils": [
+          "Cooking pot with yellow handles"
+        ],
+        "confidence": 0.563
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.562
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.532
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.528
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.528
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "ingredients": [
+          "Chopped green herbs (likely coriander)",
+          "Browned onions",
+          "Chicken pieces",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Hand for mixing"
+        ],
+        "confidence": 0.523
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.48
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.457
+      }
+    ]
+  },
+  {
+    "title": "Slice and Fry Onions",
+    "description": "Thinly slice the onions. Heat oil in a deep pan over medium heat and fry the onions in batches until golden brown and crispy.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.764
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.626
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.614
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried onions",
+          "Yellow rice grains (likely saffron-infused)"
+        ],
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "utensils": [
+          "White pot/pan with red handles",
+          "Clear glass lid",
+          "Kitchen stove"
+        ],
+        "confidence": 0.611
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "ingredients": [
+          "Chicken pieces in sauce"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.599
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.598
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.595
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "ingredients": [
+          "Chopped green herbs (likely coriander)",
+          "Browned onions",
+          "Chicken pieces",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Hand for mixing"
+        ],
+        "confidence": 0.572
+      }
+    ]
+  },
+  {
+    "title": "Drain Fried Onions",
+    "description": "Remove fried onions and place on paper towels to absorb excess oil. Set aside half for layering later.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "ingredients": [
+          "Chicken",
+          "Shah Jeera (Cumin Seeds)",
+          "Ginger Garlic Paste",
+          "Fried Onion"
+        ],
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "utensils": [
+          "Pressure cooker with red handles",
+          "Metal strainer"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried onions",
+          "Yellow rice grains (likely saffron-infused)"
+        ],
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "utensils": [
+          "White pot/pan with red handles",
+          "Clear glass lid",
+          "Kitchen stove"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "ingredients": [
+          "Chopped green herbs (likely coriander)",
+          "Browned onions",
+          "Chicken pieces",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Hand for mixing"
+        ],
+        "confidence": 0.693
+      }
+    ]
+  },
+  {
+    "title": "Add Onions to Marinade",
+    "description": "Mix the remaining half of the fried onions into the marinated chicken.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "ingredients": [
+          "Chicken",
+          "Shah Jeera (Cumin Seeds)",
+          "Ginger Garlic Paste",
+          "Fried Onion"
+        ],
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "utensils": [
+          "Pressure cooker with red handles",
+          "Metal strainer"
+        ],
+        "confidence": 0.914
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "ingredients": [
+          "Spiced chicken pieces",
+          "Yogurt (indicated as 250ml curd)"
+        ],
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "utensils": [
+          "A pressure cooker pot"
+        ],
+        "confidence": 0.88
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.872
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.86
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "ingredients": [
+          "Visible pieces of chicken",
+          "Green herbs (likely cilantro)",
+          "Red chili powder",
+          "Cumin powder",
+          "Dhanio powder",
+          "Garam masala",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Hand (for mixing)",
+          "White pot with red handles"
+        ],
+        "confidence": 0.86
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red powder (likely chili powder)",
+          "Yellow powder (possibly turmeric)",
+          "Green herbs (likely cilantro or parsley)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "A red-handled pressure cooker",
+          "A small measuring spoon"
+        ],
+        "confidence": 0.853
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.85
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "ingredients": [
+          "Chicken pieces in sauce"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken (cooked)",
+          "Mint leaves (garnish)"
+        ],
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "utensils": [
+          "Ladle (used for serving)",
+          "Plate"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "ingredients": [
+          "Chilled coconut cream",
+          "Marinated chicken",
+          "Shredded coconut"
+        ],
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Strainer",
+          "Ladle",
+          "Bowl"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "ingredients": [
+          "Chopped green herbs (likely coriander)",
+          "Browned onions",
+          "Chicken pieces",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Hand for mixing"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried onions",
+          "Yellow rice grains (likely saffron-infused)"
+        ],
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "utensils": [
+          "White pot/pan with red handles",
+          "Clear glass lid",
+          "Kitchen stove"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.702
+      }
+    ]
+  },
+  {
+    "title": "Rinse and Soak Rice",
+    "description": "Rinse basmati rice thoroughly under cold water until the water runs clear. Soak the rice in water for 30 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried onions",
+          "Yellow rice grains (likely saffron-infused)"
+        ],
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "utensils": [
+          "White pot/pan with red handles",
+          "Clear glass lid",
+          "Kitchen stove"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "ingredients": [
+          "Ginger paste",
+          "Salt",
+          "Bay leaf",
+          "Cloves",
+          "Green cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Metal spoon",
+          "Metal strainer",
+          "Ladle"
+        ],
+        "confidence": 0.703
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.669
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.661
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.656
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.628
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "ingredients": [
+          "Chicken pieces in sauce"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.625
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken (cooked)",
+          "Mint leaves (garnish)"
+        ],
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "utensils": [
+          "Ladle (used for serving)",
+          "Plate"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.612
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.606
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.546
+      }
+    ]
+  },
+  {
+    "title": "Prepare Saffron Milk",
+    "description": "Warm the milk slightly and add saffron strands. Let it sit for 10–15 minutes to release color and aroma.",
+    "aligned_chunks": [
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=160s",
+        "ingredients": [
+          "Saffron milk"
+        ],
+        "actions": [
+          "Pouring saffron milk into the rice",
+          "Covering the rice with tissue napkins",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "White pot with red handles",
+          "Ladle",
+          "Tissue napkins"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.595
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.572
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.563
+      }
+    ]
+  },
+  {
+    "title": "Boil Water with Whole Spices",
+    "description": "In a large pot, bring water to a boil. Add salt and whole spices (cloves, cardamom, bay leaf, cinnamon, star anise, peppercorns).",
+    "aligned_chunks": [
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "ingredients": [
+          "Ginger paste",
+          "Salt",
+          "Bay leaf",
+          "Cloves",
+          "Green cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Metal spoon",
+          "Metal strainer",
+          "Ladle"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.764
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=100s",
+        "ingredients": [
+          "Green cardamom pods",
+          "Cinnamon stick",
+          "Cloves",
+          "Cumin seeds (Shah Jeera)",
+          "Ginger garlic paste",
+          "Bay leaf"
+        ],
+        "actions": [
+          "Adding cardamom pods to the water",
+          "Adding a cinnamon stick to the water",
+          "Adding cloves to the water",
+          "Adding cumin seeds to the water",
+          "Adding ginger garlic paste to the water",
+          "Adding a bay leaf to the water"
+        ],
+        "utensils": [
+          "Cooking pot with yellow handles"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red powder (likely chili powder)",
+          "Yellow powder (possibly turmeric)",
+          "Green herbs (likely cilantro or parsley)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "A red-handled pressure cooker",
+          "A small measuring spoon"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "ingredients": [
+          "Chicken pieces in sauce"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.598
+      }
+    ]
+  },
+  {
+    "title": "Parboil the Rice",
+    "description": "Drain soaked rice and add it to the boiling spiced water. Cook until the rice is 70% done—grains should still be slightly firm. Drain the rice immediately.",
+    "aligned_chunks": [
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "ingredients": [
+          "Ginger paste",
+          "Salt",
+          "Bay leaf",
+          "Cloves",
+          "Green cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Metal spoon",
+          "Metal strainer",
+          "Ladle"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried onions",
+          "Yellow rice grains (likely saffron-infused)"
+        ],
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "utensils": [
+          "White pot/pan with red handles",
+          "Clear glass lid",
+          "Kitchen stove"
+        ],
+        "confidence": 0.682
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.657
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.644
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken (cooked)",
+          "Mint leaves (garnish)"
+        ],
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "utensils": [
+          "Ladle (used for serving)",
+          "Plate"
+        ],
+        "confidence": 0.642
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.633
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "ingredients": [
+          "Spiced chicken pieces",
+          "Yogurt (indicated as 250ml curd)"
+        ],
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "utensils": [
+          "A pressure cooker pot"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.582
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.476
+      }
+    ]
+  },
+  {
+    "title": "Prepare for Layering",
+    "description": "Grease the bottom of a heavy-bottomed pot with a little ghee. Spread the marinated chicken evenly as the bottom layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "ingredients": [
+          "Chilled coconut cream",
+          "Marinated chicken",
+          "Shredded coconut"
+        ],
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Strainer",
+          "Ladle",
+          "Bowl"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "ingredients": [
+          "Chicken pieces in sauce"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.774
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "ingredients": [
+          "Spiced chicken pieces",
+          "Yogurt (indicated as 250ml curd)"
+        ],
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "utensils": [
+          "A pressure cooker pot"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "ingredients": [
+          "Chicken",
+          "Shah Jeera (Cumin Seeds)",
+          "Ginger Garlic Paste",
+          "Fried Onion"
+        ],
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "utensils": [
+          "Pressure cooker with red handles",
+          "Metal strainer"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red powder (likely chili powder)",
+          "Yellow powder (possibly turmeric)",
+          "Green herbs (likely cilantro or parsley)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "A red-handled pressure cooker",
+          "A small measuring spoon"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "ingredients": [
+          "Visible pieces of chicken",
+          "Green herbs (likely cilantro)",
+          "Red chili powder",
+          "Cumin powder",
+          "Dhanio powder",
+          "Garam masala",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Hand (for mixing)",
+          "White pot with red handles"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken (cooked)",
+          "Mint leaves (garnish)"
+        ],
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "utensils": [
+          "Ladle (used for serving)",
+          "Plate"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.698
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "ingredients": [
+          "Chopped green herbs (likely coriander)",
+          "Browned onions",
+          "Chicken pieces",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Hand for mixing"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.613
+      }
+    ]
+  },
+  {
+    "title": "Layer the Rice",
+    "description": "Spread the parboiled rice evenly over the chicken layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.912
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken (cooked)",
+          "Mint leaves (garnish)"
+        ],
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "utensils": [
+          "Ladle (used for serving)",
+          "Plate"
+        ],
+        "confidence": 0.886
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "ingredients": [
+          "Spiced chicken pieces",
+          "Yogurt (indicated as 250ml curd)"
+        ],
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "utensils": [
+          "A pressure cooker pot"
+        ],
+        "confidence": 0.874
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.864
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=90s",
+        "ingredients": [
+          "Chicken pieces in sauce"
+        ],
+        "actions": [
+          "Stirring chicken",
+          "Boiling water"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stove"
+        ],
+        "confidence": 0.863
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "ingredients": [
+          "Chicken",
+          "Shah Jeera (Cumin Seeds)",
+          "Ginger Garlic Paste",
+          "Fried Onion"
+        ],
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "utensils": [
+          "Pressure cooker with red handles",
+          "Metal strainer"
+        ],
+        "confidence": 0.859
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.854
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=50s",
+        "ingredients": [
+          "Visible pieces of chicken",
+          "Green herbs (likely cilantro)",
+          "Red chili powder",
+          "Cumin powder",
+          "Dhanio powder",
+          "Garam masala",
+          "Turmeric powder"
+        ],
+        "actions": [
+          "Mixing chicken with herbs",
+          "Adding red chili powder",
+          "Adding cumin powder",
+          "Adding Dhanio powder",
+          "Adding garam masala",
+          "Adding turmeric powder",
+          "Mixing ingredients together"
+        ],
+        "utensils": [
+          "Hand (for mixing)",
+          "White pot with red handles"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red powder (likely chili powder)",
+          "Yellow powder (possibly turmeric)",
+          "Green herbs (likely cilantro or parsley)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "A red-handled pressure cooker",
+          "A small measuring spoon"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried onions",
+          "Yellow rice grains (likely saffron-infused)"
+        ],
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "utensils": [
+          "White pot/pan with red handles",
+          "Clear glass lid",
+          "Kitchen stove"
+        ],
+        "confidence": 0.823
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.819
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "ingredients": [
+          "Ginger paste",
+          "Salt",
+          "Bay leaf",
+          "Cloves",
+          "Green cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Metal spoon",
+          "Metal strainer",
+          "Ladle"
+        ],
+        "confidence": 0.813
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=130s",
+        "ingredients": [
+          "Chilled coconut cream",
+          "Marinated chicken",
+          "Shredded coconut"
+        ],
+        "actions": [
+          "Skimming coconut cream with a strainer",
+          "Transferring strained coconut cream onto marinated chicken",
+          "Scooping and transferring shredded coconut"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Strainer",
+          "Ladle",
+          "Bowl"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "ingredients": [
+          "Chopped green herbs (likely coriander)",
+          "Browned onions",
+          "Chicken pieces",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Hand for mixing"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.729
+      }
+    ]
+  },
+  {
+    "title": "Add Final Garnishes",
+    "description": "Top with the reserved fried onions, remaining mint and coriander leaves, saffron milk, and drizzle with ghee.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=30s",
+        "ingredients": [
+          "Pieces of raw chicken",
+          "Chopped ginger",
+          "Chopped garlic",
+          "Ground spices",
+          "Fried onions",
+          "Chopped coriander leaves",
+          "Chopped mint leaves",
+          "Ghee"
+        ],
+        "actions": [
+          "Placing ginger in the pot",
+          "Adding chopped garlic to the pot",
+          "Adding ground spices to the pot",
+          "Adding fried onions to the pot",
+          "Adding chopped coriander leaves to the pot",
+          "Adding chopped mint leaves to the pot",
+          "Adding ghee to the pot"
+        ],
+        "utensils": [
+          "A white cooking pot with red handles"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=160s",
+        "ingredients": [
+          "Saffron milk"
+        ],
+        "actions": [
+          "Pouring saffron milk into the rice",
+          "Covering the rice with tissue napkins",
+          "Placing the lid on the pot"
+        ],
+        "utensils": [
+          "White pot with red handles",
+          "Ladle",
+          "Tissue napkins"
+        ],
+        "confidence": 0.794
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=20s",
+        "ingredients": [
+          "Chicken",
+          "Shah Jeera (Cumin Seeds)",
+          "Ginger Garlic Paste",
+          "Fried Onion"
+        ],
+        "actions": [
+          "Placing chicken in the pressure cooker",
+          "Adding cumin seeds to the chicken",
+          "Adding ginger garlic paste to the chicken",
+          "Adding fried onions to the chicken"
+        ],
+        "utensils": [
+          "Pressure cooker with red handles",
+          "Metal strainer"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken (cooked)",
+          "Mint leaves (garnish)"
+        ],
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "utensils": [
+          "Ladle (used for serving)",
+          "Plate"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=80s",
+        "ingredients": [
+          "Chicken",
+          "Spices (turmeric, green cardamom, bay leaf, cinnamon)",
+          "Onions",
+          "Garlic",
+          "Ginger"
+        ],
+        "actions": [
+          "Mixing chicken with spices",
+          "Adding bay leaf to the mixture",
+          "Adding green cardamom pods to the mixture",
+          "Adding cinnamon to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker (with handles)",
+          "Wooden spoon"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried onions",
+          "Yellow rice grains (likely saffron-infused)"
+        ],
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "utensils": [
+          "White pot/pan with red handles",
+          "Clear glass lid",
+          "Kitchen stove"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=40s",
+        "ingredients": [
+          "Chopped green herbs (likely coriander)",
+          "Browned onions",
+          "Chicken pieces",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Mixing ingredients (massage well)",
+          "Adding lemon juice"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Hand for mixing"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.68
+      }
+    ]
+  },
+  {
+    "title": "Seal the Pot",
+    "description": "Cover the pot with a tight-fitting lid or seal the edges with dough to trap steam inside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red powder (likely chili powder)",
+          "Yellow powder (possibly turmeric)",
+          "Green herbs (likely cilantro or parsley)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "A red-handled pressure cooker",
+          "A small measuring spoon"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.658
+      }
+    ]
+  },
+  {
+    "title": "Cook on High and Low Heat",
+    "description": "Place the sealed pot on high heat for 5 minutes. Then reduce to very low heat and let cook (dum) for 25–30 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.618
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.59
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.585
+      }
+    ]
+  },
+  {
+    "title": "Rest the Biryani",
+    "description": "Turn off the heat and let the biryani sit for 10 minutes to settle and absorb flavors.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.692
+      }
+    ]
+  },
+  {
+    "title": "Serve",
+    "description": "Gently fluff the rice with a flat spoon without breaking the grains. Serve hot with raita, salad, or mirchi ka salan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=200s",
+        "ingredients": [
+          "Yellow rice",
+          "Chicken (cooked)",
+          "Mint leaves (garnish)"
+        ],
+        "actions": [
+          "Adding chicken to rice",
+          "Serving rice onto a plate",
+          "Garnishing with mint leaves"
+        ],
+        "utensils": [
+          "Ladle (used for serving)",
+          "Plate"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=180s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried onions",
+          "Yellow rice grains (likely saffron-infused)"
+        ],
+        "actions": [
+          "Covering rice with parchment paper",
+          "Placing lid on the pot",
+          "Resting rice after cooking"
+        ],
+        "utensils": [
+          "White pot/pan with red handles",
+          "Clear glass lid",
+          "Kitchen stove"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=150s",
+        "ingredients": [
+          "Rice",
+          "Ghee",
+          "Fried Onion",
+          "Gram masala",
+          "Fresh coriander leaves"
+        ],
+        "actions": [
+          "Adding gram masala to rice",
+          "Adding ghee to rice",
+          "Adding fried onion to rice"
+        ],
+        "utensils": [
+          "Cooking pot with red handles"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=10s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow rice",
+          "Gravy/sauce",
+          "Parsley or cilantro leaves"
+        ],
+        "actions": [
+          "Serving chicken with sauce",
+          "Placing chicken on top of rice",
+          "Flipping and arranging chicken and rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=110s",
+        "ingredients": [
+          "Ginger paste",
+          "Salt",
+          "Bay leaf",
+          "Cloves",
+          "Green cardamom",
+          "Basmati rice"
+        ],
+        "actions": [
+          "Adding ginger paste to the pot",
+          "Adding salt to the pot",
+          "Adding bay leaf, cloves, and cardamom to the pot",
+          "Boiling the mixture",
+          "Adding soaked rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Large pot with yellow handles",
+          "Metal spoon",
+          "Metal strainer",
+          "Ladle"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=140s",
+        "ingredients": [
+          "Mashed potatoes",
+          "Chopped mint",
+          "A liquid (possibly water or stock)"
+        ],
+        "actions": [
+          "Scooping liquid into the bowl",
+          "Mixing the mashed potatoes with the liquid",
+          "Adding chopped mint to the mashed potatoes",
+          "Mixing the ingredients to combine them uniformly"
+        ],
+        "utensils": [
+          "White bowl",
+          "Ladle",
+          "Pot with red handles"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red powder (likely chili powder)",
+          "Yellow powder (possibly turmeric)",
+          "Green herbs (likely cilantro or parsley)",
+          "Salt"
+        ],
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing ingredients in the pressure cooker"
+        ],
+        "utensils": [
+          "A red-handled pressure cooker",
+          "A small measuring spoon"
+        ],
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.618
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-212",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=210s",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Mint leaves (as garnish)"
+        ],
+        "actions": [
+          "None observed (the frames show the final plated dish)"
+        ],
+        "utensils": [
+          "Plate"
+        ],
+        "confidence": 0.682
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Gravy or sauce (possibly containing meat)",
+          "Spices and herbs (visible within the gravy)"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Pouring gravy/sauce over the rice"
+        ],
+        "utensils": [
+          "Ladle"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=70s",
+        "ingredients": [
+          "Spiced chicken pieces",
+          "Yogurt (indicated as 250ml curd)"
+        ],
+        "actions": [
+          "Mixing the chicken pieces with spices",
+          "Adding yogurt to the chicken mixture"
+        ],
+        "utensils": [
+          "A pressure cooker pot"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=0s",
+        "ingredients": [
+          "Hyderabadi Chicken Dum Biryani (strains of yellow and white rice, chunks of chicken, saffron-infused rice)"
+        ],
+        "actions": [
+          "Serving biryani onto a plate"
+        ],
+        "utensils": [
+          "Spatula"
+        ],
+        "confidence": 0.659
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=nf9tq7cNkTQ&t=170s",
+        "ingredients": [
+          "White paper towel",
+          "Yellow rice with spices and nuts"
+        ],
+        "actions": [
+          "Placing paper towel on rice",
+          "Removing paper towel from rice",
+          "Fluffing rice with spatula"
+        ],
+        "utensils": [
+          "Red-handled frying pan",
+          "Spatula",
+          "Tissue paper"
+        ],
+        "confidence": 0.652
+      }
+    ]
+  }
+]

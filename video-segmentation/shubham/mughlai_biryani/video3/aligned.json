@@ -1,0 +1,2174 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:26,879",
+    "audio_description": "Hello Foodies, welcome to Wish My Food. Today’s special is Mughlai Chicken Dum Biryani. Compared to regular dum biryani, this one is much more aromatic, tastier, and rich in flavors. It’s also very easy and uses readily available ingredients.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.376
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.555
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:26,879 --> 00:00:53,862",
+    "audio_description": "Enjoy happily, let's start! First, take medium-sized chicken pieces. Add 2 tbsp cashew paste, 2 tbsp...",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.818
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.669
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:53,862 --> 00:01:04,239",
+    "audio_description": "...green chili paste, 1 tsp coriander powder, 1 tsp roasted cumin powder, 1 tsp garam masala, and 2 tsp red chili powder.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=150s",
+        "actions": [
+          "Adding chopped coriander to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot with a wooden spoon"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=200s",
+        "actions": [
+          "Sprinkling chopped coriander",
+          "Sprinkling chopped mint",
+          "Sprinkling fried onions",
+          "Running maida (all-purpose flour) dough around the vessel"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.488
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.622
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:05,319 --> 00:01:34,852",
+    "audio_description": "Add 1/4 tsp turmeric, 1/4 tsp cardamom powder, 1/4 tsp pepper powder, 1 star anise, 1-inch cinnamon, 5–6 cloves, 1 tsp shahi jeera, 1 marathi moggu (kapok bud), and a biryani leaf. Add everything to the chicken as marinade.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=110s",
+        "actions": [
+          "Resting mixture in refrigerator",
+          "Boiling water",
+          "Adding spices to water",
+          "Stirring water and spices"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.407
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.57
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:34,852 --> 00:01:51,676",
+    "audio_description": "Also add 1 tsp ghee, 1/4 cup fried onions, and a pinch of saffron soaked in water. Massage the chicken well with the marinade 1–2 times.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=110s",
+        "actions": [
+          "Resting mixture in refrigerator",
+          "Boiling water",
+          "Adding spices to water",
+          "Stirring water and spices"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=200s",
+        "actions": [
+          "Sprinkling chopped coriander",
+          "Sprinkling chopped mint",
+          "Sprinkling fried onions",
+          "Running maida (all-purpose flour) dough around the vessel"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.462
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.617
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:52,822 --> 00:02:17,443",
+    "audio_description": "In a wide pot, add 1-inch cinnamon, 4 cardamoms, 4 cloves, 1 marathi moggu, 1 tsp shahi jeera, 1 star anise, 2 biryani leaves, 1 mace, and 2 green chilies.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "confidence_score": 0.807
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.816
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=110s",
+        "actions": [
+          "Resting mixture in refrigerator",
+          "Boiling water",
+          "Adding spices to water",
+          "Stirring water and spices"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "confidence_score": 0.751
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.509
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.679
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:19,063 --> 00:02:36,209",
+    "audio_description": "When the water starts to boil well, add 1.5 cups aged basmati rice. Also add 2 tbsp chopped mint, chopped coriander, and half a lemon’s juice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=150s",
+        "actions": [
+          "Adding chopped coriander to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot with a wooden spoon"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=200s",
+        "actions": [
+          "Sprinkling chopped coriander",
+          "Sprinkling chopped mint",
+          "Sprinkling fried onions",
+          "Running maida (all-purpose flour) dough around the vessel"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.461
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.675
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:38,133 --> 00:03:02,331",
+    "audio_description": "Now cook the rice up to 60% on high flame. In about 10 minutes it reaches this stage. It should still have a slight bite, not fully cooked.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.474
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.692
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:06,989 --> 00:03:30,007",
+    "audio_description": "Spread the rice evenly on top of the chicken. Sprinkle 1/4 cup ghee, and pour in the chicken juices collected during marination or pre-cooking.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "confidence_score": 0.799
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.502
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "confidence_score": 0.714
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:35,120 --> 00:03:58,036",
+    "audio_description": "Fry some onions in 1/4 cup oil; I had about that much oil left, and I’m using it here. Cover the pot and cook on high flame for 8 minutes, then on low for 7 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=110s",
+        "actions": [
+          "Resting mixture in refrigerator",
+          "Boiling water",
+          "Adding spices to water",
+          "Stirring water and spices"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.44
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:59,925 --> 00:04:27,769",
+    "audio_description": "The cooking is complete, and the aroma is amazing. See how perfect it looks? The fragrance should last till the very last bite. So flavorful and aromatic.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "confidence_score": 0.558
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:27,769 --> 00:04:35,482",
+    "audio_description": "Do try this recipe and share how it turned out. Don’t forget to tag us on Instagram at WishMyFood and visit wishmyfood.com.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "confidence_score": 0.697
+      }
+    ]
+  }
+]

@@ -1,0 +1,2226 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:16,248",
+    "audio_description": "Hello and welcome friends! Today we are going to make a basic mutton biryani — Kerala-style Thalassery mutton biryani. Let's see how to make this super simple Thalassery biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=69s",
+        "actions": [
+          "Adding turmeric powder to the pot",
+          "Adding chili powder to the pot",
+          "Sprinkling salt over the mixture",
+          "Pouring yogurt into the pot"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=109s",
+        "actions": [
+          "Removing the lid from a vessel",
+          "Pouring oil into a container"
+        ],
+        "confidence_score": 0.508
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=149s",
+        "actions": [
+          "Boiling green herbs and spices in oil",
+          "Placing the lid on the pressure cooker",
+          "Stirring ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=269s",
+        "actions": [
+          "Adding seasoned meat to rice",
+          "Mixing rice and meat together"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=279s",
+        "actions": [
+          "Picking up a piece of meat from the rice plate",
+          "Holding and displaying a piece of meat covered in spices"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "299-306",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=299s",
+        "actions": [
+          "Holding rice (the person is displaying the rice in their hand)"
+        ],
+        "confidence_score": 0.526
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:17,733 --> 00:00:36,667",
+    "audio_description": "First, we need to gather the ingredients. Gather the ingredients, gather the ingredients, gather the ingredients.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.822
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.84
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.784
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:37,392 --> 00:01:07,379",
+    "audio_description": "We can cut the onions into slices. Place the pan on the stove. Place the pan on the stove, on the stove, on the stove…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.827
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=19s",
+        "actions": [
+          "Pouring oil into the wok",
+          "Adding chopped onions to the wok"
+        ],
+        "confidence_score": 0.854
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=29s",
+        "actions": [
+          "Slicing onions",
+          "Stirring onions",
+          "Frying onions"
+        ],
+        "confidence_score": 0.864
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=39s",
+        "actions": [
+          "Adding meat to the pot",
+          "Adding caramelized onions to the pot"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=49s",
+        "actions": [
+          "Adding browned onions to the pot",
+          "Adding garlic paste to the pot"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=59s",
+        "actions": [
+          "Adding garlic paste",
+          "Adding sliced green chilies",
+          "Adding diced tomatoes",
+          "Adding yellow spice powder",
+          "Adding red spice powder"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=119s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding onion slices to the pot",
+          "Stirring onions and spices"
+        ],
+        "confidence_score": 0.883
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=129s",
+        "actions": [
+          "Adding ginger-garlic paste to onions",
+          "Stirring the mixture",
+          "Adding curry leaves",
+          "Adding fresh green chilies",
+          "Adding coriander leaves",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=209s",
+        "actions": [
+          "Adding chopped onions on rice",
+          "Adding coriander leaves on rice",
+          "Spreading the rice"
+        ],
+        "confidence_score": 0.836
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.815
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=229s",
+        "actions": [
+          "Adding mango pickle to rice",
+          "Covering the pressure cooker with its lid"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.775
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=279s",
+        "actions": [
+          "Picking up a piece of meat from the rice plate",
+          "Holding and displaying a piece of meat covered in spices"
+        ],
+        "confidence_score": 0.782
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:07,379 --> 00:01:30,784",
+    "audio_description": "Next, for around 5 teaspoons, we add turmeric powder and red chili powder. Red chili powder, red chili powder, red chili powder…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=19s",
+        "actions": [
+          "Pouring oil into the wok",
+          "Adding chopped onions to the wok"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=49s",
+        "actions": [
+          "Adding browned onions to the pot",
+          "Adding garlic paste to the pot"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=59s",
+        "actions": [
+          "Adding garlic paste",
+          "Adding sliced green chilies",
+          "Adding diced tomatoes",
+          "Adding yellow spice powder",
+          "Adding red spice powder"
+        ],
+        "confidence_score": 0.834
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=69s",
+        "actions": [
+          "Adding turmeric powder to the pot",
+          "Adding chili powder to the pot",
+          "Sprinkling salt over the mixture",
+          "Pouring yogurt into the pot"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=89s",
+        "actions": [
+          "Mixing ingredients",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=149s",
+        "actions": [
+          "Boiling green herbs and spices in oil",
+          "Placing the lid on the pressure cooker",
+          "Stirring ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=239s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Serving the rice onto a plate"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "299-306",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=299s",
+        "actions": [
+          "Holding rice (the person is displaying the rice in their hand)"
+        ],
+        "confidence_score": 0.573
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:33,534 --> 00:02:02,915",
+    "audio_description": "After the mutton is well mixed, add about six glasses of water, because we need the mutton to cook properly. Close the cooker and cook it for 4–5 whistles. The mutton should be about 80–90% cooked.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=19s",
+        "actions": [
+          "Pouring oil into the wok",
+          "Adding chopped onions to the wok"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=49s",
+        "actions": [
+          "Adding browned onions to the pot",
+          "Adding garlic paste to the pot"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=69s",
+        "actions": [
+          "Adding turmeric powder to the pot",
+          "Adding chili powder to the pot",
+          "Sprinkling salt over the mixture",
+          "Pouring yogurt into the pot"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=149s",
+        "actions": [
+          "Boiling green herbs and spices in oil",
+          "Placing the lid on the pressure cooker",
+          "Stirring ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Scooping curry pieces"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=209s",
+        "actions": [
+          "Adding chopped onions on rice",
+          "Adding coriander leaves on rice",
+          "Spreading the rice"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=229s",
+        "actions": [
+          "Adding mango pickle to rice",
+          "Covering the pressure cooker with its lid"
+        ],
+        "confidence_score": 0.524
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=239s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Serving the rice onto a plate"
+        ],
+        "confidence_score": 0.516
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=269s",
+        "actions": [
+          "Adding seasoned meat to rice",
+          "Mixing rice and meat together"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "299-306",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=299s",
+        "actions": [
+          "Holding rice (the person is displaying the rice in their hand)"
+        ],
+        "confidence_score": 0.453
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:03,337 --> 00:02:31,079",
+    "audio_description": "We are sautéing one onion — small shallots are added. Sauté the onions well. Add one teaspoon of ginger-garlic paste and green chilies. Add those too. Next, add some…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=19s",
+        "actions": [
+          "Pouring oil into the wok",
+          "Adding chopped onions to the wok"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=29s",
+        "actions": [
+          "Slicing onions",
+          "Stirring onions",
+          "Frying onions"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=39s",
+        "actions": [
+          "Adding meat to the pot",
+          "Adding caramelized onions to the pot"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=49s",
+        "actions": [
+          "Adding browned onions to the pot",
+          "Adding garlic paste to the pot"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=59s",
+        "actions": [
+          "Adding garlic paste",
+          "Adding sliced green chilies",
+          "Adding diced tomatoes",
+          "Adding yellow spice powder",
+          "Adding red spice powder"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=69s",
+        "actions": [
+          "Adding turmeric powder to the pot",
+          "Adding chili powder to the pot",
+          "Sprinkling salt over the mixture",
+          "Pouring yogurt into the pot"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=89s",
+        "actions": [
+          "Mixing ingredients",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=119s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding onion slices to the pot",
+          "Stirring onions and spices"
+        ],
+        "confidence_score": 0.775
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=129s",
+        "actions": [
+          "Adding ginger-garlic paste to onions",
+          "Stirring the mixture",
+          "Adding curry leaves",
+          "Adding fresh green chilies",
+          "Adding coriander leaves",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.825
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=149s",
+        "actions": [
+          "Boiling green herbs and spices in oil",
+          "Placing the lid on the pressure cooker",
+          "Stirring ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Scooping curry pieces"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=209s",
+        "actions": [
+          "Adding chopped onions on rice",
+          "Adding coriander leaves on rice",
+          "Spreading the rice"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=229s",
+        "actions": [
+          "Adding mango pickle to rice",
+          "Covering the pressure cooker with its lid"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=269s",
+        "actions": [
+          "Adding seasoned meat to rice",
+          "Mixing rice and meat together"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=279s",
+        "actions": [
+          "Picking up a piece of meat from the rice plate",
+          "Holding and displaying a piece of meat covered in spices"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=289s",
+        "actions": [
+          "Picking up rice and meat from a plate",
+          "Holding and displaying the rice and meat in the hand"
+        ],
+        "confidence_score": 0.664
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:32,782 --> 00:02:51,784",
+    "audio_description": "After boiling water in the kettle, we’ll add the cooked mutton to it. We’ve pressure cooked the mutton with 4–5 whistles. It should be about 80–90% done. The rest will cook in the dum process.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=149s",
+        "actions": [
+          "Boiling green herbs and spices in oil",
+          "Placing the lid on the pressure cooker",
+          "Stirring ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Scooping curry pieces"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=209s",
+        "actions": [
+          "Adding chopped onions on rice",
+          "Adding coriander leaves on rice",
+          "Spreading the rice"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=229s",
+        "actions": [
+          "Adding mango pickle to rice",
+          "Covering the pressure cooker with its lid"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=239s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Serving the rice onto a plate"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=269s",
+        "actions": [
+          "Adding seasoned meat to rice",
+          "Mixing rice and meat together"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=279s",
+        "actions": [
+          "Picking up a piece of meat from the rice plate",
+          "Holding and displaying a piece of meat covered in spices"
+        ],
+        "confidence_score": 0.594
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:52,274 --> 00:03:19,240",
+    "audio_description": "It’s well cooked. Now we boil water on the side. We’ll cook the rice now. We are using Kaima rice or Jeerakasala rice — traditional Kerala biryani rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=19s",
+        "actions": [
+          "Pouring oil into the wok",
+          "Adding chopped onions to the wok"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=59s",
+        "actions": [
+          "Adding garlic paste",
+          "Adding sliced green chilies",
+          "Adding diced tomatoes",
+          "Adding yellow spice powder",
+          "Adding red spice powder"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=89s",
+        "actions": [
+          "Mixing ingredients",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=109s",
+        "actions": [
+          "Removing the lid from a vessel",
+          "Pouring oil into a container"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Scooping curry pieces"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=209s",
+        "actions": [
+          "Adding chopped onions on rice",
+          "Adding coriander leaves on rice",
+          "Spreading the rice"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=229s",
+        "actions": [
+          "Adding mango pickle to rice",
+          "Covering the pressure cooker with its lid"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=239s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Serving the rice onto a plate"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=269s",
+        "actions": [
+          "Adding seasoned meat to rice",
+          "Mixing rice and meat together"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=279s",
+        "actions": [
+          "Picking up a piece of meat from the rice plate",
+          "Holding and displaying a piece of meat covered in spices"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=289s",
+        "actions": [
+          "Picking up rice and meat from a plate",
+          "Holding and displaying the rice and meat in the hand"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "299-306",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=299s",
+        "actions": [
+          "Holding rice (the person is displaying the rice in their hand)"
+        ],
+        "confidence_score": 0.634
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:19,594 --> 00:03:43,826",
+    "audio_description": "The rice should be ¾ cooked. We drain the rice. Some water remains, so it gets a little steamed. The rice will cook further in the dum.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=109s",
+        "actions": [
+          "Removing the lid from a vessel",
+          "Pouring oil into a container"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=209s",
+        "actions": [
+          "Adding chopped onions on rice",
+          "Adding coriander leaves on rice",
+          "Spreading the rice"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=229s",
+        "actions": [
+          "Adding mango pickle to rice",
+          "Covering the pressure cooker with its lid"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=239s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Serving the rice onto a plate"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=269s",
+        "actions": [
+          "Adding seasoned meat to rice",
+          "Mixing rice and meat together"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=279s",
+        "actions": [
+          "Picking up a piece of meat from the rice plate",
+          "Holding and displaying a piece of meat covered in spices"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=289s",
+        "actions": [
+          "Picking up rice and meat from a plate",
+          "Holding and displaying the rice and meat in the hand"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "299-306",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=299s",
+        "actions": [
+          "Holding rice (the person is displaying the rice in their hand)"
+        ],
+        "confidence_score": 0.665
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:44,317 --> 00:04:07,418",
+    "audio_description": "Now we’ll close the pot and let it cook on low flame for 5 to 10 minutes on dum. After 5–10 minutes, our Thalassery biryani will be ready. Super delicious!",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=19s",
+        "actions": [
+          "Pouring oil into the wok",
+          "Adding chopped onions to the wok"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=39s",
+        "actions": [
+          "Adding meat to the pot",
+          "Adding caramelized onions to the pot"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=49s",
+        "actions": [
+          "Adding browned onions to the pot",
+          "Adding garlic paste to the pot"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=59s",
+        "actions": [
+          "Adding garlic paste",
+          "Adding sliced green chilies",
+          "Adding diced tomatoes",
+          "Adding yellow spice powder",
+          "Adding red spice powder"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=69s",
+        "actions": [
+          "Adding turmeric powder to the pot",
+          "Adding chili powder to the pot",
+          "Sprinkling salt over the mixture",
+          "Pouring yogurt into the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=119s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding onion slices to the pot",
+          "Stirring onions and spices"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=149s",
+        "actions": [
+          "Boiling green herbs and spices in oil",
+          "Placing the lid on the pressure cooker",
+          "Stirring ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=239s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Serving the rice onto a plate"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "299-306",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=299s",
+        "actions": [
+          "Holding rice (the person is displaying the rice in their hand)"
+        ],
+        "confidence_score": 0.51
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:07,772 --> 00:04:35,245",
+    "audio_description": "The mutton is cooked perfectly — soft and juicy. There’s a nice layer at the bottom too. The Thalassery biryani we made turned out really tasty! We made it in proper Kerala style.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=69s",
+        "actions": [
+          "Adding turmeric powder to the pot",
+          "Adding chili powder to the pot",
+          "Sprinkling salt over the mixture",
+          "Pouring yogurt into the pot"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=109s",
+        "actions": [
+          "Removing the lid from a vessel",
+          "Pouring oil into a container"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=149s",
+        "actions": [
+          "Boiling green herbs and spices in oil",
+          "Placing the lid on the pressure cooker",
+          "Stirring ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=269s",
+        "actions": [
+          "Adding seasoned meat to rice",
+          "Mixing rice and meat together"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=279s",
+        "actions": [
+          "Picking up a piece of meat from the rice plate",
+          "Holding and displaying a piece of meat covered in spices"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "299-306",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=299s",
+        "actions": [
+          "Holding rice (the person is displaying the rice in their hand)"
+        ],
+        "confidence_score": 0.575
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:35,245 --> 00:05:04,456",
+    "audio_description": "Look at our mutton — super soft, juicy, and well-cooked. We cooked 80–90% of it in the cooker, and the remaining 10% was done in dum. That’s why it’s so soft and flavorful.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=0s",
+        "actions": [
+          "Flipping fried onions and spices into rice",
+          "Stirring the rice mixture on the plate"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=9s",
+        "actions": [
+          "Placing cooked meat on rice",
+          "Pouring liquid into cooking pot",
+          "Adding ingredients to rice"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=69s",
+        "actions": [
+          "Adding turmeric powder to the pot",
+          "Adding chili powder to the pot",
+          "Sprinkling salt over the mixture",
+          "Pouring yogurt into the pot"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=79s",
+        "actions": [
+          "Adding yogurt or cream to the pot",
+          "Adding turmeric powder to the pot",
+          "Adding fresh green herbs to the pot",
+          "Cracking an egg into the mixture"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=99s",
+        "actions": [
+          "Pouring liquid into the pressure cooker",
+          "Stirring the vegetables in the pressure cooker"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=139s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the contents of the pot",
+          "Adding a white liquid (like milk or yogurt) to the pot"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=149s",
+        "actions": [
+          "Boiling green herbs and spices in oil",
+          "Placing the lid on the pressure cooker",
+          "Stirring ingredients in the pressure cooker"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=159s",
+        "actions": [
+          "Stirring curry",
+          "Scooping curry pieces"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=169s",
+        "actions": [
+          "Scooping curry with a slotted spoon",
+          "Cooking rice in water with green leaves and spices",
+          "Pouring rice into the pot with the boiling water and green leaves"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=179s",
+        "actions": [
+          "Adding flour to broth",
+          "Stirring the broth with flour",
+          "Mixing all ingredients in the pot"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=189s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=199s",
+        "actions": [
+          "Adding rice to the curry",
+          "Mixing rice and curry"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=209s",
+        "actions": [
+          "Adding chopped onions on rice",
+          "Adding coriander leaves on rice",
+          "Spreading the rice"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=219s",
+        "actions": [
+          "Fluffing the rice",
+          "Adding fried onions to the rice",
+          "Adding fresh green herbs to the rice"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=229s",
+        "actions": [
+          "Adding mango pickle to rice",
+          "Covering the pressure cooker with its lid"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=239s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Serving the rice onto a plate"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=249s",
+        "actions": [
+          "Transferring rice onto a plate",
+          "Adding nuts to the plate of rice"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=259s",
+        "actions": [
+          "Placing seasoned meat mixture onto rice",
+          "Spreading the meat mixture evenly over the rice"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=269s",
+        "actions": [
+          "Adding seasoned meat to rice",
+          "Mixing rice and meat together"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=CX5t8RX8ct0&t=279s",
+        "actions": [
+          "Picking up a piece of meat from the rice plate",
+          "Holding and displaying a piece of meat covered in spices"
+        ],
+        "confidence_score": 0.699
+      }
+    ]
+  }
+]

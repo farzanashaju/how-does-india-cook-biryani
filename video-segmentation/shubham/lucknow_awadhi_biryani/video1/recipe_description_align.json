@@ -1,0 +1,4461 @@
+[
+  {
+    "title": "Marinate the Mutton - Step 1",
+    "description": "In a large bowl, combine yogurt, ginger paste, garlic paste, salt, cardamom powder, and nutmeg-mace powder.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Ginger garlic paste",
+          "Green cardamom pods"
+        ],
+        "actions": [
+          "Frying chicken pieces",
+          "Adding ginger garlic paste to the pan",
+          "Adding green cardamom pods to the pan"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Small bowl",
+          "Spoon"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Whipped cream or yogurt",
+          "Turmeric powder or similar spice"
+        ],
+        "actions": [
+          "Adding turmeric powder or similar spice to the pan",
+          "Stirring the mixture of chicken, cream or yogurt, and spices",
+          "Mixing and spreading the ingredients thoroughly in the pan"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Spatula or cooking spoon",
+          "Metal tong"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=100s",
+        "ingredients": [
+          "Green cardamom pods",
+          "Mace pieces",
+          "Nutmeg"
+        ],
+        "actions": [
+          "Placing mace pieces on a plate",
+          "Adding nutmeg to a plate",
+          "Mixing spices with a spoon"
+        ],
+        "utensils": [
+          "Small white bowl",
+          "Spoon"
+        ],
+        "confidence": 0.794
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=90s",
+        "ingredients": [
+          "Yogurt",
+          "Salt",
+          "Green cardamom"
+        ],
+        "actions": [
+          "Pouring yogurt onto meat",
+          "Sprinkling salt on the mixture",
+          "Pouring green cardamom into a bowl"
+        ],
+        "utensils": [
+          "Cookware (pot or pan)",
+          "Spoon",
+          "White bowl"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=240s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaf (Dalchini)",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Stirring the pot with a ladle",
+          "Pouring basmati rice into the pot",
+          "Floating the bay leaf, cardamom pods, and cinnamon stick in the water-rice mixture"
+        ],
+        "utensils": [
+          "Large pot",
+          "Ladle",
+          "Strainer or sieve"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=80s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red chili powder",
+          "Turmeric powder",
+          "Yogurt"
+        ],
+        "actions": [
+          "Mixing chicken pieces with spices",
+          "Stirring the chicken and spices together",
+          "Pouring yogurt into the pot"
+        ],
+        "utensils": [
+          "Metal pot or pressure cooker",
+          "Metal slotted spoon",
+          "Spoon or measuring cup for yogurt"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=210s",
+        "ingredients": [
+          "Clarified butter (ghee)",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Scooping clarified butter with a spoon",
+          "Adding cardamom pods to a pot"
+        ],
+        "utensils": [
+          "Spoon",
+          "White bowl",
+          "Large metal pot",
+          "Small bowl for spices"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow chili powder"
+        ],
+        "actions": [
+          "Stirring chicken pieces",
+          "Adding yellow chili powder to chicken pieces"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Slotted spoon",
+          "Spoon for measuring spices"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=220s",
+        "ingredients": [
+          "Bay leaf",
+          "Cumin seeds",
+          "Garlic",
+          "Salt",
+          "Butter or ghee"
+        ],
+        "actions": [
+          "Adding bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Adding garlic to the pot",
+          "Adding salt to the pot",
+          "Adding butter or ghee to the pot"
+        ],
+        "utensils": [
+          "Ceramic pot or bowl",
+          "Cooking spoon"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=160s",
+        "ingredients": [
+          "Orange/brownish sauce",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Straining sauce through the strainer",
+          "Scooping sauce with a spoon",
+          "Holding the strainer in place with a tong"
+        ],
+        "utensils": [
+          "Strainer/tea strainer",
+          "Metal bowl",
+          "Spoon",
+          "Orange-handled kitchen tool (likely a tong or spatula)",
+          "Pot for cooking the sauce"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=230s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom",
+          "Cloves",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding lemon juice to water",
+          "Stirring the pot contents"
+        ],
+        "utensils": [
+          "Large pot",
+          "Spoon"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.698
+      },
+      {
+        "timestamp": "330-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=330s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Black peppercorns",
+          "Salt (visible as small grains)",
+          "Basil leaves",
+          "Olive oil"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork",
+          "Plate",
+          "Bowl (for olive oil)"
+        ],
+        "confidence": 0.647
+      }
+    ]
+  },
+  {
+    "title": "Marinate the Mutton - Step 2",
+    "description": "Add half of the fried onions (birista) to the yogurt mixture and mix well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Whipped cream or yogurt",
+          "Turmeric powder or similar spice"
+        ],
+        "actions": [
+          "Adding turmeric powder or similar spice to the pan",
+          "Stirring the mixture of chicken, cream or yogurt, and spices",
+          "Mixing and spreading the ingredients thoroughly in the pan"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Spatula or cooking spoon",
+          "Metal tong"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.789
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=140s",
+        "ingredients": [
+          "Pieces of chicken",
+          "Red sauce",
+          "Onion slices"
+        ],
+        "actions": [
+          "Adding onion slices to the pot",
+          "Stirring the dish",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Round cooking pot",
+          "Metal lid",
+          "Ladle"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=90s",
+        "ingredients": [
+          "Yogurt",
+          "Salt",
+          "Green cardamom"
+        ],
+        "actions": [
+          "Pouring yogurt onto meat",
+          "Sprinkling salt on the mixture",
+          "Pouring green cardamom into a bowl"
+        ],
+        "utensils": [
+          "Cookware (pot or pan)",
+          "Spoon",
+          "White bowl"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=80s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red chili powder",
+          "Turmeric powder",
+          "Yogurt"
+        ],
+        "actions": [
+          "Mixing chicken pieces with spices",
+          "Stirring the chicken and spices together",
+          "Pouring yogurt into the pot"
+        ],
+        "utensils": [
+          "Metal pot or pressure cooker",
+          "Metal slotted spoon",
+          "Spoon or measuring cup for yogurt"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=0s",
+        "ingredients": [
+          "Rice",
+          "Carrot pieces",
+          "Pieces of cooked meat (likely chicken)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Placing cooked meat on the rice"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spade or serving spoon"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.714
+      }
+    ]
+  },
+  {
+    "title": "Marinate the Mutton - Step 3",
+    "description": "Add the mutton pieces and coat them thoroughly with the marinade. Cover and refrigerate for at least 4 hours, preferably overnight.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=0s",
+        "ingredients": [
+          "Rice",
+          "Carrot pieces",
+          "Pieces of cooked meat (likely chicken)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Placing cooked meat on the rice"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spade or serving spoon"
+        ],
+        "confidence": 0.635
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=80s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red chili powder",
+          "Turmeric powder",
+          "Yogurt"
+        ],
+        "actions": [
+          "Mixing chicken pieces with spices",
+          "Stirring the chicken and spices together",
+          "Pouring yogurt into the pot"
+        ],
+        "utensils": [
+          "Metal pot or pressure cooker",
+          "Metal slotted spoon",
+          "Spoon or measuring cup for yogurt"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.615
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=100s",
+        "ingredients": [
+          "Green cardamom pods",
+          "Mace pieces",
+          "Nutmeg"
+        ],
+        "actions": [
+          "Placing mace pieces on a plate",
+          "Adding nutmeg to a plate",
+          "Mixing spices with a spoon"
+        ],
+        "utensils": [
+          "Small white bowl",
+          "Spoon"
+        ],
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow chili powder"
+        ],
+        "actions": [
+          "Stirring chicken pieces",
+          "Adding yellow chili powder to chicken pieces"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Slotted spoon",
+          "Spoon for measuring spices"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Whipped cream or yogurt",
+          "Turmeric powder or similar spice"
+        ],
+        "actions": [
+          "Adding turmeric powder or similar spice to the pan",
+          "Stirring the mixture of chicken, cream or yogurt, and spices",
+          "Mixing and spreading the ingredients thoroughly in the pan"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Spatula or cooking spoon",
+          "Metal tong"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=150s",
+        "ingredients": [
+          "Cooked chicken pieces",
+          "Red sauce",
+          "Orange liquid (possibly broth)"
+        ],
+        "actions": [
+          "Lifting the lid off the pot",
+          "Removing cooked chicken pieces from the pot",
+          "Scooping sauce with the strainer",
+          "Transferring chicken pieces to another container"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Large metal bowl or pot",
+          "Spoon"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.598
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=130s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Meetha attar (sweet attar)"
+        ],
+        "actions": [
+          "Adding water to the chicken and sauce",
+          "Adding meetha attar to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.596
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.595
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.595
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=30s",
+        "ingredients": [
+          "Chicken pieces"
+        ],
+        "actions": [
+          "Stirring chicken pieces",
+          "Frying chicken pieces"
+        ],
+        "utensils": [
+          "Stainless steel pot",
+          "Stainless steel slotted spoon",
+          "Stove or cooktop"
+        ],
+        "confidence": 0.594
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Ginger garlic paste",
+          "Green cardamom pods"
+        ],
+        "actions": [
+          "Frying chicken pieces",
+          "Adding ginger garlic paste to the pan",
+          "Adding green cardamom pods to the pan"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Small bowl",
+          "Spoon"
+        ],
+        "confidence": 0.594
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.579
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=50s",
+        "ingredients": [
+          "Chicken pieces",
+          "Bay leaves",
+          "Oil"
+        ],
+        "actions": [
+          "Adding bay leaves to the saucepan",
+          "Stirring chicken pieces in the saucepan"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Ladle",
+          "Bowl"
+        ],
+        "confidence": 0.578
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.575
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=140s",
+        "ingredients": [
+          "Pieces of chicken",
+          "Red sauce",
+          "Onion slices"
+        ],
+        "actions": [
+          "Adding onion slices to the pot",
+          "Stirring the dish",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Round cooking pot",
+          "Metal lid",
+          "Ladle"
+        ],
+        "confidence": 0.563
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.557
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water (1 1/2 cup)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the chicken and sauce with a spatula"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Spatula"
+        ],
+        "confidence": 0.553
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=310s",
+        "ingredients": [
+          "Rice",
+          "Potatoes",
+          "Carrot pieces"
+        ],
+        "actions": [
+          "Mashing potatoes with rice",
+          "Scooping rice and potato mixture",
+          "Placing rice and potato mixture onto a plate"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.539
+      }
+    ]
+  },
+  {
+    "title": "Prepare Saffron Milk - Step 1",
+    "description": "Soak saffron strands in warm milk for 10–15 minutes to release color and aroma.",
+    "aligned_chunks": [
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=180s",
+        "ingredients": [
+          "Meetha Attar (3-4 drops)",
+          "Milk (1 cup)",
+          "Prepared Biryani Masala (1 tsp)"
+        ],
+        "actions": [
+          "Adding Meetha Attar drops to the glass bowl",
+          "Pouring milk into the glass bowl",
+          "Adding Prepared Biryani Masala to the glass bowl"
+        ],
+        "utensils": [
+          "Clear glass bowl",
+          "Metal cup (for measuring)",
+          "Spoon"
+        ],
+        "confidence": 0.63
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=290s",
+        "ingredients": [
+          "Orange food color",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Pouring orange food color on rice",
+          "Sprinkling orange food color over rice",
+          "Covering the tray with a lid"
+        ],
+        "utensils": [
+          "Serving spoon",
+          "Metal tray"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.601
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.574
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.561
+      }
+    ]
+  },
+  {
+    "title": "Prepare Saffron Milk - Step 2",
+    "description": "Add rose water and kewra water to the saffron milk. Mix gently and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=170s",
+        "ingredients": [
+          "Kewra water",
+          "Rose water",
+          "Meetha attar"
+        ],
+        "actions": [
+          "Squeezing liquid through a strainer",
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding meetha attar to the bowl"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large spoon",
+          "Measuring spoon",
+          "Transparent bowl (on a metal plate)"
+        ],
+        "confidence": 0.832
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=230s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom",
+          "Cloves",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding lemon juice to water",
+          "Stirring the pot contents"
+        ],
+        "utensils": [
+          "Large pot",
+          "Spoon"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=180s",
+        "ingredients": [
+          "Meetha Attar (3-4 drops)",
+          "Milk (1 cup)",
+          "Prepared Biryani Masala (1 tsp)"
+        ],
+        "actions": [
+          "Adding Meetha Attar drops to the glass bowl",
+          "Pouring milk into the glass bowl",
+          "Adding Prepared Biryani Masala to the glass bowl"
+        ],
+        "utensils": [
+          "Clear glass bowl",
+          "Metal cup (for measuring)",
+          "Spoon"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=130s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Meetha attar (sweet attar)"
+        ],
+        "actions": [
+          "Adding water to the chicken and sauce",
+          "Adding meetha attar to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water (1 1/2 cup)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the chicken and sauce with a spatula"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Spatula"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.683
+      }
+    ]
+  },
+  {
+    "title": "Boil the Rice - Step 1",
+    "description": "Rinse basmati rice thoroughly until the water runs clear. Soak in water for 30 minutes, then drain.",
+    "aligned_chunks": [
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=240s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaf (Dalchini)",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Stirring the pot with a ladle",
+          "Pouring basmati rice into the pot",
+          "Floating the bay leaf, cardamom pods, and cinnamon stick in the water-rice mixture"
+        ],
+        "utensils": [
+          "Large pot",
+          "Ladle",
+          "Strainer or sieve"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=170s",
+        "ingredients": [
+          "Kewra water",
+          "Rose water",
+          "Meetha attar"
+        ],
+        "actions": [
+          "Squeezing liquid through a strainer",
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding meetha attar to the bowl"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large spoon",
+          "Measuring spoon",
+          "Transparent bowl (on a metal plate)"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=250s",
+        "ingredients": [
+          "Basmati rice",
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter into a bowl",
+          "Adding rice to a cooking pot",
+          "Stirring rice in the pot"
+        ],
+        "utensils": [
+          "A cooking pot",
+          "A metal spoon",
+          "A strainer or slotted spoon"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.671
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.669
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=300s",
+        "ingredients": [
+          "Rice",
+          "Carrots (julienned)"
+        ],
+        "actions": [
+          "Lifting the lid",
+          "Fluffing the rice with a spatula"
+        ],
+        "utensils": [
+          "Steaming tray (with lid)",
+          "Spatula (with holes)",
+          "Metal pot"
+        ],
+        "confidence": 0.669
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=0s",
+        "ingredients": [
+          "Rice",
+          "Carrot pieces",
+          "Pieces of cooked meat (likely chicken)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Placing cooked meat on the rice"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spade or serving spoon"
+        ],
+        "confidence": 0.661
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=310s",
+        "ingredients": [
+          "Rice",
+          "Potatoes",
+          "Carrot pieces"
+        ],
+        "actions": [
+          "Mashing potatoes with rice",
+          "Scooping rice and potato mixture",
+          "Placing rice and potato mixture onto a plate"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.661
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=290s",
+        "ingredients": [
+          "Orange food color",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Pouring orange food color on rice",
+          "Sprinkling orange food color over rice",
+          "Covering the tray with a lid"
+        ],
+        "utensils": [
+          "Serving spoon",
+          "Metal tray"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=130s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Meetha attar (sweet attar)"
+        ],
+        "actions": [
+          "Adding water to the chicken and sauce",
+          "Adding meetha attar to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.648
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water (1 1/2 cup)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the chicken and sauce with a spatula"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Spatula"
+        ],
+        "confidence": 0.643
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.641
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=230s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom",
+          "Cloves",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding lemon juice to water",
+          "Stirring the pot contents"
+        ],
+        "utensils": [
+          "Large pot",
+          "Spoon"
+        ],
+        "confidence": 0.603
+      }
+    ]
+  },
+  {
+    "title": "Boil the Rice - Step 2",
+    "description": "In a large vessel, bring ample water to a boil. Add bay leaves, cinnamon stick, green cardamoms, cloves, star anise, black cumin seeds, and salt.",
+    "aligned_chunks": [
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=240s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaf (Dalchini)",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Stirring the pot with a ladle",
+          "Pouring basmati rice into the pot",
+          "Floating the bay leaf, cardamom pods, and cinnamon stick in the water-rice mixture"
+        ],
+        "utensils": [
+          "Large pot",
+          "Ladle",
+          "Strainer or sieve"
+        ],
+        "confidence": 0.79
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=220s",
+        "ingredients": [
+          "Bay leaf",
+          "Cumin seeds",
+          "Garlic",
+          "Salt",
+          "Butter or ghee"
+        ],
+        "actions": [
+          "Adding bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Adding garlic to the pot",
+          "Adding salt to the pot",
+          "Adding butter or ghee to the pot"
+        ],
+        "utensils": [
+          "Ceramic pot or bowl",
+          "Cooking spoon"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=50s",
+        "ingredients": [
+          "Chicken pieces",
+          "Bay leaves",
+          "Oil"
+        ],
+        "actions": [
+          "Adding bay leaves to the saucepan",
+          "Stirring chicken pieces in the saucepan"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Ladle",
+          "Bowl"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Ginger garlic paste",
+          "Green cardamom pods"
+        ],
+        "actions": [
+          "Frying chicken pieces",
+          "Adding ginger garlic paste to the pan",
+          "Adding green cardamom pods to the pan"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Small bowl",
+          "Spoon"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=90s",
+        "ingredients": [
+          "Yogurt",
+          "Salt",
+          "Green cardamom"
+        ],
+        "actions": [
+          "Pouring yogurt onto meat",
+          "Sprinkling salt on the mixture",
+          "Pouring green cardamom into a bowl"
+        ],
+        "utensils": [
+          "Cookware (pot or pan)",
+          "Spoon",
+          "White bowl"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water (1 1/2 cup)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the chicken and sauce with a spatula"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Spatula"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=100s",
+        "ingredients": [
+          "Green cardamom pods",
+          "Mace pieces",
+          "Nutmeg"
+        ],
+        "actions": [
+          "Placing mace pieces on a plate",
+          "Adding nutmeg to a plate",
+          "Mixing spices with a spoon"
+        ],
+        "utensils": [
+          "Small white bowl",
+          "Spoon"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=170s",
+        "ingredients": [
+          "Kewra water",
+          "Rose water",
+          "Meetha attar"
+        ],
+        "actions": [
+          "Squeezing liquid through a strainer",
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding meetha attar to the bowl"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large spoon",
+          "Measuring spoon",
+          "Transparent bowl (on a metal plate)"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=130s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Meetha attar (sweet attar)"
+        ],
+        "actions": [
+          "Adding water to the chicken and sauce",
+          "Adding meetha attar to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=230s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom",
+          "Cloves",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding lemon juice to water",
+          "Stirring the pot contents"
+        ],
+        "utensils": [
+          "Large pot",
+          "Spoon"
+        ],
+        "confidence": 0.68
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.649
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.641
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.637
+      },
+      {
+        "timestamp": "330-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=330s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Black peppercorns",
+          "Salt (visible as small grains)",
+          "Basil leaves",
+          "Olive oil"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork",
+          "Plate",
+          "Bowl (for olive oil)"
+        ],
+        "confidence": 0.569
+      }
+    ]
+  },
+  {
+    "title": "Boil the Rice - Step 3",
+    "description": "Add the soaked rice to the boiling water and cook until the grains are about 70% done—firm with a slight bite.",
+    "aligned_chunks": [
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=250s",
+        "ingredients": [
+          "Basmati rice",
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter into a bowl",
+          "Adding rice to a cooking pot",
+          "Stirring rice in the pot"
+        ],
+        "utensils": [
+          "A cooking pot",
+          "A metal spoon",
+          "A strainer or slotted spoon"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=240s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaf (Dalchini)",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Stirring the pot with a ladle",
+          "Pouring basmati rice into the pot",
+          "Floating the bay leaf, cardamom pods, and cinnamon stick in the water-rice mixture"
+        ],
+        "utensils": [
+          "Large pot",
+          "Ladle",
+          "Strainer or sieve"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=0s",
+        "ingredients": [
+          "Rice",
+          "Carrot pieces",
+          "Pieces of cooked meat (likely chicken)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Placing cooked meat on the rice"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spade or serving spoon"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=300s",
+        "ingredients": [
+          "Rice",
+          "Carrots (julienned)"
+        ],
+        "actions": [
+          "Lifting the lid",
+          "Fluffing the rice with a spatula"
+        ],
+        "utensils": [
+          "Steaming tray (with lid)",
+          "Spatula (with holes)",
+          "Metal pot"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=310s",
+        "ingredients": [
+          "Rice",
+          "Potatoes",
+          "Carrot pieces"
+        ],
+        "actions": [
+          "Mashing potatoes with rice",
+          "Scooping rice and potato mixture",
+          "Placing rice and potato mixture onto a plate"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=130s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water",
+          "Meetha attar (sweet attar)"
+        ],
+        "actions": [
+          "Adding water to the chicken and sauce",
+          "Adding meetha attar to the mixture"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=120s",
+        "ingredients": [
+          "Chicken pieces",
+          "Red sauce",
+          "Water (1 1/2 cup)"
+        ],
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the chicken and sauce with a spatula"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Spatula"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=170s",
+        "ingredients": [
+          "Kewra water",
+          "Rose water",
+          "Meetha attar"
+        ],
+        "actions": [
+          "Squeezing liquid through a strainer",
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding meetha attar to the bowl"
+        ],
+        "utensils": [
+          "Strainer",
+          "Large spoon",
+          "Measuring spoon",
+          "Transparent bowl (on a metal plate)"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=290s",
+        "ingredients": [
+          "Orange food color",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Pouring orange food color on rice",
+          "Sprinkling orange food color over rice",
+          "Covering the tray with a lid"
+        ],
+        "utensils": [
+          "Serving spoon",
+          "Metal tray"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=230s",
+        "ingredients": [
+          "Water",
+          "Bay leaf",
+          "Cardamom",
+          "Cloves",
+          "Lemon juice"
+        ],
+        "actions": [
+          "Adding lemon juice to water",
+          "Stirring the pot contents"
+        ],
+        "utensils": [
+          "Large pot",
+          "Spoon"
+        ],
+        "confidence": 0.693
+      },
+      {
+        "timestamp": "330-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=330s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Black peppercorns",
+          "Salt (visible as small grains)",
+          "Basil leaves",
+          "Olive oil"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork",
+          "Plate",
+          "Bowl (for olive oil)"
+        ],
+        "confidence": 0.618
+      }
+    ]
+  },
+  {
+    "title": "Boil the Rice - Step 4",
+    "description": "Drain the rice immediately to prevent overcooking and spread it out to cool slightly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.839
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.809
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=250s",
+        "ingredients": [
+          "Basmati rice",
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter into a bowl",
+          "Adding rice to a cooking pot",
+          "Stirring rice in the pot"
+        ],
+        "utensils": [
+          "A cooking pot",
+          "A metal spoon",
+          "A strainer or slotted spoon"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=0s",
+        "ingredients": [
+          "Rice",
+          "Carrot pieces",
+          "Pieces of cooked meat (likely chicken)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Placing cooked meat on the rice"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spade or serving spoon"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=300s",
+        "ingredients": [
+          "Rice",
+          "Carrots (julienned)"
+        ],
+        "actions": [
+          "Lifting the lid",
+          "Fluffing the rice with a spatula"
+        ],
+        "utensils": [
+          "Steaming tray (with lid)",
+          "Spatula (with holes)",
+          "Metal pot"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=240s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaf (Dalchini)",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Stirring the pot with a ladle",
+          "Pouring basmati rice into the pot",
+          "Floating the bay leaf, cardamom pods, and cinnamon stick in the water-rice mixture"
+        ],
+        "utensils": [
+          "Large pot",
+          "Ladle",
+          "Strainer or sieve"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.786
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.774
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.764
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.764
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=310s",
+        "ingredients": [
+          "Rice",
+          "Potatoes",
+          "Carrot pieces"
+        ],
+        "actions": [
+          "Mashing potatoes with rice",
+          "Scooping rice and potato mixture",
+          "Placing rice and potato mixture onto a plate"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=290s",
+        "ingredients": [
+          "Orange food color",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Pouring orange food color on rice",
+          "Sprinkling orange food color over rice",
+          "Covering the tray with a lid"
+        ],
+        "utensils": [
+          "Serving spoon",
+          "Metal tray"
+        ],
+        "confidence": 0.758
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 1",
+    "description": "In a heavy-bottomed pot or handi, grease the base with ghee.",
+    "aligned_chunks": [
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=220s",
+        "ingredients": [
+          "Bay leaf",
+          "Cumin seeds",
+          "Garlic",
+          "Salt",
+          "Butter or ghee"
+        ],
+        "actions": [
+          "Adding bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Adding garlic to the pot",
+          "Adding salt to the pot",
+          "Adding butter or ghee to the pot"
+        ],
+        "utensils": [
+          "Ceramic pot or bowl",
+          "Cooking spoon"
+        ],
+        "confidence": 0.868
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=250s",
+        "ingredients": [
+          "Basmati rice",
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter into a bowl",
+          "Adding rice to a cooking pot",
+          "Stirring rice in the pot"
+        ],
+        "utensils": [
+          "A cooking pot",
+          "A metal spoon",
+          "A strainer or slotted spoon"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Whipped cream or yogurt",
+          "Turmeric powder or similar spice"
+        ],
+        "actions": [
+          "Adding turmeric powder or similar spice to the pan",
+          "Stirring the mixture of chicken, cream or yogurt, and spices",
+          "Mixing and spreading the ingredients thoroughly in the pan"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Spatula or cooking spoon",
+          "Metal tong"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=210s",
+        "ingredients": [
+          "Clarified butter (ghee)",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Scooping clarified butter with a spoon",
+          "Adding cardamom pods to a pot"
+        ],
+        "utensils": [
+          "Spoon",
+          "White bowl",
+          "Large metal pot",
+          "Small bowl for spices"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.736
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.72
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 2",
+    "description": "Spread the marinated mutton evenly on the bottom as the first layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "330-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=330s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Black peppercorns",
+          "Salt (visible as small grains)",
+          "Basil leaves",
+          "Olive oil"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork",
+          "Plate",
+          "Bowl (for olive oil)"
+        ],
+        "confidence": 0.717
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 3",
+    "description": "Add a layer of the partially cooked rice over the mutton.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=0s",
+        "ingredients": [
+          "Rice",
+          "Carrot pieces",
+          "Pieces of cooked meat (likely chicken)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Placing cooked meat on the rice"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spade or serving spoon"
+        ],
+        "confidence": 0.904
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.865
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.862
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.853
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.852
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.849
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=250s",
+        "ingredients": [
+          "Basmati rice",
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter into a bowl",
+          "Adding rice to a cooking pot",
+          "Stirring rice in the pot"
+        ],
+        "utensils": [
+          "A cooking pot",
+          "A metal spoon",
+          "A strainer or slotted spoon"
+        ],
+        "confidence": 0.835
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=310s",
+        "ingredients": [
+          "Rice",
+          "Potatoes",
+          "Carrot pieces"
+        ],
+        "actions": [
+          "Mashing potatoes with rice",
+          "Scooping rice and potato mixture",
+          "Placing rice and potato mixture onto a plate"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.827
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=290s",
+        "ingredients": [
+          "Orange food color",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Pouring orange food color on rice",
+          "Sprinkling orange food color over rice",
+          "Covering the tray with a lid"
+        ],
+        "utensils": [
+          "Serving spoon",
+          "Metal tray"
+        ],
+        "confidence": 0.809
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=240s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaf (Dalchini)",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Stirring the pot with a ladle",
+          "Pouring basmati rice into the pot",
+          "Floating the bay leaf, cardamom pods, and cinnamon stick in the water-rice mixture"
+        ],
+        "utensils": [
+          "Large pot",
+          "Ladle",
+          "Strainer or sieve"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=140s",
+        "ingredients": [
+          "Pieces of chicken",
+          "Red sauce",
+          "Onion slices"
+        ],
+        "actions": [
+          "Adding onion slices to the pot",
+          "Stirring the dish",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Round cooking pot",
+          "Metal lid",
+          "Ladle"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=300s",
+        "ingredients": [
+          "Rice",
+          "Carrots (julienned)"
+        ],
+        "actions": [
+          "Lifting the lid",
+          "Fluffing the rice with a spatula"
+        ],
+        "utensils": [
+          "Steaming tray (with lid)",
+          "Spatula (with holes)",
+          "Metal pot"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=150s",
+        "ingredients": [
+          "Cooked chicken pieces",
+          "Red sauce",
+          "Orange liquid (possibly broth)"
+        ],
+        "actions": [
+          "Lifting the lid off the pot",
+          "Removing cooked chicken pieces from the pot",
+          "Scooping sauce with the strainer",
+          "Transferring chicken pieces to another container"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Large metal bowl or pot",
+          "Spoon"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.759
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 4",
+    "description": "Sprinkle the remaining fried onions, chopped mint, and coriander leaves on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.856
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.838
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=50s",
+        "ingredients": [
+          "Chicken pieces",
+          "Bay leaves",
+          "Oil"
+        ],
+        "actions": [
+          "Adding bay leaves to the saucepan",
+          "Stirring chicken pieces in the saucepan"
+        ],
+        "utensils": [
+          "Saucepan",
+          "Ladle",
+          "Bowl"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "330-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=330s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Black peppercorns",
+          "Salt (visible as small grains)",
+          "Basil leaves",
+          "Olive oil"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork",
+          "Plate",
+          "Bowl (for olive oil)"
+        ],
+        "confidence": 0.689
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 5",
+    "description": "Drizzle the prepared saffron milk evenly over the top rice layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=290s",
+        "ingredients": [
+          "Orange food color",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Pouring orange food color on rice",
+          "Sprinkling orange food color over rice",
+          "Covering the tray with a lid"
+        ],
+        "utensils": [
+          "Serving spoon",
+          "Metal tray"
+        ],
+        "confidence": 0.837
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.825
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.823
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.82
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=240s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaf (Dalchini)",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Stirring the pot with a ladle",
+          "Pouring basmati rice into the pot",
+          "Floating the bay leaf, cardamom pods, and cinnamon stick in the water-rice mixture"
+        ],
+        "utensils": [
+          "Large pot",
+          "Ladle",
+          "Strainer or sieve"
+        ],
+        "confidence": 0.817
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=250s",
+        "ingredients": [
+          "Basmati rice",
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter into a bowl",
+          "Adding rice to a cooking pot",
+          "Stirring rice in the pot"
+        ],
+        "utensils": [
+          "A cooking pot",
+          "A metal spoon",
+          "A strainer or slotted spoon"
+        ],
+        "confidence": 0.812
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=0s",
+        "ingredients": [
+          "Rice",
+          "Carrot pieces",
+          "Pieces of cooked meat (likely chicken)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Placing cooked meat on the rice"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spade or serving spoon"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=300s",
+        "ingredients": [
+          "Rice",
+          "Carrots (julienned)"
+        ],
+        "actions": [
+          "Lifting the lid",
+          "Fluffing the rice with a spatula"
+        ],
+        "utensils": [
+          "Steaming tray (with lid)",
+          "Spatula (with holes)",
+          "Metal pot"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=180s",
+        "ingredients": [
+          "Meetha Attar (3-4 drops)",
+          "Milk (1 cup)",
+          "Prepared Biryani Masala (1 tsp)"
+        ],
+        "actions": [
+          "Adding Meetha Attar drops to the glass bowl",
+          "Pouring milk into the glass bowl",
+          "Adding Prepared Biryani Masala to the glass bowl"
+        ],
+        "utensils": [
+          "Clear glass bowl",
+          "Metal cup (for measuring)",
+          "Spoon"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=190s",
+        "ingredients": [
+          "Prepared biryani masala",
+          "Oil"
+        ],
+        "actions": [
+          "Adding biryani masala into a bowl",
+          "Mixing masala with oil using a spoon"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal spoon"
+        ],
+        "confidence": 0.794
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=310s",
+        "ingredients": [
+          "Rice",
+          "Potatoes",
+          "Carrot pieces"
+        ],
+        "actions": [
+          "Mashing potatoes with rice",
+          "Scooping rice and potato mixture",
+          "Placing rice and potato mixture onto a plate"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.769
+      }
+    ]
+  },
+  {
+    "title": "Seal and Cook on Dum - Step 1",
+    "description": "Cover the pot with a tight-fitting lid or aluminum foil to trap steam.",
+    "aligned_chunks": [
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=220s",
+        "ingredients": [
+          "Bay leaf",
+          "Cumin seeds",
+          "Garlic",
+          "Salt",
+          "Butter or ghee"
+        ],
+        "actions": [
+          "Adding bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Adding garlic to the pot",
+          "Adding salt to the pot",
+          "Adding butter or ghee to the pot"
+        ],
+        "utensils": [
+          "Ceramic pot or bowl",
+          "Cooking spoon"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.698
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Whipped cream or yogurt",
+          "Turmeric powder or similar spice"
+        ],
+        "actions": [
+          "Adding turmeric powder or similar spice to the pan",
+          "Stirring the mixture of chicken, cream or yogurt, and spices",
+          "Mixing and spreading the ingredients thoroughly in the pan"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Spatula or cooking spoon",
+          "Metal tong"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.656
+      }
+    ]
+  },
+  {
+    "title": "Seal and Cook on Dum - Step 2",
+    "description": "Seal the edges with kneaded dough if using a traditional lid, to ensure no steam escapes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.657
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.624
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.618
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.615
+      }
+    ]
+  },
+  {
+    "title": "Seal and Cook on Dum - Step 3",
+    "description": "Place the sealed pot on a low flame or a griddle (tava) to prevent direct heat and cook for 45–60 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=220s",
+        "ingredients": [
+          "Bay leaf",
+          "Cumin seeds",
+          "Garlic",
+          "Salt",
+          "Butter or ghee"
+        ],
+        "actions": [
+          "Adding bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Adding garlic to the pot",
+          "Adding salt to the pot",
+          "Adding butter or ghee to the pot"
+        ],
+        "utensils": [
+          "Ceramic pot or bowl",
+          "Cooking spoon"
+        ],
+        "confidence": 0.612
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Whipped cream or yogurt",
+          "Turmeric powder or similar spice"
+        ],
+        "actions": [
+          "Adding turmeric powder or similar spice to the pan",
+          "Stirring the mixture of chicken, cream or yogurt, and spices",
+          "Mixing and spreading the ingredients thoroughly in the pan"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Spatula or cooking spoon",
+          "Metal tong"
+        ],
+        "confidence": 0.602
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.587
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.575
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.562
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.558
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.556
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.542
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.536
+      }
+    ]
+  },
+  {
+    "title": "Rest and Serve - Step 1",
+    "description": "Turn off the heat and let the biryani rest undisturbed for 10–15 minutes to allow the flavors to settle.",
+    "aligned_chunks": [
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=180s",
+        "ingredients": [
+          "Meetha Attar (3-4 drops)",
+          "Milk (1 cup)",
+          "Prepared Biryani Masala (1 tsp)"
+        ],
+        "actions": [
+          "Adding Meetha Attar drops to the glass bowl",
+          "Pouring milk into the glass bowl",
+          "Adding Prepared Biryani Masala to the glass bowl"
+        ],
+        "utensils": [
+          "Clear glass bowl",
+          "Metal cup (for measuring)",
+          "Spoon"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=190s",
+        "ingredients": [
+          "Prepared biryani masala",
+          "Oil"
+        ],
+        "actions": [
+          "Adding biryani masala into a bowl",
+          "Mixing masala with oil using a spoon"
+        ],
+        "utensils": [
+          "Stainless steel bowl",
+          "Metal spoon"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.677
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.631
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.599
+      }
+    ]
+  },
+  {
+    "title": "Rest and Serve - Step 2",
+    "description": "Carefully open the seal, gently fluff the rice using a flat spoon, and serve hot with raita or salan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=240s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaf (Dalchini)",
+          "Cardamom pods",
+          "Cinnamon stick"
+        ],
+        "actions": [
+          "Stirring the pot with a ladle",
+          "Pouring basmati rice into the pot",
+          "Floating the bay leaf, cardamom pods, and cinnamon stick in the water-rice mixture"
+        ],
+        "utensils": [
+          "Large pot",
+          "Ladle",
+          "Strainer or sieve"
+        ],
+        "confidence": 0.814
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=300s",
+        "ingredients": [
+          "Rice",
+          "Carrots (julienned)"
+        ],
+        "actions": [
+          "Lifting the lid",
+          "Fluffing the rice with a spatula"
+        ],
+        "utensils": [
+          "Steaming tray (with lid)",
+          "Spatula (with holes)",
+          "Metal pot"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=250s",
+        "ingredients": [
+          "Basmati rice",
+          "Clarified butter (ghee)"
+        ],
+        "actions": [
+          "Pouring clarified butter into a bowl",
+          "Adding rice to a cooking pot",
+          "Stirring rice in the pot"
+        ],
+        "utensils": [
+          "A cooking pot",
+          "A metal spoon",
+          "A strainer or slotted spoon"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=260s",
+        "ingredients": [
+          "Chilled, cooked rice",
+          "Gravy or broth",
+          "Pieces of chicken"
+        ],
+        "actions": [
+          "Straining rice over a bowl",
+          "Placing chicken pieces on top of the rice"
+        ],
+        "utensils": [
+          "Strainer or slotted spoon",
+          "Large metal bowl or serving dish"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=0s",
+        "ingredients": [
+          "Rice",
+          "Carrot pieces",
+          "Pieces of cooked meat (likely chicken)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Placing cooked meat on the rice"
+        ],
+        "utensils": [
+          "Metal plate",
+          "Spade or serving spoon"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=270s",
+        "ingredients": [
+          "Pieces of cooked chicken",
+          "White rice",
+          "Yellow spice (turmeric)",
+          "Orange sauce (likely a curry or gravy)",
+          "Biryani masala (spice mix)"
+        ],
+        "actions": [
+          "Pouring yellow spice over chicken and rice",
+          "Pouring orange sauce over chicken and rice",
+          "Adding biryani masala to the rice and chicken mixture"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Metal colander",
+          "Measuring spoon",
+          "Ladle"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=280s",
+        "ingredients": [
+          "Chicken pieces",
+          "Rice",
+          "Biryani masala",
+          "A piece of cinnamon"
+        ],
+        "actions": [
+          "Adding biryani masala to chicken and rice",
+          "Sprinkling cinnamon on rice",
+          "Arranging rice on top of chicken"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=320s",
+        "ingredients": [
+          "Chicken pieces",
+          "Basmati rice",
+          "Carrot (finely shredded, mixed with coconut)"
+        ],
+        "actions": [
+          "Placing chicken on cooked rice",
+          "Garnishing with shredded carrot and coconut"
+        ],
+        "utensils": [
+          "Plate",
+          "Wooden dining table"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=310s",
+        "ingredients": [
+          "Rice",
+          "Potatoes",
+          "Carrot pieces"
+        ],
+        "actions": [
+          "Mashing potatoes with rice",
+          "Scooping rice and potato mixture",
+          "Placing rice and potato mixture onto a plate"
+        ],
+        "utensils": [
+          "Metal bowl",
+          "Spoon"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=110s",
+        "ingredients": [
+          "Chicken pieces",
+          "Whipped cream or yogurt",
+          "Turmeric powder or similar spice"
+        ],
+        "actions": [
+          "Adding turmeric powder or similar spice to the pan",
+          "Stirring the mixture of chicken, cream or yogurt, and spices",
+          "Mixing and spreading the ingredients thoroughly in the pan"
+        ],
+        "utensils": [
+          "Non-stick pan",
+          "Spatula or cooking spoon",
+          "Metal tong"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=290s",
+        "ingredients": [
+          "Orange food color",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Pouring orange food color on rice",
+          "Sprinkling orange food color over rice",
+          "Covering the tray with a lid"
+        ],
+        "utensils": [
+          "Serving spoon",
+          "Metal tray"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=220s",
+        "ingredients": [
+          "Bay leaf",
+          "Cumin seeds",
+          "Garlic",
+          "Salt",
+          "Butter or ghee"
+        ],
+        "actions": [
+          "Adding bay leaf to the pot",
+          "Adding cumin seeds to the pot",
+          "Adding garlic to the pot",
+          "Adding salt to the pot",
+          "Adding butter or ghee to the pot"
+        ],
+        "utensils": [
+          "Ceramic pot or bowl",
+          "Cooking spoon"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=200s",
+        "ingredients": [
+          "Orange-colored liquid (likely a curry or sauce)",
+          "Clarified butter"
+        ],
+        "actions": [
+          "Scooping orange-colored liquid with a ladle",
+          "Pours orange-colored liquid into a small white bowl",
+          "Adding clarified butter into the small white bowl with orange liquid"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Large stainless steel bowl",
+          "Small white bowl"
+        ],
+        "confidence": 0.708
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "330-330",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=330s",
+        "ingredients": [
+          "Tomatoes",
+          "Garlic",
+          "Black peppercorns",
+          "Salt (visible as small grains)",
+          "Basil leaves",
+          "Olive oil"
+        ],
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "utensils": [
+          "Fork",
+          "Plate",
+          "Bowl (for olive oil)"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=70s",
+        "ingredients": [
+          "Yellow chili powder",
+          "Red chili powder",
+          "Chicken pieces (drumsticks and thighs)",
+          "Onion"
+        ],
+        "actions": [
+          "Sprinkling yellow chili powder on chicken",
+          "Sprinkling red chili powder on chicken",
+          "Stirring chicken and spices in the pan"
+        ],
+        "utensils": [
+          "Stainless steel pan",
+          "Cooking spatula (metal)",
+          "Measuring spoons"
+        ],
+        "confidence": 0.677
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=10s",
+        "ingredients": [
+          "Cooked rice with mixed vegetables (carrots and corn)",
+          "Oil",
+          "Thinly sliced red onions"
+        ],
+        "actions": [
+          "Piling cooked rice into a serving dish",
+          "Pouring oil into the serving dish",
+          "Adding thinly sliced onions to the serving dish"
+        ],
+        "utensils": [
+          "Large metal serving dish",
+          "Metal cup for oil",
+          "White bowl for onions"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=8BT91Oxp_C0&t=20s",
+        "ingredients": [
+          "Thinly sliced onions",
+          "Chicken legs and thighs"
+        ],
+        "actions": [
+          "Stirring onions in the pan",
+          "Adding onions to the pan",
+          "Pouring chicken into the pan",
+          "Stirring chicken and onions"
+        ],
+        "utensils": [
+          "Strainer ladle",
+          "Large metal pan",
+          "Wooden surface or table"
+        ],
+        "confidence": 0.665
+      }
+    ]
+  }
+]

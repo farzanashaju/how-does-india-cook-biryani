@@ -1,0 +1,5458 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:07,338",
+    "audio_description": "Greetings to everyone",
+    "aligned_chunks": [
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.732
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:08,417 --> 00:00:31,216",
+    "audio_description": "We’re going to see how to make a biryani using Seeraga Samba rice and masala. It’s called Dindigul Chicken Biryani. I’ve explained everything step-by-step in this video, so be sure to watch the whole video.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.516
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.5
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.502
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:31,216 --> 00:00:48,411",
+    "audio_description": "For this, I’ve taken 750 grams of chicken with bone, cut into small pieces and kept ready. I’ve washed 1 kg of Seeraga Samba rice twice and soaked it. Now, we’ll prepare the masala first, starting with a ground paste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=140s",
+        "actions": [
+          "Adding salt to the pot",
+          "Stirring the contents of the pot",
+          "Adding curd to the pot"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=260s",
+        "actions": [
+          "Wiping the serving tray",
+          "Steaming or boiling liquid in a pot",
+          "Pouring ghee into the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=300s",
+        "actions": [
+          "Pointing at the pot",
+          "Cooking on medium flame"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.628
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:48,411 --> 00:01:08,257",
+    "audio_description": "You can put everything in a mixer jar: about 12 green chilies, 5 small pieces of ginger, garlic cloves — grind it all with a little water. Next, let’s make a spice powder: about 12 cardamoms, 10 cloves, 3 pieces of cinnamon, 5–7 mace strands…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=60s",
+        "actions": [
+          "Pouring spices into the plastic jar",
+          "Adding nutmeg to the jar"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=70s",
+        "actions": [
+          "Adding nutmeg to the jar",
+          "Adding bay leaves to the jar",
+          "Adding stone flower to the jar",
+          "Blending the ingredients in the jar"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=140s",
+        "actions": [
+          "Adding salt to the pot",
+          "Stirring the contents of the pot",
+          "Adding curd to the pot"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=260s",
+        "actions": [
+          "Wiping the serving tray",
+          "Steaming or boiling liquid in a pot",
+          "Pouring ghee into the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.671
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:08,257 --> 00:01:36,876",
+    "audio_description": "Add all of that to a mixer jar along with half a piece of nutmeg, 3 bay leaves, about 10 black stone flowers (kalpasi). Grind everything well into a biryani masala powder and keep it aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=60s",
+        "actions": [
+          "Pouring spices into the plastic jar",
+          "Adding nutmeg to the jar"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=70s",
+        "actions": [
+          "Adding nutmeg to the jar",
+          "Adding bay leaves to the jar",
+          "Adding stone flower to the jar",
+          "Blending the ingredients in the jar"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=260s",
+        "actions": [
+          "Wiping the serving tray",
+          "Steaming or boiling liquid in a pot",
+          "Pouring ghee into the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.661
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:38,108 --> 00:02:07,370",
+    "audio_description": "We need to sauté everything well in oil until the raw smell goes away. Add 1/4 tsp of turmeric powder. Since the onion is ground raw, the raw smell will still be there — sauté it well to remove that.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.524
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.523
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.516
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.523
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.504
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.525
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:07,370 --> 00:02:20,008",
+    "audio_description": "After it’s sautéed well like this, add 1 tbsp red chili powder, 6 tbsp cumin powder, and 1 tbsp coriander powder.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.832
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.665
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:20,650 --> 00:02:45,034",
+    "audio_description": "Next, add salt as needed and sauté all the masalas thoroughly. Then add about 350 ml of curd and cook well with the masala. Add a handful of chopped coriander and mint leaves.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=70s",
+        "actions": [
+          "Adding nutmeg to the jar",
+          "Adding bay leaves to the jar",
+          "Adding stone flower to the jar",
+          "Blending the ingredients in the jar"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=140s",
+        "actions": [
+          "Adding salt to the pot",
+          "Stirring the contents of the pot",
+          "Adding curd to the pot"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=260s",
+        "actions": [
+          "Wiping the serving tray",
+          "Steaming or boiling liquid in a pot",
+          "Pouring ghee into the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.525
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.516
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.609
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:45,034 --> 00:03:12,253",
+    "audio_description": "Now add the marinated chicken (cut with bone). Add the 750g chicken to the masala and sauté it well until the masala coats the chicken. Cover and cook.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=260s",
+        "actions": [
+          "Wiping the serving tray",
+          "Steaming or boiling liquid in a pot",
+          "Pouring ghee into the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.572
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:13,705 --> 00:03:30,647",
+    "audio_description": "Once it's half cooked, squeeze in juice from 2 large or 3 small lemons. This adds a nice tangy flavor and balances the taste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=140s",
+        "actions": [
+          "Adding salt to the pot",
+          "Stirring the contents of the pot",
+          "Adding curd to the pot"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=200s",
+        "actions": [
+          "Squeezing lemon into the pot"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.667
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:30,866 --> 00:03:54,155",
+    "audio_description": "After adding lemon juice, add another handful of coriander and mint. Then add 1 liter of water (for 1 kg of rice). This ratio is perfect for cooking the chicken and balancing the gravy consistency.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=140s",
+        "actions": [
+          "Adding salt to the pot",
+          "Stirring the contents of the pot",
+          "Adding curd to the pot"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=200s",
+        "actions": [
+          "Squeezing lemon into the pot"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=300s",
+        "actions": [
+          "Pointing at the pot",
+          "Cooking on medium flame"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.626
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:54,155 --> 00:04:12,548",
+    "audio_description": "Once the water comes to a boil, add the soaked Seeraga Samba rice. We are going to cook this on dum (steam). Stir occasionally; otherwise, the rice might stick to the bottom.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=290s",
+        "actions": [
+          "Placing the pot on the gas stove",
+          "Turning on the gas burner",
+          "Setting the flame to high",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.684
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:14,437 --> 00:04:40,627",
+    "audio_description": "Keep stirring now and then. Then close the lid and don’t leave it open for too long. Otherwise, the water will evaporate and there won't be enough moisture. So keep it closed and cook on dum, checking occasionally.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=140s",
+        "actions": [
+          "Adding salt to the pot",
+          "Stirring the contents of the pot",
+          "Adding curd to the pot"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=300s",
+        "actions": [
+          "Pointing at the pot",
+          "Cooking on medium flame"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=320s",
+        "actions": [
+          "Opening a pot",
+          "Removing the lid from the pot",
+          "Adding butter to the pot",
+          "Stirring the contents",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.683
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:40,627 --> 00:05:10,615",
+    "audio_description": "Now we’ll put it on dum (steam cooking). I’ve kept a tawa (griddle) heated separately. Place the biryani pot on top of it. For the first 6–7 minutes, cook on high flame so that steam builds up properly inside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=60s",
+        "actions": [
+          "Pouring spices into the plastic jar",
+          "Adding nutmeg to the jar"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=70s",
+        "actions": [
+          "Adding nutmeg to the jar",
+          "Adding bay leaves to the jar",
+          "Adding stone flower to the jar",
+          "Blending the ingredients in the jar"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=140s",
+        "actions": [
+          "Adding salt to the pot",
+          "Stirring the contents of the pot",
+          "Adding curd to the pot"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=200s",
+        "actions": [
+          "Squeezing lemon into the pot"
+        ],
+        "confidence_score": 0.49
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=260s",
+        "actions": [
+          "Wiping the serving tray",
+          "Steaming or boiling liquid in a pot",
+          "Pouring ghee into the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.509
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=290s",
+        "actions": [
+          "Placing the pot on the gas stove",
+          "Turning on the gas burner",
+          "Setting the flame to high",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=300s",
+        "actions": [
+          "Pointing at the pot",
+          "Cooking on medium flame"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=320s",
+        "actions": [
+          "Opening a pot",
+          "Removing the lid from the pot",
+          "Adding butter to the pot",
+          "Stirring the contents",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.532
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:10,615 --> 00:05:35,151",
+    "audio_description": "Let it steam for 15 minutes. After that, turn off the stove and let it rest for 15 more minutes. Don’t open immediately, or the rice won’t fluff up properly. Resting helps the rice settle and become soft.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.515
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.514
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.494
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=180s",
+        "actions": [
+          "Replacing pot lid",
+          "Stirring curry with a ladle",
+          "Adding turmeric powder to the curry",
+          "Holding pot with a cloth"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=290s",
+        "actions": [
+          "Placing the pot on the gas stove",
+          "Turning on the gas burner",
+          "Setting the flame to high",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=300s",
+        "actions": [
+          "Pointing at the pot",
+          "Cooking on medium flame"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.508
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=370s",
+        "actions": [
+          "Holding green leaves",
+          "Adding oil to the skillet",
+          "Stirring curry",
+          "Cooking food on the stove",
+          "Pouring oil into a cholesterol separator"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.532
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:35,151 --> 00:05:58,995",
+    "audio_description": "The aroma of the garam masala and Seeraga Samba rice is amazing. This Dindigul-style chicken biryani can be made grandly at home. It’s best enjoyed hot, and the taste lingers for hours!",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=0s",
+        "actions": [
+          "Pouring rice",
+          "Placing banana leaf in a pot",
+          "Placing ingredients into a plastic container",
+          "Adding spices into a wooden bowl"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.531
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.512
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=300s",
+        "actions": [
+          "Pointing at the pot",
+          "Cooking on medium flame"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.502
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=350s",
+        "actions": [
+          "Garnishing with mint leaves",
+          "Pouring oil or ghee on rice",
+          "Mixing rice with the ladle",
+          "Arranging rice in the pot"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.531
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:58,995 --> 00:06:26,012",
+    "audio_description": "Serve it with a little ghee on top and some onion raita. Kids and adults alike will love this biryani. If you liked this video, please like and share it.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=20s",
+        "actions": [
+          "Placing biryani in a serving bowl",
+          "Scooping biryani with a spatula",
+          "Arranging ingredients on a table"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=40s",
+        "actions": [
+          "Scooping rice from a bowl with a wooden spoon",
+          "Placing shalots into the plastic blending jar"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=260s",
+        "actions": [
+          "Wiping the serving tray",
+          "Steaming or boiling liquid in a pot",
+          "Pouring ghee into the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=320s",
+        "actions": [
+          "Opening a pot",
+          "Removing the lid from the pot",
+          "Adding butter to the pot",
+          "Stirring the contents",
+          "Adding ghee to the pot"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.663
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:27,007 --> 00:06:38,887",
+    "audio_description": "With the love of mother’s milk and the tang of tamarind — thank you!",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=10s",
+        "actions": [
+          "Placing garlic cloves in a measuring cup",
+          "Placing shallots in a measuring cup",
+          "Placing spices in a measuring cup",
+          "Wiping a brass cover with a cloth",
+          "Placing a copper pot on the gas stove",
+          "Removing the cover from the copper pot",
+          "Pointing at the copper pot",
+          "Fluffing rice with a hand",
+          "Placing garnishes on the rice in a copper plate"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=30s",
+        "actions": [
+          "Measuring and mixing milk in a glass bowl",
+          "Soaking Jeeraga samba rice",
+          "Placing chicken in a wooden bowl",
+          "Scooping salt",
+          "Adding spices to the mixture"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=50s",
+        "actions": [
+          "Adding green chilies to the jar",
+          "Adding ginger to the jar",
+          "Adding garlic to the jar",
+          "Holding a bowl of spices over the jar"
+        ],
+        "confidence_score": 0.807
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=80s",
+        "actions": [
+          "Adding oil to the pot",
+          "Pouring groundnut oil into the cooking pot"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=90s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Stirring the contents in the pot with a spatula"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=100s",
+        "actions": [
+          "Stirring the liquid in the pot",
+          "Adding turmeric powder to the pot"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=110s",
+        "actions": [
+          "Stirring curry",
+          "Adding cream or yogurt to the pot",
+          "Mixing the curry with a ladle"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=120s",
+        "actions": [
+          "Adding paste to the wok",
+          "Stirring the paste",
+          "Sprinkling turmeric powder",
+          "Adding salt",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=130s",
+        "actions": [
+          "Scooping powder with a spoon",
+          "Adding chilli powder to the mixture",
+          "Adding cumin powder to the mixture",
+          "Adding coriander powder to the mixture",
+          "Stirring the mixture in the mortar"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=150s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Stirring the contents in the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Stirring the pot contents with a ladle"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=160s",
+        "actions": [
+          "Mixing ingredients in the bowl",
+          "Adding chicken pieces to the mixture"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=170s",
+        "actions": [
+          "Pouring chicken into the pot",
+          "Stirring the pot with a spoon",
+          "Adding spices to the chicken"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=190s",
+        "actions": [
+          "Stirring meat",
+          "Lifting the pot cover",
+          "Coating food in the pot with the ladle"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=210s",
+        "actions": [
+          "Adding spices to the pot",
+          "Adding mint and coriander leaves to the pot",
+          "Pouring water into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=220s",
+        "actions": [
+          "Stirring the pot contents",
+          "Pouring water through a strainer into plants"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=230s",
+        "actions": [
+          "Stirring the pot contents with a hand",
+          "Pouring rice into the pot",
+          "Covering the pot with a metal plate"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=240s",
+        "actions": [
+          "Adding flour to the pot",
+          "Stirring the mixture in the pot",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=250s",
+        "actions": [
+          "Removing the lid from the pot",
+          "Stirring the rice mixture",
+          "Lifting the rice mixture with the ladle",
+          "Covering the pot again with the lid",
+          "Placing the lid back on the pot"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=260s",
+        "actions": [
+          "Wiping the serving tray",
+          "Steaming or boiling liquid in a pot",
+          "Pouring ghee into the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=270s",
+        "actions": [
+          "Stirring mixture",
+          "Placing banana leaves in the bowl",
+          "Adjusting banana leaves in the bowl"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=280s",
+        "actions": [
+          "Arranging banana leaves in a pot",
+          "Covering the pot with a lid",
+          "Handling the pot with a cloth to protect from heat"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=310s",
+        "actions": [
+          "Heating pot on burner",
+          "Turning off burner",
+          "Leaving pot to rest"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=330s",
+        "actions": [
+          "Pouring ghee",
+          "Adding spices",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=340s",
+        "actions": [
+          "Flipping rice with spatula",
+          "Placing rice onto the serving plate",
+          "Garnishing with mint leaves and other spices"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=360s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing mint leaves on the rice"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=380s",
+        "actions": [
+          "Scraping boiled mixture with a spatula",
+          "Roasting cashews in a pot",
+          "Transferring roasted cashews into a bowl",
+          "Adding peppercorns and red chilies to dry-roast",
+          "Frying ginger in a pan",
+          "Grinding ginger using a pestle and stone",
+          "Adding liquid to a ground spice mixture in a wooden bowl"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "390-399",
+        "url": "https://www.youtube.com/watch?v=d3PIOllHsYE&t=390s",
+        "actions": [
+          "Pouring liquid into a pot.",
+          "Presenting dishes with a garnish (mint leaves)."
+        ],
+        "confidence_score": 0.762
+      }
+    ]
+  }
+]

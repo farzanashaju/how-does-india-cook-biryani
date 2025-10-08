@@ -1,0 +1,2416 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:29,713",
+    "audio_description": "1 tbsp soya chunks",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:00:58,435 --> 00:01:26,194",
+    "audio_description": "Add sunflower oil, one medium-sized onion, and 2 cardamoms.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=60s",
+        "actions": [
+          "Adding onions to the pan with oil",
+          "Stirring onions with a spatula"
+        ],
+        "confidence_score": 0.86
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=90s",
+        "actions": [
+          "Stirring vegetables",
+          "Transferring fried snacks into the wok",
+          "Frying ingredients in oil"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=100s",
+        "actions": [
+          "Stirring potato cubes",
+          "Frying potato cubes",
+          "Using a slotted spatula to separate and move potato cubes",
+          "Transferring potato cubes to a strainer",
+          "Displaying rice flour in a bowl"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=120s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding cinnamon sticks, cardamom pods, mustard seeds, and cumin seeds into the pan",
+          "Stirring the spices in the pan with a ladle"
+        ],
+        "confidence_score": 0.833
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=140s",
+        "actions": [
+          "Pours oil into the pan",
+          "Adds garlic cloves to the pan",
+          "Adds cinnamon stick to the pan",
+          "Stirs the spices in the pan using a spatula",
+          "Washes rice in a colander"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=150s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=170s",
+        "actions": [
+          "Stirring oil and spices in a pan",
+          "Cooking rice in a pan",
+          "Mixing rice with a spoon"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=180s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice",
+          "Pouring oil into a pan"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=190s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding sliced onions into the pot"
+        ],
+        "confidence_score": 0.821
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=220s",
+        "actions": [
+          "Stirring onions in the frying pan",
+          "Adding salt to cauliflower",
+          "Adding olive oil to cauliflower",
+          "Adding turmeric powder to cauliflower",
+          "Mixing cauliflower with spices and oil",
+          "Pouring seasoned cauliflower into the frying pan"
+        ],
+        "confidence_score": 0.838
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=250s",
+        "actions": [
+          "Rinsing green peas",
+          "Pouring green peas into the wok",
+          "Stirring vegetables in the wok"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=270s",
+        "actions": [
+          "Stirring vegetables",
+          "Adding orange-colored spice powder to the pan",
+          "Adding brownish spice powder to the pan"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.774
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:26,531 --> 00:01:47,490",
+    "audio_description": "Add the soya chunks.",
+    "aligned_chunks": [
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=110s",
+        "actions": [
+          "No distinct actions are visible or occurring in these frames, except for the potential cracking of an egg in the last frame."
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=130s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding rice into the pan",
+          "Sautéing spices in ghee/curd"
+        ],
+        "confidence_score": 0.828
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.827
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.829
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:48,757 --> 00:02:15,335",
+    "audio_description": "Use 1 kg Jeerakasala rice to make this biryani. This is the ideal variety used. Wash it thoroughly. Let it soak for 15 minutes. Then in a hot pan, add 2 tablespoons of ghee.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Transferring rice to a banana leaf"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=10s",
+        "actions": [
+          "Placing cashew nuts on the leaf",
+          "Placing pickle on the leaf",
+          "Placing red condiment on the leaf",
+          "Placing yogurt-based mixtures on the leaf"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=20s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=50s",
+        "actions": [
+          "Sprinkling turmeric powder",
+          "Mixing fried snacks with turmeric powder",
+          "Heating oil in a pan"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=60s",
+        "actions": [
+          "Adding onions to the pan with oil",
+          "Stirring onions with a spatula"
+        ],
+        "confidence_score": 0.51
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=70s",
+        "actions": [
+          "Adding garlic cloves to the shrimp",
+          "Pouring mushrooms into the wok",
+          "Stirring the mixture in the wok"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=90s",
+        "actions": [
+          "Stirring vegetables",
+          "Transferring fried snacks into the wok",
+          "Frying ingredients in oil"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=100s",
+        "actions": [
+          "Stirring potato cubes",
+          "Frying potato cubes",
+          "Using a slotted spatula to separate and move potato cubes",
+          "Transferring potato cubes to a strainer",
+          "Displaying rice flour in a bowl"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=110s",
+        "actions": [
+          "No distinct actions are visible or occurring in these frames, except for the potential cracking of an egg in the last frame."
+        ],
+        "confidence_score": 0.405
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=120s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding cinnamon sticks, cardamom pods, mustard seeds, and cumin seeds into the pan",
+          "Stirring the spices in the pan with a ladle"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=130s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding rice into the pan",
+          "Sautéing spices in ghee/curd"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=140s",
+        "actions": [
+          "Pours oil into the pan",
+          "Adds garlic cloves to the pan",
+          "Adds cinnamon stick to the pan",
+          "Stirs the spices in the pan using a spatula",
+          "Washes rice in a colander"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=150s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=170s",
+        "actions": [
+          "Stirring oil and spices in a pan",
+          "Cooking rice in a pan",
+          "Mixing rice with a spoon"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=180s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice",
+          "Pouring oil into a pan"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=190s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding sliced onions into the pot"
+        ],
+        "confidence_score": 0.514
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.528
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=220s",
+        "actions": [
+          "Stirring onions in the frying pan",
+          "Adding salt to cauliflower",
+          "Adding olive oil to cauliflower",
+          "Adding turmeric powder to cauliflower",
+          "Mixing cauliflower with spices and oil",
+          "Pouring seasoned cauliflower into the frying pan"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=240s",
+        "actions": [
+          "Adding diced potatoes to the pan",
+          "Adding diced carrots to the pan",
+          "Adding diced tomatoes to the pan",
+          "Straining green peas"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=250s",
+        "actions": [
+          "Rinsing green peas",
+          "Pouring green peas into the wok",
+          "Stirring vegetables in the wok"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=260s",
+        "actions": [
+          "Adding green beans to the pan",
+          "Stirring vegetables"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=270s",
+        "actions": [
+          "Stirring vegetables",
+          "Adding orange-colored spice powder to the pan",
+          "Adding brownish spice powder to the pan"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=290s",
+        "actions": [
+          "Stirring vegetables and eggs",
+          "Adding liquid (water or broth)",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=310s",
+        "actions": [
+          "Stirring vegetables",
+          "Cooking eggs with vegetables"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=320s",
+        "actions": [
+          "Adding rice to the pan",
+          "Adding fried onions, cashews, and curry leaves to the rice",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=330s",
+        "actions": [
+          "Adding fried snack balls to rice",
+          "Pouring yellowish sauce onto the dish",
+          "Distributing herbs and spices over rice"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=350s",
+        "actions": [
+          "Flipping rice in the pan",
+          "Mixing ingredients with the spatula"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=360s",
+        "actions": [
+          "Stirring rice and garnishes",
+          "Mixing cashews and herbs into the rice"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.575
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:16,127 --> 00:02:34,235",
+    "audio_description": "Add 1 tbsp lime juice, mix well, and boil on a high flame.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=10s",
+        "actions": [
+          "Placing cashew nuts on the leaf",
+          "Placing pickle on the leaf",
+          "Placing red condiment on the leaf",
+          "Placing yogurt-based mixtures on the leaf"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=20s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=110s",
+        "actions": [
+          "No distinct actions are visible or occurring in these frames, except for the potential cracking of an egg in the last frame."
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=130s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding rice into the pan",
+          "Sautéing spices in ghee/curd"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=140s",
+        "actions": [
+          "Pours oil into the pan",
+          "Adds garlic cloves to the pan",
+          "Adds cinnamon stick to the pan",
+          "Stirs the spices in the pan using a spatula",
+          "Washes rice in a colander"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=150s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=190s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding sliced onions into the pot"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=270s",
+        "actions": [
+          "Stirring vegetables",
+          "Adding orange-colored spice powder to the pan",
+          "Adding brownish spice powder to the pan"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.722
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:06,550 --> 00:03:28,926",
+    "audio_description": "Boil the water until it bubbles. Add vegetables carefully and mix well. These vegetables are for mixing with the rice while making the dum. You need to cook them in the same pan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Transferring rice to a banana leaf"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=10s",
+        "actions": [
+          "Placing cashew nuts on the leaf",
+          "Placing pickle on the leaf",
+          "Placing red condiment on the leaf",
+          "Placing yogurt-based mixtures on the leaf"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=20s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=40s",
+        "actions": [
+          "Pouring water",
+          "Holding dough balls with wet hands",
+          "Adding turmeric powder"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=50s",
+        "actions": [
+          "Sprinkling turmeric powder",
+          "Mixing fried snacks with turmeric powder",
+          "Heating oil in a pan"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=60s",
+        "actions": [
+          "Adding onions to the pan with oil",
+          "Stirring onions with a spatula"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=70s",
+        "actions": [
+          "Adding garlic cloves to the shrimp",
+          "Pouring mushrooms into the wok",
+          "Stirring the mixture in the wok"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=80s",
+        "actions": [
+          "Mixing ingredients in the wok",
+          "Adding cooked chicken",
+          "Adding green curry leaves",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=90s",
+        "actions": [
+          "Stirring vegetables",
+          "Transferring fried snacks into the wok",
+          "Frying ingredients in oil"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=100s",
+        "actions": [
+          "Stirring potato cubes",
+          "Frying potato cubes",
+          "Using a slotted spatula to separate and move potato cubes",
+          "Transferring potato cubes to a strainer",
+          "Displaying rice flour in a bowl"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=110s",
+        "actions": [
+          "No distinct actions are visible or occurring in these frames, except for the potential cracking of an egg in the last frame."
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=120s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding cinnamon sticks, cardamom pods, mustard seeds, and cumin seeds into the pan",
+          "Stirring the spices in the pan with a ladle"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=130s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding rice into the pan",
+          "Sautéing spices in ghee/curd"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=140s",
+        "actions": [
+          "Pours oil into the pan",
+          "Adds garlic cloves to the pan",
+          "Adds cinnamon stick to the pan",
+          "Stirs the spices in the pan using a spatula",
+          "Washes rice in a colander"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=150s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=170s",
+        "actions": [
+          "Stirring oil and spices in a pan",
+          "Cooking rice in a pan",
+          "Mixing rice with a spoon"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=180s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice",
+          "Pouring oil into a pan"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=220s",
+        "actions": [
+          "Stirring onions in the frying pan",
+          "Adding salt to cauliflower",
+          "Adding olive oil to cauliflower",
+          "Adding turmeric powder to cauliflower",
+          "Mixing cauliflower with spices and oil",
+          "Pouring seasoned cauliflower into the frying pan"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=240s",
+        "actions": [
+          "Adding diced potatoes to the pan",
+          "Adding diced carrots to the pan",
+          "Adding diced tomatoes to the pan",
+          "Straining green peas"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=250s",
+        "actions": [
+          "Rinsing green peas",
+          "Pouring green peas into the wok",
+          "Stirring vegetables in the wok"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=260s",
+        "actions": [
+          "Adding green beans to the pan",
+          "Stirring vegetables"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=270s",
+        "actions": [
+          "Stirring vegetables",
+          "Adding orange-colored spice powder to the pan",
+          "Adding brownish spice powder to the pan"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=290s",
+        "actions": [
+          "Stirring vegetables and eggs",
+          "Adding liquid (water or broth)",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=310s",
+        "actions": [
+          "Stirring vegetables",
+          "Cooking eggs with vegetables"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=320s",
+        "actions": [
+          "Adding rice to the pan",
+          "Adding fried onions, cashews, and curry leaves to the rice",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=330s",
+        "actions": [
+          "Adding fried snack balls to rice",
+          "Pouring yellowish sauce onto the dish",
+          "Distributing herbs and spices over rice"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=350s",
+        "actions": [
+          "Flipping rice in the pan",
+          "Mixing ingredients with the spatula"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=360s",
+        "actions": [
+          "Stirring rice and garnishes",
+          "Mixing cashews and herbs into the rice"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.651
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:28,926 --> 00:03:56,180",
+    "audio_description": "Add 4 tbsp oil. Add 100 gm cauliflower and 100 gm rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Transferring rice to a banana leaf"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=10s",
+        "actions": [
+          "Placing cashew nuts on the leaf",
+          "Placing pickle on the leaf",
+          "Placing red condiment on the leaf",
+          "Placing yogurt-based mixtures on the leaf"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=20s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=60s",
+        "actions": [
+          "Adding onions to the pan with oil",
+          "Stirring onions with a spatula"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=90s",
+        "actions": [
+          "Stirring vegetables",
+          "Transferring fried snacks into the wok",
+          "Frying ingredients in oil"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=100s",
+        "actions": [
+          "Stirring potato cubes",
+          "Frying potato cubes",
+          "Using a slotted spatula to separate and move potato cubes",
+          "Transferring potato cubes to a strainer",
+          "Displaying rice flour in a bowl"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=120s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding cinnamon sticks, cardamom pods, mustard seeds, and cumin seeds into the pan",
+          "Stirring the spices in the pan with a ladle"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=130s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding rice into the pan",
+          "Sautéing spices in ghee/curd"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=140s",
+        "actions": [
+          "Pours oil into the pan",
+          "Adds garlic cloves to the pan",
+          "Adds cinnamon stick to the pan",
+          "Stirs the spices in the pan using a spatula",
+          "Washes rice in a colander"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=150s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=170s",
+        "actions": [
+          "Stirring oil and spices in a pan",
+          "Cooking rice in a pan",
+          "Mixing rice with a spoon"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=180s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice",
+          "Pouring oil into a pan"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=190s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding sliced onions into the pot"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=220s",
+        "actions": [
+          "Stirring onions in the frying pan",
+          "Adding salt to cauliflower",
+          "Adding olive oil to cauliflower",
+          "Adding turmeric powder to cauliflower",
+          "Mixing cauliflower with spices and oil",
+          "Pouring seasoned cauliflower into the frying pan"
+        ],
+        "confidence_score": 0.863
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=230s",
+        "actions": [
+          "Adding cauliflower to the wok",
+          "Pouring diced potatoes into the wok"
+        ],
+        "confidence_score": 0.812
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=270s",
+        "actions": [
+          "Stirring vegetables",
+          "Adding orange-colored spice powder to the pan",
+          "Adding brownish spice powder to the pan"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=310s",
+        "actions": [
+          "Stirring vegetables",
+          "Cooking eggs with vegetables"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=320s",
+        "actions": [
+          "Adding rice to the pan",
+          "Adding fried onions, cashews, and curry leaves to the rice",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=330s",
+        "actions": [
+          "Adding fried snack balls to rice",
+          "Pouring yellowish sauce onto the dish",
+          "Distributing herbs and spices over rice"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=350s",
+        "actions": [
+          "Flipping rice in the pan",
+          "Mixing ingredients with the spatula"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=360s",
+        "actions": [
+          "Stirring rice and garnishes",
+          "Mixing cashews and herbs into the rice"
+        ],
+        "confidence_score": 0.775
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.721
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:16,226 --> 00:04:28,916",
+    "audio_description": "Add green beans.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=20s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=80s",
+        "actions": [
+          "Mixing ingredients in the wok",
+          "Adding cooked chicken",
+          "Adding green curry leaves",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.896
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=90s",
+        "actions": [
+          "Stirring vegetables",
+          "Transferring fried snacks into the wok",
+          "Frying ingredients in oil"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=150s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.829
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=210s",
+        "actions": [
+          "Stirring onions",
+          "Adding finely chopped green chilies, garlic, and onions to the wok",
+          "Stirring the mixture of onions, green chilies, and garlic"
+        ],
+        "confidence_score": 0.822
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=240s",
+        "actions": [
+          "Adding diced potatoes to the pan",
+          "Adding diced carrots to the pan",
+          "Adding diced tomatoes to the pan",
+          "Straining green peas"
+        ],
+        "confidence_score": 0.852
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=250s",
+        "actions": [
+          "Rinsing green peas",
+          "Pouring green peas into the wok",
+          "Stirring vegetables in the wok"
+        ],
+        "confidence_score": 0.837
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=260s",
+        "actions": [
+          "Adding green beans to the pan",
+          "Stirring vegetables"
+        ],
+        "confidence_score": 0.934
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.874
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.843
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=310s",
+        "actions": [
+          "Stirring vegetables",
+          "Cooking eggs with vegetables"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=350s",
+        "actions": [
+          "Flipping rice in the pan",
+          "Mixing ingredients with the spatula"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=360s",
+        "actions": [
+          "Stirring rice and garnishes",
+          "Mixing cashews and herbs into the rice"
+        ],
+        "confidence_score": 0.81
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.853
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.847
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:58,026 --> 00:05:23,963",
+    "audio_description": "80-90% of the rice will be cooked with the lid closed. The remaining will be cooked during dum. Make sure the vegetables don’t get overcooked. If there’s excess water in the pan, increase the flame and let it evaporate. Then, add half of the cooked rice to the pan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Transferring rice to a banana leaf"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=10s",
+        "actions": [
+          "Placing cashew nuts on the leaf",
+          "Placing pickle on the leaf",
+          "Placing red condiment on the leaf",
+          "Placing yogurt-based mixtures on the leaf"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=20s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=40s",
+        "actions": [
+          "Pouring water",
+          "Holding dough balls with wet hands",
+          "Adding turmeric powder"
+        ],
+        "confidence_score": 0.508
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=50s",
+        "actions": [
+          "Sprinkling turmeric powder",
+          "Mixing fried snacks with turmeric powder",
+          "Heating oil in a pan"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=60s",
+        "actions": [
+          "Adding onions to the pan with oil",
+          "Stirring onions with a spatula"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=70s",
+        "actions": [
+          "Adding garlic cloves to the shrimp",
+          "Pouring mushrooms into the wok",
+          "Stirring the mixture in the wok"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=80s",
+        "actions": [
+          "Mixing ingredients in the wok",
+          "Adding cooked chicken",
+          "Adding green curry leaves",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=90s",
+        "actions": [
+          "Stirring vegetables",
+          "Transferring fried snacks into the wok",
+          "Frying ingredients in oil"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=100s",
+        "actions": [
+          "Stirring potato cubes",
+          "Frying potato cubes",
+          "Using a slotted spatula to separate and move potato cubes",
+          "Transferring potato cubes to a strainer",
+          "Displaying rice flour in a bowl"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=110s",
+        "actions": [
+          "No distinct actions are visible or occurring in these frames, except for the potential cracking of an egg in the last frame."
+        ],
+        "confidence_score": 0.435
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=120s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Adding cinnamon sticks, cardamom pods, mustard seeds, and cumin seeds into the pan",
+          "Stirring the spices in the pan with a ladle"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=130s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding rice into the pan",
+          "Sautéing spices in ghee/curd"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=140s",
+        "actions": [
+          "Pours oil into the pan",
+          "Adds garlic cloves to the pan",
+          "Adds cinnamon stick to the pan",
+          "Stirs the spices in the pan using a spatula",
+          "Washes rice in a colander"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=150s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=160s",
+        "actions": [
+          "Adding cinnamon sticks and cardamom pods to the liquid",
+          "Stirring the contents of the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=170s",
+        "actions": [
+          "Stirring oil and spices in a pan",
+          "Cooking rice in a pan",
+          "Mixing rice with a spoon"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=180s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice",
+          "Pouring oil into a pan"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=220s",
+        "actions": [
+          "Stirring onions in the frying pan",
+          "Adding salt to cauliflower",
+          "Adding olive oil to cauliflower",
+          "Adding turmeric powder to cauliflower",
+          "Mixing cauliflower with spices and oil",
+          "Pouring seasoned cauliflower into the frying pan"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=240s",
+        "actions": [
+          "Adding diced potatoes to the pan",
+          "Adding diced carrots to the pan",
+          "Adding diced tomatoes to the pan",
+          "Straining green peas"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=250s",
+        "actions": [
+          "Rinsing green peas",
+          "Pouring green peas into the wok",
+          "Stirring vegetables in the wok"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=260s",
+        "actions": [
+          "Adding green beans to the pan",
+          "Stirring vegetables"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=270s",
+        "actions": [
+          "Stirring vegetables",
+          "Adding orange-colored spice powder to the pan",
+          "Adding brownish spice powder to the pan"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=290s",
+        "actions": [
+          "Stirring vegetables and eggs",
+          "Adding liquid (water or broth)",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=310s",
+        "actions": [
+          "Stirring vegetables",
+          "Cooking eggs with vegetables"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=320s",
+        "actions": [
+          "Adding rice to the pan",
+          "Adding fried onions, cashews, and curry leaves to the rice",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=330s",
+        "actions": [
+          "Adding fried snack balls to rice",
+          "Pouring yellowish sauce onto the dish",
+          "Distributing herbs and spices over rice"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=350s",
+        "actions": [
+          "Flipping rice in the pan",
+          "Mixing ingredients with the spatula"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=360s",
+        "actions": [
+          "Stirring rice and garnishes",
+          "Mixing cashews and herbs into the rice"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.552
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:52,312 --> 00:06:16,360",
+    "audio_description": "If you prepare the dum this way, you’ll get a tasty and fragrant vegetable biryani. Mix all ingredients well from the bottom. If you want smaller soya chunks, cut them in half and fry. Even though it’s a vegetable biryani, with Jeerakasala rice, it tastes as good as chicken biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Transferring rice to a banana leaf"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=10s",
+        "actions": [
+          "Placing cashew nuts on the leaf",
+          "Placing pickle on the leaf",
+          "Placing red condiment on the leaf",
+          "Placing yogurt-based mixtures on the leaf"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=20s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.49
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=80s",
+        "actions": [
+          "Mixing ingredients in the wok",
+          "Adding cooked chicken",
+          "Adding green curry leaves",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=90s",
+        "actions": [
+          "Stirring vegetables",
+          "Transferring fried snacks into the wok",
+          "Frying ingredients in oil"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=110s",
+        "actions": [
+          "No distinct actions are visible or occurring in these frames, except for the potential cracking of an egg in the last frame."
+        ],
+        "confidence_score": 0.434
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=130s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding rice into the pan",
+          "Sautéing spices in ghee/curd"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=140s",
+        "actions": [
+          "Pours oil into the pan",
+          "Adds garlic cloves to the pan",
+          "Adds cinnamon stick to the pan",
+          "Stirs the spices in the pan using a spatula",
+          "Washes rice in a colander"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=150s",
+        "actions": [
+          "Pouring rice into the pot",
+          "Stirring the mixture in the pot"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=170s",
+        "actions": [
+          "Stirring oil and spices in a pan",
+          "Cooking rice in a pan",
+          "Mixing rice with a spoon"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=180s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice",
+          "Pouring oil into a pan"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=190s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding sliced onions into the pot"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=270s",
+        "actions": [
+          "Stirring vegetables",
+          "Adding orange-colored spice powder to the pan",
+          "Adding brownish spice powder to the pan"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=320s",
+        "actions": [
+          "Adding rice to the pan",
+          "Adding fried onions, cashews, and curry leaves to the rice",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=330s",
+        "actions": [
+          "Adding fried snack balls to rice",
+          "Pouring yellowish sauce onto the dish",
+          "Distributing herbs and spices over rice"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=350s",
+        "actions": [
+          "Flipping rice in the pan",
+          "Mixing ingredients with the spatula"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=360s",
+        "actions": [
+          "Stirring rice and garnishes",
+          "Mixing cashews and herbs into the rice"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.603
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:17,086 --> 00:06:30,333",
+    "audio_description": "Serve with curd salad or chutney for a complete meal.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=10s",
+        "actions": [
+          "Placing cashew nuts on the leaf",
+          "Placing pickle on the leaf",
+          "Placing red condiment on the leaf",
+          "Placing yogurt-based mixtures on the leaf"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=20s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=70s",
+        "actions": [
+          "Adding garlic cloves to the shrimp",
+          "Pouring mushrooms into the wok",
+          "Stirring the mixture in the wok"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=80s",
+        "actions": [
+          "Mixing ingredients in the wok",
+          "Adding cooked chicken",
+          "Adding green curry leaves",
+          "Stirring the mixture"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=90s",
+        "actions": [
+          "Stirring vegetables",
+          "Transferring fried snacks into the wok",
+          "Frying ingredients in oil"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=110s",
+        "actions": [
+          "No distinct actions are visible or occurring in these frames, except for the potential cracking of an egg in the last frame."
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=130s",
+        "actions": [
+          "Pouring water into the pan",
+          "Adding rice into the pan",
+          "Sautéing spices in ghee/curd"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=140s",
+        "actions": [
+          "Pours oil into the pan",
+          "Adds garlic cloves to the pan",
+          "Adds cinnamon stick to the pan",
+          "Stirs the spices in the pan using a spatula",
+          "Washes rice in a colander"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=160s",
+        "actions": [
+          "Adding cinnamon sticks and cardamom pods to the liquid",
+          "Stirring the contents of the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=170s",
+        "actions": [
+          "Stirring oil and spices in a pan",
+          "Cooking rice in a pan",
+          "Mixing rice with a spoon"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=190s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding sliced onions into the pot"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=200s",
+        "actions": [
+          "Adding salt to the pan",
+          "Stirring onions and garlic with a spatula",
+          "Cooking onions, garlic, and green leaves"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=220s",
+        "actions": [
+          "Stirring onions in the frying pan",
+          "Adding salt to cauliflower",
+          "Adding olive oil to cauliflower",
+          "Adding turmeric powder to cauliflower",
+          "Mixing cauliflower with spices and oil",
+          "Pouring seasoned cauliflower into the frying pan"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=250s",
+        "actions": [
+          "Rinsing green peas",
+          "Pouring green peas into the wok",
+          "Stirring vegetables in the wok"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=260s",
+        "actions": [
+          "Adding green beans to the pan",
+          "Stirring vegetables"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=280s",
+        "actions": [
+          "Adding powdered spices into the vegetables",
+          "Adding chopped green herbs to the vegetables"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=300s",
+        "actions": [
+          "Boiling vegetables in broth",
+          "Displaying a mix of cooked vegetables"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=320s",
+        "actions": [
+          "Adding rice to the pan",
+          "Adding fried onions, cashews, and curry leaves to the rice",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=330s",
+        "actions": [
+          "Adding fried snack balls to rice",
+          "Pouring yellowish sauce onto the dish",
+          "Distributing herbs and spices over rice"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=340s",
+        "actions": [
+          "Placing halved coconuts into a pot",
+          "Covering the pot with a lid",
+          "Removing the lid to show the contents (coconuts, rice, spices, other ingredients)",
+          "Stirring or mixing the rice and spices",
+          "Covering the rice with a lid for cooking",
+          "Waiting for the rice to cook under the lid"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=350s",
+        "actions": [
+          "Flipping rice in the pan",
+          "Mixing ingredients with the spatula"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing fried ingredients with rice"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=380s",
+        "actions": [
+          "Transferring rice mixture onto a banana leaf",
+          "Spreading raita beside the rice",
+          "Placing green chutney next to the raita",
+          "Adding ketchup to the banana leaf"
+        ],
+        "confidence_score": 0.815
+      },
+      {
+        "timestamp": "390-392",
+        "url": "https://www.youtube.com/watch?v=hEF3YfPmYcM&t=390s",
+        "actions": [
+          "Placing curry paste on the banana leaf",
+          "Adding cashew nuts to the banana leaf"
+        ],
+        "confidence_score": 0.763
+      }
+    ]
+  }
+]

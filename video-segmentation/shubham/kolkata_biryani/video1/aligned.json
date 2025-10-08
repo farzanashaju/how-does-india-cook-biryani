@@ -1,0 +1,2957 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:28,381",
+    "audio_description": "Fragrant, delicious Kolkata Chicken Biryani made in flavorful yakhni with a mild flavor — today we’ll make it just like professional chefs do, just like it’s served at grand feasts. To make this biryani, we’ll begin with ginger-garlic preparation.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.527
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=129s",
+        "actions": [
+          "Scooping plantains",
+          "Adding plantains to the pot",
+          "Scooping chicken pieces",
+          "Adding chicken pieces to the pot"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=249s",
+        "actions": [
+          "Straining noodles",
+          "Picking up chicken pieces"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=259s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Placing dried plums among the chicken pieces"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.521
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:28,381 --> 00:00:57,793",
+    "audio_description": "After mixing, we’ll strain it properly to extract all the juice. We'll set the water aside. Now let's prepare the potatoes — about 750 grams. We’ll make slits with a knife so that the masala penetrates inside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=39s",
+        "actions": [
+          "Piercing potato with fork",
+          "Checking potato texture with fork",
+          "Placing potato back in bowl"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=169s",
+        "actions": [
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding attar to the bowl"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.519
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:57,793 --> 00:01:13,150",
+    "audio_description": "We’ll take out half of the fried onions for garnishing, and leave the other half in the pan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.821
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=59s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring onions with the ladle",
+          "Cooking onions until they turn brown"
+        ],
+        "confidence_score": 0.824
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.849
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.7
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:13,487 --> 00:01:36,572",
+    "audio_description": "Now we’ll add the ginger-garlic water that we had prepared earlier. Add 1 heaped tablespoon of red chili powder, and ¼ teaspoon of yellow food color (you can use saffron instead). Add 1 heaped tablespoon of biryani masala.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=129s",
+        "actions": [
+          "Scooping plantains",
+          "Adding plantains to the pot",
+          "Scooping chicken pieces",
+          "Adding chicken pieces to the pot"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=169s",
+        "actions": [
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding attar to the bowl"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.546
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:36,572 --> 00:01:52,924",
+    "audio_description": "Add 1 heaped tablespoon of beaten curd. I’m adding half a cup of water as well so that the potatoes cook properly. Mix everything well. Now add the prepped potatoes to it. Add a pinch of salt.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=39s",
+        "actions": [
+          "Piercing potato with fork",
+          "Checking potato texture with fork",
+          "Placing potato back in bowl"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=169s",
+        "actions": [
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding attar to the bowl"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.545
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:53,177 --> 00:02:22,539",
+    "audio_description": "Mix well. Now we’ll cover and cook it on medium to low flame for 15 minutes. The potatoes need to be cooked only 70%, the rest will cook with the rice. Remove the lid, and take out the potatoes from the yakhni. Set them aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.51
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=39s",
+        "actions": [
+          "Piercing potato with fork",
+          "Checking potato texture with fork",
+          "Placing potato back in bowl"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.533
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.526
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:22,709 --> 00:02:49,843",
+    "audio_description": "Now cover and let the chicken cook for 10–12 minutes. Chicken too needs to be cooked only 70%. Remove the lid, turn off the flame, and take out all the chicken pieces. Set the chicken aside. Now we’ll strain the yakhni thoroughly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.511
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.511
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.507
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=129s",
+        "actions": [
+          "Scooping plantains",
+          "Adding plantains to the pot",
+          "Scooping chicken pieces",
+          "Adding chicken pieces to the pot"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=249s",
+        "actions": [
+          "Straining noodles",
+          "Picking up chicken pieces"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=259s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Placing dried plums among the chicken pieces"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.518
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.521
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "confidence_score": 0.496
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.535
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:50,164 --> 00:03:13,823",
+    "audio_description": "Add 1 tablespoon of kewra water. Add 1 tablespoon of rose water. This is mogra or sweet attar (perfume) — it's very strong, so we’ll add only 2–3 drops. Mix everything well. The rogan (flavored oil) on top of the yakhni will now be used.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.521
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=59s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring onions with the ladle",
+          "Cooking onions until they turn brown"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.524
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.495
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.516
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=169s",
+        "actions": [
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding attar to the bowl"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=229s",
+        "actions": [
+          "Displaying ingredients on a plate",
+          "Preparing to cook the ingredients"
+        ],
+        "confidence_score": 0.49
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.442
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:13,823 --> 00:03:42,899",
+    "audio_description": "After skimming off the rogan, add 1 full cup of milk. Add half a cup of curd, beaten well — I’ve blended it in a grinder for half a minute. Also add 1 heaped tablespoon of biryani masala, and half a teaspoon of red chili powder.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.56
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:42,899 --> 00:04:10,826",
+    "audio_description": "Add juice of half a lemon, 2 tablespoons of oil, 1 heaped tablespoon of salt. For whole spices, add a 3-inch cinnamon stick, 7–8 cloves, 6–7 green cardamoms, and 2 bay leaves. Boil these whole spices in water thoroughly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=169s",
+        "actions": [
+          "Adding kewra water to the bowl",
+          "Adding rose water to the bowl",
+          "Adding attar to the bowl"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=219s",
+        "actions": [
+          "Pouring lemon juice into the pot",
+          "Adding cooking oil to the pot",
+          "Adding salt to the pot"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=229s",
+        "actions": [
+          "Displaying ingredients on a plate",
+          "Preparing to cook the ingredients"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.508
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:11,451 --> 00:04:37,725",
+    "audio_description": "Let the rice cook — we need to cook it till it’s 70% done. Now we’ll layer the biryani. First, add the chicken. Then set the prepared potatoes in place. Add 5–6 dried plums (alu bukhara) — they’re great for digestion.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=29s",
+        "actions": [
+          "Straining liquid into a bowl",
+          "Picking up a potato"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=39s",
+        "actions": [
+          "Piercing potato with fork",
+          "Checking potato texture with fork",
+          "Placing potato back in bowl"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=49s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding sliced onions to the pot"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=109s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the sauce and potatoes",
+          "Rotating the pot"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=119s",
+        "actions": [
+          "Placing a lid on the cooker",
+          "Stirring the potatoes in sauce",
+          "Removing a potato from the cooker"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=129s",
+        "actions": [
+          "Scooping plantains",
+          "Adding plantains to the pot",
+          "Scooping chicken pieces",
+          "Adding chicken pieces to the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=249s",
+        "actions": [
+          "Straining noodles",
+          "Picking up chicken pieces"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=259s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Placing dried plums among the chicken pieces"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.52
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:39,564 --> 00:04:58,482",
+    "audio_description": "Sprinkle about 1 tablespoon of Kolkata biryani masala all over. To enrich the biryani, add about 50 grams of khoya (dried milk solids). The rice is 70% cooked, so now we’ll layer it on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=189s",
+        "actions": [
+          "Measuring tomato puree",
+          "Pouring tomato puree into the bowl",
+          "Pouring milk into the bowl",
+          "Mixing the mixture in the bowl"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=239s",
+        "actions": [
+          "Removing spices from water using a strainer",
+          "Adding basmati rice to the pot of water"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=259s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Placing dried plums among the chicken pieces"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=289s",
+        "actions": [
+          "Adding cheese pieces",
+          "Boiling water",
+          "Pouring rice into the pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.618
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:00,862 --> 00:05:27,928",
+    "audio_description": "Spread the fragrant rogan we skimmed earlier all over the top. Add 2–3 tablespoons of desi ghee. Now we’ll cover it tightly. You can seal it with dough if you like. Cook on high flame initially.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.575
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:27,928 --> 00:05:40,045",
+    "audio_description": "You can serve this with boiled eggs and yogurt raita. A very delicious biryani is now ready. Do try it out! If you’re not yet subscribed to the channel, subscribe for more such recipes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=0s",
+        "actions": [
+          "Scooping rice and chickpeas",
+          "Placing rice and chickpeas onto a serving plate"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=9s",
+        "actions": [
+          "Pouring water into the saucepan",
+          "Adding ginger garlic paste to the saucepan",
+          "Stirring the mixture in the saucepan",
+          "Adding cashew nuts to the mixture",
+          "Mixing the ingredients together"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=19s",
+        "actions": [
+          "Pouring liquid into strainer",
+          "Straining mixture",
+          "Stirring contents",
+          "Pressing down on solids in strainer"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=69s",
+        "actions": [
+          "Scraping fried onions into the mixing bowl",
+          "Pouring beaten eggs into the mixing bowl",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=79s",
+        "actions": [
+          "Adding red chili powder to the mixture",
+          "Adding yellow food color to the mixture",
+          "Adding biryani masala to the mixture"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=89s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Stirring the mixture with a plastic spoon",
+          "Adding yogurt to the pot"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=99s",
+        "actions": [
+          "Adding water to the pot",
+          "Stirring the pot with a spatula",
+          "Adding potatoes to the pot"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=139s",
+        "actions": [
+          "Adding chicken to the pot",
+          "Stirring chicken in the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=149s",
+        "actions": [
+          "Scooping chicken pieces with a ladle",
+          "Straining broth and chicken pieces into a glass bowl"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=159s",
+        "actions": [
+          "Pouring sauce into strainer",
+          "Scraping residue from strainer",
+          "Straining sauce into bowl"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=179s",
+        "actions": [
+          "Scooping liquid",
+          "Mixing liquid"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=199s",
+        "actions": [
+          "Pouring yogurt into the mixture",
+          "Adding Biryani Masala",
+          "Adding Red Chilli Powder"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=209s",
+        "actions": [
+          "Adding salt to the mixture",
+          "Stirring the mixture",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=249s",
+        "actions": [
+          "Straining noodles",
+          "Picking up chicken pieces"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=269s",
+        "actions": [
+          "Pouring red sauce",
+          "Adding water",
+          "Adding curry leaves"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=279s",
+        "actions": [
+          "Adding biryani masala to the pot",
+          "Adding crumbled khoya to the pot",
+          "Storing ingredients in a pot (implied by adding materials into it)"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=299s",
+        "actions": [
+          "Pouring yellow mixture onto rice",
+          "Spreading yellow mixture across rice"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=309s",
+        "actions": [
+          "Pouring clarified butter over rice",
+          "Placing the lid on the pot",
+          "Wrapping the pot with a towel"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=319s",
+        "actions": [
+          "placing cheese into a bowl",
+          "sprinkling a mixture over the cheese",
+          "stirring the cheese and mixture"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=329s",
+        "actions": [
+          "Scooping rice mixture",
+          "Placing rice and meat onto a plate",
+          "Arranging boiled eggs and potatoes on the plate"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "339-346",
+        "url": "https://www.youtube.com/watch?v=cewMQvUAESI&t=339s",
+        "actions": [
+          "No specific cooking actions are visible in the frames."
+        ],
+        "confidence_score": 0.546
+      }
+    ]
+  }
+]

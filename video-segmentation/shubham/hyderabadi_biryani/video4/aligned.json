@@ -1,0 +1,5763 @@
+[
+  {
+    "audio_timestamp": "00:00:02,039 --> 00:00:24,128",
+    "audio_description": "Biryani is a constant battle over whose biryani is the best. And not just that—how it's made too. In fact, every state, every community has its own version of biryani. So the one that's made at your home might not be the same as the one made at mine.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.528
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.504
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.523
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.495
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.487
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.533
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.689
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:24,128 --> 00:00:52,207",
+    "audio_description": "But biryani is one such dish that, whenever it's made, fills the whole house with fragrance. And if you make a little extra, even the neighborhood will smell it. Today we are going to make Hyderabadi cooked meat (pakke gosht) biryani. We'll take the meat—",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=140s",
+        "actions": [
+          "Transferring marinated meat to a pressure cooker",
+          "Placing the marinated meat into the pressure cooker",
+          "Adding water to a pot"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.729
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:53,524 --> 00:01:19,191",
+    "audio_description": "Red chili powder, whole spices including royal cumin (shahi jeera), cardamom, and cinnamon. A generous amount of garlic paste and ginger paste. We’ll add yogurt, a lot of mint leaves, and this is our fried onions,",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.503
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=60s",
+        "actions": [
+          "Adding cardamom",
+          "Adding cinnamon stick",
+          "Adding garlic paste"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=70s",
+        "actions": [
+          "Mixing pork and seasoning in a bowl",
+          "Adding ginger paste to the mixture",
+          "Adding curd to the seasoning",
+          "Sprinkling mint leaves over the mixture",
+          "Adding fried onion to the mixture"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=140s",
+        "actions": [
+          "Transferring marinated meat to a pressure cooker",
+          "Placing the marinated meat into the pressure cooker",
+          "Adding water to a pot"
+        ],
+        "confidence_score": 0.564
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.564
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=240s",
+        "actions": [
+          "Rolling dough",
+          "Boiling water in a pot",
+          "Watching over boiling water",
+          "Setting up the stove with a pot"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=250s",
+        "actions": [
+          "Kneading dough",
+          "Rolling dough",
+          "Pouring contents from measuring cup into skillet",
+          "Stirring liquid in skillet"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=260s",
+        "actions": [
+          "Stirring rice",
+          "Transferring rice to a bowl",
+          "Adding mint leaves to the pot"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.531
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.521
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=340s",
+        "actions": [
+          "Chopping onions",
+          "Adding onions to the pot",
+          "Stirring onions",
+          "Adding spices to the pot",
+          "Stirring and cooking the contents in the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=370s",
+        "actions": [
+          "Scooping cheese from the pan",
+          "Placing cheese onto the plate"
+        ],
+        "confidence_score": 0.509
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.587
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:20,626 --> 00:01:33,012",
+    "audio_description": "which we have fried in oil and taken out. This is also called \"barista.\" These are green chilies, add according to how spicy you want it.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=70s",
+        "actions": [
+          "Mixing pork and seasoning in a bowl",
+          "Adding ginger paste to the mixture",
+          "Adding curd to the seasoning",
+          "Sprinkling mint leaves over the mixture",
+          "Adding fried onion to the mixture"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.564
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.592
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:33,332 --> 00:01:51,271",
+    "audio_description": "I have this oil, in which I had fried the onions—this same oil will go in here. And now we’ll mix it all well. One special thing is, whenever we make Hyderabadi biryani, we never use kewra (screw pine essence) or rose water in it.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.505
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=70s",
+        "actions": [
+          "Mixing pork and seasoning in a bowl",
+          "Adding ginger paste to the mixture",
+          "Adding curd to the seasoning",
+          "Sprinkling mint leaves over the mixture",
+          "Adding fried onion to the mixture"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=240s",
+        "actions": [
+          "Rolling dough",
+          "Boiling water in a pot",
+          "Watching over boiling water",
+          "Setting up the stove with a pot"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.512
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.629
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:52,569 --> 00:02:20,887",
+    "audio_description": "We’ll now put this into the pot.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.824
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.814
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.857
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.88
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.822
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.866
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=240s",
+        "actions": [
+          "Rolling dough",
+          "Boiling water in a pot",
+          "Watching over boiling water",
+          "Setting up the stove with a pot"
+        ],
+        "confidence_score": 0.869
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=250s",
+        "actions": [
+          "Kneading dough",
+          "Rolling dough",
+          "Pouring contents from measuring cup into skillet",
+          "Stirring liquid in skillet"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=260s",
+        "actions": [
+          "Stirring rice",
+          "Transferring rice to a bowl",
+          "Adding mint leaves to the pot"
+        ],
+        "confidence_score": 0.836
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.877
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.818
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=340s",
+        "actions": [
+          "Chopping onions",
+          "Adding onions to the pot",
+          "Stirring onions",
+          "Adding spices to the pot",
+          "Stirring and cooking the contents in the pot"
+        ],
+        "confidence_score": 0.864
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.805
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.859
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.83
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.757
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:26,235 --> 00:02:53,270",
+    "audio_description": "Now we have to cook this. While that’s cooking, we’ll boil water for the rice. Along with that, here is basmati rice. This rice needs to be soaked in water for about 30 to 45 minutes. Soak it well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=240s",
+        "actions": [
+          "Rolling dough",
+          "Boiling water in a pot",
+          "Watching over boiling water",
+          "Setting up the stove with a pot"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=260s",
+        "actions": [
+          "Stirring rice",
+          "Transferring rice to a bowl",
+          "Adding mint leaves to the pot"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.557
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:55,413 --> 00:03:15,729",
+    "audio_description": "Cover and cook this until the meat is almost 80-90% done. You want that. The bottom has cooked really well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=140s",
+        "actions": [
+          "Transferring marinated meat to a pressure cooker",
+          "Placing the marinated meat into the pressure cooker",
+          "Adding water to a pot"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.664
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:16,050 --> 00:03:43,455",
+    "audio_description": "There’s a bit of juice in this—perfect! We'll turn it off now. Next, we go to the rice. This is the soaked rice, and we will blanch it. But before that, we’ll add lots of salt, a bit of cardamom, and one green chili.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=60s",
+        "actions": [
+          "Adding cardamom",
+          "Adding cinnamon stick",
+          "Adding garlic paste"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=260s",
+        "actions": [
+          "Stirring rice",
+          "Transferring rice to a bowl",
+          "Adding mint leaves to the pot"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.641
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:43,979 --> 00:04:11,722",
+    "audio_description": "Now the rice will go in. I think a good measurement is to use the same weight of rice as meat. While the rice is blanching, we roll out this dough. This will be used for sealing the pot, the \"dum\" method.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=140s",
+        "actions": [
+          "Transferring marinated meat to a pressure cooker",
+          "Placing the marinated meat into the pressure cooker",
+          "Adding water to a pot"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=240s",
+        "actions": [
+          "Rolling dough",
+          "Boiling water in a pot",
+          "Watching over boiling water",
+          "Setting up the stove with a pot"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=250s",
+        "actions": [
+          "Kneading dough",
+          "Rolling dough",
+          "Pouring contents from measuring cup into skillet",
+          "Stirring liquid in skillet"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=260s",
+        "actions": [
+          "Stirring rice",
+          "Transferring rice to a bowl",
+          "Adding mint leaves to the pot"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=340s",
+        "actions": [
+          "Chopping onions",
+          "Adding onions to the pot",
+          "Stirring onions",
+          "Adding spices to the pot",
+          "Stirring and cooking the contents in the pot"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.635
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:14,793 --> 00:04:44,122",
+    "audio_description": "Perfect! The lid is ready. The rice is ready. We’ll turn off the gas. Now we’ll strain it. Before adding rice to the pot, we’ll layer some mint leaves and fried onions. Now we’ll add all of the rice. This rice water—",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=10s",
+        "actions": [
+          "Removing the lid from the pan",
+          "Showing melting shredded cheese"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=70s",
+        "actions": [
+          "Mixing pork and seasoning in a bowl",
+          "Adding ginger paste to the mixture",
+          "Adding curd to the seasoning",
+          "Sprinkling mint leaves over the mixture",
+          "Adding fried onion to the mixture"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=140s",
+        "actions": [
+          "Transferring marinated meat to a pressure cooker",
+          "Placing the marinated meat into the pressure cooker",
+          "Adding water to a pot"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=240s",
+        "actions": [
+          "Rolling dough",
+          "Boiling water in a pot",
+          "Watching over boiling water",
+          "Setting up the stove with a pot"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=250s",
+        "actions": [
+          "Kneading dough",
+          "Rolling dough",
+          "Pouring contents from measuring cup into skillet",
+          "Stirring liquid in skillet"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=260s",
+        "actions": [
+          "Stirring rice",
+          "Transferring rice to a bowl",
+          "Adding mint leaves to the pot"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.751
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=340s",
+        "actions": [
+          "Chopping onions",
+          "Adding onions to the pot",
+          "Stirring onions",
+          "Adding spices to the pot",
+          "Stirring and cooking the contents in the pot"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.751
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=370s",
+        "actions": [
+          "Scooping cheese from the pan",
+          "Placing cheese onto the plate"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.646
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:45,168 --> 00:05:11,307",
+    "audio_description": "—we’ll pour over this. That’s set. On top of that goes saffron soaked in milk. Add the remaining fried onion oil—it gives an amazing flavor. You can also add ghee if you want. Not necessary—",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=70s",
+        "actions": [
+          "Mixing pork and seasoning in a bowl",
+          "Adding ginger paste to the mixture",
+          "Adding curd to the seasoning",
+          "Sprinkling mint leaves over the mixture",
+          "Adding fried onion to the mixture"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.811
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.69
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:13,670 --> 00:05:42,762",
+    "audio_description": "Once again on high flame, for about one to one-and-a-half minutes so it starts cooking again. Then reduce the flame. Biryani is ready. Turn it off and let it rest for 10 minutes, without opening the lid. After that, we’ll open it.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=10s",
+        "actions": [
+          "Removing the lid from the pan",
+          "Showing melting shredded cheese"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.63
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:42,896 --> 00:06:09,036",
+    "audio_description": "Even opening biryani is an art. Use a spoon with a thin edge, or a plate—rotate it from one edge to fluff it gently. Then scoop and serve. If you just shove a spoon in, the layers will break.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.498
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=60s",
+        "actions": [
+          "Adding cardamom",
+          "Adding cinnamon stick",
+          "Adding garlic paste"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=140s",
+        "actions": [
+          "Transferring marinated meat to a pressure cooker",
+          "Placing the marinated meat into the pressure cooker",
+          "Adding water to a pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=250s",
+        "actions": [
+          "Kneading dough",
+          "Rolling dough",
+          "Pouring contents from measuring cup into skillet",
+          "Stirring liquid in skillet"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.677
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:15,786 --> 00:06:38,247",
+    "audio_description": "Look at that—every grain is separate. Beautiful! First, we’ll serve the spiced rice from the bottom with the meat, and then the saffron rice from the top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=130s",
+        "actions": [
+          "Tossing chicken in bowl",
+          "Mixing ingredients with a fork"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=140s",
+        "actions": [
+          "Transferring marinated meat to a pressure cooker",
+          "Placing the marinated meat into the pressure cooker",
+          "Adding water to a pot"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=260s",
+        "actions": [
+          "Stirring rice",
+          "Transferring rice to a bowl",
+          "Adding mint leaves to the pot"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.719
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:41,199 --> 00:07:06,901",
+    "audio_description": "And a sign of a good biryani—obviously—the rice shouldn’t be lumpy, shouldn't be undercooked. Each grain should be separate. That’s the hallmark of a great biryani, again and again.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=150s",
+        "actions": [
+          "Placing hand on the pan to check the temperature",
+          "Explaining the cooking process",
+          "Holding and showing a glass bowl with rice",
+          "Placing hands on a glass bowl"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=200s",
+        "actions": [
+          "Placing the pot on the stove",
+          "Measuring salt",
+          "Pouring water into the black pot",
+          "Adding salt to the water"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=210s",
+        "actions": [
+          "Adding cardamom to the pan",
+          "Adding oil to the pan",
+          "Adding green chili to the pan",
+          "Stirring the contents in the pan",
+          "Adjusting the position of the pan"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=220s",
+        "actions": [
+          "Pouring lentils into a pot",
+          "Adding rice paste/batter into boiling water",
+          "Stirring the pot",
+          "Measuring rice paste with a ladle",
+          "Transferring rice paste into the pot"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=230s",
+        "actions": [
+          "Pouring milk into a pan",
+          "Whisking the mixture in the pan",
+          "Kneading dough",
+          "Rolling dough into a rope shape"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=260s",
+        "actions": [
+          "Stirring rice",
+          "Transferring rice to a bowl",
+          "Adding mint leaves to the pot"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=270s",
+        "actions": [
+          "Adding fried onions to the dish",
+          "Pouring rice into the pan",
+          "Straining rice into the pan"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=280s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding saffron to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=290s",
+        "actions": [
+          "Adding saffron and milk to the pressure cooker",
+          "Stirring rice inside the pressure cooker",
+          "Measuring and adding oil to the pressure cooker"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=300s",
+        "actions": [
+          "Pouring oil into the pressure cooker",
+          "Covering the pressure cooker with a lid"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=310s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Cooking on high heat",
+          "Stirring (implied by presence of spatula)"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=320s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Cooking for 10-12 minutes on low heat",
+          "Pressing the lid of the pressure cooker to check"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=330s",
+        "actions": [
+          "Placing lid on the pressure cooker",
+          "Gesturing with hands to explain",
+          "Monitoring the pressure cooker"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=350s",
+        "actions": [
+          "Holding spatula",
+          "Stirring rice",
+          "Explaining cooking process",
+          "Pointing at the pan",
+          "Chopping spices"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=360s",
+        "actions": [
+          "Adding spices to rice",
+          "Stirring rice with a spatula",
+          "Fluffing rice with a slipper"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=390s",
+        "actions": [
+          "Serving rice from the pot",
+          "Piling rice onto a plate with chicken",
+          "Using a spoon to transfer food"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=400s",
+        "actions": [
+          "Adding chopped onions to the plated rice",
+          "Explaining or demonstrating cooking process",
+          "Stirring the contents of the red pot"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=420s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Placing mint leaves on rice"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.72
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:09,922 --> 00:07:13,786",
+    "audio_description": "And our Hyderabadi meat biryani is ready.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=0s",
+        "actions": [
+          "Talking to the audience",
+          "Using hand gestures",
+          "Standing by the stove"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=20s",
+        "actions": [
+          "Scooping cheese and meat with a spatula",
+          "Transferring cheese and meat onto a plate",
+          "Placing cooked meat and cheese on a decorative plate"
+        ],
+        "confidence_score": 0.809
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=30s",
+        "actions": [
+          "Placing the prepared meal on a plate",
+          "Removing and arranging the bowl next to the pressure cooker",
+          "Cutting or preparing ingredients on the chopping board"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=40s",
+        "actions": [
+          "Transferring mutton into a glass bowl",
+          "Sprinkling salt over the mutton"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=50s",
+        "actions": [
+          "Holding a container of salt",
+          "Adding turmeric powder to the meat",
+          "Adding chili powder to the meat",
+          "Adding cumin seeds to the meat"
+        ],
+        "confidence_score": 0.832
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=80s",
+        "actions": [
+          "Adding fried onion to the bowl",
+          "Adding green chili to the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=90s",
+        "actions": [
+          "Adding green chilies to the bowl",
+          "Measuring and pouring oil into the bowl",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=100s",
+        "actions": [
+          "Pouring oil",
+          "Mixing ingredients in the bowl",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=110s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Cooking on the stove"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=120s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Stirring a dish in the frying pan",
+          "Cooking the meat and vegetables in a sauce"
+        ],
+        "confidence_score": 0.809
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=140s",
+        "actions": [
+          "Transferring marinated meat to a pressure cooker",
+          "Placing the marinated meat into the pressure cooker",
+          "Adding water to a pot"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=160s",
+        "actions": [
+          "Holding a wooden bowl",
+          "Stirring the meat in the saucepan",
+          "Mixing contents in the bowl",
+          "Pouring cream/milk into a larger container"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=170s",
+        "actions": [
+          "Stirring the contents of the pot",
+          "Covering the pot with a lid",
+          "Presenting a cooking demonstration (hand gestures indicating explanation)"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=180s",
+        "actions": [
+          "Cooking meat in the pressure cooker",
+          "Opening the pressure cooker",
+          "Transferring meat to the frying pan"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=190s",
+        "actions": [
+          "Placing the pan on the gas stove",
+          "Stirring meat with sauce using a spatula"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=380s",
+        "actions": [
+          "Removing food from pot using spoon",
+          "Placing food on a plate",
+          "Stirring contents in the pot"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=410s",
+        "actions": [
+          "Scooping cooked rice",
+          "Placing rice on a plate",
+          "Arranging pieces of meat or raisins on rice",
+          "Sprinkling shredded cheese on rice",
+          "Stirring the rice mixture with tongs"
+        ],
+        "confidence_score": 0.797
+      },
+      {
+        "timestamp": "430-437",
+        "url": "https://www.youtube.com/watch?v=0DE-2vniskw&t=430s",
+        "actions": [
+          "Holding a plate",
+          "Presenting the biryani"
+        ],
+        "confidence_score": 0.876
+      }
+    ]
+  }
+]

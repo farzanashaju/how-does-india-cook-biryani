@@ -1,0 +1,3318 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:27,571",
+    "audio_description": "We’re going to make a fragrant, mildly spiced authentic Lucknowi mutton biryani — just like the one made in Lucknow. To begin, take one cup of oil. Heat the oil on medium flame and—",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=10s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding green cardamom, cloves, and bay leaf to the pot"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=30s",
+        "actions": [
+          "Mixing onions and spices with hands",
+          "Adding mutton pieces to the bowl",
+          "Stirring the mutton and spices together"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.658
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:27,571 --> 00:00:51,482",
+    "audio_description": "—fry sliced onions until soft. Once lightly soft, add the meat. Add 1 kg of mutton. Now increase the flame to high and keep stirring continuously to sear the mutton well. As the meat cooks—",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=20s",
+        "actions": [
+          "Adding spices to a bowl",
+          "Adding sliced onions to the bowl",
+          "Stirring the onions and spices together"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=30s",
+        "actions": [
+          "Mixing onions and spices with hands",
+          "Adding mutton pieces to the bowl",
+          "Stirring the mutton and spices together"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=40s",
+        "actions": [
+          "Placing meat in a bowl",
+          "Stirring meat in a bowl",
+          "Mixing meat with liquid in the bowl"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=60s",
+        "actions": [
+          "Mixing meat",
+          "Adding garlic paste",
+          "Adding ginger paste",
+          "Adding green cardamom powder"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=100s",
+        "actions": [
+          "Stirring meat with a spatula",
+          "Pouring whisked yogurt over the meat"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.669
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:51,837 --> 00:01:09,099",
+    "audio_description": "Once the mutton is nicely seared, add two heaped tablespoons of ginger-garlic paste. Sauté the paste with the meat until the raw smell goes away. Then we add the rest of the spices—",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=20s",
+        "actions": [
+          "Adding spices to a bowl",
+          "Adding sliced onions to the bowl",
+          "Stirring the onions and spices together"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=30s",
+        "actions": [
+          "Mixing onions and spices with hands",
+          "Adding mutton pieces to the bowl",
+          "Stirring the mutton and spices together"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=40s",
+        "actions": [
+          "Placing meat in a bowl",
+          "Stirring meat in a bowl",
+          "Mixing meat with liquid in the bowl"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=60s",
+        "actions": [
+          "Mixing meat",
+          "Adding garlic paste",
+          "Adding ginger paste",
+          "Adding green cardamom powder"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=100s",
+        "actions": [
+          "Stirring meat with a spatula",
+          "Pouring whisked yogurt over the meat"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.666
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:09,099 --> 00:01:38,834",
+    "audio_description": "Now mix everything well and roast all the spices with the meat for 3–4 minutes while stirring continuously.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=20s",
+        "actions": [
+          "Adding spices to a bowl",
+          "Adding sliced onions to the bowl",
+          "Stirring the onions and spices together"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=40s",
+        "actions": [
+          "Placing meat in a bowl",
+          "Stirring meat in a bowl",
+          "Mixing meat with liquid in the bowl"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.828
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=60s",
+        "actions": [
+          "Mixing meat",
+          "Adding garlic paste",
+          "Adding ginger paste",
+          "Adding green cardamom powder"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.805
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=100s",
+        "actions": [
+          "Stirring meat with a spatula",
+          "Pouring whisked yogurt over the meat"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.794
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.676
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:38,834 --> 00:02:01,531",
+    "audio_description": "Now lower the flame and add yogurt — around 200 grams, roughly 1 cup, well whisked. After adding it, mix everything again nicely. Once the yogurt blends in with the spices, keep the flame—",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=10s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding green cardamom, cloves, and bay leaf to the pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=20s",
+        "actions": [
+          "Adding spices to a bowl",
+          "Adding sliced onions to the bowl",
+          "Stirring the onions and spices together"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=100s",
+        "actions": [
+          "Stirring meat with a spatula",
+          "Pouring whisked yogurt over the meat"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.641
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:01,531 --> 00:02:15,638",
+    "audio_description": "Now I'm going to cook the mutton in the same handi (pot). It'll take about an hour. You can also pressure-cook it if you like. I’ve added 3 cups of water, and I’m going to cook it on very low flame.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=10s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding green cardamom, cloves, and bay leaf to the pot"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=30s",
+        "actions": [
+          "Mixing onions and spices with hands",
+          "Adding mutton pieces to the bowl",
+          "Stirring the mutton and spices together"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=80s",
+        "actions": [
+          "Adding rose water to the pot",
+          "Adding sweet attar to the pot"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=100s",
+        "actions": [
+          "Stirring meat with a spatula",
+          "Pouring whisked yogurt over the meat"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=130s",
+        "actions": [
+          "Adding water to the dish",
+          "Placing the pressure cooker lid on the cooker",
+          "Opening the pressure cooker to reveal cooked dish",
+          "Scooping the cooked dish with a ladle"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=170s",
+        "actions": [
+          "Adding saffron strands to milk",
+          "Adding kewra water to the mixture",
+          "Adding fresh cream to the mixture"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=210s",
+        "actions": [
+          "Stirring sauce",
+          "Adding bay leaf to water",
+          "Adding cloves to water"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=220s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding cardamom pods to the water",
+          "Adding salt to the pot",
+          "Adding clarified butter to the pot",
+          "Adding ground spices to the pot",
+          "Adding whole spices to the pot"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.644
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:16,043 --> 00:02:45,270",
+    "audio_description": "Now after opening the lid, you can see the mutton is well cooked. The biryani korma (gravy) won’t be too thick — it should remain slightly thin. Now we’ll tilt the handi like this and collect the rogan (flavored oil) separately from the meat.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=10s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding green cardamom, cloves, and bay leaf to the pot"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=30s",
+        "actions": [
+          "Mixing onions and spices with hands",
+          "Adding mutton pieces to the bowl",
+          "Stirring the mutton and spices together"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=40s",
+        "actions": [
+          "Placing meat in a bowl",
+          "Stirring meat in a bowl",
+          "Mixing meat with liquid in the bowl"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=60s",
+        "actions": [
+          "Mixing meat",
+          "Adding garlic paste",
+          "Adding ginger paste",
+          "Adding green cardamom powder"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=100s",
+        "actions": [
+          "Stirring meat with a spatula",
+          "Pouring whisked yogurt over the meat"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=130s",
+        "actions": [
+          "Adding water to the dish",
+          "Placing the pressure cooker lid on the cooker",
+          "Opening the pressure cooker to reveal cooked dish",
+          "Scooping the cooked dish with a ladle"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.63
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:45,675 --> 00:03:09,806",
+    "audio_description": "Add 1/4 tsp of mace (javitri) powder, 10–12 saffron strands, 1 tbsp kewra water, and fresh cream (or malai made from milk). Whisk the cream well before adding — about half a cup. Now pour the remaining stock from the mutton.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=10s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding green cardamom, cloves, and bay leaf to the pot"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=20s",
+        "actions": [
+          "Adding spices to a bowl",
+          "Adding sliced onions to the bowl",
+          "Stirring the onions and spices together"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=30s",
+        "actions": [
+          "Mixing onions and spices with hands",
+          "Adding mutton pieces to the bowl",
+          "Stirring the mutton and spices together"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=60s",
+        "actions": [
+          "Mixing meat",
+          "Adding garlic paste",
+          "Adding ginger paste",
+          "Adding green cardamom powder"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=80s",
+        "actions": [
+          "Adding rose water to the pot",
+          "Adding sweet attar to the pot"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.515
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=130s",
+        "actions": [
+          "Adding water to the dish",
+          "Placing the pressure cooker lid on the cooker",
+          "Opening the pressure cooker to reveal cooked dish",
+          "Scooping the cooked dish with a ladle"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=160s",
+        "actions": [
+          "Pouring milk",
+          "Adding green cardamom powder",
+          "Adding mace powder",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=170s",
+        "actions": [
+          "Adding saffron strands to milk",
+          "Adding kewra water to the mixture",
+          "Adding fresh cream to the mixture"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=210s",
+        "actions": [
+          "Stirring sauce",
+          "Adding bay leaf to water",
+          "Adding cloves to water"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=220s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding cardamom pods to the water",
+          "Adding salt to the pot",
+          "Adding clarified butter to the pot",
+          "Adding ground spices to the pot",
+          "Adding whole spices to the pot"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.531
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.58
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:10,110 --> 00:03:28,217",
+    "audio_description": "Mix everything thoroughly — this is your biryani masala (akhni) which is now ready. Set it aside. Now to the extracted rogan, add 2 tablespoons of desi ghee and a few drops of edible sweet essence (meetha ittar).",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=80s",
+        "actions": [
+          "Adding rose water to the pot",
+          "Adding sweet attar to the pot"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=200s",
+        "actions": [
+          "Adding clarified butter to the mixture",
+          "Adding drops of essence to the mixture",
+          "Stirring the mixture with a wooden spoon"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=220s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding cardamom pods to the water",
+          "Adding salt to the pot",
+          "Adding clarified butter to the pot",
+          "Adding ground spices to the pot",
+          "Adding whole spices to the pot"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.596
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:28,217 --> 00:03:58,019",
+    "audio_description": "Mix the rogan well with ghee and sweet ittar — this spice mixture is now ready. Time to cook the rice. We’ll cook the rice 50% only. To boiling water, add whole spices, 2 heaped tablespoons of salt, and a bit of ghee.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=20s",
+        "actions": [
+          "Adding spices to a bowl",
+          "Adding sliced onions to the bowl",
+          "Stirring the onions and spices together"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=80s",
+        "actions": [
+          "Adding rose water to the pot",
+          "Adding sweet attar to the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=130s",
+        "actions": [
+          "Adding water to the dish",
+          "Placing the pressure cooker lid on the cooker",
+          "Opening the pressure cooker to reveal cooked dish",
+          "Scooping the cooked dish with a ladle"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=170s",
+        "actions": [
+          "Adding saffron strands to milk",
+          "Adding kewra water to the mixture",
+          "Adding fresh cream to the mixture"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=210s",
+        "actions": [
+          "Stirring sauce",
+          "Adding bay leaf to water",
+          "Adding cloves to water"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=220s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding cardamom pods to the water",
+          "Adding salt to the pot",
+          "Adding clarified butter to the pot",
+          "Adding ground spices to the pot",
+          "Adding whole spices to the pot"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=250s",
+        "actions": [
+          "Pouring ghee (clarified butter) into the pot",
+          "Adding rice to the pot with the melted ghee"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.588
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:58,137 --> 00:04:26,031",
+    "audio_description": "Cook the rice until 50% done or until it has a slight bite (two kanis). When the water starts to boil, cook for 2–3 minutes and then strain the rice. Now in the vessel where you’ll layer the biryani, add—",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=20s",
+        "actions": [
+          "Adding spices to a bowl",
+          "Adding sliced onions to the bowl",
+          "Stirring the onions and spices together"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=80s",
+        "actions": [
+          "Adding rose water to the pot",
+          "Adding sweet attar to the pot"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=130s",
+        "actions": [
+          "Adding water to the dish",
+          "Placing the pressure cooker lid on the cooker",
+          "Opening the pressure cooker to reveal cooked dish",
+          "Scooping the cooked dish with a ladle"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=170s",
+        "actions": [
+          "Adding saffron strands to milk",
+          "Adding kewra water to the mixture",
+          "Adding fresh cream to the mixture"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=210s",
+        "actions": [
+          "Stirring sauce",
+          "Adding bay leaf to water",
+          "Adding cloves to water"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=220s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding cardamom pods to the water",
+          "Adding salt to the pot",
+          "Adding clarified butter to the pot",
+          "Adding ground spices to the pot",
+          "Adding whole spices to the pot"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=250s",
+        "actions": [
+          "Pouring ghee (clarified butter) into the pot",
+          "Adding rice to the pot with the melted ghee"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.596
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:26,031 --> 00:04:44,391",
+    "audio_description": "After spreading the mutton evenly, pour the milk and spice mixture over it. Then pour all the rogan over that. After adding the rogan, add the rice — the same rice you just parboiled.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=30s",
+        "actions": [
+          "Mixing onions and spices with hands",
+          "Adding mutton pieces to the bowl",
+          "Stirring the mutton and spices together"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=160s",
+        "actions": [
+          "Pouring milk",
+          "Adding green cardamom powder",
+          "Adding mace powder",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=170s",
+        "actions": [
+          "Adding saffron strands to milk",
+          "Adding kewra water to the mixture",
+          "Adding fresh cream to the mixture"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=250s",
+        "actions": [
+          "Pouring ghee (clarified butter) into the pot",
+          "Adding rice to the pot with the melted ghee"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.751
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.695
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:44,982 --> 00:05:08,675",
+    "audio_description": "Now we’ll add food color over the top. If you don’t prefer food coloring, you can also add saffron soaked in milk. I’ve taken a bit of orange food color, mixed it with water, and poured it over the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=50s",
+        "actions": [
+          "Adding ginger garlic paste to the pot",
+          "Stirring the meats and spices in the pot"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=70s",
+        "actions": [
+          "Adding mace powder to meat",
+          "Adding red chili powder to meat",
+          "Adding salt to meat"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=80s",
+        "actions": [
+          "Adding rose water to the pot",
+          "Adding sweet attar to the pot"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=130s",
+        "actions": [
+          "Adding water to the dish",
+          "Placing the pressure cooker lid on the cooker",
+          "Opening the pressure cooker to reveal cooked dish",
+          "Scooping the cooked dish with a ladle"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=140s",
+        "actions": [
+          "Pouring sauce over meat",
+          "Stirring meat in the bowl",
+          "Adding more sauce to the bowl"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=160s",
+        "actions": [
+          "Pouring milk",
+          "Adding green cardamom powder",
+          "Adding mace powder",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=170s",
+        "actions": [
+          "Adding saffron strands to milk",
+          "Adding kewra water to the mixture",
+          "Adding fresh cream to the mixture"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=210s",
+        "actions": [
+          "Stirring sauce",
+          "Adding bay leaf to water",
+          "Adding cloves to water"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=220s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding cardamom pods to the water",
+          "Adding salt to the pot",
+          "Adding clarified butter to the pot",
+          "Adding ground spices to the pot",
+          "Adding whole spices to the pot"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=250s",
+        "actions": [
+          "Pouring ghee (clarified butter) into the pot",
+          "Adding rice to the pot with the melted ghee"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.68
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:08,675 --> 00:05:36,468",
+    "audio_description": "To cook the Lucknowi mutton biryani properly on dum (steam), cover it tightly. Once you remove the lid, your entire kitchen will be filled with aroma. Now serve it — gently fluff the rice from bottom to top, mixing with the masala layer first.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=0s",
+        "actions": [
+          "Mixing rice with orange-colored ingredients",
+          "Scooping rice and mixing with brown pieces",
+          "Transferring the mixed rice and brown pieces to a plate"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=30s",
+        "actions": [
+          "Mixing onions and spices with hands",
+          "Adding mutton pieces to the bowl",
+          "Stirring the mutton and spices together"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=90s",
+        "actions": [
+          "Stirring meat",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=110s",
+        "actions": [
+          "Stirring meat and curry",
+          "Mixing meat with sauce"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=120s",
+        "actions": [
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.51
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=130s",
+        "actions": [
+          "Adding water to the dish",
+          "Placing the pressure cooker lid on the cooker",
+          "Opening the pressure cooker to reveal cooked dish",
+          "Scooping the cooked dish with a ladle"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=150s",
+        "actions": [
+          "Pouring sauce into the mixing bowl",
+          "Transferring marinated meat into the mixing bowl",
+          "Pouring whole milk into the mixing bowl"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=180s",
+        "actions": [
+          "Pouring spice paste into the bowl",
+          "Adding yellow powder to the mixture",
+          "Adding red powder to the mixture",
+          "Adding white powder to the mixture"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=190s",
+        "actions": [
+          "Mixing spices in a bowl",
+          "Adding clarified butter to the mixture"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=230s",
+        "actions": [
+          "Adding soaked rice into the pot",
+          "Stirring spices in the pot",
+          "Mixing rice and spices together in the pot"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=240s",
+        "actions": [
+          "Adding rice to the pot",
+          "Storing bay leaf in the strainer",
+          "Stirring the liquid in the pot",
+          "Scooping and checking rice consistency"
+        ],
+        "confidence_score": 0.547
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=250s",
+        "actions": [
+          "Pouring ghee (clarified butter) into the pot",
+          "Adding rice to the pot with the melted ghee"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=260s",
+        "actions": [
+          "Fluffing rice with a potato masher",
+          "Pouring curried meat onto the rice",
+          "Spreading curried meat evenly over the rice"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=270s",
+        "actions": [
+          "Pouring orange-colored liquid over meat and rice",
+          "Pouring red-colored liquid over meat and rice"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=280s",
+        "actions": [
+          "Adding rice to the pot",
+          "Stirring rice and curry mixture"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=290s",
+        "actions": [
+          "Fluffing rice",
+          "Adding food color to a bowl",
+          "Mixing food color with liquid",
+          "Pouring colored liquid onto the rice",
+          "Spreading colored liquid on the rice"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=300s",
+        "actions": [
+          "Pouring oil over the rice and carrots",
+          "Covering the pot with a metal lid",
+          "Handling the lid with a cloth"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=310s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Adding shredded carrots to the rice",
+          "Mixing rice and carrots with a slotted spoon",
+          "Stirring in ground spices with the rice mixture"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=320s",
+        "actions": [
+          "Scooping rice and meat",
+          "Transferring rice and meat mixture to a plate"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=330s",
+        "actions": [
+          "Pouring rice into a tray",
+          "Placing meat pieces on the rice"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "340-340",
+        "url": "https://www.youtube.com/watch?v=dbQnkRRqp5E&t=340s",
+        "actions": [
+          "Garnishing with grated coconut",
+          "Serving the cooked rice dish"
+        ],
+        "confidence_score": 0.565
+      }
+    ]
+  }
+]

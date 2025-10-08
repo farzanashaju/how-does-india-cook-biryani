@@ -1,0 +1,4795 @@
+[
+  {
+    "title": "Prepare the marinade",
+    "description": "In a large bowl, mix yogurt, ginger paste, garlic paste, biryani masala, salt, and a pinch of sugar until well combined.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "ingredients": [
+          "Chicken (600 gms)",
+          "Curd/Dahi (5 tbsp)",
+          "Ginger Garlic Paste",
+          "Fried Onion (1/2 cup)",
+          "Salt"
+        ],
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small bowl",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.822
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow curry sauce",
+          "Pieces of meat (potentially chicken)"
+        ],
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "utensils": [
+          "Large beige bowl",
+          "White cooking spoon with a wooden handle",
+          "Decorative jars"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "ingredients": [
+          "Garlic cloves",
+          "Marinated chicken"
+        ],
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "utensils": [
+          "A beige-colored pan",
+          "A wooden spatula",
+          "A white bowl"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.677
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.668
+      }
+    ]
+  },
+  {
+    "title": "Marinate the mutton",
+    "description": "Add the mutton to the marinade and coat evenly. Cover and refrigerate for at least 4 hours, preferably overnight.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.581
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.548
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.54
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.507
+      }
+    ]
+  },
+  {
+    "title": "Prep the potatoes",
+    "description": "Peel the potatoes, cut them in half, and rub them with salt and turmeric.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "ingredients": [
+          "Potatoes",
+          "Eggs",
+          "Oil"
+        ],
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Saucepan",
+          "Stove"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow curry sauce",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Beige cooking pot",
+          "White bowl"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "utensils": [
+          "Wooden spatula"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "ingredients": [
+          "Chicken (600 gms)",
+          "Curd/Dahi (5 tbsp)",
+          "Ginger Garlic Paste",
+          "Fried Onion (1/2 cup)",
+          "Salt"
+        ],
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small bowl",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Water"
+        ],
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spatula",
+          "Pitcher"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.735
+      }
+    ]
+  },
+  {
+    "title": "Fry the potatoes",
+    "description": "Heat mustard oil in a pan and shallow fry the potatoes until golden on all sides. Set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "ingredients": [
+          "Potatoes",
+          "Eggs",
+          "Oil"
+        ],
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Saucepan",
+          "Stove"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=70s",
+        "ingredients": [
+          "Sliced onion",
+          "Oil"
+        ],
+        "actions": [
+          "Adding sliced onion to oil",
+          "Stirring onions",
+          "Cooking onions until they turn golden"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Spatula",
+          "Plate"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow curry sauce",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Beige cooking pot",
+          "White bowl"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "utensils": [
+          "Wooden spatula"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.688
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.661
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.659
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.647
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.632
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Water"
+        ],
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spatula",
+          "Pitcher"
+        ],
+        "confidence": 0.618
+      }
+    ]
+  },
+  {
+    "title": "Slice the onions",
+    "description": "Thinly slice the onions for frying.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.864
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.837
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.837
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.766
+      }
+    ]
+  },
+  {
+    "title": "Fry the onions (beresta)",
+    "description": "Deep fry the sliced onions in hot oil until golden brown and crisp. Drain on paper towels and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=70s",
+        "ingredients": [
+          "Sliced onion",
+          "Oil"
+        ],
+        "actions": [
+          "Adding sliced onion to oil",
+          "Stirring onions",
+          "Cooking onions until they turn golden"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Spatula",
+          "Plate"
+        ],
+        "confidence": 0.818
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "ingredients": [
+          "Potatoes",
+          "Eggs",
+          "Oil"
+        ],
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Saucepan",
+          "Stove"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.666
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.664
+      }
+    ]
+  },
+  {
+    "title": "Heat whole spices",
+    "description": "In a large heavy-bottom pot, heat mustard oil and add bay leaves, cloves, cardamoms, cinnamon, mace, and nutmeg.",
+    "aligned_chunks": [
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=70s",
+        "ingredients": [
+          "Sliced onion",
+          "Oil"
+        ],
+        "actions": [
+          "Adding sliced onion to oil",
+          "Stirring onions",
+          "Cooking onions until they turn golden"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Spatula",
+          "Plate"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "ingredients": [
+          "Garlic cloves",
+          "Marinated chicken"
+        ],
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "utensils": [
+          "A beige-colored pan",
+          "A wooden spatula",
+          "A white bowl"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "ingredients": [
+          "Potatoes",
+          "Eggs",
+          "Oil"
+        ],
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Saucepan",
+          "Stove"
+        ],
+        "confidence": 0.703
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.631
+      }
+    ]
+  },
+  {
+    "title": "Cook the mutton",
+    "description": "Add the marinated mutton to the pot. Cook on medium-high heat until the meat starts to brown and the oil begins to separate.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=80s",
+        "ingredients": [
+          "Garlic cloves",
+          "Marinated chicken"
+        ],
+        "actions": [
+          "Adding garlic to the pan",
+          "Stirring garlic",
+          "Adding marinated chicken to the pan",
+          "Stirring the chicken and garlic mixture"
+        ],
+        "utensils": [
+          "A beige-colored pan",
+          "A wooden spatula",
+          "A white bowl"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow curry sauce",
+          "Pieces of meat (potentially chicken)"
+        ],
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "utensils": [
+          "Large beige bowl",
+          "White cooking spoon with a wooden handle",
+          "Decorative jars"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=70s",
+        "ingredients": [
+          "Sliced onion",
+          "Oil"
+        ],
+        "actions": [
+          "Adding sliced onion to oil",
+          "Stirring onions",
+          "Cooking onions until they turn golden"
+        ],
+        "utensils": [
+          "Frying pan",
+          "Spatula",
+          "Plate"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "ingredients": [
+          "Potatoes",
+          "Eggs",
+          "Oil"
+        ],
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Saucepan",
+          "Stove"
+        ],
+        "confidence": 0.646
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.643
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.621
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.562
+      }
+    ]
+  },
+  {
+    "title": "Add fried potatoes to mutton",
+    "description": "Once the mutton is nearly tender, add the fried potatoes and cook together for a few minutes to absorb flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "ingredients": [
+          "Potatoes",
+          "Eggs",
+          "Oil"
+        ],
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Saucepan",
+          "Stove"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "utensils": [
+          "Wooden spatula"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow curry sauce",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Beige cooking pot",
+          "White bowl"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "ingredients": [
+          "Chicken (600 gms)",
+          "Curd/Dahi (5 tbsp)",
+          "Ginger Garlic Paste",
+          "Fried Onion (1/2 cup)",
+          "Salt"
+        ],
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small bowl",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.732
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.73
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Water"
+        ],
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spatula",
+          "Pitcher"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.704
+      }
+    ]
+  },
+  {
+    "title": "Soak saffron",
+    "description": "In a small bowl, soak saffron strands in warm milk for 10 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=130s",
+        "ingredients": [
+          "Gravy (yakni)",
+          "Saffron milk"
+        ],
+        "actions": [
+          "Scooping gravy into a bowl",
+          "Adding saffron milk to the gravy",
+          "Mixing the gravy and saffron milk with a spoon"
+        ],
+        "utensils": [
+          "Ladle",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.83
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.794
+      }
+    ]
+  },
+  {
+    "title": "Add aromatic waters",
+    "description": "Mix rose water and kewra water into the saffron milk. Set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.846
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakhni)"
+        ],
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "utensils": [
+          "Wooden cooking pot (dutch oven)",
+          "Spoon"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.831
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=130s",
+        "ingredients": [
+          "Gravy (yakni)",
+          "Saffron milk"
+        ],
+        "actions": [
+          "Scooping gravy into a bowl",
+          "Adding saffron milk to the gravy",
+          "Mixing the gravy and saffron milk with a spoon"
+        ],
+        "utensils": [
+          "Ladle",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.811
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Water"
+        ],
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spatula",
+          "Pitcher"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.667
+      }
+    ]
+  },
+  {
+    "title": "Parboil the rice",
+    "description": "Boil a large pot of water with salt and whole garam masalas. Add rinsed basmati rice and cook until 70% done. Drain immediately.",
+    "aligned_chunks": [
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "ingredients": [
+          "White rice",
+          "Yellow lentils or curry-based mixture"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "utensils": [
+          "Colander",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakhni)"
+        ],
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "utensils": [
+          "Wooden cooking pot (dutch oven)",
+          "Spoon"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow curry sauce",
+          "Pieces of meat (potentially chicken)"
+        ],
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "utensils": [
+          "Large beige bowl",
+          "White cooking spoon with a wooden handle",
+          "Decorative jars"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Water"
+        ],
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spatula",
+          "Pitcher"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "ingredients": [
+          "Chicken (600 gms)",
+          "Curd/Dahi (5 tbsp)",
+          "Ginger Garlic Paste",
+          "Fried Onion (1/2 cup)",
+          "Salt"
+        ],
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small bowl",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.654
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.645
+      }
+    ]
+  },
+  {
+    "title": "Grease the biryani pot",
+    "description": "Lightly grease the base of a heavy-bottomed pot with ghee.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.888
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.864
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.834
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow curry sauce",
+          "Pieces of meat (potentially chicken)"
+        ],
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "utensils": [
+          "Large beige bowl",
+          "White cooking spoon with a wooden handle",
+          "Decorative jars"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.781
+      }
+    ]
+  },
+  {
+    "title": "First layer - mutton and potatoes",
+    "description": "Spread a layer of cooked mutton and potatoes at the bottom of the pot.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=90s",
+        "ingredients": [
+          "Chicken pieces",
+          "Yellow curry sauce",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken with a spatula",
+          "Adding potatoes to the pot",
+          "Mixing curry sauce with ingredients"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Beige cooking pot",
+          "White bowl"
+        ],
+        "confidence": 0.84
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=100s",
+        "ingredients": [
+          "Chicken pieces",
+          "Potatoes"
+        ],
+        "actions": [
+          "Stirring chicken and potatoes"
+        ],
+        "utensils": [
+          "Wooden spatula"
+        ],
+        "confidence": 0.821
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.811
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "ingredients": [
+          "Potatoes",
+          "Eggs",
+          "Oil"
+        ],
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Saucepan",
+          "Stove"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow curry sauce",
+          "Pieces of meat (potentially chicken)"
+        ],
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "utensils": [
+          "Large beige bowl",
+          "White cooking spoon with a wooden handle",
+          "Decorative jars"
+        ],
+        "confidence": 0.8
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=110s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Water"
+        ],
+        "actions": [
+          "Pouring water into the pot",
+          "Stirring the curry"
+        ],
+        "utensils": [
+          "Pot",
+          "Wooden spatula",
+          "Pitcher"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.752
+      }
+    ]
+  },
+  {
+    "title": "Second layer - rice",
+    "description": "Add a layer of the parboiled rice over the mutton.",
+    "aligned_chunks": [
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow curry sauce",
+          "Pieces of meat (potentially chicken)"
+        ],
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "utensils": [
+          "Large beige bowl",
+          "White cooking spoon with a wooden handle",
+          "Decorative jars"
+        ],
+        "confidence": 0.87
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.858
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.858
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "ingredients": [
+          "White rice",
+          "Yellow lentils or curry-based mixture"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "utensils": [
+          "Colander",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.836
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.824
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.817
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.814
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakhni)"
+        ],
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "utensils": [
+          "Wooden cooking pot (dutch oven)",
+          "Spoon"
+        ],
+        "confidence": 0.765
+      }
+    ]
+  },
+  {
+    "title": "Add toppings to layer",
+    "description": "Sprinkle fried onions, garam masala powder, a few drops of ghee, and a portion of the saffron milk mixture over the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=130s",
+        "ingredients": [
+          "Gravy (yakni)",
+          "Saffron milk"
+        ],
+        "actions": [
+          "Scooping gravy into a bowl",
+          "Adding saffron milk to the gravy",
+          "Mixing the gravy and saffron milk with a spoon"
+        ],
+        "utensils": [
+          "Ladle",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.833
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow curry sauce",
+          "Pieces of meat (potentially chicken)"
+        ],
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "utensils": [
+          "Large beige bowl",
+          "White cooking spoon with a wooden handle",
+          "Decorative jars"
+        ],
+        "confidence": 0.822
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.805
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "ingredients": [
+          "White rice",
+          "Yellow lentils or curry-based mixture"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "utensils": [
+          "Colander",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=20s",
+        "ingredients": [
+          "Chicken (600 gms)",
+          "Curd/Dahi (5 tbsp)",
+          "Ginger Garlic Paste",
+          "Fried Onion (1/2 cup)",
+          "Salt"
+        ],
+        "actions": [
+          "Placing chicken in a bowl",
+          "Pouring curd over chicken",
+          "Adding ginger garlic paste",
+          "Adding fried onions",
+          "Sprinkling salt"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Small bowl",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.777
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakhni)"
+        ],
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "utensils": [
+          "Wooden cooking pot (dutch oven)",
+          "Spoon"
+        ],
+        "confidence": 0.738
+      }
+    ]
+  },
+  {
+    "title": "Repeat layers",
+    "description": "Repeat the layering with the remaining mutton, rice, and toppings, finishing with rice on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.87
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.87
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=220s",
+        "ingredients": [
+          "Cooked rice",
+          "Yellow curry sauce",
+          "Pieces of meat (potentially chicken)"
+        ],
+        "actions": [
+          "Stirring rice and sauce",
+          "Mixing meat with curry sauce and rice"
+        ],
+        "utensils": [
+          "Large beige bowl",
+          "White cooking spoon with a wooden handle",
+          "Decorative jars"
+        ],
+        "confidence": 0.856
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "ingredients": [
+          "White rice",
+          "Yellow lentils or curry-based mixture"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "utensils": [
+          "Colander",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.815
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.809
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.774
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=190s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakhni)"
+        ],
+        "actions": [
+          "Pouring kewra water",
+          "Creating a spiral shape with kewra water on the rice"
+        ],
+        "utensils": [
+          "Wooden cooking pot (dutch oven)",
+          "Spoon"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=200s",
+        "ingredients": [
+          "White rice",
+          "Kewra water (yakshni)",
+          "Fried onions",
+          "Ghee",
+          "Silver foil"
+        ],
+        "actions": [
+          "Pouring kewra water (yakshni)",
+          "Adding fried onions",
+          "Spreading the ghee",
+          "Covering the pot with a silver foil"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pot"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.736
+      }
+    ]
+  },
+  {
+    "title": "Seal the pot",
+    "description": "Cover the pot with a tight lid or seal it with dough to trap the steam.",
+    "aligned_chunks": [
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.839
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "ingredients": [
+          "White rice",
+          "Yellow lentils or curry-based mixture"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "utensils": [
+          "Colander",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.693
+      }
+    ]
+  },
+  {
+    "title": "Dum cook the biryani",
+    "description": "Place the sealed pot over a low flame or a griddle and cook for 30–40 minutes to allow flavors to meld.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.694
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "ingredients": [
+          "White rice",
+          "Yellow lentils or curry-based mixture"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "utensils": [
+          "Colander",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.673
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.649
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.635
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.607
+      }
+    ]
+  },
+  {
+    "title": "Rest the biryani",
+    "description": "Turn off the heat and let the biryani rest, covered, for 10 minutes before opening.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.695
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.656
+      }
+    ]
+  },
+  {
+    "title": "Serve",
+    "description": "Serve hot with boiled eggs, raita, or salad.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=50s",
+        "ingredients": [
+          "Soaked potato chunks",
+          "Boiled eggs"
+        ],
+        "actions": [
+          "Pouring soaked potato chunks into a pot",
+          "Adding boiled eggs to the pot",
+          "Stirring the potatoes and eggs in the pot",
+          "Frying potatoes and eggs in oil"
+        ],
+        "utensils": [
+          "White bowl",
+          "Wooden spatula",
+          "Cooking pot (with a grid pattern at the bottom)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=160s",
+        "ingredients": [
+          "Cooked rice",
+          "Fried eggs",
+          "Onions",
+          "Biryani masala"
+        ],
+        "actions": [
+          "Boiling rice",
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala"
+        ],
+        "utensils": [
+          "Pot",
+          "Ladle",
+          "Saucepan"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=170s",
+        "ingredients": [
+          "Fried eggs",
+          "Onions",
+          "Potatoes",
+          "Biryani masala",
+          "Kewra water",
+          "Boiled rice"
+        ],
+        "actions": [
+          "Adding fried eggs",
+          "Adding onions",
+          "Adding biryani masala",
+          "Adding kewra water",
+          "Layering boiled rice"
+        ],
+        "utensils": [
+          "Large cooking pot",
+          "Spoon",
+          "Skimmer"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=230s",
+        "ingredients": [
+          "Yellow rice",
+          "Potatoes",
+          "Garlic or onion slices (not clearly distinguishable)"
+        ],
+        "actions": [
+          "Serving rice",
+          "Placing potato pieces into the rice",
+          "Adjusting and arranging rice and potatoes in the dish"
+        ],
+        "utensils": [
+          "Round white serving dish"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=10s",
+        "ingredients": [
+          "White rice",
+          "Yellow lentils or curry-based mixture"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Mixing the rice and lentils with the spatula"
+        ],
+        "utensils": [
+          "Colander",
+          "Wooden spatula",
+          "Saucepan"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=0s",
+        "ingredients": [
+          "Potatoes",
+          "Turmeric mix (marinated chicken with turmeric)",
+          "Oil",
+          "Spiced chicken"
+        ],
+        "actions": [
+          "Adding marinated chicken to oil",
+          "Stirring spiced chicken",
+          "Adding potatoes to the pot",
+          "Simmering chicken and potatoes in liquid"
+        ],
+        "utensils": [
+          "Pot with handle",
+          "Cooking stove",
+          "Spoon for frying"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=60s",
+        "ingredients": [
+          "Potatoes",
+          "Eggs",
+          "Oil"
+        ],
+        "actions": [
+          "Removing eggs from the oil",
+          "Fry the potatoes in oil",
+          "Removing the fried potatoes from the oil"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Saucepan",
+          "Stove"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=180s",
+        "ingredients": [
+          "Boiled rice",
+          "Kewra water/yakhni",
+          "Egg yolks",
+          "Vegetables (pieces possibly potatoes or similar)"
+        ],
+        "actions": [
+          "Layering boiled rice",
+          "Pouring kewra water/yakhni",
+          "Placing egg yolks on rice"
+        ],
+        "utensils": [
+          "Colander",
+          "Spoon",
+          "Large cooking pan (or pot)",
+          "Induction cooktop"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.764
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=120s",
+        "ingredients": [
+          "Chicken",
+          "Potatoes",
+          "Brown sauce/gravy (likely yakhni)",
+          "Water (used to cover gravy)"
+        ],
+        "actions": [
+          "Stirring the curry",
+          "Placing a lid on the pot",
+          "Scooping gravy into a bowl"
+        ],
+        "utensils": [
+          "Large pot",
+          "Wooden spatula",
+          "Glass lid",
+          "Bowl",
+          "Spoon"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=30s",
+        "ingredients": [
+          "Kashmiri Chilli",
+          "Turmeric Powder",
+          "Biryani Masala",
+          "Ghee",
+          "Spices (already mixed with chicken)",
+          "Chicken pieces (not explicitly labeled as such but visible)"
+        ],
+        "actions": [
+          "Adding Kashmiri Chilli",
+          "Adding Turmeric Powder",
+          "Adding Biryani Masala",
+          "Pouring ghee",
+          "Mixing the ingredients",
+          "Marinating the mixture"
+        ],
+        "utensils": [
+          "Glass mixing bowl",
+          "Wooden spoon",
+          "Wooden spatula",
+          "Ladle",
+          "Small glass container for ghee"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=150s",
+        "ingredients": [
+          "Soaked rice",
+          "Spices (e.g., bay leaves, cardamom, cinnamon, cumin seeds, cloves, and star anise)"
+        ],
+        "actions": [
+          "Adding soaked rice to boiling water",
+          "Removing spices from boiled water using a strainer",
+          "Pouring boiled water into the pot",
+          "Stirring the contents of the pot"
+        ],
+        "utensils": [
+          "Metal strainer",
+          "Ladle",
+          "Stainless steel pot",
+          "Wooden spoon"
+        ],
+        "confidence": 0.661
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=40s",
+        "ingredients": [
+          "Chicken pieces",
+          "Marinade mixture (including spices and possibly yogurt or other wet ingredients for marination)",
+          "Ghee (clarified butter)"
+        ],
+        "actions": [
+          "Mixing marinated chicken",
+          "Marinating chicken for 1 hour",
+          "Pouring ghee into a pot",
+          "Heating ghee in a pot"
+        ],
+        "utensils": [
+          "Glass bowl",
+          "Wooden cutting board",
+          "Pot",
+          "Glass container for ghee"
+        ],
+        "confidence": 0.66
+      },
+      {
+        "timestamp": "240-241",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=240s",
+        "ingredients": [
+          "Peeled and diced potatoes",
+          "Yellow rice"
+        ],
+        "actions": [
+          "Serving rice and potatoes"
+        ],
+        "utensils": [
+          "Spoon",
+          "Bowl"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=XplW4n75UrI&t=140s",
+        "ingredients": [
+          "Salt",
+          "Whole spices (including items such as bay leaves, cinnamon stick, cardamom, and star anise)"
+        ],
+        "actions": [
+          "Scooping liquid from a pot",
+          "Adding salt to boiling water",
+          "Adding whole spices to boiling water"
+        ],
+        "utensils": [
+          "Wooden spoon",
+          "Stainless steel pot",
+          "Bowl",
+          "Wooden ladle"
+        ],
+        "confidence": 0.644
+      }
+    ]
+  }
+]

@@ -1,0 +1,3947 @@
+[
+  {
+    "audio_timestamp": "00:00:02,443 --> 00:00:32,109",
+    "audio_description": "Today we are going to make a tasty, rich, and very popular Kolkata-style biryani. In this video, we have made this biryani in a very simple way. So let’s begin making it. For this, we need 1.25 kg of chicken.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=9s",
+        "actions": [
+          "Placing chicken wings in a bowl",
+          "Holding yogurt container over chicken wings",
+          "Measuring ingredients",
+          "Placing eggs on the cutting board"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=229s",
+        "actions": [
+          "Pouring soaked rice into the pot",
+          "Pouring salt into the pot",
+          "Storing the strainer nearby"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.643
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:34,270 --> 00:00:56,308",
+    "audio_description": "Add two teaspoons of red chili powder and salt to taste. I’m adding two teaspoons here. Then we’ll add two tablespoons of biryani masala. The link to this biryani masala recipe is given here; you can check out the recipe.",
+    "aligned_chunks": [
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.797
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=119s",
+        "actions": [
+          "Adding salt to onions",
+          "Stirring onions with a spoon",
+          "Adding tomato paste/marinade to onions"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=229s",
+        "actions": [
+          "Pouring soaked rice into the pot",
+          "Pouring salt into the pot",
+          "Storing the strainer nearby"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=249s",
+        "actions": [
+          "Removing the pressure cooker lid",
+          "Stirring the curry",
+          "Mixing potatoes and meat in the sauce"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.815
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=339s",
+        "actions": [
+          "Removing foil from pot",
+          "Placing metal lid onto pot"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.653
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:58,587 --> 00:01:26,465",
+    "audio_description": "Mix the chicken well with the spices and leave it to marinate in the fridge for two hours. Now in a pot, take one cup of oil. Add 2–3 bay leaves, 2–3-inch pieces of cinnamon, 6–7 green cardamoms.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=9s",
+        "actions": [
+          "Placing chicken wings in a bowl",
+          "Holding yogurt container over chicken wings",
+          "Measuring ingredients",
+          "Placing eggs on the cutting board"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=69s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding bay leaves into the pot"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=79s",
+        "actions": [
+          "Placing cinnamon stick in the mixing bowl",
+          "Adding bay leaf to the mixing bowl",
+          "Adding green cardamom pods to the mixing bowl",
+          "Adding cloves to the mixing bowl"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=89s",
+        "actions": [
+          "Adding spices to a pot",
+          "Stirring spices in the pot"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=109s",
+        "actions": [
+          "Stirring onions",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=119s",
+        "actions": [
+          "Adding salt to onions",
+          "Stirring onions with a spoon",
+          "Adding tomato paste/marinade to onions"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=139s",
+        "actions": [
+          "Picking up potatoes",
+          "Peeling potatoes"
+        ],
+        "confidence_score": 0.525
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=149s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing bowl on the side",
+          "Setting up ingredients on the cutting board"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=189s",
+        "actions": [
+          "Storing the cooked potatoes into the cooker",
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=209s",
+        "actions": [
+          "Pouring water into the pan",
+          "Placing bay leaves in the pan"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=219s",
+        "actions": [
+          "Placing bay leaves in the pan",
+          "Adding cumin seeds to the pan",
+          "Showing soaked rice"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=229s",
+        "actions": [
+          "Pouring soaked rice into the pot",
+          "Pouring salt into the pot",
+          "Storing the strainer nearby"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=249s",
+        "actions": [
+          "Removing the pressure cooker lid",
+          "Stirring the curry",
+          "Mixing potatoes and meat in the sauce"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=339s",
+        "actions": [
+          "Removing foil from pot",
+          "Placing metal lid onto pot"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=349s",
+        "actions": [
+          "Placing aluminum foil on the tray",
+          "Draping aluminum foil",
+          "Tidying up foil on the tray"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "389-392",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=389s",
+        "actions": [
+          "Not applicable (no cooking actions shown)"
+        ],
+        "confidence_score": 0.532
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:30,075 --> 00:01:55,438",
+    "audio_description": "First, fry these whole spices in the oil for 2–3 minutes. Take two medium-sized onions, sliced, and add them in. Fry the onions until they turn a nice golden color.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=69s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding bay leaves into the pot"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=109s",
+        "actions": [
+          "Stirring onions",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=119s",
+        "actions": [
+          "Adding salt to onions",
+          "Stirring onions with a spoon",
+          "Adding tomato paste/marinade to onions"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=149s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing bowl on the side",
+          "Setting up ingredients on the cutting board"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=189s",
+        "actions": [
+          "Storing the cooked potatoes into the cooker",
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.519
+      },
+      {
+        "timestamp": "389-392",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=389s",
+        "actions": [
+          "Not applicable (no cooking actions shown)"
+        ],
+        "confidence_score": 0.484
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:56,552 --> 00:02:14,574",
+    "audio_description": "Add ginger-garlic paste and fry it well with the onions. Then add the chicken and mix everything together. Let the chicken cook. Meanwhile, let’s get the potatoes ready.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=9s",
+        "actions": [
+          "Placing chicken wings in a bowl",
+          "Holding yogurt container over chicken wings",
+          "Measuring ingredients",
+          "Placing eggs on the cutting board"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.822
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.825
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=109s",
+        "actions": [
+          "Stirring onions",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.845
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=119s",
+        "actions": [
+          "Adding salt to onions",
+          "Stirring onions with a spoon",
+          "Adding tomato paste/marinade to onions"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=139s",
+        "actions": [
+          "Picking up potatoes",
+          "Peeling potatoes"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=149s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing bowl on the side",
+          "Setting up ingredients on the cutting board"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=189s",
+        "actions": [
+          "Storing the cooked potatoes into the cooker",
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=249s",
+        "actions": [
+          "Removing the pressure cooker lid",
+          "Stirring the curry",
+          "Mixing potatoes and meat in the sauce"
+        ],
+        "confidence_score": 0.816
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.689
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:17,612 --> 00:02:44,325",
+    "audio_description": "Here I’ve taken peeled potatoes, about 750 grams. If you have large potatoes, you can cut them into two pieces. Using a knife, make holes in the potatoes like this so they cook thoroughly and absorb the spices inside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=69s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding bay leaves into the pot"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=109s",
+        "actions": [
+          "Stirring onions",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=119s",
+        "actions": [
+          "Adding salt to onions",
+          "Stirring onions with a spoon",
+          "Adding tomato paste/marinade to onions"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=139s",
+        "actions": [
+          "Picking up potatoes",
+          "Peeling potatoes"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=149s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing bowl on the side",
+          "Setting up ingredients on the cutting board"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=189s",
+        "actions": [
+          "Storing the cooked potatoes into the cooker",
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.551
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=249s",
+        "actions": [
+          "Removing the pressure cooker lid",
+          "Stirring the curry",
+          "Mixing potatoes and meat in the sauce"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.528
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.536
+      },
+      {
+        "timestamp": "389-392",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=389s",
+        "actions": [
+          "Not applicable (no cooking actions shown)"
+        ],
+        "confidence_score": 0.52
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:47,853 --> 00:03:16,085",
+    "audio_description": "Add half a teaspoon of turmeric. If you prefer, you can use yellow food color instead of turmeric. Also add one teaspoon of Kashmiri red chili powder. Now we need to cook the potatoes with the chicken—not too much, just enough. Add them to the chicken.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=9s",
+        "actions": [
+          "Placing chicken wings in a bowl",
+          "Holding yogurt container over chicken wings",
+          "Measuring ingredients",
+          "Placing eggs on the cutting board"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=139s",
+        "actions": [
+          "Picking up potatoes",
+          "Peeling potatoes"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=149s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing bowl on the side",
+          "Setting up ingredients on the cutting board"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=189s",
+        "actions": [
+          "Storing the cooked potatoes into the cooker",
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=249s",
+        "actions": [
+          "Removing the pressure cooker lid",
+          "Stirring the curry",
+          "Mixing potatoes and meat in the sauce"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=339s",
+        "actions": [
+          "Removing foil from pot",
+          "Placing metal lid onto pot"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.594
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:18,650 --> 00:03:46,561",
+    "audio_description": "Now cook the chicken and potatoes together on medium to low flame for 20–25 minutes. While the chicken is cooking, we will prepare the rice. To prepare the rice, take 3–4 times more water than the quantity of rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=9s",
+        "actions": [
+          "Placing chicken wings in a bowl",
+          "Holding yogurt container over chicken wings",
+          "Measuring ingredients",
+          "Placing eggs on the cutting board"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.515
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=139s",
+        "actions": [
+          "Picking up potatoes",
+          "Peeling potatoes"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=149s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing bowl on the side",
+          "Setting up ingredients on the cutting board"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=189s",
+        "actions": [
+          "Storing the cooked potatoes into the cooker",
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=209s",
+        "actions": [
+          "Pouring water into the pan",
+          "Placing bay leaves in the pan"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=219s",
+        "actions": [
+          "Placing bay leaves in the pan",
+          "Adding cumin seeds to the pan",
+          "Showing soaked rice"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=229s",
+        "actions": [
+          "Pouring soaked rice into the pot",
+          "Pouring salt into the pot",
+          "Storing the strainer nearby"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=249s",
+        "actions": [
+          "Removing the pressure cooker lid",
+          "Stirring the curry",
+          "Mixing potatoes and meat in the sauce"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.518
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.575
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:47,606 --> 00:04:12,447",
+    "audio_description": "As soon as the water boils, add the rice. This is one kilogram of basmati rice, which has been soaked for half an hour and rinsed thoroughly. Add it in. Add two teaspoons of salt and two teaspoons of lemon juice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=119s",
+        "actions": [
+          "Adding salt to onions",
+          "Stirring onions with a spoon",
+          "Adding tomato paste/marinade to onions"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=209s",
+        "actions": [
+          "Pouring water into the pan",
+          "Placing bay leaves in the pan"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=219s",
+        "actions": [
+          "Placing bay leaves in the pan",
+          "Adding cumin seeds to the pan",
+          "Showing soaked rice"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=229s",
+        "actions": [
+          "Pouring soaked rice into the pot",
+          "Pouring salt into the pot",
+          "Storing the strainer nearby"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=339s",
+        "actions": [
+          "Removing foil from pot",
+          "Placing metal lid onto pot"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.648
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:13,544 --> 00:04:34,654",
+    "audio_description": "The potatoes have become nice and soft. Now sprinkle one teaspoon of biryani masala over them. Cook the rice till it’s 80% done, then drain it and spread it over the chicken.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=9s",
+        "actions": [
+          "Placing chicken wings in a bowl",
+          "Holding yogurt container over chicken wings",
+          "Measuring ingredients",
+          "Placing eggs on the cutting board"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "139-149",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=139s",
+        "actions": [
+          "Picking up potatoes",
+          "Peeling potatoes"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "149-159",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=149s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing bowl on the side",
+          "Setting up ingredients on the cutting board"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.797
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=189s",
+        "actions": [
+          "Storing the cooked potatoes into the cooker",
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.751
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=219s",
+        "actions": [
+          "Placing bay leaves in the pan",
+          "Adding cumin seeds to the pan",
+          "Showing soaked rice"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=229s",
+        "actions": [
+          "Pouring soaked rice into the pot",
+          "Pouring salt into the pot",
+          "Storing the strainer nearby"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=249s",
+        "actions": [
+          "Removing the pressure cooker lid",
+          "Stirring the curry",
+          "Mixing potatoes and meat in the sauce"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.827
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.714
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:40,307 --> 00:05:07,543",
+    "audio_description": "Now take one cup of milk. I’m adding half a teaspoon of saffron to it and two drops of kewra water. Mix it well. I’m adding yellow food coloring powder; you can use liquid if preferred. Add two teaspoons of rose water.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "89-99",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=89s",
+        "actions": [
+          "Adding spices to a pot",
+          "Stirring spices in the pot"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "109-119",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=109s",
+        "actions": [
+          "Stirring onions",
+          "Adding cinnamon sticks",
+          "Adding cardamom pods",
+          "Adding ginger garlic paste"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "119-129",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=119s",
+        "actions": [
+          "Adding salt to onions",
+          "Stirring onions with a spoon",
+          "Adding tomato paste/marinade to onions"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "159-169",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=159s",
+        "actions": [
+          "Arranging potatoes in the pan",
+          "Sprinkling salt on potatoes",
+          "Stirring potatoes with a spatula",
+          "Adding turmeric powder to potatoes"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "189-199",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=189s",
+        "actions": [
+          "Storing the cooked potatoes into the cooker",
+          "Pouring water into the pressure cooker"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "209-219",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=209s",
+        "actions": [
+          "Pouring water into the pan",
+          "Placing bay leaves in the pan"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.595
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:10,278 --> 00:05:38,391",
+    "audio_description": "Add 4–5 tablespoons of desi ghee. Now pour the milk mixture we just prepared all over the rice. This mixture gives a beautiful color and amazing aroma to the biryani. Now we will put the biryani on dum (slow steam cooking).",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.558
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=219s",
+        "actions": [
+          "Placing bay leaves in the pan",
+          "Adding cumin seeds to the pan",
+          "Showing soaked rice"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=229s",
+        "actions": [
+          "Pouring soaked rice into the pot",
+          "Pouring salt into the pot",
+          "Storing the strainer nearby"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.575
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:39,151 --> 00:05:58,759",
+    "audio_description": "If you want, you can seal the lid using dough. Now place the lid. Let the biryani cook on low flame for 15–20 minutes. After 15–20 minutes, remove the lid and the aluminum foil from the top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.477
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.493
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.489
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.515
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.485
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.515
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "199-209",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=199s",
+        "actions": [
+          "Pouring water into the pot",
+          "Placing the lid on the pot"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.494
+      },
+      {
+        "timestamp": "249-259",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=249s",
+        "actions": [
+          "Removing the pressure cooker lid",
+          "Stirring the curry",
+          "Mixing potatoes and meat in the sauce"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.552
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.52
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.485
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "339-349",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=339s",
+        "actions": [
+          "Removing foil from pot",
+          "Placing metal lid onto pot"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "349-359",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=349s",
+        "actions": [
+          "Placing aluminum foil on the tray",
+          "Draping aluminum foil",
+          "Tidying up foil on the tray"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.589
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:00,413 --> 00:06:23,920",
+    "audio_description": "Look at that beautiful color. This aromatic Kolkata-style biryani is now ready. First, we’ll move the rice aside gently, then dish out the biryani. This delicious biryani is now ready with a wonderful aroma and taste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=0s",
+        "actions": [
+          "Placing chicken on the plate",
+          "Piling rice over the chicken and eggs"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=19s",
+        "actions": [
+          "Pouring yogurt into chicken",
+          "Sprinkling turmeric powder onto chicken",
+          "Sprinkling cumin seeds powder onto chicken"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=29s",
+        "actions": [
+          "Adding mustard seeds",
+          "Adding garam masala powder",
+          "Adding cardamom powder",
+          "Adding red chili powder",
+          "Adding cumin seeds"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=39s",
+        "actions": [
+          "Sprinkling salt",
+          "Adding turmeric powder",
+          "Adding biryani masala powder"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=49s",
+        "actions": [
+          "Scooping biryani masala powder",
+          "Adding oil with a syringe",
+          "Mixing chicken with spices"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=59s",
+        "actions": [
+          "Adding spices to chicken",
+          "Mixing chicken and spices together",
+          "Preparing to place marinated chicken pieces onto a plate or tray"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "99-109",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=99s",
+        "actions": [
+          "Placing sliced onions in water",
+          "Adding bay leaves and cinnamon sticks to the water",
+          "Stirring the mixture with a measuring cup"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "129-139",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=129s",
+        "actions": [
+          "Adding marinated chicken pieces into the pressure cooker",
+          "Stirring the marinated chicken pieces in the pressure cooker",
+          "Pouring liquid into the pressure cooker with chicken",
+          "Showing boiled potatoes",
+          "Placing a boiled potato on the transparent bowl",
+          "Picking up a potato from the transparent bowl"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "169-179",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=169s",
+        "actions": [
+          "Adding turmeric powder to the potatoes",
+          "Sprinkling red chili powder over the potatoes",
+          "Stirring the potatoes with a wooden spoon",
+          "Adding oil to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "179-189",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=179s",
+        "actions": [
+          "Spreading red-coated round objects on the pan",
+          "Mixing the red-coated round objects in the pan",
+          "Transferring the red-coated round objects into the bowl with sauce"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "219-229",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=219s",
+        "actions": [
+          "Placing bay leaves in the pan",
+          "Adding cumin seeds to the pan",
+          "Showing soaked rice"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "229-239",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=229s",
+        "actions": [
+          "Pouring soaked rice into the pot",
+          "Pouring salt into the pot",
+          "Storing the strainer nearby"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "239-249",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=239s",
+        "actions": [
+          "Adding salt to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "259-269",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=259s",
+        "actions": [
+          "Adding biryani masala powder to a mixture",
+          "Stirring the contents of the pressure cooker",
+          "Boiling rice in a pot"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "269-279",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=269s",
+        "actions": [
+          "Pouring rice into the colander",
+          "Placing colander with rice into the curry",
+          "Stirring the curry with the colander containing rice"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "279-289",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=279s",
+        "actions": [
+          "Pouring milk into a glass bowl",
+          "Adding saffron threads to the milk",
+          "Pouring Meetha Attar into the milk"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "289-299",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=289s",
+        "actions": [
+          "Adding mettha attar to the milk",
+          "Adding yellow color (turmeric) to the milk",
+          "Stirring the mixture in the bowl"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "299-309",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=299s",
+        "actions": [
+          "Pouring rose water",
+          "Scooping rose water",
+          "Measuring rice",
+          "Sprinkling biryani masala powder on rice"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "309-319",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=309s",
+        "actions": [
+          "Adding brown spice powder to rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "319-329",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=319s",
+        "actions": [
+          "Pouring yellow liquid over rice",
+          "Spreading yellow liquid onto rice"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "329-339",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=329s",
+        "actions": [
+          "Pouring oil or ghee onto the rice",
+          "Covering the pot with aluminum foil"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "359-369",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=359s",
+        "actions": [
+          "Removing aluminum foil from the pot",
+          "Fluffing the rice with a spatula"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "369-379",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=369s",
+        "actions": [
+          "Scooping rice and meat",
+          "Placing rice and meat on a plate"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "379-389",
+        "url": "https://www.youtube.com/watch?v=8P8vdhEp8OA&t=379s",
+        "actions": [
+          "Serving rice and meatballs"
+        ],
+        "confidence_score": 0.636
+      }
+    ]
+  }
+]

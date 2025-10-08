@@ -1,0 +1,993 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:29,242",
+    "audio_description": "Today's recipe is a special biryani. I'm going to make a very popular Sindhi Biryani from Pakistan. This biryani is quite different in preparation and taste from the ones we usually make in Kerala. Before we begin, please don't forget to subscribe to the channel. First, heat a pan and add 1 cup of ghee. When the ghee is hot, add 2 shallots and fry them.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=10s",
+        "actions": [
+          "Pouring egg mixture into the pan"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=90s",
+        "actions": [
+          "Adding spices to the chicken",
+          "Stirring chicken with a wooden spatula",
+          "Adding salt to the chicken and spices mixture"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=100s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in a pan with sauce"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=120s",
+        "actions": [
+          "Stirring chicken in pan",
+          "Adding potatoes to pan"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=190s",
+        "actions": [
+          "Adding lime wedges to the pan",
+          "Sprinkling fresh green herbs over the dish",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "confidence_score": 0.613
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:30,472 --> 00:00:53,828",
+    "audio_description": "[Audio unclear — skipped for continuity.]",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "confidence_score": 0.679
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:56,679 --> 00:01:17,689",
+    "audio_description": "Add 2 tbsp ginger paste and 1 tbsp garlic paste. Sauté well. Then add 1 kg chicken.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "confidence_score": 0.815
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=70s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken pieces with a spatula"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=90s",
+        "actions": [
+          "Adding spices to the chicken",
+          "Stirring chicken with a wooden spatula",
+          "Adding salt to the chicken and spices mixture"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=100s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in a pan with sauce"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=120s",
+        "actions": [
+          "Stirring chicken in pan",
+          "Adding potatoes to pan"
+        ],
+        "confidence_score": 0.751
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=190s",
+        "actions": [
+          "Adding lime wedges to the pan",
+          "Sprinkling fresh green herbs over the dish",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "confidence_score": 0.647
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:20,743 --> 00:01:49,634",
+    "audio_description": "[Audio unclear — skipped.]",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:01:51,322 --> 00:02:21,258",
+    "audio_description": "Add 1 tbsp turmeric powder and 1 tbsp chili powder. Mix well. Then add boiled potatoes, 1 cup curd, and 1 cup water.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.803
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=120s",
+        "actions": [
+          "Stirring chicken in pan",
+          "Adding potatoes to pan"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=160s",
+        "actions": [
+          "Adding shredded potatoes to the water",
+          "Adding sugar to the pot",
+          "Boiling the mixture",
+          "Stirring the contents with a wooden spoon",
+          "Pouring ingredients into the pot"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=190s",
+        "actions": [
+          "Adding lime wedges to the pan",
+          "Sprinkling fresh green herbs over the dish",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "confidence_score": 0.678
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:22,539 --> 00:02:49,085",
+    "audio_description": "[Audio unclear — skipped.]",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:02:50,030 --> 00:03:17,907",
+    "audio_description": "Now the rice is half-cooked. You can pour it over the chicken mixture. The chicken has been cooking for about 10 minutes. Let’s open the lid. The chicken is now well cooked. Add the fried tomato pieces on top. Then add lemon slices, coriander leaves, and mint leaves.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=10s",
+        "actions": [
+          "Pouring egg mixture into the pan"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=70s",
+        "actions": [
+          "Adding chicken pieces to the pot",
+          "Stirring chicken pieces with a spatula"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=90s",
+        "actions": [
+          "Adding spices to the chicken",
+          "Stirring chicken with a wooden spatula",
+          "Adding salt to the chicken and spices mixture"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=100s",
+        "actions": [
+          "Stirring chicken",
+          "Cooking chicken in a pan with sauce"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=120s",
+        "actions": [
+          "Stirring chicken in pan",
+          "Adding potatoes to pan"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=140s",
+        "actions": [
+          "Adding cream or yogurt",
+          "Stirring the mixture",
+          "Covering the pan"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=170s",
+        "actions": [
+          "Transferring rice from pot",
+          "Placing lid on pressure cooker",
+          "Removing pressure cooker lid"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Adding tomato slices"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=190s",
+        "actions": [
+          "Adding lime wedges to the pan",
+          "Sprinkling fresh green herbs over the dish",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=210s",
+        "actions": [
+          "Adding rice to a pot",
+          "Stirring rice",
+          "Pouring red sauce onto rice"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=220s",
+        "actions": [
+          "Sprinkling chili powder",
+          "Sprinkling black pepper",
+          "Mixing rice with spices"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=260s",
+        "actions": [
+          "Presenting dish (placing food on the plate)"
+        ],
+        "confidence_score": 0.585
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:19,104 --> 00:03:45,294",
+    "audio_description": "[Audio unclear — skipped.]",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:03:46,156 --> 00:04:11,840",
+    "audio_description": "Add 1 tsp garam masala and 1 tsp fried onions. Close the lid and cook on high flame for 5 minutes. Then reduce the flame to low and cook for another 10 minutes. After a total of 15 minutes, open the lid and cook for an additional 15 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=0s",
+        "actions": [
+          "Adding sliced tomatoes and halved limes to the curry",
+          "Garnishing the curry with green chilies and fresh cilantro",
+          "Fluffing and mixing white cooked rice with a spatula or spoon to incorporate spices and garlic"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=20s",
+        "actions": [
+          "Pouring oil into the pot",
+          "Adding mustard seeds to the pot",
+          "Adding salt to the pot",
+          "Adding chopped onions to the pot",
+          "Stirring the ingredients in the pot"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=30s",
+        "actions": [
+          "Stirring onions in the pot",
+          "Adding salt to the boiling potatoes"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=40s",
+        "actions": [
+          "Boiling potatoes",
+          "Stirring fried onions",
+          "Cooking garlic in oil"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=50s",
+        "actions": [
+          "Stirring onions",
+          "Scooping onions",
+          "Adding green paste",
+          "Adding yellowish spice"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=60s",
+        "actions": [
+          "Adding minced garlic or ginger to the pan",
+          "Stirring the contents of the pan with a wooden spatula"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=80s",
+        "actions": [
+          "Placing star anise into the pan",
+          "Scooping cardamom pods into the pan",
+          "Adding cinnamon sticks into the pan",
+          "Adding black peppercorns into the pan",
+          "Adding fennel seeds into the pan"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=110s",
+        "actions": [
+          "Adding turmeric powder to the pan",
+          "Adding red chili powder to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=130s",
+        "actions": [
+          "Adding cream to the pot",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=190s",
+        "actions": [
+          "Adding lime wedges to the pan",
+          "Sprinkling fresh green herbs over the dish",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=200s",
+        "actions": [
+          "Adding rice to the pot or pan",
+          "Mixing the rice with the contents of the pot"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=230s",
+        "actions": [
+          "Stirring rice with a spoon",
+          "Adding saffron strands to the rice",
+          "Sprinkling spices over the rice",
+          "Pouring liquid from a ladle into the rice"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=240s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Stirring rice"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=GezHL0ti26M&t=250s",
+        "actions": [
+          "Mixing rice with a spoon",
+          "Transferring rice and vegetables into a serving dish",
+          "Garnishing with whole spices and nuts"
+        ],
+        "confidence_score": 0.611
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:13,460 --> 00:04:26,115",
+    "audio_description": "Now our Sindhi Biryani is ready to serve!",
+    "aligned_chunks": []
+  }
+]

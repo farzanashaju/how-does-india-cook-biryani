@@ -1,0 +1,5956 @@
+[
+  {
+    "title": "Marinate the Mutton - Step 1",
+    "description": "In a large bowl, combine yogurt, ginger paste, garlic paste, salt, cardamom powder, and nutmeg-mace powder.",
+    "aligned_chunks": [
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=120s",
+        "ingredients": [
+          "Green chili peppers",
+          "Ginger garlic paste",
+          "Sesame seeds"
+        ],
+        "actions": [
+          "Pouring green chili peppers into the pressure cooker",
+          "Adding sesame seeds into the pressure cooker",
+          "Adding ginger garlic paste into the pressure cooker"
+        ],
+        "utensils": [
+          "Bunching spoon",
+          "Pressure cooker (white metal container)"
+        ],
+        "confidence": 0.818
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "ingredients": [
+          "Meat (likely pork)",
+          "Black peppercorns",
+          "Dried herbs (possibly sage or thyme)",
+          "Green cardamom pods",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "ingredients": [
+          "Green chilies",
+          "Curry or spice paste"
+        ],
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "utensils": [
+          "Cooking pot or container"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "ingredients": [
+          "Water",
+          "Salt",
+          "Meat (chicken)"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "ingredients": [
+          "Meat (likely goat or beef)",
+          "Green chilies",
+          "Salt (added at one point)"
+        ],
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Scoop/spoon",
+          "Tongs"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.699
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.653
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.651
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.647
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.619
+      }
+    ]
+  },
+  {
+    "title": "Marinate the Mutton - Step 2",
+    "description": "Add half of the fried onions (birista) to the yogurt mixture and mix well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "ingredients": [
+          "Meat pieces (likely beef or beef bones)",
+          "Onions",
+          "Liquid (soup or broth)"
+        ],
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pressure cooker",
+          "Spoon (for stirring)"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.757
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "ingredients": [
+          "Pieces of meat (possibly beef or lamb)",
+          "Green chili peppers",
+          "Liquid (broth or sauce)"
+        ],
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Slotted spoon"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "ingredients": [
+          "Green chili peppers",
+          "Sliced onions",
+          "Meat (likely beef or pork)"
+        ],
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Stone pot"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "ingredients": [
+          "1 kg red meat",
+          "2 glasses of water"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.672
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.658
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.644
+      }
+    ]
+  },
+  {
+    "title": "Marinate the Mutton - Step 3",
+    "description": "Add the mutton pieces and coat them thoroughly with the marinade. Cover and refrigerate for at least 4 hours, preferably overnight.",
+    "aligned_chunks": [
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "ingredients": [
+          "Meat (likely goat or beef)",
+          "Green chilies",
+          "Salt (added at one point)"
+        ],
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Scoop/spoon",
+          "Tongs"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.631
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.631
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.59
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.588
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "ingredients": [
+          "Pieces of meat (possibly beef or lamb)",
+          "Green chili peppers",
+          "Liquid (broth or sauce)"
+        ],
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Slotted spoon"
+        ],
+        "confidence": 0.584
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "ingredients": [
+          "Meat pieces (likely beef or beef bones)",
+          "Onions",
+          "Liquid (soup or broth)"
+        ],
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pressure cooker",
+          "Spoon (for stirring)"
+        ],
+        "confidence": 0.574
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.556
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.553
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.551
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=110s",
+        "ingredients": [
+          "Onion rings",
+          "Oil (for frying)"
+        ],
+        "actions": [
+          "Adding onion rings to oil",
+          "Stirring onion rings in oil"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon"
+        ],
+        "confidence": 0.546
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.536
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.536
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.533
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.513
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.512
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.503
+      }
+    ]
+  },
+  {
+    "title": "Prepare Saffron Milk - Step 1",
+    "description": "Soak saffron strands in warm milk for 10–15 minutes to release color and aroma.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.613
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.589
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.585
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=110s",
+        "ingredients": [
+          "Onion rings",
+          "Oil (for frying)"
+        ],
+        "actions": [
+          "Adding onion rings to oil",
+          "Stirring onion rings in oil"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon"
+        ],
+        "confidence": 0.577
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.571
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.569
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.542
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.537
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.521
+      }
+    ]
+  },
+  {
+    "title": "Prepare Saffron Milk - Step 2",
+    "description": "Add rose water and kewra water to the saffron milk. Mix gently and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "ingredients": [
+          "1 kg red meat",
+          "2 glasses of water"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.717
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.702
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "ingredients": [
+          "Water",
+          "Salt",
+          "Meat (chicken)"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.693
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.68
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.671
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.607
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.607
+      }
+    ]
+  },
+  {
+    "title": "Boil the Rice - Step 1",
+    "description": "Rinse basmati rice thoroughly until the water runs clear. Soak in water for 30 minutes, then drain.",
+    "aligned_chunks": [
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "ingredients": [
+          "Rice",
+          "Green chili peppers",
+          "Lemon wedge",
+          "Red sauce",
+          "Carrot shreds",
+          "Keora essence"
+        ],
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "utensils": [
+          "Pot with textured lining",
+          "White cup with floral design",
+          "Small bottle for essence"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "ingredients": [
+          "Rice",
+          "Shredded carrots",
+          "Green chilies",
+          "Sliced lemons",
+          "Meat"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "utensils": [
+          "Ladle (metallic slotted spoon)"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "ingredients": [
+          "Rice",
+          "Yellow shredded carrots",
+          "Green beans",
+          "Peaches",
+          "Meat"
+        ],
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "utensils": [
+          "Large metal pot with lid",
+          "Ladle/spoon"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.658
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.658
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "ingredients": [
+          "1 kg red meat",
+          "2 glasses of water"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.655
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "ingredients": [
+          "Chopped carrots",
+          "Meat chunks",
+          "Rice",
+          "Green chili",
+          "Boiled egg",
+          "Black mustard seeds",
+          "Gravy"
+        ],
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "utensils": [
+          "Metal tray",
+          "White plate",
+          "Spoon"
+        ],
+        "confidence": 0.644
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "ingredients": [
+          "Water",
+          "Salt",
+          "Meat (chicken)"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.639
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.639
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.627
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.618
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.611
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.61
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.609
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.602
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.6
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=110s",
+        "ingredients": [
+          "Onion rings",
+          "Oil (for frying)"
+        ],
+        "actions": [
+          "Adding onion rings to oil",
+          "Stirring onion rings in oil"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon"
+        ],
+        "confidence": 0.575
+      }
+    ]
+  },
+  {
+    "title": "Boil the Rice - Step 2",
+    "description": "In a large vessel, bring ample water to a boil. Add bay leaves, cinnamon stick, green cardamoms, cloves, star anise, black cumin seeds, and salt.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "ingredients": [
+          "Meat (likely pork)",
+          "Black peppercorns",
+          "Dried herbs (possibly sage or thyme)",
+          "Green cardamom pods",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=40s",
+        "ingredients": [
+          "Raw meat (likely pork belly)",
+          "Cumin seeds"
+        ],
+        "actions": [
+          "Adding cumin seeds to the meat"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=120s",
+        "ingredients": [
+          "Green chili peppers",
+          "Ginger garlic paste",
+          "Sesame seeds"
+        ],
+        "actions": [
+          "Pouring green chili peppers into the pressure cooker",
+          "Adding sesame seeds into the pressure cooker",
+          "Adding ginger garlic paste into the pressure cooker"
+        ],
+        "utensils": [
+          "Bunching spoon",
+          "Pressure cooker (white metal container)"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "ingredients": [
+          "Green chili peppers",
+          "Sliced onions",
+          "Meat (likely beef or pork)"
+        ],
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Stone pot"
+        ],
+        "confidence": 0.695
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "ingredients": [
+          "Green chilies",
+          "Curry or spice paste"
+        ],
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "utensils": [
+          "Cooking pot or container"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "ingredients": [
+          "Water",
+          "Salt",
+          "Meat (chicken)"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "ingredients": [
+          "Meat (likely goat or beef)",
+          "Green chilies",
+          "Salt (added at one point)"
+        ],
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Scoop/spoon",
+          "Tongs"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "ingredients": [
+          "1 kg red meat",
+          "2 glasses of water"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "ingredients": [
+          "Rice",
+          "Yellow shredded carrots",
+          "Green beans",
+          "Peaches",
+          "Meat"
+        ],
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "utensils": [
+          "Large metal pot with lid",
+          "Ladle/spoon"
+        ],
+        "confidence": 0.682
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "ingredients": [
+          "Meat (chopped or sliced)",
+          "Green peppers",
+          "Egg",
+          "Sesame seeds"
+        ],
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Ladle",
+          "Spoon"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.674
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "ingredients": [
+          "Pieces of meat (possibly beef or lamb)",
+          "Green chili peppers",
+          "Liquid (broth or sauce)"
+        ],
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Slotted spoon"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.662
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.661
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "ingredients": [
+          "Yellow curry or stew",
+          "Green chili",
+          "Bay leaves or similar spices"
+        ],
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker (with lid)"
+        ],
+        "confidence": 0.66
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.651
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "ingredients": [
+          "Rice",
+          "Green chili peppers",
+          "Lemon wedge",
+          "Red sauce",
+          "Carrot shreds",
+          "Keora essence"
+        ],
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "utensils": [
+          "Pot with textured lining",
+          "White cup with floral design",
+          "Small bottle for essence"
+        ],
+        "confidence": 0.648
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.636
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "ingredients": [
+          "Rice",
+          "Shredded carrots",
+          "Green chilies",
+          "Sliced lemons",
+          "Meat"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "utensils": [
+          "Ladle (metallic slotted spoon)"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "ingredients": [
+          "Chopped carrots",
+          "Meat chunks",
+          "Rice",
+          "Green chili",
+          "Boiled egg",
+          "Black mustard seeds",
+          "Gravy"
+        ],
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "utensils": [
+          "Metal tray",
+          "White plate",
+          "Spoon"
+        ],
+        "confidence": 0.626
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.607
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.603
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.576
+      }
+    ]
+  },
+  {
+    "title": "Boil the Rice - Step 3",
+    "description": "Add the soaked rice to the boiling water and cook until the grains are about 70% done—firm with a slight bite.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.774
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "ingredients": [
+          "1 kg red meat",
+          "2 glasses of water"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "ingredients": [
+          "Rice",
+          "Yellow shredded carrots",
+          "Green beans",
+          "Peaches",
+          "Meat"
+        ],
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "utensils": [
+          "Large metal pot with lid",
+          "Ladle/spoon"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "ingredients": [
+          "Rice",
+          "Shredded carrots",
+          "Green chilies",
+          "Sliced lemons",
+          "Meat"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "utensils": [
+          "Ladle (metallic slotted spoon)"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "ingredients": [
+          "Rice",
+          "Green chili peppers",
+          "Lemon wedge",
+          "Red sauce",
+          "Carrot shreds",
+          "Keora essence"
+        ],
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "utensils": [
+          "Pot with textured lining",
+          "White cup with floral design",
+          "Small bottle for essence"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.732
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "ingredients": [
+          "Chopped carrots",
+          "Meat chunks",
+          "Rice",
+          "Green chili",
+          "Boiled egg",
+          "Black mustard seeds",
+          "Gravy"
+        ],
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "utensils": [
+          "Metal tray",
+          "White plate",
+          "Spoon"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=30s",
+        "ingredients": [
+          "Water",
+          "Salt",
+          "Meat (chicken)"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Adding salt to the meat",
+          "Stirring the meat with a spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon",
+          "Measuring cup"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.703
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.701
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.68
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.66
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.612
+      }
+    ]
+  },
+  {
+    "title": "Boil the Rice - Step 4",
+    "description": "Drain the rice immediately to prevent overcooking and spread it out to cool slightly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "ingredients": [
+          "Rice",
+          "Green chili peppers",
+          "Lemon wedge",
+          "Red sauce",
+          "Carrot shreds",
+          "Keora essence"
+        ],
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "utensils": [
+          "Pot with textured lining",
+          "White cup with floral design",
+          "Small bottle for essence"
+        ],
+        "confidence": 0.796
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.79
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "ingredients": [
+          "Rice",
+          "Yellow shredded carrots",
+          "Green beans",
+          "Peaches",
+          "Meat"
+        ],
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "utensils": [
+          "Large metal pot with lid",
+          "Ladle/spoon"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "ingredients": [
+          "Rice",
+          "Shredded carrots",
+          "Green chilies",
+          "Sliced lemons",
+          "Meat"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "utensils": [
+          "Ladle (metallic slotted spoon)"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "ingredients": [
+          "Chopped carrots",
+          "Meat chunks",
+          "Rice",
+          "Green chili",
+          "Boiled egg",
+          "Black mustard seeds",
+          "Gravy"
+        ],
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "utensils": [
+          "Metal tray",
+          "White plate",
+          "Spoon"
+        ],
+        "confidence": 0.758
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.71
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.698
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 1",
+    "description": "In a heavy-bottomed pot or handi, grease the base with ghee.",
+    "aligned_chunks": [
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "ingredients": [
+          "Green chili peppers",
+          "Sliced onions",
+          "Meat (likely beef or pork)"
+        ],
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Stone pot"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "ingredients": [
+          "Yellow curry or stew",
+          "Green chili",
+          "Bay leaves or similar spices"
+        ],
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker (with lid)"
+        ],
+        "confidence": 0.763
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "ingredients": [
+          "Pieces of meat (possibly beef or lamb)",
+          "Green chili peppers",
+          "Liquid (broth or sauce)"
+        ],
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Slotted spoon"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "ingredients": [
+          "Meat pieces (likely beef or beef bones)",
+          "Onions",
+          "Liquid (soup or broth)"
+        ],
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pressure cooker",
+          "Spoon (for stirring)"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "ingredients": [
+          "Meat (likely goat or beef)",
+          "Green chilies",
+          "Salt (added at one point)"
+        ],
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Scoop/spoon",
+          "Tongs"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "ingredients": [
+          "Green chilies",
+          "Curry or spice paste"
+        ],
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "utensils": [
+          "Cooking pot or container"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "ingredients": [
+          "Meat (chopped or sliced)",
+          "Green peppers",
+          "Egg",
+          "Sesame seeds"
+        ],
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Ladle",
+          "Spoon"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "ingredients": [
+          "Meat (likely pork)",
+          "Black peppercorns",
+          "Dried herbs (possibly sage or thyme)",
+          "Green cardamom pods",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.728
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.717
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.707
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 2",
+    "description": "Spread the marinated mutton evenly on the bottom as the first layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.823
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.737
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 3",
+    "description": "Add a layer of the partially cooked rice over the mutton.",
+    "aligned_chunks": [
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.873
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "ingredients": [
+          "Chopped carrots",
+          "Meat chunks",
+          "Rice",
+          "Green chili",
+          "Boiled egg",
+          "Black mustard seeds",
+          "Gravy"
+        ],
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "utensils": [
+          "Metal tray",
+          "White plate",
+          "Spoon"
+        ],
+        "confidence": 0.86
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "ingredients": [
+          "Rice",
+          "Green chili peppers",
+          "Lemon wedge",
+          "Red sauce",
+          "Carrot shreds",
+          "Keora essence"
+        ],
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "utensils": [
+          "Pot with textured lining",
+          "White cup with floral design",
+          "Small bottle for essence"
+        ],
+        "confidence": 0.848
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.845
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.828
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "ingredients": [
+          "Rice",
+          "Shredded carrots",
+          "Green chilies",
+          "Sliced lemons",
+          "Meat"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "utensils": [
+          "Ladle (metallic slotted spoon)"
+        ],
+        "confidence": 0.823
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.809
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "ingredients": [
+          "Pieces of meat (possibly beef or lamb)",
+          "Green chili peppers",
+          "Liquid (broth or sauce)"
+        ],
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Slotted spoon"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=20s",
+        "ingredients": [
+          "1 kg red meat",
+          "2 glasses of water"
+        ],
+        "actions": [
+          "Pouring water into the pressure cooker",
+          "Transferring red meat into the pressure cooker",
+          "Adding water to the red meat in the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Stainless steel bowl",
+          "Ladle"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.791
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.779
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "ingredients": [
+          "Rice",
+          "Yellow shredded carrots",
+          "Green beans",
+          "Peaches",
+          "Meat"
+        ],
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "utensils": [
+          "Large metal pot with lid",
+          "Ladle/spoon"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.773
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.709
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 4",
+    "description": "Sprinkle the remaining fried onions, chopped mint, and coriander leaves on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=100s",
+        "ingredients": [
+          "Yellow cooking oil",
+          "Chopped onion"
+        ],
+        "actions": [
+          "Adding oil to the pot",
+          "Placing chopped onions into the pot",
+          "Stirring onions with oil"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Sieve ladle"
+        ],
+        "confidence": 0.848
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "ingredients": [
+          "Meat pieces (likely beef or beef bones)",
+          "Onions",
+          "Liquid (soup or broth)"
+        ],
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pressure cooker",
+          "Spoon (for stirring)"
+        ],
+        "confidence": 0.845
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.829
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "ingredients": [
+          "Chopped carrots",
+          "Meat chunks",
+          "Rice",
+          "Green chili",
+          "Boiled egg",
+          "Black mustard seeds",
+          "Gravy"
+        ],
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "utensils": [
+          "Metal tray",
+          "White plate",
+          "Spoon"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "ingredients": [
+          "Meat (chopped or sliced)",
+          "Green peppers",
+          "Egg",
+          "Sesame seeds"
+        ],
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Ladle",
+          "Spoon"
+        ],
+        "confidence": 0.77
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "ingredients": [
+          "Green chili peppers",
+          "Sliced onions",
+          "Meat (likely beef or pork)"
+        ],
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Stone pot"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.76
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "ingredients": [
+          "Yellow curry or stew",
+          "Green chili",
+          "Bay leaves or similar spices"
+        ],
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker (with lid)"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.719
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.685
+      }
+    ]
+  },
+  {
+    "title": "Layering the Biryani - Step 5",
+    "description": "Drizzle the prepared saffron milk evenly over the top rice layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.835
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "ingredients": [
+          "Rice",
+          "Green chili peppers",
+          "Lemon wedge",
+          "Red sauce",
+          "Carrot shreds",
+          "Keora essence"
+        ],
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "utensils": [
+          "Pot with textured lining",
+          "White cup with floral design",
+          "Small bottle for essence"
+        ],
+        "confidence": 0.828
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.806
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "ingredients": [
+          "Rice",
+          "Shredded carrots",
+          "Green chilies",
+          "Sliced lemons",
+          "Meat"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "utensils": [
+          "Ladle (metallic slotted spoon)"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "ingredients": [
+          "Rice",
+          "Yellow shredded carrots",
+          "Green beans",
+          "Peaches",
+          "Meat"
+        ],
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "utensils": [
+          "Large metal pot with lid",
+          "Ladle/spoon"
+        ],
+        "confidence": 0.794
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "ingredients": [
+          "Chopped carrots",
+          "Meat chunks",
+          "Rice",
+          "Green chili",
+          "Boiled egg",
+          "Black mustard seeds",
+          "Gravy"
+        ],
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "utensils": [
+          "Metal tray",
+          "White plate",
+          "Spoon"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.775
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.721
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.719
+      }
+    ]
+  },
+  {
+    "title": "Seal and Cook on Dum - Step 1",
+    "description": "Cover the pot with a tight-fitting lid or aluminum foil to trap steam.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "ingredients": [
+          "Meat pieces (likely beef or beef bones)",
+          "Onions",
+          "Liquid (soup or broth)"
+        ],
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pressure cooker",
+          "Spoon (for stirring)"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "ingredients": [
+          "Yellow curry or stew",
+          "Green chili",
+          "Bay leaves or similar spices"
+        ],
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker (with lid)"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "ingredients": [
+          "Green chili peppers",
+          "Sliced onions",
+          "Meat (likely beef or pork)"
+        ],
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Stone pot"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.744
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "ingredients": [
+          "Pieces of meat (possibly beef or lamb)",
+          "Green chili peppers",
+          "Liquid (broth or sauce)"
+        ],
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Slotted spoon"
+        ],
+        "confidence": 0.731
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.716
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "ingredients": [
+          "Meat (chopped or sliced)",
+          "Green peppers",
+          "Egg",
+          "Sesame seeds"
+        ],
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Ladle",
+          "Spoon"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.678
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "ingredients": [
+          "Meat (likely goat or beef)",
+          "Green chilies",
+          "Salt (added at one point)"
+        ],
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Scoop/spoon",
+          "Tongs"
+        ],
+        "confidence": 0.677
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "ingredients": [
+          "Meat (likely pork)",
+          "Black peppercorns",
+          "Dried herbs (possibly sage or thyme)",
+          "Green cardamom pods",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon"
+        ],
+        "confidence": 0.658
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "ingredients": [
+          "Green chilies",
+          "Curry or spice paste"
+        ],
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "utensils": [
+          "Cooking pot or container"
+        ],
+        "confidence": 0.636
+      }
+    ]
+  },
+  {
+    "title": "Seal and Cook on Dum - Step 2",
+    "description": "Seal the edges with kneaded dough if using a traditional lid, to ensure no steam escapes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.716
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.691
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.668
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.657
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.654
+      }
+    ]
+  },
+  {
+    "title": "Seal and Cook on Dum - Step 3",
+    "description": "Place the sealed pot on a low flame or a griddle (tava) to prevent direct heat and cook for 45–60 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.62
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.605
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "ingredients": [
+          "Meat pieces (likely beef or beef bones)",
+          "Onions",
+          "Liquid (soup or broth)"
+        ],
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pressure cooker",
+          "Spoon (for stirring)"
+        ],
+        "confidence": 0.605
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "ingredients": [
+          "Green chili peppers",
+          "Sliced onions",
+          "Meat (likely beef or pork)"
+        ],
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Stone pot"
+        ],
+        "confidence": 0.604
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.591
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.585
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.581
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.579
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "ingredients": [
+          "Meat (likely pork)",
+          "Black peppercorns",
+          "Dried herbs (possibly sage or thyme)",
+          "Green cardamom pods",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon"
+        ],
+        "confidence": 0.576
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.573
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "ingredients": [
+          "Yellow curry or stew",
+          "Green chili",
+          "Bay leaves or similar spices"
+        ],
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker (with lid)"
+        ],
+        "confidence": 0.572
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.568
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "ingredients": [
+          "Meat (likely goat or beef)",
+          "Green chilies",
+          "Salt (added at one point)"
+        ],
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Scoop/spoon",
+          "Tongs"
+        ],
+        "confidence": 0.563
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "ingredients": [
+          "Pieces of meat (possibly beef or lamb)",
+          "Green chili peppers",
+          "Liquid (broth or sauce)"
+        ],
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Slotted spoon"
+        ],
+        "confidence": 0.562
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.561
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "ingredients": [
+          "Green chilies",
+          "Curry or spice paste"
+        ],
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "utensils": [
+          "Cooking pot or container"
+        ],
+        "confidence": 0.553
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "ingredients": [
+          "Meat (chopped or sliced)",
+          "Green peppers",
+          "Egg",
+          "Sesame seeds"
+        ],
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Ladle",
+          "Spoon"
+        ],
+        "confidence": 0.552
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.543
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=110s",
+        "ingredients": [
+          "Onion rings",
+          "Oil (for frying)"
+        ],
+        "actions": [
+          "Adding onion rings to oil",
+          "Stirring onion rings in oil"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon"
+        ],
+        "confidence": 0.53
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.529
+      }
+    ]
+  },
+  {
+    "title": "Rest and Serve - Step 1",
+    "description": "Turn off the heat and let the biryani rest undisturbed for 10–15 minutes to allow the flavors to settle.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.643
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.629
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.626
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.603
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=110s",
+        "ingredients": [
+          "Onion rings",
+          "Oil (for frying)"
+        ],
+        "actions": [
+          "Adding onion rings to oil",
+          "Stirring onion rings in oil"
+        ],
+        "utensils": [
+          "Large metal bowl",
+          "Slotted spoon"
+        ],
+        "confidence": 0.597
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.586
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.579
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.576
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.57
+      }
+    ]
+  },
+  {
+    "title": "Rest and Serve - Step 2",
+    "description": "Carefully open the seal, gently fluff the rice using a flat spoon, and serve hot with raita or salan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=280s",
+        "ingredients": [
+          "Rice",
+          "Yellow shredded carrots",
+          "Green beans",
+          "Peaches",
+          "Meat"
+        ],
+        "actions": [
+          "Lifting rice with a ladle/spoon",
+          "Mixing ingredients within the pot"
+        ],
+        "utensils": [
+          "Large metal pot with lid",
+          "Ladle/spoon"
+        ],
+        "confidence": 0.807
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=220s",
+        "ingredients": [
+          "Rice",
+          "Yellow liquid (likely oil or butter)",
+          "Brown spice mixture"
+        ],
+        "actions": [
+          "Adding oil or butter",
+          "Stirring the contents",
+          "Mixing rice with the liquid and spices"
+        ],
+        "utensils": [
+          "Pressure cooker"
+        ],
+        "confidence": 0.793
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=290s",
+        "ingredients": [
+          "Cooked rice",
+          "Pieces of meat",
+          "Green beans",
+          "Carrots"
+        ],
+        "actions": [
+          "Scooping rice and meat",
+          "Serving the food onto a plate"
+        ],
+        "utensils": [
+          "Slotted spoon",
+          "Cooking pot (likely a pressure cooker)"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=0s",
+        "ingredients": [
+          "Rice",
+          "Shredded carrots",
+          "Green chilies",
+          "Sliced lemons",
+          "Meat"
+        ],
+        "actions": [
+          "Scooping rice mixture",
+          "Mixing rice and ingredients"
+        ],
+        "utensils": [
+          "Ladle (metallic slotted spoon)"
+        ],
+        "confidence": 0.771
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=10s",
+        "ingredients": [
+          "Steamed rice",
+          "Pieces of cooked red meat",
+          "Sliced carrots",
+          "Green chili peppers",
+          "Hard-boiled egg"
+        ],
+        "actions": [
+          "Scooping and transferring rice",
+          "Placing food onto a plate"
+        ],
+        "utensils": [
+          "Metal utensil with holes (for scooping)",
+          "Pressure cooker",
+          "Serving plate"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=250s",
+        "ingredients": [
+          "Rice",
+          "Green chili peppers",
+          "Lemon wedge",
+          "Red sauce",
+          "Carrot shreds",
+          "Keora essence"
+        ],
+        "actions": [
+          "Pours red sauce over rice",
+          "Adds carrot shreds on top of rice",
+          "Adds keora essence on top of rice"
+        ],
+        "utensils": [
+          "Pot with textured lining",
+          "White cup with floral design",
+          "Small bottle for essence"
+        ],
+        "confidence": 0.765
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=300s",
+        "ingredients": [
+          "Chopped carrots",
+          "Meat chunks",
+          "Rice",
+          "Green chili",
+          "Boiled egg",
+          "Black mustard seeds",
+          "Gravy"
+        ],
+        "actions": [
+          "Placing food on a plate",
+          "Serving rice and meat mixture",
+          "Arranging vegetables and meat on the tray"
+        ],
+        "utensils": [
+          "Metal tray",
+          "White plate",
+          "Spoon"
+        ],
+        "confidence": 0.756
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=90s",
+        "ingredients": [
+          "Meat pieces (likely beef or beef bones)",
+          "Onions",
+          "Liquid (soup or broth)"
+        ],
+        "actions": [
+          "Stirring meat and onions",
+          "Placing the lid on the pressure cooker",
+          "Opening the pressure cooker to reveal the contents"
+        ],
+        "utensils": [
+          "Ladle",
+          "Pressure cooker",
+          "Spoon (for stirring)"
+        ],
+        "confidence": 0.753
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=150s",
+        "ingredients": [
+          "Green chili peppers",
+          "Sliced onions",
+          "Meat (likely beef or pork)"
+        ],
+        "actions": [
+          "Adding meat to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "utensils": [
+          "Metal ladle",
+          "Stone pot"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.738
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=240s",
+        "ingredients": [
+          "Yellow curry or stew",
+          "Green chili",
+          "Bay leaves or similar spices"
+        ],
+        "actions": [
+          "Lifting the pressure cooker lid",
+          "Pointing at the curry inside the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker (with lid)"
+        ],
+        "confidence": 0.734
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=180s",
+        "ingredients": [
+          "Meat (likely goat or beef)",
+          "Green chilies",
+          "Salt (added at one point)"
+        ],
+        "actions": [
+          "Adding salt to the meat",
+          "Stirring/churning the meat and sauce",
+          "Mixing green chilies with the meat and sauce"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Scoop/spoon",
+          "Tongs"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=200s",
+        "ingredients": [
+          "Meat pieces",
+          "Green chilies",
+          "Hard-boiled egg",
+          "Oil on the surface",
+          "Potatoes",
+          "Bay leaves"
+        ],
+        "actions": [
+          "Removing egg from the pot",
+          "Stirring the curry",
+          "Scooping ingredients from the pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Bowl (or pot)"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=140s",
+        "ingredients": [
+          "Green chilies",
+          "Curry or spice paste"
+        ],
+        "actions": [
+          "Mixing or stirring curry ingredients"
+        ],
+        "utensils": [
+          "Cooking pot or container"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=170s",
+        "ingredients": [
+          "Pieces of meat (possibly beef or lamb)",
+          "Green chili peppers",
+          "Liquid (broth or sauce)"
+        ],
+        "actions": [
+          "Stirring meat and broth",
+          "Moving the slotted spoon through the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Slotted spoon"
+        ],
+        "confidence": 0.716
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=130s",
+        "ingredients": [
+          "Spaghetti",
+          "Green bell pepper slices",
+          "Oil or butter",
+          "Sesame seeds",
+          "Possible minced garlic or ginger (in small pieces or paste form)"
+        ],
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the mixture with the ladle"
+        ],
+        "utensils": [
+          "Large pot or pot with ridged interior",
+          "Ladle"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=190s",
+        "ingredients": [
+          "Meat (chopped or sliced)",
+          "Green peppers",
+          "Egg",
+          "Sesame seeds"
+        ],
+        "actions": [
+          "Stirring meat",
+          "Adding sesame seeds",
+          "Adding an egg to the pot"
+        ],
+        "utensils": [
+          "Large metal pot or cooking vessel",
+          "Ladle",
+          "Spoon"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=160s",
+        "ingredients": [
+          "Meat chunks (likely beef or mutton)",
+          "Bone pieces",
+          "Green chilies",
+          "A broth or liquid"
+        ],
+        "actions": [
+          "Adding broth into the pressure cooker",
+          "Pouring liquid over the meat and bone pieces"
+        ],
+        "utensils": [
+          "A pressure cooker",
+          "A ladle or small pot for pouring broth"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.705
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=60s",
+        "ingredients": [
+          "Meat (likely pork)",
+          "Black peppercorns",
+          "Dried herbs (possibly sage or thyme)",
+          "Green cardamom pods",
+          "Fennel seeds"
+        ],
+        "actions": [
+          "Adding green cardamom pods to the meat",
+          "Adding fennel seeds to the meat"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=270s",
+        "ingredients": [
+          "No specific ingredients are visible in the frames."
+        ],
+        "actions": [
+          "Placing the metal container on the center of the metal dome lid",
+          "Removing the metal container from the lid"
+        ],
+        "utensils": [
+          "Metal container (likely a pressure cooker or similar vessel)",
+          "Metal dome lid with embossed patterns"
+        ],
+        "confidence": 0.675
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=260s",
+        "ingredients": [
+          "Rice",
+          "Green beans",
+          "Shredded carrots",
+          "Sliced onions",
+          "Other mixed vegetables (potentially including some meat, based on color and texture)"
+        ],
+        "actions": [
+          "Adding a liquid to the pot (spraying or pouring)",
+          "Covering the pot with a lid"
+        ],
+        "utensils": [
+          "Large cooking pot or tagine",
+          "Serving spoon"
+        ],
+        "confidence": 0.669
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=80s",
+        "ingredients": [
+          "(No ingredients are directly visible in this section of the video)"
+        ],
+        "actions": [
+          "Checking the pressure cooker",
+          "Opening the pressure cooker to reveal the contents inside"
+        ],
+        "utensils": [
+          "Pressure cooker with a lid",
+          "Strainer (for transferring food)"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=230s",
+        "ingredients": [
+          "Green chilies",
+          "Liquid base (soup or curry)",
+          "Vegetables (potentially including onions or other components simmering in the liquid)"
+        ],
+        "actions": [
+          "Skimming foam off the surface",
+          "Stirring contents of the pot"
+        ],
+        "utensils": [
+          "Colander ladle",
+          "Pot or pan"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "310-312",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=310s",
+        "ingredients": [
+          "Chopped vegetables (possibly carrots)",
+          "Meat pieces",
+          "Fried egg",
+          "Green chili",
+          "Rice",
+          "Spices (visible as small black specks)"
+        ],
+        "actions": [
+          "Serving biryani",
+          "Placing food on the plate"
+        ],
+        "utensils": [
+          "Plate",
+          "Serving spoon"
+        ],
+        "confidence": 0.657
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=100s",
+        "ingredients": [
+          "Yellow cooking oil",
+          "Chopped onion"
+        ],
+        "actions": [
+          "Adding oil to the pot",
+          "Placing chopped onions into the pot",
+          "Stirring onions with oil"
+        ],
+        "utensils": [
+          "Large metal pot",
+          "Sieve ladle"
+        ],
+        "confidence": 0.653
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=70s",
+        "ingredients": [
+          "Bay leaves",
+          "Various other ingredients already in the cooker (e.g., meat, herbs, spices)"
+        ],
+        "actions": [
+          "Adding bay leaves",
+          "Placing the lid on the pressure cooker"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Spoon for adding ingredients",
+          "Lid for the pressure cooker"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=210s",
+        "ingredients": [
+          "Rice",
+          "Stew or curry with meat and green chilies"
+        ],
+        "actions": [
+          "Pouring rice into the pot",
+          "Adding rice to the stew or curry"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Yellow bowl"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=SXI-U24Bs4o&t=50s",
+        "ingredients": [
+          "Garlic cloves",
+          "Ground spices (including oregano and black pepper)",
+          "Meat (likely pork or beef)"
+        ],
+        "actions": [
+          "Adding garlic to the meat",
+          "Sprinkling black pepper over the meat"
+        ],
+        "utensils": [
+          "Measuring spoon",
+          "Pressure cooker"
+        ],
+        "confidence": 0.64
+      }
+    ]
+  }
+]

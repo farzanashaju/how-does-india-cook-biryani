@@ -1,0 +1,3394 @@
+[
+  {
+    "audio_timestamp": "00:00:00,672 --> 00:00:25,612",
+    "audio_description": "Assalamu Alaikum. Today, we’re going to share a very amazing, very easy, and colorful recipe with you — Kashmiri Biryani. I'm going to show you a style of Kashmiri Biryani you've probably never eaten or made before.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=80s",
+        "actions": [
+          "Stirring chicken pieces",
+          "Cooking chicken pieces to a light brown color"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=140s",
+        "actions": [
+          "Adding yogurt to the pan",
+          "Stirring the mixture",
+          "Cooking the mixture until the liquid dries out"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=190s",
+        "actions": [
+          "Stirring rice",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=200s",
+        "actions": [
+          "Mixing rice",
+          "Placing cooked rice into a bowl"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=240s",
+        "actions": [
+          "Adding curry to rice",
+          "Scooping rice",
+          "Pouring curry over rice"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=320s",
+        "actions": [
+          "Arranging eggs and nuts (no movement or distinct action noted)"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=330s",
+        "actions": [
+          "Wrapping food with towel",
+          "Placing wrapped food into pot (implied action but not fully visible)"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.61
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:25,612 --> 00:00:50,774",
+    "audio_description": "It’s going to be delicious. If you enjoy this recipe, please like and share it, subscribe to our YouTube channel, and don’t forget to press the bell icon — it’s absolutely free — so you don't miss any of my good recipes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.69
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:54,773 --> 00:01:21,706",
+    "audio_description": "We’ve taken two onions. We’ll add them and lightly brown them. Once golden, we’ll add 1 kg of chicken and fry it. The chicken will also be lightly golden.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=50s",
+        "actions": [
+          "Pouring ghee/oil into the pan",
+          "Adding sliced onions to the bowl"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=60s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring onions",
+          "Showing raw chicken"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=70s",
+        "actions": [
+          "Pouring chicken into the pan",
+          "Stirring chicken with spatula",
+          "Cooking sauteed onions and garlic with chicken"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=80s",
+        "actions": [
+          "Stirring chicken pieces",
+          "Cooking chicken pieces to a light brown color"
+        ],
+        "confidence_score": 0.813
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.805
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=200s",
+        "actions": [
+          "Mixing rice",
+          "Placing cooked rice into a bowl"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=250s",
+        "actions": [
+          "Adding chicken curry on top of rice",
+          "Pouring more white rice onto the chicken curry",
+          "Mixing rice and chicken curry together"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.665
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:22,481 --> 00:01:48,048",
+    "audio_description": "We’ll fry the chicken for about 5 to 10 minutes. Add two spoons of ginger-garlic paste. I’ve chopped three tomatoes like this, and we’ll add them too. Let the tomatoes soften.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=60s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring onions",
+          "Showing raw chicken"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=70s",
+        "actions": [
+          "Pouring chicken into the pan",
+          "Stirring chicken with spatula",
+          "Cooking sauteed onions and garlic with chicken"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=80s",
+        "actions": [
+          "Stirring chicken pieces",
+          "Cooking chicken pieces to a light brown color"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.785
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=100s",
+        "actions": [
+          "Adding tomatoes to the pan",
+          "Stirring the mixture",
+          "Cooking tomatoes"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=110s",
+        "actions": [
+          "Stirring the tomatoes",
+          "Adding turmeric powder",
+          "Adding red chili powder"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=180s",
+        "actions": [
+          "Steeping rice",
+          "Adding cumin seeds to the rice",
+          "Adding salt to the rice"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=250s",
+        "actions": [
+          "Adding chicken curry on top of rice",
+          "Pouring more white rice onto the chicken curry",
+          "Mixing rice and chicken curry together"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=280s",
+        "actions": [
+          "Adding coconut to rice",
+          "Adding almonds to rice",
+          "Adding food color to the rice"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=320s",
+        "actions": [
+          "Arranging eggs and nuts (no movement or distinct action noted)"
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.584
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:49,971 --> 00:02:14,491",
+    "audio_description": "The tomatoes are soft now. Add spices: half a teaspoon turmeric powder, one spoon red chili, two spoons biryani masala, one spoon salt, and half a teaspoon cumin seeds. Sauté the spices for 2-3 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.564
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=100s",
+        "actions": [
+          "Adding tomatoes to the pan",
+          "Stirring the mixture",
+          "Cooking tomatoes"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=110s",
+        "actions": [
+          "Stirring the tomatoes",
+          "Adding turmeric powder",
+          "Adding red chili powder"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=180s",
+        "actions": [
+          "Steeping rice",
+          "Adding cumin seeds to the rice",
+          "Adding salt to the rice"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=190s",
+        "actions": [
+          "Stirring rice",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=200s",
+        "actions": [
+          "Mixing rice",
+          "Placing cooked rice into a bowl"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=210s",
+        "actions": [
+          "Scooping rice",
+          "Piling rice in the pot"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=280s",
+        "actions": [
+          "Adding coconut to rice",
+          "Adding almonds to rice",
+          "Adding food color to the rice"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=290s",
+        "actions": [
+          "Adding yellow food color to rice",
+          "Adding red food color to rice"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.61
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing saffron threads with rice",
+          "Incorporating herbs and sauce into the rice"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.548
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:16,330 --> 00:02:42,688",
+    "audio_description": "Add half a cup of yogurt. It enhances the biryani’s taste. Cook until the water from the yogurt dries out. Then add half a liter of water so the chicken cooks well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=60s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring onions",
+          "Showing raw chicken"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=70s",
+        "actions": [
+          "Pouring chicken into the pan",
+          "Stirring chicken with spatula",
+          "Cooking sauteed onions and garlic with chicken"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=80s",
+        "actions": [
+          "Stirring chicken pieces",
+          "Cooking chicken pieces to a light brown color"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=140s",
+        "actions": [
+          "Adding yogurt to the pan",
+          "Stirring the mixture",
+          "Cooking the mixture until the liquid dries out"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=170s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Placing rice into the bowl"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=190s",
+        "actions": [
+          "Stirring rice",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=250s",
+        "actions": [
+          "Adding chicken curry on top of rice",
+          "Pouring more white rice onto the chicken curry",
+          "Mixing rice and chicken curry together"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.573
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:44,426 --> 00:03:07,698",
+    "audio_description": "Cover and cook until the water evaporates and the chicken is tender. Meanwhile, we’ll boil the rice. I’ve taken 2 liters of water and 1 kg of rice, soaked for 10 minutes. Add 1 spoon cumin, 1.5...",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=60s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring onions",
+          "Showing raw chicken"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=70s",
+        "actions": [
+          "Pouring chicken into the pan",
+          "Stirring chicken with spatula",
+          "Cooking sauteed onions and garlic with chicken"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=80s",
+        "actions": [
+          "Stirring chicken pieces",
+          "Cooking chicken pieces to a light brown color"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=110s",
+        "actions": [
+          "Stirring the tomatoes",
+          "Adding turmeric powder",
+          "Adding red chili powder"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=170s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Placing rice into the bowl"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=180s",
+        "actions": [
+          "Steeping rice",
+          "Adding cumin seeds to the rice",
+          "Adding salt to the rice"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=190s",
+        "actions": [
+          "Stirring rice",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=200s",
+        "actions": [
+          "Mixing rice",
+          "Placing cooked rice into a bowl"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=210s",
+        "actions": [
+          "Scooping rice",
+          "Piling rice in the pot"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=240s",
+        "actions": [
+          "Adding curry to rice",
+          "Scooping rice",
+          "Pouring curry over rice"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=250s",
+        "actions": [
+          "Adding chicken curry on top of rice",
+          "Pouring more white rice onto the chicken curry",
+          "Mixing rice and chicken curry together"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=260s",
+        "actions": [
+          "Flipping rice"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=270s",
+        "actions": [
+          "Adding raisins to rice",
+          "Adding coconut to rice"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=280s",
+        "actions": [
+          "Adding coconut to rice",
+          "Adding almonds to rice",
+          "Adding food color to the rice"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=290s",
+        "actions": [
+          "Adding yellow food color to rice",
+          "Adding red food color to rice"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=310s",
+        "actions": [
+          "Holding a boiled egg",
+          "Cutting a boiled egg in half",
+          "Placing egg halves on rice"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing saffron threads with rice",
+          "Incorporating herbs and sauce into the rice"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.582
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:11,325 --> 00:03:28,370",
+    "audio_description": "Boil the rice up to 70%. Cover it. It took about 4-5 minutes. Now we’ll drain the water and prepare for layering the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=110s",
+        "actions": [
+          "Stirring the tomatoes",
+          "Adding turmeric powder",
+          "Adding red chili powder"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=170s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Placing rice into the bowl"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=180s",
+        "actions": [
+          "Steeping rice",
+          "Adding cumin seeds to the rice",
+          "Adding salt to the rice"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=190s",
+        "actions": [
+          "Stirring rice",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=200s",
+        "actions": [
+          "Mixing rice",
+          "Placing cooked rice into a bowl"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=210s",
+        "actions": [
+          "Scooping rice",
+          "Piling rice in the pot"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=240s",
+        "actions": [
+          "Adding curry to rice",
+          "Scooping rice",
+          "Pouring curry over rice"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=250s",
+        "actions": [
+          "Adding chicken curry on top of rice",
+          "Pouring more white rice onto the chicken curry",
+          "Mixing rice and chicken curry together"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=260s",
+        "actions": [
+          "Flipping rice"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=270s",
+        "actions": [
+          "Adding raisins to rice",
+          "Adding coconut to rice"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=280s",
+        "actions": [
+          "Adding coconut to rice",
+          "Adding almonds to rice",
+          "Adding food color to the rice"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=290s",
+        "actions": [
+          "Adding yellow food color to rice",
+          "Adding red food color to rice"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=310s",
+        "actions": [
+          "Holding a boiled egg",
+          "Cutting a boiled egg in half",
+          "Placing egg halves on rice"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing saffron threads with rice",
+          "Incorporating herbs and sauce into the rice"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.57
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:39,828 --> 00:04:09,645",
+    "audio_description": "Now we’ll layer the chicken we prepared earlier. Then we’ll add a layer of rice over it.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.811
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.836
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.815
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=60s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring onions",
+          "Showing raw chicken"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=70s",
+        "actions": [
+          "Pouring chicken into the pan",
+          "Stirring chicken with spatula",
+          "Cooking sauteed onions and garlic with chicken"
+        ],
+        "confidence_score": 0.843
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=80s",
+        "actions": [
+          "Stirring chicken pieces",
+          "Cooking chicken pieces to a light brown color"
+        ],
+        "confidence_score": 0.837
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.818
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.833
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=170s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Placing rice into the bowl"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=180s",
+        "actions": [
+          "Steeping rice",
+          "Adding cumin seeds to the rice",
+          "Adding salt to the rice"
+        ],
+        "confidence_score": 0.82
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=190s",
+        "actions": [
+          "Stirring rice",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.812
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=200s",
+        "actions": [
+          "Mixing rice",
+          "Placing cooked rice into a bowl"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=210s",
+        "actions": [
+          "Scooping rice",
+          "Piling rice in the pot"
+        ],
+        "confidence_score": 0.832
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.891
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.83
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=240s",
+        "actions": [
+          "Adding curry to rice",
+          "Scooping rice",
+          "Pouring curry over rice"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=250s",
+        "actions": [
+          "Adding chicken curry on top of rice",
+          "Pouring more white rice onto the chicken curry",
+          "Mixing rice and chicken curry together"
+        ],
+        "confidence_score": 0.886
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=260s",
+        "actions": [
+          "Flipping rice"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=270s",
+        "actions": [
+          "Adding raisins to rice",
+          "Adding coconut to rice"
+        ],
+        "confidence_score": 0.818
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=290s",
+        "actions": [
+          "Adding yellow food color to rice",
+          "Adding red food color to rice"
+        ],
+        "confidence_score": 0.805
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.856
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=310s",
+        "actions": [
+          "Holding a boiled egg",
+          "Cutting a boiled egg in half",
+          "Placing egg halves on rice"
+        ],
+        "confidence_score": 0.843
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.784
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing saffron threads with rice",
+          "Incorporating herbs and sauce into the rice"
+        ],
+        "confidence_score": 0.823
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.822
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.843
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.778
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:10,102 --> 00:04:36,747",
+    "audio_description": "The chicken layer is done. Now the final rice layer. I’ve cooled the rice with cold water so they don’t stick together. Add 2-3 spoons of raisins on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=60s",
+        "actions": [
+          "Adding onions to the pan",
+          "Stirring onions",
+          "Showing raw chicken"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=70s",
+        "actions": [
+          "Pouring chicken into the pan",
+          "Stirring chicken with spatula",
+          "Cooking sauteed onions and garlic with chicken"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=80s",
+        "actions": [
+          "Stirring chicken pieces",
+          "Cooking chicken pieces to a light brown color"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=170s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Placing rice into the bowl"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=180s",
+        "actions": [
+          "Steeping rice",
+          "Adding cumin seeds to the rice",
+          "Adding salt to the rice"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=190s",
+        "actions": [
+          "Stirring rice",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=200s",
+        "actions": [
+          "Mixing rice",
+          "Placing cooked rice into a bowl"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=210s",
+        "actions": [
+          "Scooping rice",
+          "Piling rice in the pot"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=240s",
+        "actions": [
+          "Adding curry to rice",
+          "Scooping rice",
+          "Pouring curry over rice"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=250s",
+        "actions": [
+          "Adding chicken curry on top of rice",
+          "Pouring more white rice onto the chicken curry",
+          "Mixing rice and chicken curry together"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=260s",
+        "actions": [
+          "Flipping rice"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=270s",
+        "actions": [
+          "Adding raisins to rice",
+          "Adding coconut to rice"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=290s",
+        "actions": [
+          "Adding yellow food color to rice",
+          "Adding red food color to rice"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=310s",
+        "actions": [
+          "Holding a boiled egg",
+          "Cutting a boiled egg in half",
+          "Placing egg halves on rice"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing saffron threads with rice",
+          "Incorporating herbs and sauce into the rice"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.673
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:37,978 --> 00:05:03,646",
+    "audio_description": "Add one spoon of chopped coconut, 10-12 almonds with skins removed, and a pinch each of yellow, red, and green food coloring.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=50s",
+        "actions": [
+          "Pouring ghee/oil into the pan",
+          "Adding sliced onions to the bowl"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=90s",
+        "actions": [
+          "Adding ginger garlic paste to chicken",
+          "Stirring chicken and ginger garlic paste",
+          "Cooking chicken with spices"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=110s",
+        "actions": [
+          "Stirring the tomatoes",
+          "Adding turmeric powder",
+          "Adding red chili powder"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=150s",
+        "actions": [
+          "Stirring chicken",
+          "Adding water to the cooking pot",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=190s",
+        "actions": [
+          "Stirring rice",
+          "Placing the lid on the pressure cooker"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=210s",
+        "actions": [
+          "Scooping rice",
+          "Piling rice in the pot"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=220s",
+        "actions": [
+          "Placing chicken pieces on rice",
+          "Serving chicken with sauce onto rice"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=230s",
+        "actions": [
+          "Pouring curry onto rice",
+          "Stirring rice and curry with spatula",
+          "Transferring or mixing curry and rice with spatula"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=260s",
+        "actions": [
+          "Flipping rice"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=270s",
+        "actions": [
+          "Adding raisins to rice",
+          "Adding coconut to rice"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=280s",
+        "actions": [
+          "Adding coconut to rice",
+          "Adding almonds to rice",
+          "Adding food color to the rice"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=290s",
+        "actions": [
+          "Adding yellow food color to rice",
+          "Adding red food color to rice"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=320s",
+        "actions": [
+          "Arranging eggs and nuts (no movement or distinct action noted)"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=370s",
+        "actions": [
+          "Stirring rice",
+          "Mixing saffron threads with rice",
+          "Incorporating herbs and sauce into the rice"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.63
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:07,240 --> 00:05:36,146",
+    "audio_description": "We haven’t turned on the flame yet. We’ve boiled 4 eggs. Slice two eggs and place them on top; reserve the other two for garnish. Now turn on the flame, cover it, and let it cook for 8 to 10 minutes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=110s",
+        "actions": [
+          "Stirring the tomatoes",
+          "Adding turmeric powder",
+          "Adding red chili powder"
+        ],
+        "confidence_score": 0.494
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=180s",
+        "actions": [
+          "Steeping rice",
+          "Adding cumin seeds to the rice",
+          "Adding salt to the rice"
+        ],
+        "confidence_score": 0.523
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=210s",
+        "actions": [
+          "Scooping rice",
+          "Piling rice in the pot"
+        ],
+        "confidence_score": 0.51
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=280s",
+        "actions": [
+          "Adding coconut to rice",
+          "Adding almonds to rice",
+          "Adding food color to the rice"
+        ],
+        "confidence_score": 0.53
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=310s",
+        "actions": [
+          "Holding a boiled egg",
+          "Cutting a boiled egg in half",
+          "Placing egg halves on rice"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=320s",
+        "actions": [
+          "Arranging eggs and nuts (no movement or distinct action noted)"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=340s",
+        "actions": [
+          "Mixing ingredients together (no specific action of mixing shown, but implied by the context of the ingredients in the bowl)"
+        ],
+        "confidence_score": 0.501
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.568
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:37,244 --> 00:05:59,214",
+    "audio_description": "Reduce the flame to low. The steam has risen to the top. We’ve let it simmer for 10-12 minutes. Now we’ll mix it carefully and turn off the flame. Gently fold everything together.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=110s",
+        "actions": [
+          "Stirring the tomatoes",
+          "Adding turmeric powder",
+          "Adding red chili powder"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=180s",
+        "actions": [
+          "Steeping rice",
+          "Adding cumin seeds to the rice",
+          "Adding salt to the rice"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=280s",
+        "actions": [
+          "Adding coconut to rice",
+          "Adding almonds to rice",
+          "Adding food color to the rice"
+        ],
+        "confidence_score": 0.537
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=300s",
+        "actions": [
+          "Adding green food coloring to rice",
+          "Sprinkling herbs on top of rice",
+          "Placing eggs on top of rice"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.545
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:15,348 --> 00:06:21,997",
+    "audio_description": "Now we’ll plate it.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.84
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=40s",
+        "actions": [
+          "Placing eggs on the plate",
+          "Displaying ghee/oil in a bowl"
+        ],
+        "confidence_score": 0.839
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.829
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.761
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:24,341 --> 00:06:48,052",
+    "audio_description": "You can see how beautiful and colorful it looks. The Kashmiri Biryani turned out very tasty. Definitely try it out. If you liked the recipe, please like and share it, subscribe to our channel",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=0s",
+        "actions": [
+          "Presenting fried rice",
+          "Adding boiled egg slices with butter",
+          "Arranging potatoes and vegetables on the plate"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=10s",
+        "actions": [
+          "No cooking actions are visible; the dish is already prepared"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=20s",
+        "actions": [
+          "Stirring rice and vegetables",
+          "Mixing ingredients thoroughly in the pot"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=30s",
+        "actions": [
+          "Stirring rice",
+          "Serving rice onto a plate",
+          "Placing boiled eggs and potatoes on the plate",
+          "Adding butter on the boiled eggs"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=120s",
+        "actions": [
+          "Adding biryani masala to the pan",
+          "Adding salt to the pan",
+          "Adding cumin seeds to the pan"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=130s",
+        "actions": [
+          "Adding cumin seeds",
+          "Stirring curry",
+          "Cooking the mixture"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=160s",
+        "actions": [
+          "Stirring curry",
+          "Pouring water into the pan",
+          "Covering the pan with a lid"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=350s",
+        "actions": [
+          "Placing a lid on a pot",
+          "Placing a cloth towel over a pot",
+          "Placing the pot on a stove"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=360s",
+        "actions": [
+          "Covering the pressure cooker",
+          "Mixing ingredients (showing the contents being stirred or combined)"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=380s",
+        "actions": [
+          "Mixing rice and vegetables",
+          "Placing boiled egg halves on the plate",
+          "Arranging potatoes and mixed vegetables on the plate"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=390s",
+        "actions": [
+          "Placing butter on hard-boiled egg halves",
+          "Serving mixed rice on a plate"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "400-409",
+        "url": "https://www.youtube.com/watch?v=1xOXRMUjGjQ&t=400s",
+        "actions": [
+          "Serving dish (none explicitly shown in preparation)"
+        ],
+        "confidence_score": 0.685
+      }
+    ]
+  }
+]

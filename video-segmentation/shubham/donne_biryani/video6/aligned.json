@@ -1,0 +1,432 @@
+[
+  {
+    "audio_timestamp": "00:00:00.000 --> 00:00:29.980",
+    "audio_description": "Welcome. Today's recipe is Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.777
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.827
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:30.000 --> 00:00:59.980",
+    "audio_description": "Today’s recipe is Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.807
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.857
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:00.000 --> 00:01:29.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:30.000 --> 00:01:59.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:00.000 --> 00:02:29.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:30.000 --> 00:02:59.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:00.000 --> 00:03:29.640",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:30.000 --> 00:03:59.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:00.000 --> 00:04:29.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:30.000 --> 00:04:59.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:00.000 --> 00:05:29.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:30.000 --> 00:05:59.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:00.000 --> 00:06:29.980",
+    "audio_description": "Karnataka special Donne Biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=0s",
+        "actions": [
+          "Opening the pressure cooker",
+          "Transferring biryani rice to a banana leaf using a serving spoon",
+          "Displaying an Instagram comment about the recipe"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.849
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:30.000 --> 00:06:59.980",
+    "audio_description": "Karnataka special Donne.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.691
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:00.000 --> 00:07:29.980",
+    "audio_description": "Karnataka special Donne.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.691
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:30.000 --> 00:07:59.980",
+    "audio_description": "Karnataka special Donne.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.691
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:08:00.000 --> 00:08:29.980",
+    "audio_description": "Karnataka special Donne.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.691
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:08:30.000 --> 00:08:59.980",
+    "audio_description": "Karnataka special Donne.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.691
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:09:00.000 --> 00:09:29.980",
+    "audio_description": "Karnataka special Donne.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.691
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:09:30.000 --> 00:09:59.980",
+    "audio_description": "Karnataka special Donne.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=9o0lljXKAPs&t=10s",
+        "actions": [
+          "Serving Biryani rice",
+          "Placing a boiled egg on top of the Biryani rice"
+        ],
+        "confidence_score": 0.691
+      }
+    ]
+  }
+]

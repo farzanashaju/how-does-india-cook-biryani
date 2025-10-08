@@ -1,0 +1,3016 @@
+[
+  {
+    "audio_timestamp": "00:00:04,722 --> 00:00:26,913",
+    "audio_description": "Kolkata’s very famous Aloo Dum Biryani—this biryani is just as tasty and flavorful as mutton or chicken biryani. To make this biryani, first we extract ginger-garlic water. Take two tablespoons full of ginger-garlic paste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.55
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=20s",
+        "actions": [
+          "Adding water to the mixture",
+          "Mixing the contents with a wooden spoon",
+          "Pouring the mixture through a strainer",
+          "Scraping the mixture through the strainer with a spatula"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.361
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:28,887 --> 00:00:52,174",
+    "audio_description": "So, this is the ginger-garlic water. In Kolkata biryani, ginger-garlic water is used instead of the paste. Keep it aside. Now, peel and prep the potatoes. Since they were large, I’ve cut them into two pieces.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=20s",
+        "actions": [
+          "Adding water to the mixture",
+          "Mixing the contents with a wooden spoon",
+          "Pouring the mixture through a strainer",
+          "Scraping the mixture through the strainer with a spatula"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=200s",
+        "actions": [
+          "Straining curry through a strainer",
+          "Pouring curry into a smaller strainer",
+          "Scraping the leftover pulp from the strainer"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=230s",
+        "actions": [
+          "Transferring fruit pieces from the strainer to a bowl",
+          "Pouring orange-red sauce over fruit pieces"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.443
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.432
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:52,664 --> 00:01:10,197",
+    "audio_description": "After adding oil, add the chopped potatoes. Fry them on medium flame until they get a light golden color. They will also be about 15–20% cooked. Now let’s move on.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.541
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.393
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:10,197 --> 00:01:37,314",
+    "audio_description": "In the same oil, add two medium-sized onions, thinly sliced. Fry until they get a nice golden color. Then remove half the fried onions for garnishing and leave the rest in the pan. Now add—",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.704
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.512
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:38,293 --> 00:02:05,715",
+    "audio_description": "Add the fried potatoes back. Add two tablespoons of Kolkata biryani masala. The recipe for this masala is uploaded on our channel—you can check it out. Add salt according to the broth and potatoes. Then add one cup of hot water to create the broth.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=20s",
+        "actions": [
+          "Adding water to the mixture",
+          "Mixing the contents with a wooden spoon",
+          "Pouring the mixture through a strainer",
+          "Scraping the mixture through the strainer with a spatula"
+        ],
+        "confidence_score": 0.59
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.381
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:06,644 --> 00:02:28,430",
+    "audio_description": "Once the broth starts boiling and the oil begins to separate, reduce the flame to low. Now add half a cup of well-whisked curd. Mix everything on low flame only, since we’ve added yogurt.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.395
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:28,430 --> 00:02:51,379",
+    "audio_description": "Cook the potatoes well in the broth for 7–8 minutes. While the potatoes cook, prepare the rice. Bring 3–4 liters of water to a boil. Add 2–3 slit green chilies, 2 bay leaves, and 2–3 pieces of cinnamon.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=20s",
+        "actions": [
+          "Adding water to the mixture",
+          "Mixing the contents with a wooden spoon",
+          "Pouring the mixture through a strainer",
+          "Scraping the mixture through the strainer with a spatula"
+        ],
+        "confidence_score": 0.556
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=160s",
+        "actions": [
+          "Placing spices in a pot",
+          "Adding ingredients to the pot"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=230s",
+        "actions": [
+          "Transferring fruit pieces from the strainer to a bowl",
+          "Pouring orange-red sauce over fruit pieces"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "confidence_score": 0.525
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.399
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.339
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:51,379 --> 00:03:17,265",
+    "audio_description": "Squeeze the juice of half a lemon into it. Add two heaping teaspoons of salt. Let it come to a full boil on high flame. Then add 4 cups of soaked and washed basmati rice. Cook the rice only up to 70%.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.474
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.422
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:17,957 --> 00:03:45,514",
+    "audio_description": "Now turn off the flame and remove the potatoes. (Note: This line contains a long sequence of filler words, “yeh yeh yeh,” likely a glitch or repetition, so it has been skipped.)",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.612
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:47,218 --> 00:04:01,985",
+    "audio_description": "Our broth (yakhni) is now ready. Now let’s set up the biryani for dum (steam cooking). In the same pot where we prepared the broth, first layer the cooked potatoes. Spread them out evenly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=160s",
+        "actions": [
+          "Placing spices in a pot",
+          "Adding ingredients to the pot"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.633
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.472
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:02,659 --> 00:04:21,711",
+    "audio_description": "Pour all the broth over the potatoes. Then add the fried onions we had set aside, spreading them evenly. The rice is about 75% cooked—drain all the water and layer the rice on top. Now—",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=20s",
+        "actions": [
+          "Adding water to the mixture",
+          "Mixing the contents with a wooden spoon",
+          "Pouring the mixture through a strainer",
+          "Scraping the mixture through the strainer with a spatula"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=30s",
+        "actions": [
+          "Straining mashed potatoes",
+          "Pouring liquid from strainer into bowl"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=70s",
+        "actions": [
+          "Pouring water into the bowl",
+          "Adding sliced onions to the bowl",
+          "Adding salt",
+          "Adding turmeric powder",
+          "Stirring ingredients",
+          "Cooking potatoes and onions"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.473
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:21,711 --> 00:04:39,447",
+    "audio_description": "The spice flavor in Kolkata biryani is intense, without the use of whole spices. After layering the rice properly, sprinkle a bit of yellow food color on top. You can also use saffron soaked in milk if preferred.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.584
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=10s",
+        "actions": [
+          "Adding ginger garlic paste to the saucepan"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=150s",
+        "actions": [
+          "Boiling potatoes in curry sauce",
+          "Adding bay leaves and cassia bark to another bowl of water"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=170s",
+        "actions": [
+          "Adding water to the bowl",
+          "Adding bay leaves to the water",
+          "Adding green chilies to the water",
+          "Adding cinnamon sticks to the water",
+          "Adding cardamom pods to the water",
+          "Adding star anise to the water",
+          "Adding yellow spice to the water"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=230s",
+        "actions": [
+          "Transferring fruit pieces from the strainer to a bowl",
+          "Pouring orange-red sauce over fruit pieces"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.416
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.411
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:39,447 --> 00:04:59,444",
+    "audio_description": "Now cover it and cook on high flame for about 5 minutes. Once the biryani pot is nice and hot, lower the flame completely and cook on dum for 25–30 minutes. The rice cooks beautifully this way.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.549
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=40s",
+        "actions": [
+          "Pouring cooking oil into a pot",
+          "Slicing potatoes (implied from the prepared ingredient)"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=50s",
+        "actions": [
+          "Pouring cooking oil into the pot",
+          "Adding chopped potatoes to the pot",
+          "Stirring the potatoes with a slotted spoon"
+        ],
+        "confidence_score": 0.542
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=60s",
+        "actions": [
+          "Scooping potatoes with slotted spoon",
+          "Draining water from potatoes"
+        ],
+        "confidence_score": 0.475
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.506
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=90s",
+        "actions": [
+          "Adding red chilli powder to the bowl",
+          "Adding yellow food color to the bowl",
+          "Pouring boiled potatoes into the mixing bowl"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=130s",
+        "actions": [
+          "Pouring yogurt into the pot",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=160s",
+        "actions": [
+          "Placing spices in a pot",
+          "Adding ingredients to the pot"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.502
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "confidence_score": 0.476
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "confidence_score": 0.505
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.377
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.314
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:59,444 --> 00:05:16,252",
+    "audio_description": "And there you have it—our simple and easy Kolkata-style Aloo Dum Biryani is ready. Flip and gently mix the rice from bottom to top, and it’s ready to serve. Enjoy it with raita or chutney as you like.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=0s",
+        "actions": [
+          "Pouring seasoned rice into a bowl",
+          "Transferring rice and fries to a serving plate",
+          "Scooping rice and fries with a spatula"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=80s",
+        "actions": [
+          "Scooping onions with a skimmer/spoon",
+          "Pouring liquid into the bowl",
+          "Sprinkling red powder over the onions and liquid"
+        ],
+        "confidence_score": 0.583
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=100s",
+        "actions": [
+          "Adding Biryani Masala to potatoes and rice",
+          "Sprinkling spice blend over the ingredients"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=110s",
+        "actions": [
+          "Adding salt to the potatoes",
+          "Pouring water into the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=120s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Simmering potatoes in curry"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=140s",
+        "actions": [
+          "Stirring potatoes in curry",
+          "Adding curry or sauce to the pot",
+          "Mixing ingredients together"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=180s",
+        "actions": [
+          "Adding rice to boiling water",
+          "Boiling water with spices"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=190s",
+        "actions": [
+          "Stirring potatoes in sauce",
+          "Lifting potatoes with a slotted spoon",
+          "Placing potatoes back into the pot"
+        ],
+        "confidence_score": 0.599
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=200s",
+        "actions": [
+          "Straining curry through a strainer",
+          "Pouring curry into a smaller strainer",
+          "Scraping the leftover pulp from the strainer"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=210s",
+        "actions": [
+          "Pouring sugar into the glass bowl",
+          "Adding clarified butter (ghee)",
+          "Sprinkling salt",
+          "Adding a pinch of lemon juice",
+          "Adding some liquid (possibly water or vinegar)"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=220s",
+        "actions": [
+          "Pouring milk into the bowl",
+          "Stirring the mixture with a spoon"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=240s",
+        "actions": [
+          "Pouring sauce over potatoes"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=250s",
+        "actions": [
+          "Scooping rice from a pot",
+          "Adding rice to the bowl with vegetables and curry"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=260s",
+        "actions": [
+          "Adding shredded cheese",
+          "Pouring yellow food color"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=270s",
+        "actions": [
+          "Pouring vegetable oil onto rice",
+          "Pouring ghee onto rice"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=280s",
+        "actions": [
+          "Placing butter on the rice",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=290s",
+        "actions": [
+          "Removing the steamer lid",
+          "Adding yellow rice flakes",
+          "Adding saffron strands"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=300s",
+        "actions": [
+          "Scooping flavored rice from the pot",
+          "Placing scooped rice and potatoes onto a plate"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=310s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.431
+      },
+      {
+        "timestamp": "320-322",
+        "url": "https://www.youtube.com/watch?v=2ahDWniP4YY&t=320s",
+        "actions": [
+          "None observed in the frames (static promotional screen)"
+        ],
+        "confidence_score": 0.404
+      }
+    ]
+  }
+]

@@ -1,0 +1,4116 @@
+[
+  {
+    "audio_timestamp": "00:00:00.000 --> 00:00:05.400",
+    "audio_description": "Today, we are going to make a famous biryani from Tamil Nadu using a pressure cooker.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.836
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.775
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=270s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Taking rice from pot"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=310s",
+        "actions": [
+          "Adding lemon juice to the pressure cooker",
+          "Stirring the curry in the pressure cooker"
+        ],
+        "confidence_score": 0.871
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.836
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=330s",
+        "actions": [
+          "Adding rice to cooking liquid",
+          "Stirring rice and liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.813
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=350s",
+        "actions": [
+          "Opening the pressure cooker lid"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.798
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:05.400 --> 00:00:35.400",
+    "audio_description": "This biryani is a specialty at many famous restaurants in Tamil Nadu and is known for its unique flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.679
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:35.400 --> 00:01:05.400",
+    "audio_description": "First, we add 1 tsp turmeric powder, 1 tsp Kashmiri chili powder, and a bit of salt to yogurt and mix well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=40s",
+        "actions": [
+          "Adding turmeric powder to chicken",
+          "Adding Kashmiri chili powder to chicken"
+        ],
+        "confidence_score": 0.836
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.803
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.681
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:05.400 --> 00:01:11.460",
+    "audio_description": "Then add ginger-garlic paste and marinate the chicken. Let it rest for a while.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=0s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.581
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=20s",
+        "actions": [
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=40s",
+        "actions": [
+          "Adding turmeric powder to chicken",
+          "Adding Kashmiri chili powder to chicken"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.807
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.821
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.847
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=110s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Adding vegetable oil to the pot"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=200s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing grinded paste with vegetables"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.839
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=250s",
+        "actions": [
+          "Adding marinated chicken pieces",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.845
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.794
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=390s",
+        "actions": [
+          "Stirring rice and chicken",
+          "Serving the rice-chicken mixture"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "420-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=420s",
+        "actions": [
+          "None clearly visible"
+        ],
+        "confidence_score": 0.587
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:11.460 --> 00:01:15.460",
+    "audio_description": "Now mix everything together thoroughly with the chicken.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=0s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=20s",
+        "actions": [
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.894
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=40s",
+        "actions": [
+          "Adding turmeric powder to chicken",
+          "Adding Kashmiri chili powder to chicken"
+        ],
+        "confidence_score": 0.85
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.854
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.9
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.909
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.839
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.906
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=250s",
+        "actions": [
+          "Adding marinated chicken pieces",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.866
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.812
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.864
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.839
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.853
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.894
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.907
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=390s",
+        "actions": [
+          "Stirring rice and chicken",
+          "Serving the rice-chicken mixture"
+        ],
+        "confidence_score": 0.898
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.878
+      },
+      {
+        "timestamp": "420-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=420s",
+        "actions": [
+          "None clearly visible"
+        ],
+        "confidence_score": 0.691
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:15.460 --> 00:01:45.460",
+    "audio_description": "We’re going to make a special masala now. For that, we’ll use mint leaves, coriander leaves, onions, and green chilies.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=40s",
+        "actions": [
+          "Adding turmeric powder to chicken",
+          "Adding Kashmiri chili powder to chicken"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.868
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=100s",
+        "actions": [
+          "Adding ingredients into the grinding container",
+          "Grinding to a smooth paste"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=110s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Adding vegetable oil to the pot"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=130s",
+        "actions": [
+          "Adding cardamom pods to the pot",
+          "Adding cloves to the pot",
+          "Adding cinnamon stick to the pot",
+          "Adding star anise to the pot",
+          "Adding bay leaves to the pot"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=140s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Adding bay leaves to the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding chopped onions to the pan",
+          "Stirring onions with a wooden spoon"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=160s",
+        "actions": [
+          "Stirring onions",
+          "Adding tomatoes to the onions",
+          "Stirring tomatoes and onions together"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=170s",
+        "actions": [
+          "Stirring vegetables",
+          "Cooking vegetables in a saucepan"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.788
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=190s",
+        "actions": [
+          "Sprinkling spices",
+          "Stirring mixture",
+          "Cooking vegetables"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=200s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing grinded paste with vegetables"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.677
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.715
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:45.460 --> 00:02:15.460",
+    "audio_description": "Grind the mixture well. Now we’ll cook this in a pressure cooker along with the marinated chicken and rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=0s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=10s",
+        "actions": [
+          "None demonstrated (the frames show the final dish)"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=20s",
+        "actions": [
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.82
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=40s",
+        "actions": [
+          "Adding turmeric powder to chicken",
+          "Adding Kashmiri chili powder to chicken"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.823
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.836
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=250s",
+        "actions": [
+          "Adding marinated chicken pieces",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=270s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Taking rice from pot"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.788
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=310s",
+        "actions": [
+          "Adding lemon juice to the pressure cooker",
+          "Stirring the curry in the pressure cooker"
+        ],
+        "confidence_score": 0.845
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.848
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=330s",
+        "actions": [
+          "Adding rice to cooking liquid",
+          "Stirring rice and liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.862
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=350s",
+        "actions": [
+          "Opening the pressure cooker lid"
+        ],
+        "confidence_score": 0.77
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.82
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.811
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=390s",
+        "actions": [
+          "Stirring rice and chicken",
+          "Serving the rice-chicken mixture"
+        ],
+        "confidence_score": 0.82
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=400s",
+        "actions": [
+          "Placing chicken on fried rice"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.786
+      },
+      {
+        "timestamp": "420-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=420s",
+        "actions": [
+          "None clearly visible"
+        ],
+        "confidence_score": 0.591
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:15.460 --> 00:02:26.400",
+    "audio_description": "Add some dry spices and chopped onions to enhance the flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.799
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.794
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.822
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=100s",
+        "actions": [
+          "Adding ingredients into the grinding container",
+          "Grinding to a smooth paste"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=140s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Adding bay leaves to the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding chopped onions to the pan",
+          "Stirring onions with a wooden spoon"
+        ],
+        "confidence_score": 0.88
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.85
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=160s",
+        "actions": [
+          "Stirring onions",
+          "Adding tomatoes to the onions",
+          "Stirring tomatoes and onions together"
+        ],
+        "confidence_score": 0.855
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=170s",
+        "actions": [
+          "Stirring vegetables",
+          "Cooking vegetables in a saucepan"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.819
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=190s",
+        "actions": [
+          "Sprinkling spices",
+          "Stirring mixture",
+          "Cooking vegetables"
+        ],
+        "confidence_score": 0.83
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=200s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing grinded paste with vegetables"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.821
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.773
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:26.400 --> 00:02:31.220",
+    "audio_description": "Stir everything together to get a good mix.",
+    "aligned_chunks": [
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.825
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.892
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.892
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.833
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.748
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:31.220 --> 00:02:35.220",
+    "audio_description": "The aroma starts coming through as we sauté the onions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=100s",
+        "actions": [
+          "Adding ingredients into the grinding container",
+          "Grinding to a smooth paste"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=140s",
+        "actions": [
+          "Adding garlic to the pan",
+          "Adding bay leaves to the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding chopped onions to the pan",
+          "Stirring onions with a wooden spoon"
+        ],
+        "confidence_score": 0.848
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.9
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=160s",
+        "actions": [
+          "Stirring onions",
+          "Adding tomatoes to the onions",
+          "Stirring tomatoes and onions together"
+        ],
+        "confidence_score": 0.857
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=170s",
+        "actions": [
+          "Stirring vegetables",
+          "Cooking vegetables in a saucepan"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.79
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=190s",
+        "actions": [
+          "Sprinkling spices",
+          "Stirring mixture",
+          "Cooking vegetables"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=200s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing grinded paste with vegetables"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.742
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:35.220 --> 00:02:39.220",
+    "audio_description": "Add tomatoes and cook until soft and blended.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.812
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.823
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=200s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing grinded paste with vegetables"
+        ],
+        "confidence_score": 0.834
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.799
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.823
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.803
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:39.220 --> 00:02:44.220",
+    "audio_description": "Now add the ground masala paste and stir it into the mixture.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.827
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=110s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Adding vegetable oil to the pot"
+        ],
+        "confidence_score": 0.819
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.891
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=200s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing grinded paste with vegetables"
+        ],
+        "confidence_score": 0.872
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.87
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.83
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.83
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.813
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.797
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:44.220 --> 00:02:47.220",
+    "audio_description": "Let it cook well with the masala.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.833
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.829
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.879
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.814
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.848
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.874
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:47.220 --> 00:02:50.220",
+    "audio_description": "Continue stirring until oil separates from the masala.",
+    "aligned_chunks": [
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=110s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Adding vegetable oil to the pot"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=120s",
+        "actions": [
+          "Adding vegetable oil to the pan",
+          "Adding cardamom to the oil",
+          "Adding cloves to the oil",
+          "Adding cinnamon stick to the oil",
+          "Adding star anise to the oil",
+          "Adding bay leaf to the oil"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.813
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:51.220 --> 00:02:54.220",
+    "audio_description": "Now add the marinated chicken into this mixture.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=0s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=20s",
+        "actions": [
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.875
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=40s",
+        "actions": [
+          "Adding turmeric powder to chicken",
+          "Adding Kashmiri chili powder to chicken"
+        ],
+        "confidence_score": 0.873
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.857
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.891
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.949
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.794
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.945
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=250s",
+        "actions": [
+          "Adding marinated chicken pieces",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.944
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.861
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.845
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.844
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.875
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.888
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=390s",
+        "actions": [
+          "Stirring rice and chicken",
+          "Serving the rice-chicken mixture"
+        ],
+        "confidence_score": 0.887
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.872
+      },
+      {
+        "timestamp": "420-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=420s",
+        "actions": [
+          "None clearly visible"
+        ],
+        "confidence_score": 0.68
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:54.220 --> 00:02:59.020",
+    "audio_description": "Along with that, add freshly ground garam masala and sauté everything together.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.827
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.805
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.881
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.826
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.829
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.822
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.819
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.745
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.802
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:59.020 --> 00:03:00.320",
+    "audio_description": "This is the biryani masala base.",
+    "aligned_chunks": [
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.869
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.837
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:00.320 --> 00:03:30.300",
+    "audio_description": "Add chili powder and garam masala. Mix it all well.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=40s",
+        "actions": [
+          "Adding turmeric powder to chicken",
+          "Adding Kashmiri chili powder to chicken"
+        ],
+        "confidence_score": 0.866
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.846
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.76
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.878
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.754
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.769
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:30.300 --> 00:03:50.400",
+    "audio_description": "Once the masala is cooked, you’ll notice the oil rising. That’s when you know it’s ready.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=110s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Adding vegetable oil to the pot"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=120s",
+        "actions": [
+          "Adding vegetable oil to the pan",
+          "Adding cardamom to the oil",
+          "Adding cloves to the oil",
+          "Adding cinnamon stick to the oil",
+          "Adding star anise to the oil",
+          "Adding bay leaf to the oil"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=390s",
+        "actions": [
+          "Stirring rice and chicken",
+          "Serving the rice-chicken mixture"
+        ],
+        "confidence_score": 0.719
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:50.400 --> 00:04:20.400",
+    "audio_description": "You can see the color and texture change, indicating it’s cooked properly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.805
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=390s",
+        "actions": [
+          "Stirring rice and chicken",
+          "Serving the rice-chicken mixture"
+        ],
+        "confidence_score": 0.772
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:20.400 --> 00:04:50.400",
+    "audio_description": "Add soaked rice and stir gently to combine it with the masala.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=0s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=10s",
+        "actions": [
+          "None demonstrated (the frames show the final dish)"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=20s",
+        "actions": [
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.853
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.805
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.797
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.775
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.763
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.882
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.815
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.789
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=270s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Taking rice from pot"
+        ],
+        "confidence_score": 0.805
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.788
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.823
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=330s",
+        "actions": [
+          "Adding rice to cooking liquid",
+          "Stirring rice and liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.863
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.853
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.838
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=390s",
+        "actions": [
+          "Stirring rice and chicken",
+          "Serving the rice-chicken mixture"
+        ],
+        "confidence_score": 0.853
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=400s",
+        "actions": [
+          "Placing chicken on fried rice"
+        ],
+        "confidence_score": 0.785
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "420-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=420s",
+        "actions": [
+          "None clearly visible"
+        ],
+        "confidence_score": 0.631
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:50.400 --> 00:04:57.700",
+    "audio_description": "Now add 3 cups of water, adjust salt, and mix everything again.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.823
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.765
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.852
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.833
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.756
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.76
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:57.700 --> 00:05:27.700",
+    "audio_description": "Close the pressure cooker and cook for about 1 whistle on medium heat.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=270s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Taking rice from pot"
+        ],
+        "confidence_score": 0.803
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.751
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=310s",
+        "actions": [
+          "Adding lemon juice to the pressure cooker",
+          "Stirring the curry in the pressure cooker"
+        ],
+        "confidence_score": 0.826
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.813
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=330s",
+        "actions": [
+          "Adding rice to cooking liquid",
+          "Stirring rice and liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.845
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=350s",
+        "actions": [
+          "Opening the pressure cooker lid"
+        ],
+        "confidence_score": 0.813
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.813
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.692
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:27.700 --> 00:05:57.700",
+    "audio_description": "Once done, allow the pressure to release naturally before opening the lid.",
+    "aligned_chunks": [
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=270s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Taking rice from pot"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=310s",
+        "actions": [
+          "Adding lemon juice to the pressure cooker",
+          "Stirring the curry in the pressure cooker"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=330s",
+        "actions": [
+          "Adding rice to cooking liquid",
+          "Stirring rice and liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=350s",
+        "actions": [
+          "Opening the pressure cooker lid"
+        ],
+        "confidence_score": 0.795
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.795
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:57.700 --> 00:06:27.700",
+    "audio_description": "Fluff the rice gently. The chicken is cooked perfectly and the biryani has a rich aroma and flavor.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=0s",
+        "actions": [
+          "None visible"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=10s",
+        "actions": [
+          "None demonstrated (the frames show the final dish)"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=20s",
+        "actions": [
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=30s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=40s",
+        "actions": [
+          "Adding turmeric powder to chicken",
+          "Adding Kashmiri chili powder to chicken"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=50s",
+        "actions": [
+          "Sprinkling Kashmiri chilli powder on chicken",
+          "Sprinkling salt on chicken"
+        ],
+        "confidence_score": 0.761
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.775
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=80s",
+        "actions": [
+          "Marinating meat",
+          "Arranging ingredients (coriander leaves, mint leaves, shallots, green chili, ginger, garlic, small purple onions, and green chilies)"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=90s",
+        "actions": [
+          "Placing a bowl of shallots on the plate"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=250s",
+        "actions": [
+          "Adding marinated chicken pieces",
+          "Stirring the curry"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=270s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Taking rice from pot"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.731
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=330s",
+        "actions": [
+          "Adding rice to cooking liquid",
+          "Stirring rice and liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=370s",
+        "actions": [
+          "Flipping rice",
+          "Stirring rice and chicken"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=380s",
+        "actions": [
+          "Mixing rice and chicken",
+          "Fluffing rice with spatula"
+        ],
+        "confidence_score": 0.791
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=390s",
+        "actions": [
+          "Stirring rice and chicken",
+          "Serving the rice-chicken mixture"
+        ],
+        "confidence_score": 0.8
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=400s",
+        "actions": [
+          "Placing chicken on fried rice"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=410s",
+        "actions": [
+          "Serving rice and chicken",
+          "Placing the chicken on the rice",
+          "Placing the rice and chicken on the banana leaf"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "420-420",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=420s",
+        "actions": [
+          "None clearly visible"
+        ],
+        "confidence_score": 0.544
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:27.700 --> 00:06:54.970",
+    "audio_description": "Serve hot with raita or boiled eggs. Enjoy your delicious pressure cooker biryani!",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=10s",
+        "actions": [
+          "None demonstrated (the frames show the final dish)"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=60s",
+        "actions": [
+          "Pouring curd over the chicken and spices",
+          "Mixing chicken, spices, and curd with a spatula"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=70s",
+        "actions": [
+          "Mixing chicken with marinade",
+          "Marinating chicken (in the bowl)"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=110s",
+        "actions": [
+          "Adding butter or ghee to the pot",
+          "Adding vegetable oil to the pot"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=150s",
+        "actions": [
+          "Stirring onions",
+          "Adding salt",
+          "Sautéing onions"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=180s",
+        "actions": [
+          "Adding biryani masala powder to the pot",
+          "Stirring the contents of the pot"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=210s",
+        "actions": [
+          "Adding the grinded paste to the pan",
+          "Stirring the mixture in the pan"
+        ],
+        "confidence_score": 0.673
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=220s",
+        "actions": [
+          "Adding green paste to the pan",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=230s",
+        "actions": [
+          "Sautéing ingredients in the pot",
+          "Stirring the mixture with a spatula"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=240s",
+        "actions": [
+          "Stirring the spiced mixture",
+          "Pouring marinated chicken pieces into the pan",
+          "Mixing the marinated chicken pieces with the spiced mixture"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=260s",
+        "actions": [
+          "Mixing curry",
+          "Covering the pressure cooker",
+          "Setting the stove timer for 15 minutes"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=270s",
+        "actions": [
+          "Placing lid on pressure cooker",
+          "Taking rice from pot"
+        ],
+        "confidence_score": 0.737
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=280s",
+        "actions": [
+          "Measuring rice",
+          "Cooking chicken curry"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "290-300",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=290s",
+        "actions": [
+          "Adding water to the curry",
+          "Bringing the curry to a boil"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=300s",
+        "actions": [
+          "Adding liquid to the pot",
+          "Stirring the curry",
+          "Adjusting stove temperature"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=310s",
+        "actions": [
+          "Adding lemon juice to the pressure cooker",
+          "Stirring the curry in the pressure cooker"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=320s",
+        "actions": [
+          "Pouring washed rice into the pressure cooker",
+          "Stirring the mixture in the pressure cooker with hand"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=330s",
+        "actions": [
+          "Adding rice to cooking liquid",
+          "Stirring rice and liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=340s",
+        "actions": [
+          "Placing the lid on the pressure cooker",
+          "Sealing the pressure cooker",
+          "Securing the vent of the pressure cooker"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=350s",
+        "actions": [
+          "Opening the pressure cooker lid"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=eWXHPRvfZTY&t=360s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing the cooked rice and chicken inside"
+        ],
+        "confidence_score": 0.738
+      }
+    ]
+  }
+]

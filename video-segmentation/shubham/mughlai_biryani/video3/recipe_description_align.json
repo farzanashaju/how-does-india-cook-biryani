@@ -1,0 +1,4927 @@
+[
+  {
+    "title": "Soak Rice",
+    "description": "Wash the basmati rice thoroughly under running water. Soak it in water for 30 minutes, then drain.",
+    "aligned_chunks": [
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Coriander leaves (cilantro)",
+          "Star anise",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "utensils": [
+          "Pot with yellow handles"
+        ],
+        "confidence": 0.795
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "ingredients": [
+          "Saffron-soaked water"
+        ],
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "utensils": [
+          "Pressure cooker with a glass lid",
+          "Small measuring spoon"
+        ],
+        "confidence": 0.772
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "ingredients": [
+          "Strained rice",
+          "Marinated chicken",
+          "Cooked chicken",
+          "Spiced sauce"
+        ],
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Serving spoon"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.723
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "ingredients": [
+          "Saffron soaked water"
+        ],
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "utensils": [
+          "Large mixing bowl with a handle",
+          "Small spoon"
+        ],
+        "confidence": 0.712
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.711
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "ingredients": [
+          "Rice",
+          "Yellow saffron strands",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "utensils": [
+          "Spatula",
+          "Purple-handled pressure cooker",
+          "Transparent glass lid"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.697
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.665
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.635
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.519
+      }
+    ]
+  },
+  {
+    "title": "Soak Saffron",
+    "description": "Warm the milk slightly and add saffron strands. Let it infuse and set aside.",
+    "aligned_chunks": [
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "ingredients": [
+          "Saffron soaked water"
+        ],
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "utensils": [
+          "Large mixing bowl with a handle",
+          "Small spoon"
+        ],
+        "confidence": 0.843
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.749
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "ingredients": [
+          "Rice",
+          "Yellow saffron strands",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "utensils": [
+          "Spatula",
+          "Purple-handled pressure cooker",
+          "Transparent glass lid"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.584
+      }
+    ]
+  },
+  {
+    "title": "Fry Onions",
+    "description": "Heat oil in a pan. Add thinly sliced onions and fry until golden brown and crisp. Stir occasionally to prevent burning.",
+    "aligned_chunks": [
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "ingredients": [
+          "Onion fried oil",
+          "Ghee",
+          "Fried onion"
+        ],
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "utensils": [
+          "Spatula",
+          "Measuring spoons",
+          "Mixing bowl"
+        ],
+        "confidence": 0.841
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.831
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.83
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.68
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.679
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.668
+      }
+    ]
+  },
+  {
+    "title": "Separate Fried Onions",
+    "description": "Once fried, drain onions on paper towel. Set aside half for garnishing and use the other half for marination.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=200s",
+        "ingredients": [
+          "Chopped coriander",
+          "Chopped mint",
+          "Fried onion"
+        ],
+        "actions": [
+          "Sprinkling chopped coriander",
+          "Sprinkling chopped mint",
+          "Sprinkling fried onions",
+          "Running maida (all-purpose flour) dough around the vessel"
+        ],
+        "utensils": [
+          "Tawa (griddle)",
+          "Rolling pin"
+        ],
+        "confidence": 0.79
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.785
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "ingredients": [
+          "Onion fried oil",
+          "Ghee",
+          "Fried onion"
+        ],
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "utensils": [
+          "Spatula",
+          "Measuring spoons",
+          "Mixing bowl"
+        ],
+        "confidence": 0.778
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.695
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.664
+      }
+    ]
+  },
+  {
+    "title": "Prepare Nut Paste",
+    "description": "Grind cashew nuts and peeled almonds with a little water or milk to make a smooth, thick paste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "ingredients": [
+          "1 tsp Shahi Jeera (Cumin seeds)",
+          "1 Star Anise",
+          "2 Bay leaves",
+          "Javriti (mustard seeds)",
+          "2 Slit Green Chillies",
+          "1/4 Cup Salt",
+          "1 tbsp Ginger garlic paste",
+          "Green curry leaves"
+        ],
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "utensils": [
+          "Pot with yellow handles",
+          "Spoon"
+        ],
+        "confidence": 0.736
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.686
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "ingredients": [
+          "Saffron soaked water"
+        ],
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "utensils": [
+          "Large mixing bowl with a handle",
+          "Small spoon"
+        ],
+        "confidence": 0.685
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "ingredients": [
+          "Minced garlic",
+          "Chicken pieces",
+          "Fresh cream",
+          "Ginger garlic paste",
+          "Malai curd"
+        ],
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "utensils": [
+          "A black and pink cooking pot",
+          "A small blue and white bowl",
+          "A spoon"
+        ],
+        "confidence": 0.673
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.673
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.673
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "ingredients": [
+          "Saffron-soaked water"
+        ],
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "utensils": [
+          "Pressure cooker with a glass lid",
+          "Small measuring spoon"
+        ],
+        "confidence": 0.667
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.663
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.653
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.647
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.519
+      }
+    ]
+  },
+  {
+    "title": "Mix Marinade",
+    "description": "In a large bowl, combine curd, ginger-garlic paste, nut paste, fresh cream, garam masala, turmeric, red chili powder, white pepper, nutmeg, mace powder, salt, and half of the fried onions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "ingredients": [
+          "Minced garlic",
+          "Chicken pieces",
+          "Fresh cream",
+          "Ginger garlic paste",
+          "Malai curd"
+        ],
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "utensils": [
+          "A black and pink cooking pot",
+          "A small blue and white bowl",
+          "A spoon"
+        ],
+        "confidence": 0.782
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "ingredients": [
+          "Coriander leaves (Pudina)",
+          "Green chillies",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "utensils": [
+          "A pot with purple handles"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "ingredients": [
+          "1 tsp Shahi Jeera (Cumin seeds)",
+          "1 Star Anise",
+          "2 Bay leaves",
+          "Javriti (mustard seeds)",
+          "2 Slit Green Chillies",
+          "1/4 Cup Salt",
+          "1 tbsp Ginger garlic paste",
+          "Green curry leaves"
+        ],
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "utensils": [
+          "Pot with yellow handles",
+          "Spoon"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder",
+          "Fresh green herbs (coriander)",
+          "Salt",
+          "Turmeric",
+          "Cardamom powder",
+          "Black pepper powder"
+        ],
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "utensils": [
+          "Purple-handled pan",
+          "Metal spoon"
+        ],
+        "confidence": 0.766
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=200s",
+        "ingredients": [
+          "Chopped coriander",
+          "Chopped mint",
+          "Fried onion"
+        ],
+        "actions": [
+          "Sprinkling chopped coriander",
+          "Sprinkling chopped mint",
+          "Sprinkling fried onions",
+          "Running maida (all-purpose flour) dough around the vessel"
+        ],
+        "utensils": [
+          "Tawa (griddle)",
+          "Rolling pin"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.726
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "ingredients": [
+          "Onion fried oil",
+          "Ghee",
+          "Fried onion"
+        ],
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "utensils": [
+          "Spatula",
+          "Measuring spoons",
+          "Mixing bowl"
+        ],
+        "confidence": 0.724
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "ingredients": [
+          "Star anise",
+          "Inch cinnamon",
+          "Cloves",
+          "Shahi jeera (cumin seeds)",
+          "Marathi mogga (Malabar chestnut)",
+          "Bay leaf",
+          "Green chilies",
+          "Red chili powder",
+          "Turmeric powder",
+          "Salt",
+          "Fresh green herbs",
+          "Chicken pieces"
+        ],
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "utensils": [
+          "Large cooking pot with a pink handle"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.654
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.64
+      }
+    ]
+  },
+  {
+    "title": "Marinate Meat",
+    "description": "Add chicken or mutton pieces to the marinade. Mix well and let it rest for at least 1 hour, preferably in the refrigerator.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "ingredients": [
+          "1/2 kg Chicken (medium cut)",
+          "2 tablespoons Cashews, Pista, Badam/Almonds",
+          "Garlic (minced)"
+        ],
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A black pot with pink handles",
+          "A wooden cutting board"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder",
+          "Fresh green herbs (coriander)",
+          "Salt",
+          "Turmeric",
+          "Cardamom powder",
+          "Black pepper powder"
+        ],
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "utensils": [
+          "Purple-handled pan",
+          "Metal spoon"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.657
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.652
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "ingredients": [
+          "Strained rice",
+          "Marinated chicken",
+          "Cooked chicken",
+          "Spiced sauce"
+        ],
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Serving spoon"
+        ],
+        "confidence": 0.65
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=40s",
+        "ingredients": [
+          "Minced garlic",
+          "Chicken pieces",
+          "Fresh cream",
+          "Ginger garlic paste",
+          "Malai curd"
+        ],
+        "actions": [
+          "Adding minced garlic to the pot",
+          "Pouring fresh cream into the pot",
+          "Adding ginger garlic paste to the pot",
+          "Pouring malai curd into the pot"
+        ],
+        "utensils": [
+          "A black and pink cooking pot",
+          "A small blue and white bowl",
+          "A spoon"
+        ],
+        "confidence": 0.634
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "ingredients": [
+          "Star anise",
+          "Inch cinnamon",
+          "Cloves",
+          "Shahi jeera (cumin seeds)",
+          "Marathi mogga (Malabar chestnut)",
+          "Bay leaf",
+          "Green chilies",
+          "Red chili powder",
+          "Turmeric powder",
+          "Salt",
+          "Fresh green herbs",
+          "Chicken pieces"
+        ],
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "utensils": [
+          "Large cooking pot with a pink handle"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.614
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.613
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.607
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.599
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.584
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.554
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.445
+      }
+    ]
+  },
+  {
+    "title": "Heat Ghee and Whole Spices",
+    "description": "In a heavy-bottomed pan or handi, heat ghee. Add whole spices: cardamoms, bay leaf, cinnamon stick, and cloves. Sauté for a few seconds until aromatic.",
+    "aligned_chunks": [
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "ingredients": [
+          "Onion fried oil",
+          "Ghee",
+          "Fried onion"
+        ],
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "utensils": [
+          "Spatula",
+          "Measuring spoons",
+          "Mixing bowl"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.66
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "ingredients": [
+          "Star anise",
+          "Inch cinnamon",
+          "Cloves",
+          "Shahi jeera (cumin seeds)",
+          "Marathi mogga (Malabar chestnut)",
+          "Bay leaf",
+          "Green chilies",
+          "Red chili powder",
+          "Turmeric powder",
+          "Salt",
+          "Fresh green herbs",
+          "Chicken pieces"
+        ],
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "utensils": [
+          "Large cooking pot with a pink handle"
+        ],
+        "confidence": 0.656
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Coriander leaves (cilantro)",
+          "Star anise",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "utensils": [
+          "Pot with yellow handles"
+        ],
+        "confidence": 0.648
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "ingredients": [
+          "1 tsp Shahi Jeera (Cumin seeds)",
+          "1 Star Anise",
+          "2 Bay leaves",
+          "Javriti (mustard seeds)",
+          "2 Slit Green Chillies",
+          "1/4 Cup Salt",
+          "1 tbsp Ginger garlic paste",
+          "Green curry leaves"
+        ],
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "utensils": [
+          "Pot with yellow handles",
+          "Spoon"
+        ],
+        "confidence": 0.647
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.643
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=110s",
+        "ingredients": [
+          "Cinnamon stick",
+          "Cardamom pods",
+          "Cloves",
+          "Marathi mugga"
+        ],
+        "actions": [
+          "Resting mixture in refrigerator",
+          "Boiling water",
+          "Adding spices to water",
+          "Stirring water and spices"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Spoon",
+          "Pot with yellow handles",
+          "Induction cooktop"
+        ],
+        "confidence": 0.632
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.622
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.588
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.582
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.574
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.574
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.552
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.391
+      }
+    ]
+  },
+  {
+    "title": "Cook Marinated Meat",
+    "description": "Add the marinated meat to the pan. Cook on medium heat, stirring occasionally.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.849
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=30s",
+        "ingredients": [
+          "1/2 kg Chicken (medium cut)",
+          "2 tablespoons Cashews, Pista, Badam/Almonds",
+          "Garlic (minced)"
+        ],
+        "actions": [
+          "Placing chicken pieces in the strainer",
+          "Adding cashews, pistachios, almonds, and minced garlic to the pot with chicken"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A black pot with pink handles",
+          "A wooden cutting board"
+        ],
+        "confidence": 0.759
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.754
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "ingredients": [
+          "Strained rice",
+          "Marinated chicken",
+          "Cooked chicken",
+          "Spiced sauce"
+        ],
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Serving spoon"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.735
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.732
+      }
+    ]
+  },
+  {
+    "title": "Simmer Until Tender",
+    "description": "Cover and cook until the meat is tender and oil starts to separate from the masala. Add a little water if needed.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "ingredients": [
+          "Coriander leaves (Pudina)",
+          "Green chillies",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "utensils": [
+          "A pot with purple handles"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder",
+          "Fresh green herbs (coriander)",
+          "Salt",
+          "Turmeric",
+          "Cardamom powder",
+          "Black pepper powder"
+        ],
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "utensils": [
+          "Purple-handled pan",
+          "Metal spoon"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "ingredients": [
+          "Saffron soaked water"
+        ],
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "utensils": [
+          "Large mixing bowl with a handle",
+          "Small spoon"
+        ],
+        "confidence": 0.72
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "ingredients": [
+          "Saffron-soaked water"
+        ],
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "utensils": [
+          "Pressure cooker with a glass lid",
+          "Small measuring spoon"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.709
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.696
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.684
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "ingredients": [
+          "Onion fried oil",
+          "Ghee",
+          "Fried onion"
+        ],
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "utensils": [
+          "Spatula",
+          "Measuring spoons",
+          "Mixing bowl"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.676
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.664
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.655
+      }
+    ]
+  },
+  {
+    "title": "Boil Water for Rice",
+    "description": "In a large pot, bring water to a boil. Add salt and optional whole spices (e.g., a bay leaf, cardamom).",
+    "aligned_chunks": [
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "ingredients": [
+          "1 tsp Shahi Jeera (Cumin seeds)",
+          "1 Star Anise",
+          "2 Bay leaves",
+          "Javriti (mustard seeds)",
+          "2 Slit Green Chillies",
+          "1/4 Cup Salt",
+          "1 tbsp Ginger garlic paste",
+          "Green curry leaves"
+        ],
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "utensils": [
+          "Pot with yellow handles",
+          "Spoon"
+        ],
+        "confidence": 0.826
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Coriander leaves (cilantro)",
+          "Star anise",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "utensils": [
+          "Pot with yellow handles"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=70s",
+        "ingredients": [
+          "Star anise",
+          "Inch cinnamon",
+          "Cloves",
+          "Shahi jeera (cumin seeds)",
+          "Marathi mogga (Malabar chestnut)",
+          "Bay leaf",
+          "Green chilies",
+          "Red chili powder",
+          "Turmeric powder",
+          "Salt",
+          "Fresh green herbs",
+          "Chicken pieces"
+        ],
+        "actions": [
+          "Adding star anise to the pot",
+          "Adding inch cinnamon to the pot",
+          "Adding cloves to the pot",
+          "Adding shahi jeera (cumin seeds) to the pot",
+          "Adding Marathi mogga to the pot",
+          "Adding a bay leaf to the pot"
+        ],
+        "utensils": [
+          "Large cooking pot with a pink handle"
+        ],
+        "confidence": 0.802
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=110s",
+        "ingredients": [
+          "Cinnamon stick",
+          "Cardamom pods",
+          "Cloves",
+          "Marathi mugga"
+        ],
+        "actions": [
+          "Resting mixture in refrigerator",
+          "Boiling water",
+          "Adding spices to water",
+          "Stirring water and spices"
+        ],
+        "utensils": [
+          "Mixing bowl",
+          "Spoon",
+          "Pot with yellow handles",
+          "Induction cooktop"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder",
+          "Fresh green herbs (coriander)",
+          "Salt",
+          "Turmeric",
+          "Cardamom powder",
+          "Black pepper powder"
+        ],
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "utensils": [
+          "Purple-handled pan",
+          "Metal spoon"
+        ],
+        "confidence": 0.769
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.755
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "ingredients": [
+          "Saffron soaked water"
+        ],
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "utensils": [
+          "Large mixing bowl with a handle",
+          "Small spoon"
+        ],
+        "confidence": 0.752
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.746
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "ingredients": [
+          "Saffron-soaked water"
+        ],
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "utensils": [
+          "Pressure cooker with a glass lid",
+          "Small measuring spoon"
+        ],
+        "confidence": 0.739
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.729
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.717
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "ingredients": [
+          "Rice",
+          "Yellow saffron strands",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "utensils": [
+          "Spatula",
+          "Purple-handled pressure cooker",
+          "Transparent glass lid"
+        ],
+        "confidence": 0.704
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.692
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.683
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.675
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.476
+      }
+    ]
+  },
+  {
+    "title": "Parboil Rice",
+    "description": "Add soaked rice to the boiling water. Cook until 70% done (grains should still have a slight bite), then drain thoroughly.",
+    "aligned_chunks": [
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.777
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "ingredients": [
+          "Strained rice",
+          "Marinated chicken",
+          "Cooked chicken",
+          "Spiced sauce"
+        ],
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Serving spoon"
+        ],
+        "confidence": 0.762
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "ingredients": [
+          "Saffron-soaked water"
+        ],
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "utensils": [
+          "Pressure cooker with a glass lid",
+          "Small measuring spoon"
+        ],
+        "confidence": 0.761
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.75
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Coriander leaves (cilantro)",
+          "Star anise",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "utensils": [
+          "Pot with yellow handles"
+        ],
+        "confidence": 0.745
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.743
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.718
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.716
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "ingredients": [
+          "Saffron soaked water"
+        ],
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "utensils": [
+          "Large mixing bowl with a handle",
+          "Small spoon"
+        ],
+        "confidence": 0.708
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "ingredients": [
+          "Rice",
+          "Yellow saffron strands",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "utensils": [
+          "Spatula",
+          "Purple-handled pressure cooker",
+          "Transparent glass lid"
+        ],
+        "confidence": 0.7
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.687
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.67
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.628
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.461
+      }
+    ]
+  },
+  {
+    "title": "Start Biryani Layering",
+    "description": "In a thick-bottomed pan or handi, spread a layer of cooked meat with masala at the bottom.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder",
+          "Fresh green herbs (coriander)",
+          "Salt",
+          "Turmeric",
+          "Cardamom powder",
+          "Black pepper powder"
+        ],
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "utensils": [
+          "Purple-handled pan",
+          "Metal spoon"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "ingredients": [
+          "Coriander leaves (Pudina)",
+          "Green chillies",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "utensils": [
+          "A pot with purple handles"
+        ],
+        "confidence": 0.781
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.751
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.747
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "ingredients": [
+          "Strained rice",
+          "Marinated chicken",
+          "Cooked chicken",
+          "Spiced sauce"
+        ],
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Serving spoon"
+        ],
+        "confidence": 0.742
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.741
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.74
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.727
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.723
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.702
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.699
+      }
+    ]
+  },
+  {
+    "title": "Add Rice Layer",
+    "description": "Spread a layer of parboiled rice evenly over the meat layer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "ingredients": [
+          "Strained rice",
+          "Marinated chicken",
+          "Cooked chicken",
+          "Spiced sauce"
+        ],
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Serving spoon"
+        ],
+        "confidence": 0.878
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.874
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.858
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.852
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.846
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.828
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.813
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.813
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.808
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Coriander leaves (cilantro)",
+          "Star anise",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "utensils": [
+          "Pot with yellow handles"
+        ],
+        "confidence": 0.804
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.801
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.792
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "ingredients": [
+          "Rice",
+          "Yellow saffron strands",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "utensils": [
+          "Spatula",
+          "Purple-handled pressure cooker",
+          "Transparent glass lid"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.767
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.639
+      }
+    ]
+  },
+  {
+    "title": "Add Aromatics",
+    "description": "Drizzle the saffron-infused milk, rose water, and kewra water over the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=230s",
+        "ingredients": [
+          "Saffron-soaked water"
+        ],
+        "actions": [
+          "Closing the pressure cooker lid",
+          "Opening the pressure cooker lid after rest",
+          "Pouring saffron-soaked water over the rice"
+        ],
+        "utensils": [
+          "Pressure cooker with a glass lid",
+          "Small measuring spoon"
+        ],
+        "confidence": 0.895
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=100s",
+        "ingredients": [
+          "Saffron soaked water"
+        ],
+        "actions": [
+          "Adding saffron soaked water to the mixture",
+          "Mixing the ingredients",
+          "Massaging the mixture",
+          "Resting the mixture in the refrigerator"
+        ],
+        "utensils": [
+          "Large mixing bowl with a handle",
+          "Small spoon"
+        ],
+        "confidence": 0.856
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.833
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.824
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Coriander leaves (cilantro)",
+          "Star anise",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "utensils": [
+          "Pot with yellow handles"
+        ],
+        "confidence": 0.817
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.817
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.799
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=170s",
+        "ingredients": [
+          "Strained rice",
+          "Marinated chicken",
+          "Cooked chicken",
+          "Spiced sauce"
+        ],
+        "actions": [
+          "Straining rice",
+          "Layering rice on chicken",
+          "Preparing to layer more rice in a pot"
+        ],
+        "utensils": [
+          "Strainer",
+          "Serving spoon"
+        ],
+        "confidence": 0.797
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.788
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.787
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.784
+      },
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=0s",
+        "ingredients": [
+          "Rice",
+          "Pieces of cooked meat",
+          "Small pieces of saffron threads"
+        ],
+        "actions": [
+          "Serving rice onto a plate",
+          "Mixing rice and meat on a plate"
+        ],
+        "utensils": [
+          "Wood spatula",
+          "Ceramic plate"
+        ],
+        "confidence": 0.783
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.78
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=240s",
+        "ingredients": [
+          "Rice",
+          "Yellow saffron strands",
+          "Cardamom pods"
+        ],
+        "actions": [
+          "Fluffing rice with a spatula",
+          "Covering the pot with a glass lid and securing it with the pressure cooker knobs"
+        ],
+        "utensils": [
+          "Spatula",
+          "Purple-handled pressure cooker",
+          "Transparent glass lid"
+        ],
+        "confidence": 0.768
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.725
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=260s",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Green herbs (likely cilantro)",
+          "Cashew nuts",
+          "Whole dried chilies",
+          "Yellow strands (likely saffron-infused)"
+        ],
+        "actions": [
+          "None clearly visible or identifiable in the provided frames"
+        ],
+        "utensils": [
+          "None clearly visible in the provided frames"
+        ],
+        "confidence": 0.576
+      }
+    ]
+  },
+  {
+    "title": "Add Herbs and Onions",
+    "description": "Sprinkle chopped mint leaves, coriander leaves, and the remaining fried onions on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=200s",
+        "ingredients": [
+          "Chopped coriander",
+          "Chopped mint",
+          "Fried onion"
+        ],
+        "actions": [
+          "Sprinkling chopped coriander",
+          "Sprinkling chopped mint",
+          "Sprinkling fried onions",
+          "Running maida (all-purpose flour) dough around the vessel"
+        ],
+        "utensils": [
+          "Tawa (griddle)",
+          "Rolling pin"
+        ],
+        "confidence": 0.887
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=150s",
+        "ingredients": [
+          "Coriander (Pudina) Chopped",
+          "Lemon Juice"
+        ],
+        "actions": [
+          "Adding chopped coriander to the pot",
+          "Adding lemon juice to the pot",
+          "Stirring the contents of the pot with a wooden spoon"
+        ],
+        "utensils": [
+          "Pressure cooker",
+          "Wooden spoon"
+        ],
+        "confidence": 0.862
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=210s",
+        "ingredients": [
+          "Rice",
+          "Fried onions",
+          "Fried onion oil",
+          "Chopped cilantro"
+        ],
+        "actions": [
+          "Placing cooked rice into the cookware",
+          "Adding fried onions and oil to the rice"
+        ],
+        "utensils": [
+          "Cookware with purple handles",
+          "Wooden cutting board"
+        ],
+        "confidence": 0.847
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=50s",
+        "ingredients": [
+          "Coriander leaves (Pudina)",
+          "Green chillies",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder"
+        ],
+        "actions": [
+          "Adding coriander leaves to the pot",
+          "Adding slit green chillies to the pot",
+          "Sprinkling coriander powder into the pot",
+          "Adding roasted cumin powder into the pot",
+          "Adding garam masala into the pot",
+          "Adding chilli powder into the pot"
+        ],
+        "utensils": [
+          "A pot with purple handles"
+        ],
+        "confidence": 0.846
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=140s",
+        "ingredients": [
+          "Basmati rice",
+          "Bay leaves",
+          "Cardamom pods",
+          "Cinnamon sticks",
+          "Coriander leaves (cilantro)",
+          "Star anise",
+          "Green chilies"
+        ],
+        "actions": [
+          "Adding basmati rice to the pot",
+          "Adding coriander leaves to the pot"
+        ],
+        "utensils": [
+          "Pot with yellow handles"
+        ],
+        "confidence": 0.846
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=90s",
+        "ingredients": [
+          "Onion fried oil",
+          "Ghee",
+          "Fried onion"
+        ],
+        "actions": [
+          "Adding onion fried oil",
+          "Adding ghee",
+          "Adding fried onion"
+        ],
+        "utensils": [
+          "Spatula",
+          "Measuring spoons",
+          "Mixing bowl"
+        ],
+        "confidence": 0.845
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=60s",
+        "ingredients": [
+          "Chicken pieces",
+          "Coriander powder",
+          "Roasted cumin powder",
+          "Garam masala",
+          "Chilli powder",
+          "Fresh green herbs (coriander)",
+          "Salt",
+          "Turmeric",
+          "Cardamom powder",
+          "Black pepper powder"
+        ],
+        "actions": [
+          "Adding coriander powder to the pan",
+          "Adding roasted cumin powder to the pan",
+          "Adding garam masala to the pan",
+          "Adding chilli powder to the pan",
+          "Adding salt to the pan",
+          "Adding turmeric to the pan",
+          "Adding cardamom powder to the pan",
+          "Adding black pepper powder to the pan",
+          "Mixing spices with chicken in the pan"
+        ],
+        "utensils": [
+          "Purple-handled pan",
+          "Metal spoon"
+        ],
+        "confidence": 0.813
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=220s",
+        "ingredients": [
+          "Onion fried oil",
+          "Cooked rice",
+          "Fried onions",
+          "Green herbs (cilantro)"
+        ],
+        "actions": [
+          "Pouring onion fried oil",
+          "Covering the handi with a lid",
+          "Placing the handi on the stove"
+        ],
+        "utensils": [
+          "Ladle",
+          "Handi (clay pot)",
+          "Silver lid",
+          "Stove"
+        ],
+        "confidence": 0.803
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=10s",
+        "ingredients": [
+          "Cooked chicken",
+          "Basmati rice",
+          "Onion strands",
+          "Bay leaves",
+          "Cumin seeds",
+          "Fresh herbs (possibly coriander)",
+          "Saffron threads"
+        ],
+        "actions": [
+          "Placing chicken onto rice",
+          "Garnishing with herbs and saffron",
+          "Adjusting the placement of ingredients"
+        ],
+        "utensils": [
+          "Serving spoon"
+        ],
+        "confidence": 0.798
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=120s",
+        "ingredients": [
+          "1 tsp Shahi Jeera (Cumin seeds)",
+          "1 Star Anise",
+          "2 Bay leaves",
+          "Javriti (mustard seeds)",
+          "2 Slit Green Chillies",
+          "1/4 Cup Salt",
+          "1 tbsp Ginger garlic paste",
+          "Green curry leaves"
+        ],
+        "actions": [
+          "Adding cumin seeds to boiling water",
+          "Adding star anise to boiling water",
+          "Adding bay leaves to boiling water",
+          "Adding mustard seeds to boiling water",
+          "Adding slit green chillies to boiling water",
+          "Adding salt to boiling water",
+          "Adding ginger garlic paste to boiling water"
+        ],
+        "utensils": [
+          "Pot with yellow handles",
+          "Spoon"
+        ],
+        "confidence": 0.777
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.776
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.748
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.733
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.712
+      }
+    ]
+  },
+  {
+    "title": "Seal the Pot",
+    "description": "Cover the pan with a tight-fitting lid or seal with dough to trap the steam.",
+    "aligned_chunks": [
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.715
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.707
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.706
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.689
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.663
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.663
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.658
+      }
+    ]
+  },
+  {
+    "title": "Dum Cook the Biryani",
+    "description": "Cook on low heat for 20–25 minutes to allow flavors to meld using the traditional 'dum' method.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.628
+      }
+    ]
+  },
+  {
+    "title": "Rest Before Serving",
+    "description": "Let the biryani rest for 5–10 minutes after turning off the heat before opening the lid.",
+    "aligned_chunks": [
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.65
+      }
+    ]
+  },
+  {
+    "title": "Serve Mughlai Biryani",
+    "description": "Gently mix the layers before serving to preserve texture. Serve hot with raita or salan.",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=80s",
+        "ingredients": [
+          "Pieces of meat (likely chicken)",
+          "Herbs (possibly cilantro or parsley)",
+          "Curry or spice mixture",
+          "Ginger-garlic paste",
+          "Tomatoes",
+          "Spices (visible in powder form)"
+        ],
+        "actions": [
+          "Mixing the ingredients",
+          "Massaging the marinate into the meat"
+        ],
+        "utensils": [
+          "A black pot with a pink handle"
+        ],
+        "confidence": 0.722
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=160s",
+        "ingredients": [
+          "Spices",
+          "Green herbs (likely cilantro or curry leaves)",
+          "Cardamom pods",
+          "Cooked rice"
+        ],
+        "actions": [
+          "Cooking spices on high flame",
+          "Adding cooked rice to the pot",
+          "Stirring the rice mixture"
+        ],
+        "utensils": [
+          "Cooking pot",
+          "Strainer",
+          "Ladle"
+        ],
+        "confidence": 0.714
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=20s",
+        "ingredients": [
+          "Yellow rice",
+          "Pieces of meat (possibly chicken)",
+          "Fresh green herbs",
+          "Bay leaves",
+          "Spices (visible in the rice)"
+        ],
+        "actions": [
+          "Serving rice on a plate",
+          "Removing cooked food from the pressure cooker",
+          "Mixing or serving the rice with a spade"
+        ],
+        "utensils": [
+          "Spade (for serving)",
+          "Pressure cooker",
+          "Plate"
+        ],
+        "confidence": 0.713
+      },
+      {
+        "timestamp": "270-275",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=270s",
+        "ingredients": [
+          "Cooked rice with saffron strands",
+          "Pieces of chicken or meat",
+          "Sliced green chilies or herbs",
+          "Dark raisins or similar dried fruits",
+          "Fresh green herbs (possibly cilantro)"
+        ],
+        "actions": [
+          "Stirring rice with a spoon or fork",
+          "Presenting or garnishing the finished dish"
+        ],
+        "utensils": [
+          "A metal spoon or fork",
+          "A dark-colored bowl or dish"
+        ],
+        "confidence": 0.703
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=130s",
+        "ingredients": [
+          "Chopped green chilies",
+          "Bay leaves",
+          "Whole spices (possibly star anise)",
+          "A paste (possibly garlic or ginger paste)",
+          "Rice (being added)"
+        ],
+        "actions": [
+          "Adding paste into the saucepan",
+          "Letting the mixture boil",
+          "Stiring the contents",
+          "Adding rice to the boiling mixture"
+        ],
+        "utensils": [
+          "Saucepan with yellow handles",
+          "Spatula",
+          "Spoon"
+        ],
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=250s",
+        "ingredients": [
+          "Yellow rice (with saffron strands)",
+          "Pieces of meat",
+          "Fresh green herbs (likely cilantro)"
+        ],
+        "actions": [
+          "Serving rice and meat",
+          "Placing herbs on the dish"
+        ],
+        "utensils": [
+          "Wooden spatula",
+          "Serving plate"
+        ],
+        "confidence": 0.69
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=180s",
+        "ingredients": [
+          "Basmati rice",
+          "Green herbs (likely chopped green onions or similar)",
+          "A type of spice (potentially a small red or orange piece of a spice like cardamom)"
+        ],
+        "actions": [
+          "Scooping rice from the pot",
+          "Spreading rice evenly in the pot"
+        ],
+        "utensils": [
+          "A metal strainer",
+          "A large pot with a pink handle"
+        ],
+        "confidence": 0.676
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous / Intro & Outro",
+    "description": "Covers all non-recipe content such as video greetings, channel promotions, personal stories, thanks messages, like/share/subscribe prompts, and other commentary unrelated to cooking instructions.",
+    "aligned_chunks": [
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=Nrh6A4LD4Bw&t=190s",
+        "ingredients": [
+          "Cooked rice",
+          "Ghee",
+          "Water (from cooking rice)"
+        ],
+        "actions": [
+          "Adding ghee to the rice",
+          "Adding water to the rice"
+        ],
+        "utensils": [
+          "A pink-handled saucepan",
+          "A measuring cup (white with blue pattern)",
+          "Another measuring cup (yellow)"
+        ],
+        "confidence": 0.656
+      }
+    ]
+  }
+]

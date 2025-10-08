@@ -1,0 +1,1921 @@
+[
+  {
+    "audio_timestamp": "00:00:00,031 --> 00:00:20,905",
+    "audio_description": "Today, I have one rice recipe for you from the Western Ghats. So let's see the recipe for Malabar Aloo Biryani. I'm going to start with making a masala paste. In a blender, add ¼ cup grated coconut, 2 Kashmiri chillies (boiled for 10 minutes), and ½ tsp coriander-cumin powder.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=10s",
+        "actions": [
+          "Placing the stainless steel mixing bowl on the countertop",
+          "Adding grated fresh coconut to the bowl",
+          "Adding boiled Kashmiri red chillies to the bowl",
+          "Adding coriander-cumin seed powder to the bowl"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=20s",
+        "actions": [
+          "Adding coriander-cumin seed powder to the spice grinder",
+          "Adding red chilies to the spice grinder",
+          "Adding asafetida to the spice grinder",
+          "Adding raw mango powder to the spice grinder",
+          "Adding salt to the spice grinder",
+          "Placing the lid on the spice grinder"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=40s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing pan on the gas stove",
+          "Adding baby potatoes into the pan"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=90s",
+        "actions": [
+          "Sauteing potatoes and masala",
+          "Sprinkling salt",
+          "Stirring the potatoes and masala",
+          "Frying onions"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=100s",
+        "actions": [
+          "Scooping onions from the wok",
+          "Adding ginger paste to the wok",
+          "Adding garlic paste to the wok"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=110s",
+        "actions": [
+          "Adding green chilies to the pan",
+          "Stirring ingredients in the pan",
+          "Adding chopped spinach leaves to the pan"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=130s",
+        "actions": [
+          "Adding chopped cashew nuts to the pan",
+          "Pouring water into the pan",
+          "Adding raisins to the pan",
+          "Stirring the mixture with a spatula",
+          "Grinding pepper into a bowl"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=150s",
+        "actions": [
+          "Adding Kashmiri Red Chilli Powder to the wok",
+          "Adding Garam Masala Powder to the wok",
+          "Adding Sugar to the wok",
+          "Adding Salt to the wok",
+          "Adding Lemon juice to the wok"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=160s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Mixing the curry",
+          "Adding water to the curry"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=200s",
+        "actions": [
+          "Placing cooked rice on chicken",
+          "Drizzling ghee over rice"
+        ],
+        "confidence_score": 0.601
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=210s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Pouring grated carrot onto rice"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=220s",
+        "actions": [
+          "Placing a lid on the pressure cooker",
+          "Cooking rice and toppings under pressure",
+          "Removing the lid to reveal the cooked rice"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=230s",
+        "actions": [
+          "Adding grated carrots to rice",
+          "Adding chopped coriander leaves to the rice",
+          "Tossing ingredients together",
+          "Stirring and mixing the ingredients in the wok"
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "260-266",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=260s",
+        "actions": [
+          "Presenting the curried rice",
+          "Arranging garnishes and side accompaniments"
+        ],
+        "confidence_score": 0.604
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:20,905 --> 00:00:50,689",
+    "audio_description": "Add ¼ tsp hing, ½ tsp amchur (dry mango powder), and salt to taste. Grind all these ingredients together. The masala paste is ready. Now I’ll do two processes at once. First, cooking the potatoes: take 1½ tbsp oil and turn on the flame. I have 250 g baby potatoes, pressure-cooked and peeled. Toss them.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=10s",
+        "actions": [
+          "Placing the stainless steel mixing bowl on the countertop",
+          "Adding grated fresh coconut to the bowl",
+          "Adding boiled Kashmiri red chillies to the bowl",
+          "Adding coriander-cumin seed powder to the bowl"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=20s",
+        "actions": [
+          "Adding coriander-cumin seed powder to the spice grinder",
+          "Adding red chilies to the spice grinder",
+          "Adding asafetida to the spice grinder",
+          "Adding raw mango powder to the spice grinder",
+          "Adding salt to the spice grinder",
+          "Placing the lid on the spice grinder"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=30s",
+        "actions": [
+          "Adding oil to the skillet",
+          "Measuring and adding ingredients to the pot",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=40s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing pan on the gas stove",
+          "Adding baby potatoes into the pan"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=60s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing a cinnamon stick into the pan",
+          "Adding cloves into the pan",
+          "Adding a bay leaf into the pan",
+          "Adding cardamoms into the pan"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=90s",
+        "actions": [
+          "Sauteing potatoes and masala",
+          "Sprinkling salt",
+          "Stirring the potatoes and masala",
+          "Frying onions"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=100s",
+        "actions": [
+          "Scooping onions from the wok",
+          "Adding ginger paste to the wok",
+          "Adding garlic paste to the wok"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=110s",
+        "actions": [
+          "Adding green chilies to the pan",
+          "Stirring ingredients in the pan",
+          "Adding chopped spinach leaves to the pan"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=150s",
+        "actions": [
+          "Adding Kashmiri Red Chilli Powder to the wok",
+          "Adding Garam Masala Powder to the wok",
+          "Adding Sugar to the wok",
+          "Adding Salt to the wok",
+          "Adding Lemon juice to the wok"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=160s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Mixing the curry",
+          "Adding water to the curry"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "260-266",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=260s",
+        "actions": [
+          "Presenting the curried rice",
+          "Arranging garnishes and side accompaniments"
+        ],
+        "confidence_score": 0.567
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:51,347 --> 00:01:18,212",
+    "audio_description": "On medium heat, cook till they get some colour. In another pan, heat 2 tbsp oil. Add 1 piece of cinnamon, 4 cloves, 1 bay leaf, 3 cardamoms, 7-8 peppercorns, and 3 shredded onions. Sauté the onions until golden brown.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=30s",
+        "actions": [
+          "Adding oil to the skillet",
+          "Measuring and adding ingredients to the pot",
+          "Explaining or talking about the cooking process"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=40s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing pan on the gas stove",
+          "Adding baby potatoes into the pan"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=60s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing a cinnamon stick into the pan",
+          "Adding cloves into the pan",
+          "Adding a bay leaf into the pan",
+          "Adding cardamoms into the pan"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=70s",
+        "actions": [
+          "Adding cardamoms to the pan",
+          "Adding bay leaves to the pan",
+          "Adding whole spices to the pan",
+          "Adding peppercorns to the pan",
+          "Adding sliced onions to the pan",
+          "Stirring onions in the pan",
+          "Sautéing onions until they turn golden brown"
+        ],
+        "confidence_score": 0.788
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=90s",
+        "actions": [
+          "Sauteing potatoes and masala",
+          "Sprinkling salt",
+          "Stirring the potatoes and masala",
+          "Frying onions"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=100s",
+        "actions": [
+          "Scooping onions from the wok",
+          "Adding ginger paste to the wok",
+          "Adding garlic paste to the wok"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=110s",
+        "actions": [
+          "Adding green chilies to the pan",
+          "Stirring ingredients in the pan",
+          "Adding chopped spinach leaves to the pan"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=120s",
+        "actions": [
+          "Adding coriander leaves to the pan",
+          "Stirring coriander leaves",
+          "Adding chopped tomatoes to the pan",
+          "Adding chopped cashew nuts to the pan"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=130s",
+        "actions": [
+          "Adding chopped cashew nuts to the pan",
+          "Pouring water into the pan",
+          "Adding raisins to the pan",
+          "Stirring the mixture with a spatula",
+          "Grinding pepper into a bowl"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=140s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=150s",
+        "actions": [
+          "Adding Kashmiri Red Chilli Powder to the wok",
+          "Adding Garam Masala Powder to the wok",
+          "Adding Sugar to the wok",
+          "Adding Salt to the wok",
+          "Adding Lemon juice to the wok"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=210s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Pouring grated carrot onto rice"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=220s",
+        "actions": [
+          "Placing a lid on the pressure cooker",
+          "Cooking rice and toppings under pressure",
+          "Removing the lid to reveal the cooked rice"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.615
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:20,980 --> 00:01:33,602",
+    "audio_description": "The potatoes have browned. Now add the masala paste. Sauté the potatoes and paste for 2-3 minutes. Add a little more salt too.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=10s",
+        "actions": [
+          "Placing the stainless steel mixing bowl on the countertop",
+          "Adding grated fresh coconut to the bowl",
+          "Adding boiled Kashmiri red chillies to the bowl",
+          "Adding coriander-cumin seed powder to the bowl"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=20s",
+        "actions": [
+          "Adding coriander-cumin seed powder to the spice grinder",
+          "Adding red chilies to the spice grinder",
+          "Adding asafetida to the spice grinder",
+          "Adding raw mango powder to the spice grinder",
+          "Adding salt to the spice grinder",
+          "Placing the lid on the spice grinder"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=40s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing pan on the gas stove",
+          "Adding baby potatoes into the pan"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.81
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=90s",
+        "actions": [
+          "Sauteing potatoes and masala",
+          "Sprinkling salt",
+          "Stirring the potatoes and masala",
+          "Frying onions"
+        ],
+        "confidence_score": 0.81
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=100s",
+        "actions": [
+          "Scooping onions from the wok",
+          "Adding ginger paste to the wok",
+          "Adding garlic paste to the wok"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=110s",
+        "actions": [
+          "Adding green chilies to the pan",
+          "Stirring ingredients in the pan",
+          "Adding chopped spinach leaves to the pan"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=130s",
+        "actions": [
+          "Adding chopped cashew nuts to the pan",
+          "Pouring water into the pan",
+          "Adding raisins to the pan",
+          "Stirring the mixture with a spatula",
+          "Grinding pepper into a bowl"
+        ],
+        "confidence_score": 0.631
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=150s",
+        "actions": [
+          "Adding Kashmiri Red Chilli Powder to the wok",
+          "Adding Garam Masala Powder to the wok",
+          "Adding Sugar to the wok",
+          "Adding Salt to the wok",
+          "Adding Lemon juice to the wok"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=160s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Mixing the curry",
+          "Adding water to the curry"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=200s",
+        "actions": [
+          "Placing cooked rice on chicken",
+          "Drizzling ghee over rice"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "260-266",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=260s",
+        "actions": [
+          "Presenting the curried rice",
+          "Arranging garnishes and side accompaniments"
+        ],
+        "confidence_score": 0.615
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:35,947 --> 00:02:02,998",
+    "audio_description": "This is ready—turn off the flame. Remove 2 tbsp of onions and keep aside for garnish. Add 1 tbsp ginger paste, 1 tbsp garlic paste, and 2 broken green chillies. Sauté for a couple of minutes. Add 1½ cups finely chopped spinach (optional).",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=10s",
+        "actions": [
+          "Placing the stainless steel mixing bowl on the countertop",
+          "Adding grated fresh coconut to the bowl",
+          "Adding boiled Kashmiri red chillies to the bowl",
+          "Adding coriander-cumin seed powder to the bowl"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=40s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing pan on the gas stove",
+          "Adding baby potatoes into the pan"
+        ],
+        "confidence_score": 0.598
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=100s",
+        "actions": [
+          "Scooping onions from the wok",
+          "Adding ginger paste to the wok",
+          "Adding garlic paste to the wok"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=110s",
+        "actions": [
+          "Adding green chilies to the pan",
+          "Stirring ingredients in the pan",
+          "Adding chopped spinach leaves to the pan"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=120s",
+        "actions": [
+          "Adding coriander leaves to the pan",
+          "Stirring coriander leaves",
+          "Adding chopped tomatoes to the pan",
+          "Adding chopped cashew nuts to the pan"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=130s",
+        "actions": [
+          "Adding chopped cashew nuts to the pan",
+          "Pouring water into the pan",
+          "Adding raisins to the pan",
+          "Stirring the mixture with a spatula",
+          "Grinding pepper into a bowl"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=140s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=150s",
+        "actions": [
+          "Adding Kashmiri Red Chilli Powder to the wok",
+          "Adding Garam Masala Powder to the wok",
+          "Adding Sugar to the wok",
+          "Adding Salt to the wok",
+          "Adding Lemon juice to the wok"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=160s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Mixing the curry",
+          "Adding water to the curry"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=200s",
+        "actions": [
+          "Placing cooked rice on chicken",
+          "Drizzling ghee over rice"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=210s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Pouring grated carrot onto rice"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=220s",
+        "actions": [
+          "Placing a lid on the pressure cooker",
+          "Cooking rice and toppings under pressure",
+          "Removing the lid to reveal the cooked rice"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=230s",
+        "actions": [
+          "Adding grated carrots to rice",
+          "Adding chopped coriander leaves to the rice",
+          "Tossing ingredients together",
+          "Stirring and mixing the ingredients in the wok"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "260-266",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=260s",
+        "actions": [
+          "Presenting the curried rice",
+          "Arranging garnishes and side accompaniments"
+        ],
+        "confidence_score": 0.613
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:06,727 --> 00:02:23,823",
+    "audio_description": "Add 2 roughly chopped tomatoes, 2 tbsp cashews, and 2 tbsp raisins. Lightly mash the tomatoes.",
+    "aligned_chunks": [
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=110s",
+        "actions": [
+          "Adding green chilies to the pan",
+          "Stirring ingredients in the pan",
+          "Adding chopped spinach leaves to the pan"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=120s",
+        "actions": [
+          "Adding coriander leaves to the pan",
+          "Stirring coriander leaves",
+          "Adding chopped tomatoes to the pan",
+          "Adding chopped cashew nuts to the pan"
+        ],
+        "confidence_score": 0.844
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=130s",
+        "actions": [
+          "Adding chopped cashew nuts to the pan",
+          "Pouring water into the pan",
+          "Adding raisins to the pan",
+          "Stirring the mixture with a spatula",
+          "Grinding pepper into a bowl"
+        ],
+        "confidence_score": 0.844
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=140s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=230s",
+        "actions": [
+          "Adding grated carrots to rice",
+          "Adding chopped coriander leaves to the rice",
+          "Tossing ingredients together",
+          "Stirring and mixing the ingredients in the wok"
+        ],
+        "confidence_score": 0.809
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.727
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:28,717 --> 00:02:53,405",
+    "audio_description": "Now add 1 tsp Kashmiri red chilli powder, 1 tsp garam masala, 1 tsp sugar, salt to taste, and juice of half a lemon. Mix well and cook for 2–3 minutes. Add ½ cup water and let it simmer.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=10s",
+        "actions": [
+          "Placing the stainless steel mixing bowl on the countertop",
+          "Adding grated fresh coconut to the bowl",
+          "Adding boiled Kashmiri red chillies to the bowl",
+          "Adding coriander-cumin seed powder to the bowl"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=20s",
+        "actions": [
+          "Adding coriander-cumin seed powder to the spice grinder",
+          "Adding red chilies to the spice grinder",
+          "Adding asafetida to the spice grinder",
+          "Adding raw mango powder to the spice grinder",
+          "Adding salt to the spice grinder",
+          "Placing the lid on the spice grinder"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=40s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing pan on the gas stove",
+          "Adding baby potatoes into the pan"
+        ],
+        "confidence_score": 0.539
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=90s",
+        "actions": [
+          "Sauteing potatoes and masala",
+          "Sprinkling salt",
+          "Stirring the potatoes and masala",
+          "Frying onions"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=110s",
+        "actions": [
+          "Adding green chilies to the pan",
+          "Stirring ingredients in the pan",
+          "Adding chopped spinach leaves to the pan"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=130s",
+        "actions": [
+          "Adding chopped cashew nuts to the pan",
+          "Pouring water into the pan",
+          "Adding raisins to the pan",
+          "Stirring the mixture with a spatula",
+          "Grinding pepper into a bowl"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=150s",
+        "actions": [
+          "Adding Kashmiri Red Chilli Powder to the wok",
+          "Adding Garam Masala Powder to the wok",
+          "Adding Sugar to the wok",
+          "Adding Salt to the wok",
+          "Adding Lemon juice to the wok"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=160s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Mixing the curry",
+          "Adding water to the curry"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=170s",
+        "actions": [
+          "Pouring water",
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=200s",
+        "actions": [
+          "Placing cooked rice on chicken",
+          "Drizzling ghee over rice"
+        ],
+        "confidence_score": 0.531
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.538
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "260-266",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=260s",
+        "actions": [
+          "Presenting the curried rice",
+          "Arranging garnishes and side accompaniments"
+        ],
+        "confidence_score": 0.545
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:58,618 --> 00:03:23,914",
+    "audio_description": "This is the consistency I need. Now let’s layer everything. First layer: the potatoes. I also have 1 cup of rice, boiled in salted water. Spread the potatoes evenly, don’t mix. Then top with the boiled rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=10s",
+        "actions": [
+          "Placing the stainless steel mixing bowl on the countertop",
+          "Adding grated fresh coconut to the bowl",
+          "Adding boiled Kashmiri red chillies to the bowl",
+          "Adding coriander-cumin seed powder to the bowl"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=40s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing pan on the gas stove",
+          "Adding baby potatoes into the pan"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.729
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=90s",
+        "actions": [
+          "Sauteing potatoes and masala",
+          "Sprinkling salt",
+          "Stirring the potatoes and masala",
+          "Frying onions"
+        ],
+        "confidence_score": 0.727
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=150s",
+        "actions": [
+          "Adding Kashmiri Red Chilli Powder to the wok",
+          "Adding Garam Masala Powder to the wok",
+          "Adding Sugar to the wok",
+          "Adding Salt to the wok",
+          "Adding Lemon juice to the wok"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=160s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Mixing the curry",
+          "Adding water to the curry"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=170s",
+        "actions": [
+          "Pouring water",
+          "Stirring curry",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.783
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=200s",
+        "actions": [
+          "Placing cooked rice on chicken",
+          "Drizzling ghee over rice"
+        ],
+        "confidence_score": 0.714
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=210s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Pouring grated carrot onto rice"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=220s",
+        "actions": [
+          "Placing a lid on the pressure cooker",
+          "Cooking rice and toppings under pressure",
+          "Removing the lid to reveal the cooked rice"
+        ],
+        "confidence_score": 0.733
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=230s",
+        "actions": [
+          "Adding grated carrots to rice",
+          "Adding chopped coriander leaves to the rice",
+          "Tossing ingredients together",
+          "Stirring and mixing the ingredients in the wok"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "260-266",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=260s",
+        "actions": [
+          "Presenting the curried rice",
+          "Arranging garnishes and side accompaniments"
+        ],
+        "confidence_score": 0.676
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:27,830 --> 00:03:54,592",
+    "audio_description": "Drizzle some ghee. Add the fried onions. Then 1 grated carrot—for beautiful colour. Open this. Final garnish: fresh coriander leaves.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=10s",
+        "actions": [
+          "Placing the stainless steel mixing bowl on the countertop",
+          "Adding grated fresh coconut to the bowl",
+          "Adding boiled Kashmiri red chillies to the bowl",
+          "Adding coriander-cumin seed powder to the bowl"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.657
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=70s",
+        "actions": [
+          "Adding cardamoms to the pan",
+          "Adding bay leaves to the pan",
+          "Adding whole spices to the pan",
+          "Adding peppercorns to the pan",
+          "Adding sliced onions to the pan",
+          "Stirring onions in the pan",
+          "Sautéing onions until they turn golden brown"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=80s",
+        "actions": [
+          "Frying onions",
+          "Adding garlic paste",
+          "Frying potatoes",
+          "Adding masala paste",
+          "Sauteing potatoes and masala"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=100s",
+        "actions": [
+          "Scooping onions from the wok",
+          "Adding ginger paste to the wok",
+          "Adding garlic paste to the wok"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=110s",
+        "actions": [
+          "Adding green chilies to the pan",
+          "Stirring ingredients in the pan",
+          "Adding chopped spinach leaves to the pan"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=120s",
+        "actions": [
+          "Adding coriander leaves to the pan",
+          "Stirring coriander leaves",
+          "Adding chopped tomatoes to the pan",
+          "Adding chopped cashew nuts to the pan"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=130s",
+        "actions": [
+          "Adding chopped cashew nuts to the pan",
+          "Pouring water into the pan",
+          "Adding raisins to the pan",
+          "Stirring the mixture with a spatula",
+          "Grinding pepper into a bowl"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=140s",
+        "actions": [
+          "Stirring vegetables",
+          "Mixing ingredients"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=160s",
+        "actions": [
+          "Adding lemon juice to the curry",
+          "Mixing the curry",
+          "Adding water to the curry"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=200s",
+        "actions": [
+          "Placing cooked rice on chicken",
+          "Drizzling ghee over rice"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=210s",
+        "actions": [
+          "Adding fried onions to rice",
+          "Pouring grated carrot onto rice"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=220s",
+        "actions": [
+          "Placing a lid on the pressure cooker",
+          "Cooking rice and toppings under pressure",
+          "Removing the lid to reveal the cooked rice"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=230s",
+        "actions": [
+          "Adding grated carrots to rice",
+          "Adding chopped coriander leaves to the rice",
+          "Tossing ingredients together",
+          "Stirring and mixing the ingredients in the wok"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.747
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:55,824 --> 00:04:25,660",
+    "audio_description": "Toss all the layers lightly—just don't overmix. Done! Time to plate. Serve this Malabar Aloo Biryani with your favourite raita and some papadums. I can’t wait to dig in. Do try this recipe at home. Comment below and I’ll see you soon. Bye-bye.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=0s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Adding vegetables to the rice",
+          "Placing cashew nuts on top",
+          "Placing onion slices and raita on the side",
+          "Speaking to the audience (the host is presenting the dish)"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=40s",
+        "actions": [
+          "Pouring oil into the pan",
+          "Placing pan on the gas stove",
+          "Adding baby potatoes into the pan"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=50s",
+        "actions": [
+          "Frying potatoes",
+          "Adding oil to the wok",
+          "Stirring potatoes",
+          "Speaking and explaining the cooking process"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=180s",
+        "actions": [
+          "Stirring curry",
+          "Holding a bowl of rice",
+          "Pointing at ingredients",
+          "Talking to the camera"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=190s",
+        "actions": [
+          "Layering the potato mixture in the curry",
+          "Stirring the potato mixture in the wok",
+          "Adding ingredients to the pan",
+          "Placing ingredients on the counter"
+        ],
+        "confidence_score": 0.712
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=230s",
+        "actions": [
+          "Adding grated carrots to rice",
+          "Adding chopped coriander leaves to the rice",
+          "Tossing ingredients together",
+          "Stirring and mixing the ingredients in the wok"
+        ],
+        "confidence_score": 0.663
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=240s",
+        "actions": [
+          "Transferring rice mixture from colander to plate",
+          "Piling rice onto a plate",
+          "Mixing and adjusting the rice on the plate"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=250s",
+        "actions": [
+          "Garnishing rice with coriander leaves",
+          "Talking to the camera",
+          "Placing the garnished dish on the counter",
+          "Asking viewers to subscribe"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "260-266",
+        "url": "https://www.youtube.com/watch?v=FU5VMxP1o3w&t=260s",
+        "actions": [
+          "Presenting the curried rice",
+          "Arranging garnishes and side accompaniments"
+        ],
+        "confidence_score": 0.636
+      }
+    ]
+  }
+]

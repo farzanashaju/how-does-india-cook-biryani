@@ -1,0 +1,4827 @@
+[
+  {
+    "audio_timestamp": "00:00:00,757 --> 00:00:24,617",
+    "audio_description": "Hi friends, welcome back to my video! Today we’ll make Kolkata’s famous dish—Dada-Boudi Biryani. Just look at how amazing it looks! So let’s get started. For this, I’ve taken…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.716
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:28,111 --> 00:00:46,859",
+    "audio_description": "…and we’ll set this aside. I’ve taken a big bowl, placed a strainer on top, and added around two heaping tablespoons of ginger and garlic paste. By adding water to it, we’ll extract the juice. This is for one kilo of biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=30s",
+        "actions": [
+          "Placing the mixture in the measuring cup",
+          "Adding more mixture to the cup",
+          "Pouring water into the measuring cup"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "40-50",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=40s",
+        "actions": [
+          "Scooping flour with a cup",
+          "Sifting flour through the strainer",
+          "Stirring flour with a spatula"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.587
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=60s",
+        "actions": [
+          "Placing the bowl on the table",
+          "Pouring oil into the cooking pot"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=150s",
+        "actions": [
+          "Stirring potatoes",
+          "Gently moving potatoes in the pan"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.532
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=270s",
+        "actions": [
+          "Pouring sauce",
+          "Stirring sauce with metal spoon",
+          "Removing ladle with sauce"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.606
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=300s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Adding sauce to the mixture"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=390s",
+        "actions": [
+          "Placing shredded rice into the mixing bowl",
+          "Pouring additional rice over the existing ingredients",
+          "Adding more rice to ensure an even distribution"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=430s",
+        "actions": [
+          "Holding a bowl with saffron-infused liquid over the rice"
+        ],
+        "confidence_score": 0.669
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=500s",
+        "actions": [
+          "Mixing rice with cheese using a slotted spoon",
+          "Flipping and stirring the mixture to combine the ingredients"
+        ],
+        "confidence_score": 0.612
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=530s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing cashew nuts on top of rice"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.62
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:50,487 --> 00:01:20,338",
+    "audio_description": "Keep adding a little water while stirring to extract the juice. Once done, discard the ginger-garlic residue. You can see I’ve extracted about 3 cups of juice here in total.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=30s",
+        "actions": [
+          "Placing the mixture in the measuring cup",
+          "Adding more mixture to the cup",
+          "Pouring water into the measuring cup"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.702
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=150s",
+        "actions": [
+          "Stirring potatoes",
+          "Gently moving potatoes in the pan"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.572
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=300s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Adding sauce to the mixture"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.667
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=430s",
+        "actions": [
+          "Holding a bowl with saffron-infused liquid over the rice"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=530s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing cashew nuts on top of rice"
+        ],
+        "confidence_score": 0.631
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:21,671 --> 00:01:50,713",
+    "audio_description": "Let this sizzle for a bit. Add a little fried onion from earlier—just a bit. Now add the juice we prepared. Take a pinch of food color—just a pinch, because…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=10s",
+        "actions": [
+          "Adding shredded cheese to a plate",
+          "Adding brown fried onions to a plate",
+          "Placing a colander on a plate",
+          "Showing and demonstrating frying onions in a pot",
+          "Holding and examining fried onions"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=30s",
+        "actions": [
+          "Placing the mixture in the measuring cup",
+          "Adding more mixture to the cup",
+          "Pouring water into the measuring cup"
+        ],
+        "confidence_score": 0.68
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.656
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.72
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=430s",
+        "actions": [
+          "Holding a bowl with saffron-infused liquid over the rice"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.713
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:54,224 --> 00:02:23,924",
+    "audio_description": "Now add 1 teaspoon of red chili powder and 1 kg of potatoes, cut and washed well. Add them in and 1 teaspoon of salt. Cover and cook on low flame for 8–9 minutes. Look at this…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=80s",
+        "actions": [
+          "Adding bay leaf to the pan",
+          "Adding dried chilies to the pan",
+          "Adding mustard seeds to the pan",
+          "Heating spices in oil"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=120s",
+        "actions": [
+          "Adding water to potatoes",
+          "Adding salt to the pot",
+          "Stirring the pot contents",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=130s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing boiled potatoes inside the cooker"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=150s",
+        "actions": [
+          "Stirring potatoes",
+          "Gently moving potatoes in the pan"
+        ],
+        "confidence_score": 0.694
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=170s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Adding red chili powder to the chicken and sauce mixture"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.75
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.746
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.643
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.666
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.738
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.7
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.674
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.592
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.614
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:24,581 --> 00:02:52,882",
+    "audio_description": "Don’t overcook them—only about 80%, because we’ll also steam them later (dum). The centers of the potatoes should be slightly firm. Remove all the potatoes once done.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.604
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=120s",
+        "actions": [
+          "Adding water to potatoes",
+          "Adding salt to the pot",
+          "Stirring the pot contents",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=130s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing boiled potatoes inside the cooker"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=150s",
+        "actions": [
+          "Stirring potatoes",
+          "Gently moving potatoes in the pan"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.678
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.661
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.577
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.578
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.593
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:02:53,623 --> 00:03:10,769",
+    "audio_description": "Mix everything well. Now add 1 teaspoon of red chili powder again—we already added 1 teaspoon to the potatoes earlier, so keep that in mind. I’ve added 1 teaspoon of salt, but adjust to your taste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.638
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=80s",
+        "actions": [
+          "Adding bay leaf to the pan",
+          "Adding dried chilies to the pan",
+          "Adding mustard seeds to the pan",
+          "Heating spices in oil"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=120s",
+        "actions": [
+          "Adding water to potatoes",
+          "Adding salt to the pot",
+          "Stirring the pot contents",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.716
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=130s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing boiled potatoes inside the cooker"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=150s",
+        "actions": [
+          "Stirring potatoes",
+          "Gently moving potatoes in the pan"
+        ],
+        "confidence_score": 0.718
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=170s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Adding red chili powder to the chicken and sauce mixture"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.709
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.707
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.645
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:12,253 --> 00:03:30,461",
+    "audio_description": "Now here’s a secret ingredient: I added around 3 drops of sweet attar (aromatic essence). It’s easily available in the market. Ask any grocer for \"meetha attar\" and they’ll give it to you. I used 100g of yogurt…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=30s",
+        "actions": [
+          "Placing the mixture in the measuring cup",
+          "Adding more mixture to the cup",
+          "Pouring water into the measuring cup"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.603
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.576
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=430s",
+        "actions": [
+          "Holding a bowl with saffron-infused liquid over the rice"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.609
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.588
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:03:33,466 --> 00:04:01,883",
+    "audio_description": "Mix it all well, then cover and cook on low flame for 25–30 minutes. Now look—the meat has softened well. It took about 30 minutes to cook, and you can see how nicely it turned out.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.517
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.518
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.564
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=210s",
+        "actions": [
+          "Placing lid on the wok/pan"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=220s",
+        "actions": [
+          "Opening pressure cooker lid",
+          "Simmering meat in sauce"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.508
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=240s",
+        "actions": [
+          "Separating meat from the liquid",
+          "Pointing towards the liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.586
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.593
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.568
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.569
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.524
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.546
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.559
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:02,187 --> 00:04:25,372",
+    "audio_description": "You can’t make biryani without oil—don’t believe anyone who says otherwise. If your meat already has enough fat, you don’t need to add extra oil. I won’t show unnecessary steps if they’re not needed.",
+    "aligned_chunks": [
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=60s",
+        "actions": [
+          "Placing the bowl on the table",
+          "Pouring oil into the cooking pot"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.622
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=210s",
+        "actions": [
+          "Placing lid on the wok/pan"
+        ],
+        "confidence_score": 0.56
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=220s",
+        "actions": [
+          "Opening pressure cooker lid",
+          "Simmering meat in sauce"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.559
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=240s",
+        "actions": [
+          "Separating meat from the liquid",
+          "Pointing towards the liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "270-280",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=270s",
+        "actions": [
+          "Pouring sauce",
+          "Stirring sauce with metal spoon",
+          "Removing ladle with sauce"
+        ],
+        "confidence_score": 0.571
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.637
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.561
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.565
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:25,896 --> 00:04:54,127",
+    "audio_description": "Separate the meat and strain the gravy. This step is crucial—chefs at Dada-Boudi always do this. Discard all the remaining whole spices from the gravy. Now add bay leaves…",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.573
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "70-80",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=70s",
+        "actions": [
+          "Adding mustard seeds to the pan",
+          "Adding cinnamon stick to the pan",
+          "Adding cardamom pods to the pan",
+          "Adding bay leaf to the pan"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=80s",
+        "actions": [
+          "Adding bay leaf to the pan",
+          "Adding dried chilies to the pan",
+          "Adding mustard seeds to the pan",
+          "Heating spices in oil"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.6
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=120s",
+        "actions": [
+          "Adding water to potatoes",
+          "Adding salt to the pot",
+          "Stirring the pot contents",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.627
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=170s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Adding red chili powder to the chicken and sauce mixture"
+        ],
+        "confidence_score": 0.64
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.618
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.628
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=210s",
+        "actions": [
+          "Placing lid on the wok/pan"
+        ],
+        "confidence_score": 0.579
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=220s",
+        "actions": [
+          "Opening pressure cooker lid",
+          "Simmering meat in sauce"
+        ],
+        "confidence_score": 0.655
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.554
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=240s",
+        "actions": [
+          "Separating meat from the liquid",
+          "Pointing towards the liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "300-310",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=300s",
+        "actions": [
+          "Mixing ingredients in a bowl",
+          "Adding sauce to the mixture"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.614
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.626
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=390s",
+        "actions": [
+          "Placing shredded rice into the mixing bowl",
+          "Pouring additional rice over the existing ingredients",
+          "Adding more rice to ensure an even distribution"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.543
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.589
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.582
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:04:55,545 --> 00:05:20,470",
+    "audio_description": "I’ll definitely share the secret biryani masala recipe too. Mix everything well and set it aside. Now in the pot you’ll use for dum, arrange the meat you just strained.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.698
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=10s",
+        "actions": [
+          "Adding shredded cheese to a plate",
+          "Adding brown fried onions to a plate",
+          "Placing a colander on a plate",
+          "Showing and demonstrating frying onions in a pot",
+          "Holding and examining fried onions"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.705
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=60s",
+        "actions": [
+          "Placing the bowl on the table",
+          "Pouring oil into the cooking pot"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.773
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.697
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=170s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Adding red chili powder to the chicken and sauce mixture"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "210-220",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=210s",
+        "actions": [
+          "Placing lid on the wok/pan"
+        ],
+        "confidence_score": 0.67
+      },
+      {
+        "timestamp": "220-230",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=220s",
+        "actions": [
+          "Opening pressure cooker lid",
+          "Simmering meat in sauce"
+        ],
+        "confidence_score": 0.732
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.636
+      },
+      {
+        "timestamp": "240-250",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=240s",
+        "actions": [
+          "Separating meat from the liquid",
+          "Pointing towards the liquid in the pressure cooker"
+        ],
+        "confidence_score": 0.703
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=250s",
+        "actions": [
+          "Adding liquid to the pot"
+        ],
+        "confidence_score": 0.696
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.725
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.749
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.719
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.768
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.751
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.73
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.717
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=410s",
+        "actions": [
+          "Pouring liquid over rice"
+        ],
+        "confidence_score": 0.676
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.689
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "450-460",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=450s",
+        "actions": [
+          "Covering rice with a lid"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=490s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Mixing rice with yellow strands using a ladle"
+        ],
+        "confidence_score": 0.724
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.743
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:21,651 --> 00:05:40,146",
+    "audio_description": "The strained gravy measures around 2 cups. Now add the well-cooked potatoes in the pot. If you’re enjoying the video, please like it, and if you’re new to the channel, don’t forget to subscribe.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=10s",
+        "actions": [
+          "Adding shredded cheese to a plate",
+          "Adding brown fried onions to a plate",
+          "Placing a colander on a plate",
+          "Showing and demonstrating frying onions in a pot",
+          "Holding and examining fried onions"
+        ],
+        "confidence_score": 0.602
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.647
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.545
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=60s",
+        "actions": [
+          "Placing the bowl on the table",
+          "Pouring oil into the cooking pot"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.624
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "120-130",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=120s",
+        "actions": [
+          "Adding water to potatoes",
+          "Adding salt to the pot",
+          "Stirring the pot contents",
+          "Covering the pot with a lid"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "130-140",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=130s",
+        "actions": [
+          "Opening the pressure cooker lid",
+          "Revealing boiled potatoes inside the cooker"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "150-160",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=150s",
+        "actions": [
+          "Stirring potatoes",
+          "Gently moving potatoes in the pan"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.597
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=170s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Adding red chili powder to the chicken and sauce mixture"
+        ],
+        "confidence_score": 0.611
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.528
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=250s",
+        "actions": [
+          "Adding liquid to the pot"
+        ],
+        "confidence_score": 0.632
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.534
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.664
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.646
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=390s",
+        "actions": [
+          "Placing shredded rice into the mixing bowl",
+          "Pouring additional rice over the existing ingredients",
+          "Adding more rice to ensure an even distribution"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.63
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=410s",
+        "actions": [
+          "Pouring liquid over rice"
+        ],
+        "confidence_score": 0.565
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.594
+      },
+      {
+        "timestamp": "450-460",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=450s",
+        "actions": [
+          "Covering rice with a lid"
+        ],
+        "confidence_score": 0.574
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=490s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Mixing rice with yellow strands using a ladle"
+        ],
+        "confidence_score": 0.591
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.614
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:05:42,509 --> 00:06:11,973",
+    "audio_description": "I’ve taken about 50g of mawa (khoya)—mix it in well. If you don’t have mawa, no worries—you can just use onions. Adding mawa gives Dada-Boudi biryani its unique richness and taste.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.494
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=10s",
+        "actions": [
+          "Adding shredded cheese to a plate",
+          "Adding brown fried onions to a plate",
+          "Placing a colander on a plate",
+          "Showing and demonstrating frying onions in a pot",
+          "Holding and examining fried onions"
+        ],
+        "confidence_score": 0.548
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.493
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.58
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.513
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.529
+      },
+      {
+        "timestamp": "180-190",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=180s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Sprinkling salt over the meat",
+          "Pouring oil into the pan"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "200-210",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=200s",
+        "actions": [
+          "Adding chili powder to the pan",
+          "Adding yogurt or cream to the pan",
+          "Stirring the meat with a wooden spatula"
+        ],
+        "confidence_score": 0.535
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.431
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.479
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.511
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.555
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.522
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.575
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.483
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.54
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.526
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.527
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:16,124 --> 00:06:31,935",
+    "audio_description": "Add dried plums (aloo bukhara).",
+    "aligned_chunks": [
+      {
+        "timestamp": "80-90",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=80s",
+        "actions": [
+          "Adding bay leaf to the pan",
+          "Adding dried chilies to the pan",
+          "Adding mustard seeds to the pan",
+          "Heating spices in oil"
+        ],
+        "confidence_score": 0.794
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:06:32,880 --> 00:06:59,425",
+    "audio_description": "Now we’ll add rice that I’ve cooked to 80%. If you’re unsure how to make perfect biryani rice, I’ve added the link in the description. Go check it out.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.645
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.722
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.679
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.623
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.728
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.685
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.742
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=390s",
+        "actions": [
+          "Placing shredded rice into the mixing bowl",
+          "Pouring additional rice over the existing ingredients",
+          "Adding more rice to ensure an even distribution"
+        ],
+        "confidence_score": 0.767
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=410s",
+        "actions": [
+          "Pouring liquid over rice"
+        ],
+        "confidence_score": 0.713
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.721
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=430s",
+        "actions": [
+          "Holding a bowl with saffron-infused liquid over the rice"
+        ],
+        "confidence_score": 0.74
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.726
+      },
+      {
+        "timestamp": "450-460",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=450s",
+        "actions": [
+          "Covering rice with a lid"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=490s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Mixing rice with yellow strands using a ladle"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=500s",
+        "actions": [
+          "Mixing rice with cheese using a slotted spoon",
+          "Flipping and stirring the mixture to combine the ingredients"
+        ],
+        "confidence_score": 0.734
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.748
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=530s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing cashew nuts on top of rice"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.739
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:02,209 --> 00:07:30,019",
+    "audio_description": "Wash your hands thoroughly before touching the rice.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.816
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.691
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=390s",
+        "actions": [
+          "Placing shredded rice into the mixing bowl",
+          "Pouring additional rice over the existing ingredients",
+          "Adding more rice to ensure an even distribution"
+        ],
+        "confidence_score": 0.814
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.822
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=410s",
+        "actions": [
+          "Pouring liquid over rice"
+        ],
+        "confidence_score": 0.814
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.828
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=430s",
+        "actions": [
+          "Holding a bowl with saffron-infused liquid over the rice"
+        ],
+        "confidence_score": 0.825
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "450-460",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=450s",
+        "actions": [
+          "Covering rice with a lid"
+        ],
+        "confidence_score": 0.828
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=490s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Mixing rice with yellow strands using a ladle"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=500s",
+        "actions": [
+          "Mixing rice with cheese using a slotted spoon",
+          "Flipping and stirring the mixture to combine the ingredients"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.83
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.84
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=530s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing cashew nuts on top of rice"
+        ],
+        "confidence_score": 0.828
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.828
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:32,163 --> 00:07:58,149",
+    "audio_description": "Spread the rice evenly. Look at how beautiful it looks. Now cover the pot, place it on dum. Take a heavy-bottomed iron tawa, preheat it, then place the biryani pot on it, lower the flame, and place a heavy object on top.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.672
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=10s",
+        "actions": [
+          "Adding shredded cheese to a plate",
+          "Adding brown fried onions to a plate",
+          "Placing a colander on a plate",
+          "Showing and demonstrating frying onions in a pot",
+          "Holding and examining fried onions"
+        ],
+        "confidence_score": 0.662
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "30-40",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=30s",
+        "actions": [
+          "Placing the mixture in the measuring cup",
+          "Adding more mixture to the cup",
+          "Pouring water into the measuring cup"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.585
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=60s",
+        "actions": [
+          "Placing the bowl on the table",
+          "Pouring oil into the cooking pot"
+        ],
+        "confidence_score": 0.682
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.693
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "140-150",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=140s",
+        "actions": [
+          "Adding fruit to boiling water",
+          "Stirring the fruit in boiling water with a wooden spoon"
+        ],
+        "confidence_score": 0.65
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.625
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=170s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Adding red chili powder to the chicken and sauce mixture"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.683
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.562
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=250s",
+        "actions": [
+          "Adding liquid to the pot"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.582
+      },
+      {
+        "timestamp": "310-320",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=310s",
+        "actions": [
+          "Adding dark brown sauce to the bowl with meat pieces"
+        ],
+        "confidence_score": 0.66
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.648
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.652
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.711
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.665
+      },
+      {
+        "timestamp": "370-380",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=370s",
+        "actions": [
+          "Adding white sauce to the bowl",
+          "Stirring the mixture in the bowl",
+          "Placing dollops of white sauce on top of diced potatoes"
+        ],
+        "confidence_score": 0.634
+      },
+      {
+        "timestamp": "390-400",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=390s",
+        "actions": [
+          "Placing shredded rice into the mixing bowl",
+          "Pouring additional rice over the existing ingredients",
+          "Adding more rice to ensure an even distribution"
+        ],
+        "confidence_score": 0.699
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.715
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=410s",
+        "actions": [
+          "Pouring liquid over rice"
+        ],
+        "confidence_score": 0.692
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.69
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=430s",
+        "actions": [
+          "Holding a bowl with saffron-infused liquid over the rice"
+        ],
+        "confidence_score": 0.71
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.681
+      },
+      {
+        "timestamp": "450-460",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=450s",
+        "actions": [
+          "Covering rice with a lid"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=490s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Mixing rice with yellow strands using a ladle"
+        ],
+        "confidence_score": 0.695
+      },
+      {
+        "timestamp": "500-510",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=500s",
+        "actions": [
+          "Mixing rice with cheese using a slotted spoon",
+          "Flipping and stirring the mixture to combine the ingredients"
+        ],
+        "confidence_score": 0.671
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.686
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.684
+      },
+      {
+        "timestamp": "530-540",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=530s",
+        "actions": [
+          "Scooping rice with a ladle",
+          "Placing cashew nuts on top of rice"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.687
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:07:59,601 --> 00:08:22,096",
+    "audio_description": "Let it steam (dum) on low flame for 25–30 minutes. Once that time is up, open the pot. It’s been about 30 minutes now—look at this delicious biryani!",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-10",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=0s",
+        "actions": [
+          "Flipping saffron rice",
+          "Serving rice onto a plate",
+          "Placing sliced vegetables on the side"
+        ],
+        "confidence_score": 0.557
+      },
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=10s",
+        "actions": [
+          "Adding shredded cheese to a plate",
+          "Adding brown fried onions to a plate",
+          "Placing a colander on a plate",
+          "Showing and demonstrating frying onions in a pot",
+          "Holding and examining fried onions"
+        ],
+        "confidence_score": 0.615
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.616
+      },
+      {
+        "timestamp": "50-60",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=50s",
+        "actions": [
+          "Scooping mixture",
+          "Stirring mixture"
+        ],
+        "confidence_score": 0.512
+      },
+      {
+        "timestamp": "60-70",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=60s",
+        "actions": [
+          "Placing the bowl on the table",
+          "Pouring oil into the cooking pot"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "90-100",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=90s",
+        "actions": [
+          "Pouring milk into the pan",
+          "Boiling mixture on the stove",
+          "Stirring the contents in the pan"
+        ],
+        "confidence_score": 0.654
+      },
+      {
+        "timestamp": "100-110",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=100s",
+        "actions": [
+          "Boiling water with spices",
+          "Adding salt to the pot",
+          "Adding turmeric powder to the pot",
+          "Stirring the contents in the pot"
+        ],
+        "confidence_score": 0.651
+      },
+      {
+        "timestamp": "110-120",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=110s",
+        "actions": [
+          "Heating oil",
+          "Adding bay leaves",
+          "Adding turmeric powder",
+          "Adding potato pieces"
+        ],
+        "confidence_score": 0.553
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "170-180",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=170s",
+        "actions": [
+          "Adding bay leaves to the pot",
+          "Adding red chili powder to the chicken and sauce mixture"
+        ],
+        "confidence_score": 0.608
+      },
+      {
+        "timestamp": "190-200",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=190s",
+        "actions": [
+          "Adding oil to the pot",
+          "Sprinkling salt over the meat",
+          "Adding red spice powder to the pot",
+          "Scooping flour or cornstarch",
+          "Pouring flour or cornstarch into the pot"
+        ],
+        "confidence_score": 0.642
+      },
+      {
+        "timestamp": "250-260",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=250s",
+        "actions": [
+          "Adding liquid to the pot"
+        ],
+        "confidence_score": 0.629
+      },
+      {
+        "timestamp": "260-270",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=260s",
+        "actions": [
+          "Transferring the brown liquid into a bowl using a ladle",
+          "Stirring the brown liquid with a spoon inside the ladle"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "280-290",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=280s",
+        "actions": [
+          "Pouring powder into liquid",
+          "Mixing powder into the liquid"
+        ],
+        "confidence_score": 0.525
+      },
+      {
+        "timestamp": "340-350",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=340s",
+        "actions": [
+          "Placing butter or ghee pieces into a strainer or colander",
+          "Gently pressing and spreading butter or ghee over spices",
+          "Holding the strainer or colander over the pot containing potatoes and meat"
+        ],
+        "confidence_score": 0.62
+      },
+      {
+        "timestamp": "350-360",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=350s",
+        "actions": [
+          "Placing potato wedges in the bowl",
+          "Mixing spices with the potato wedges",
+          "Pouring oil into the bowl with the potatoes and spices",
+          "Stirring to coat the potatoes with the spice mixture"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.588
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.566
+      },
+      {
+        "timestamp": "400-410",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=400s",
+        "actions": [
+          "Layering cheese over spiced mixture and potatoes",
+          "Pouring rice over the mixture in the pot"
+        ],
+        "confidence_score": 0.596
+      },
+      {
+        "timestamp": "410-420",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=410s",
+        "actions": [
+          "Pouring liquid over rice"
+        ],
+        "confidence_score": 0.563
+      },
+      {
+        "timestamp": "420-430",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=420s",
+        "actions": [
+          "Holding a bowl with orange liquid",
+          "Pouring liquid over the rice"
+        ],
+        "confidence_score": 0.567
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.57
+      },
+      {
+        "timestamp": "450-460",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=450s",
+        "actions": [
+          "Covering rice with a lid"
+        ],
+        "confidence_score": 0.544
+      },
+      {
+        "timestamp": "490-500",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=490s",
+        "actions": [
+          "Lifting the lid off the pot",
+          "Mixing rice with yellow strands using a ladle"
+        ],
+        "confidence_score": 0.613
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.607
+      },
+      {
+        "timestamp": "540-543",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=540s",
+        "actions": [
+          "Mixing the rice with a slotted spoon",
+          "Placing the mixed rice onto a plate",
+          "Adjusting the plate of rice on the countertop"
+        ],
+        "confidence_score": 0.558
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:08:25,166 --> 00:08:35,544",
+    "audio_description": "Dada-Boudi Biryani is very famous in Kolkata. People line up to eat it. Even I waited in line during Eid to taste it.",
+    "aligned_chunks": [
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.605
+      },
+      {
+        "timestamp": "230-240",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=230s",
+        "actions": [
+          "Pointing at the meat"
+        ],
+        "confidence_score": 0.595
+      },
+      {
+        "timestamp": "330-340",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=330s",
+        "actions": [
+          "Placing potatoes into the bowl",
+          "Adding the broth/sauce to the bowl"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "380-390",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=380s",
+        "actions": [
+          "Adding spices to the bowl with ingredients",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.639
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.622
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:08:37,856 --> 00:09:02,072",
+    "audio_description": "I thought I’d share this recipe with my viewers. You all loved my previous Kolkata-style biryani recipe—if you haven’t seen it yet, go check it out. It shows how easily you can make biryani at home.",
+    "aligned_chunks": [
+      {
+        "timestamp": "10-20",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=10s",
+        "actions": [
+          "Adding shredded cheese to a plate",
+          "Adding brown fried onions to a plate",
+          "Placing a colander on a plate",
+          "Showing and demonstrating frying onions in a pot",
+          "Holding and examining fried onions"
+        ],
+        "confidence_score": 0.659
+      },
+      {
+        "timestamp": "20-30",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=20s",
+        "actions": [
+          "Holding noodles",
+          "Adding noodles into a pot"
+        ],
+        "confidence_score": 0.619
+      },
+      {
+        "timestamp": "160-170",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=160s",
+        "actions": [
+          "Removing boiled pumpkin pieces from the pot",
+          "Adding seasoning (salt) to the soup",
+          "Stirring the soup with a spoon or ladle"
+        ],
+        "confidence_score": 0.621
+      },
+      {
+        "timestamp": "320-330",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=320s",
+        "actions": [
+          "Pouring sauce/broth into the mixing bowl",
+          "Placing the plate with green leafy vegetables on the side"
+        ],
+        "confidence_score": 0.617
+      },
+      {
+        "timestamp": "360-370",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=360s",
+        "actions": [
+          "Pouring spices over potatoes.",
+          "Adding a liquid marinade or sauce to the potatoes.",
+          "Scooping and sprinkling a white powder over the potato mixture."
+        ],
+        "confidence_score": 0.641
+      },
+      {
+        "timestamp": "430-440",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=430s",
+        "actions": [
+          "Holding a bowl with saffron-infused liquid over the rice"
+        ],
+        "confidence_score": 0.644
+      },
+      {
+        "timestamp": "440-450",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=440s",
+        "actions": [
+          "Holding a small bowl",
+          "Pours orange liquid over the rice",
+          "Mixes the liquid into the rice with hand movements"
+        ],
+        "confidence_score": 0.635
+      },
+      {
+        "timestamp": "510-520",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=510s",
+        "actions": [
+          "Stirring rice and meat",
+          "Mixing ingredients in the bowl"
+        ],
+        "confidence_score": 0.649
+      },
+      {
+        "timestamp": "520-530",
+        "url": "https://www.youtube.com/watch?v=YBd1TcCfWBs&t=520s",
+        "actions": [
+          "Stirring rice",
+          "Mixing ingredients in the pot"
+        ],
+        "confidence_score": 0.649
+      }
+    ]
+  }
+]

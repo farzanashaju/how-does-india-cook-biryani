@@ -1,0 +1,2188 @@
+[
+  {
+    "audio_timestamp": "00:00:00,000 --> 00:00:02,399",
+    "audio_description": "You won't find biryani like Hyderabad's anywhere in the world",
+    "aligned_chunks": [
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.676
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:02,399 --> 00:00:04,920",
+    "audio_description": "And that's not a claim, it's a fact. So today",
+    "aligned_chunks": [
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.706
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.722
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:04,920 --> 00:00:06,660",
+    "audio_description": "we’ll show you how to make chicken biryani",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.861
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.799
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.817
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.8
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:06,660 --> 00:00:09,120",
+    "audio_description": "that too in authentic Hyderabadi style. First,",
+    "aligned_chunks": [
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.642
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:09,120 --> 00:00:10,980",
+    "audio_description": "we’ll marinate the chicken with spices.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.834
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.804
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.771
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.753
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.746
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:10,980 --> 00:00:12,840",
+    "audio_description": "Take chicken and add lemon",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.885
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.851
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.83
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.885
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.835
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.852
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.801
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:12,840 --> 00:00:15,740",
+    "audio_description": "juice, ginger-garlic paste, green chili, red chili,",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.845
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.835
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.809
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.764
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.762
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.741
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:15,740 --> 00:00:18,960",
+    "audio_description": "turmeric, salt, whole spices,",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.851
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.82
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.826
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.807
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:18,960 --> 00:00:21,240",
+    "audio_description": "black pepper, rose petals, and fried onions",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.844
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.799
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.774
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.781
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.768
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:21,240 --> 00:00:23,220",
+    "audio_description": "which we had already prepared. Then add",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:00:23,220 --> 00:00:25,980",
+    "audio_description": "yogurt, mint, coriander, and green chilies.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.852
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.866
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.776
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.831
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.762
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:25,980 --> 00:00:27,840",
+    "audio_description": "Mix it all thoroughly, then",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:00:27,840 --> 00:00:29,880",
+    "audio_description": "add oil, mix well, and let it marinate",
+    "aligned_chunks": [
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.772
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:29,880 --> 00:00:31,980",
+    "audio_description": "for an hour. Now in a pot,",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.743
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.839
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.741
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.819
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.716
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:31,980 --> 00:00:34,020",
+    "audio_description": "take water and add coarse salt, whole",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.887
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.944
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.787
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.759
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.78
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.752
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:34,020 --> 00:00:35,880",
+    "audio_description": "spices, squeeze a lemon and add its",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.869
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.878
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.86
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.83
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:35,880 --> 00:00:37,920",
+    "audio_description": "peels too. Then add green chilies,",
+    "aligned_chunks": [
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.891
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.846
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.769
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.769
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:37,920 --> 00:00:40,320",
+    "audio_description": "coriander, mint, and oil. After that,",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.854
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.792
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.801
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.766
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.82
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.734
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:40,320 --> 00:00:42,239",
+    "audio_description": "bring it to a good boil. Then,",
+    "aligned_chunks": [
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.79
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:42,239 --> 00:00:44,100",
+    "audio_description": "add the basmati rice that has been",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.856
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.905
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.874
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.899
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.835
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.723
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:44,100 --> 00:00:46,440",
+    "audio_description": "soaked for an hour. Cook the rice until it's 60% done.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.668
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.782
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.796
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.758
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.752
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.668
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:46,440 --> 00:00:48,420",
+    "audio_description": "Now take the marinated chicken and place it",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.904
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.794
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.829
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.811
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.832
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.832
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.766
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:48,420 --> 00:00:50,160",
+    "audio_description": "in a large pot. Add a little water from the rice",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.842
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.897
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.871
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.887
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.851
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.834
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.825
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.719
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:50,160 --> 00:00:53,760",
+    "audio_description": "and layer 60% cooked rice on top. Then take the",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.852
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.864
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.829
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.863
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.841
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.756
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:53,760 --> 00:00:56,219",
+    "audio_description": "remaining rice, cook it 80% through, and make a",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.835
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.83
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.858
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.839
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.828
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:00:56,219 --> 00:00:58,020",
+    "audio_description": "nice top layer. Then we’ll add",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:00:58,020 --> 00:01:00,000",
+    "audio_description": "fried onions on top,",
+    "aligned_chunks": [
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.788
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.81
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.782
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:00,000 --> 00:01:05,040",
+    "audio_description": "mint, coriander, and this is saffron milk.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.833
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.798
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.824
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.833
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.748
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:05,040 --> 00:01:08,220",
+    "audio_description": "This is kewra water and rose water. Finally,",
+    "aligned_chunks": [
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.736
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.898
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.694
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:08,220 --> 00:01:10,200",
+    "audio_description": "we’ll add pure ghee. Take a pan,",
+    "aligned_chunks": [
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.848
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.787
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:10,200 --> 00:01:11,939",
+    "audio_description": "place it on the stove, and keep the biryani pot on it.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.808
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.802
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.793
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.794
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.811
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.748
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:11,939 --> 00:01:13,920",
+    "audio_description": "Wrap the lid with a cloth and seal the pot for",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.723
+      },
+      {
+        "timestamp": "29-39",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=29s",
+        "actions": [
+          "Pouring water into the pot",
+          "Adding coarse salt to the water",
+          "Adding whole garam masala to the water",
+          "Cutting and adding lemon halves to the water",
+          "Adding green chilies and coriander leaves to the water"
+        ],
+        "confidence_score": 0.825
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.788
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.757
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.744
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.903
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.722
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:13,920 --> 00:01:15,960",
+    "audio_description": "dum (slow cooking). First, cook for 10 minutes on high flame,",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.658
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.708
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.675
+      },
+      {
+        "timestamp": "59-69",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=59s",
+        "actions": [
+          "Adding mint leaves to rice",
+          "Adding coriander leaves to rice",
+          "Pouring kesar milk over rice",
+          "Pouring kewra and rose water over rice",
+          "Pouring ghee over rice"
+        ],
+        "confidence_score": 0.653
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.666
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:15,960 --> 00:01:18,240",
+    "audio_description": "then 15 minutes on low flame. That’s it,",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:01:18,240 --> 00:01:20,340",
+    "audio_description": "your biryani is ready. See how long",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:01:20,340 --> 00:01:22,979",
+    "audio_description": "and separate each grain of rice is?",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.778
+      },
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.837
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.779
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.78
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:22,979 --> 00:01:25,080",
+    "audio_description": "This was the actual recipe of Hyderabadi chicken biryani.",
+    "aligned_chunks": [
+      {
+        "timestamp": "0-9",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=0s",
+        "actions": [
+          "Scooping rice",
+          "Placing chicken pieces on the rice"
+        ],
+        "confidence_score": 0.806
+      },
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.735
+      },
+      {
+        "timestamp": "19-29",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=19s",
+        "actions": [
+          "Sprinkling dry rose petals",
+          "Adding birista",
+          "Pouring curd",
+          "Chopping mint leaves",
+          "Adding green chilis",
+          "Pouring oil",
+          "Stirring ingredients"
+        ],
+        "confidence_score": 0.739
+      },
+      {
+        "timestamp": "79-89",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=79s",
+        "actions": [
+          "Serving rice onto a plate",
+          "Arranging sliced vegetables around the plate"
+        ],
+        "confidence_score": 0.747
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.713
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:25,080 --> 00:01:26,759",
+    "audio_description": "So do try it and comment below",
+    "aligned_chunks": [
+      {
+        "timestamp": "49-59",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=49s",
+        "actions": [
+          "Pouring rice",
+          "Straining rice",
+          "Stirring rice",
+          "Adding saffron"
+        ],
+        "confidence_score": 0.755
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.74
+      }
+    ]
+  },
+  {
+    "audio_timestamp": "00:01:26,759 --> 00:01:28,799",
+    "audio_description": "how it turned out. Thank you so much",
+    "aligned_chunks": []
+  },
+  {
+    "audio_timestamp": "00:01:28,799 --> 00:01:32,240",
+    "audio_description": "for watching! See you in a new video.",
+    "aligned_chunks": [
+      {
+        "timestamp": "9-19",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=9s",
+        "actions": [
+          "Pouring lemon juice",
+          "Adding turmeric powder",
+          "Adding red chili powder",
+          "Adding salt",
+          "Adding coriander seeds",
+          "Adding black pepper"
+        ],
+        "confidence_score": 0.688
+      },
+      {
+        "timestamp": "39-49",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=39s",
+        "actions": [
+          "Adding yogurt to the pressure cooker",
+          "Adding basmati rice to the pressure cooker",
+          "Adding mint leaves to the pressure cooker",
+          "Stirring the rice in the pressure cooker",
+          "Adding the paneer curry dish to a bowl",
+          "Placing cooked rice on the paneer curry dish"
+        ],
+        "confidence_score": 0.701
+      },
+      {
+        "timestamp": "69-79",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=69s",
+        "actions": [
+          "Adding toppings to rice",
+          "Covering the pot with a cloth",
+          "Steam rising from the pot indicating the cooking or steaming process",
+          "Removing the cloth from the pot",
+          "Fluffing and mixing rice with a slotted spoon"
+        ],
+        "confidence_score": 0.687
+      },
+      {
+        "timestamp": "89-90",
+        "url": "https://www.youtube.com/watch?v=BIXMwLFCboA&t=89s",
+        "actions": [
+          "No distinct cooking actions are visible in the frames provided."
+        ],
+        "confidence_score": 0.737
+      }
+    ]
+  }
+]
