@@ -1,0 +1,47 @@
+A Bunch of scripts to transform json files, videos, images.
+==========================================================
+
+                              ┌───────────────────────────────┐                            
+                              │ Clustering.py  Filtering.py   │                            
+                              │ build_dataset.py utils.py     │                            
+                              │ prompts.py                    │                            
+                              └────────────────┬──────────────┘                            
+                                               │                                           
+                                               │                                           
+┌────────────────────────┐    ┌────────────────▼─────────────┐ ┌──────────────────────────┐
+│Build_action_dataset.py ┼────► main_Clustering_filtering.py ├─►FilteredClipDownloader.py │
+└──────────▲─────────────┘    └────────────────┬─────────────┘ └──────────────────────────┘
+           │                                   │                                           
+           │                                   │                                           
+ ┌─────────┼────────────┐                      │                                           
+ │ Action Transscripts  │      ┌───────────────▼──────────┐                                
+ │ / Segmentation Output│      │   Action_dataset.json    │                                
+ └──────────────────────┘      └──────────────────────────┘                                
+
+
+Bunch of random scripts that try to build an "Action Dataset" (Action oriented instead of being video / type oriented)
+
+* Build_action_dataset concatinates all the action instances from the segementation transcripts.
+* main_clutering_filtering is a script that tries to. 
+	- Filter out useless actions.
+	-	Cluster Similar actions using:
+		* Word embedings. 
+		* LLMs for large action sets after word embedings. (From our testing word embedings tend to group some set of actions together too much.) 
+	- Combine successive clips of the same action.
+
+* FilteredClipDownloader Downloads all the videos that are needed, and de-duplicates clips that get used at multiple points
+
+Requirements
+-----------
+yt-dlp
+ffmpeg
+rich
+sentence_transformers
+transformer
+
+
+
+Installation / Instructions 
+---------------------------
+Call the scripts in order (some steps may be interchangable, and please look at the code! Some parts have been commented out at various stages.
+

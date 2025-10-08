@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Comparisons - Data Labeling Tool{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h2>Comparison Tasks</h2>
+
+    <div class="comparison-grid">
+        {% for comparison in comparisons %}
+        <div class="comparison-card">
+            <h3>{{ comparison.action_class }}</h3>
+            <p><strong>ID:</strong> {{ comparison.unique_identifier }}</p>
+
+            <div class="differences">
+                {% for diff in comparison.differences %}
+                <div class="difference-item">
+                    <span class="diff-name">{{ diff.name }}</span>
+                    <span class="winner-badge winner-{{ diff.winner }}">{{ diff.winner.upper() }}</span>
+                    <span class="confidence">Conf: {{ diff.confidence }}</span>
+                    <a href="/label/{{ comparison.id }}/{{ diff.id }}" class="btn btn-primary">Label</a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

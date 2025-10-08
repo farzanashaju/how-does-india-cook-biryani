@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block title %}All Complete! - Data Labeling Tool{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="complete-message">
+        <h2>🎉 All Items Labeled!</h2>
+        <p>Congratulations! You have completed labeling all comparison items.</p>
+        <div class="final-stats" id="finalStats">
+            <!-- Stats will be loaded here -->
+        </div>
+    </div>
+</div>
+<script>
+fetch('/api/stats')
+    .then(response => response.json())
+    .then(data => {
+        let html = '<h3>Final Statistics:</h3>';
+        html += `<p><strong>Total Items:</strong> ${data.total}</p>`;
+        html += `<p><strong>Completion Rate:</strong> ${(data.labeled/data.total*100).toFixed(1)}%</p>`;
+        html += '<h4>Accuracy by Category:</h4>';
+        
+        // Difference detected (A or B)
+        const diffData = data.difference_detected;
+        const diffCorrectPct = diffData.labeled > 0 ? (diffData.correct/diffData.labeled*100).toFixed(1) : '0.0';
+        const diffIncorrectPct = diffData.labeled > 0 ? (diffData.incorrect/diffData.labeled*100).toFixed(1) : '0.0';
+        html += `<p><strong>Difference detected (A, B):</strong> ${diffCorrectPct}% correct | ${diffIncorrectPct}% incorrect (${diffData.correct}/${diffData.labeled})</p>`;
+        
+        // No difference detected (C)
+        const noDiffData = data.no_difference;
+        const noDiffCorrectPct = noDiffData.labeled > 0 ? (noDiffData.correct/noDiffData.labeled*100).toFixed(1) : '0.0';
+        const noDiffIncorrectPct = noDiffData.labeled > 0 ? (noDiffData.incorrect/noDiffData.labeled*100).toFixed(1) : '0.0';
+        html += `<p><strong>No difference detected (C):</strong> ${noDiffCorrectPct}% correct | ${noDiffIncorrectPct}% incorrect (${noDiffData.correct}/${noDiffData.labeled})</p>`;
+        
+        // Error/Inconclusive (D)
+        const errorData = data.error_inconclusive;
+        const errorCorrectPct = errorData.labeled > 0 ? (errorData.correct/errorData.labeled*100).toFixed(1) : '0.0';
+        const errorIncorrectPct = errorData.labeled > 0 ? (errorData.incorrect/errorData.labeled*100).toFixed(1) : '0.0';
+        html += `<p><strong>Error/Inconclusive (D):</strong> ${errorCorrectPct}% correct | ${errorIncorrectPct}% incorrect (${errorData.correct}/${errorData.labeled})</p>`;
+        
+        document.getElementById('finalStats').innerHTML = html;
+    });
+</script>
+{% endblock %}

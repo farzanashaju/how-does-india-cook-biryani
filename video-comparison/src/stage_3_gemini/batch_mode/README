@@ -1,0 +1,23 @@
+Action Differencing with Batch Mode Gemini 
+======================================
+
+Uses gemini's "Batch mode" which lets you upload a large amount of prompts and gcloud will atomaticaly run everything.
+
+- This was not used, Has a few issues.
+	* Batch mode on Gemini wont work unless you spend a certain amount of credits first? (had trouble getting it working)
+	* Vertex Ai (also by google cloud) lets us use batch mode, but issues with uploading images. (gcloud buckets arent properly being accessed, region issue?)
+		* This is something solveable and should be done.
+	
+
+
+Requirements
+-----------
+ijson
+google-genai
+asyncio (uploading to gcloud buckets was slow - Fix: use gcloud-cli instead of this script)
+
+Installation / Instructions 
+---------------------------
+
+
+

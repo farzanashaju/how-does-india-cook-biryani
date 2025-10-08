@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Data Labeling Tool{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Video Frame Comparison Labeling Tool</h1>
+        <nav>
+            <a href="/">Home</a>
+            <span id="stats"></span>
+        </nav>
+    </header>
+    
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+    <script>
+        // Load stats
+        function updateStats() {
+            fetch('/api/stats')
+                .then(response => response.json())
+                .then(data => {
+                    let statsHtml = `Progress: ${data.labeled}/${data.total} (${(data.labeled/data.total*100).toFixed(1)}%) | `;
+                    
+                    const diffData = data.difference_detected;
+                    const diffCorrectPct = diffData.labeled > 0 ? (diffData.correct/diffData.labeled*100).toFixed(1) : '0.0';
+                    const diffIncorrectPct = diffData.labeled > 0 ? (diffData.incorrect/diffData.labeled*100).toFixed(1) : '0.0';
+                    statsHtml += `Difference detected: ${diffCorrectPct}% correct | ${diffIncorrectPct}% incorrect | `;
+                    
+                    const noDiffData = data.no_difference;
+                    const noDiffCorrectPct = noDiffData.labeled > 0 ? (noDiffData.correct/noDiffData.labeled*100).toFixed(1) : '0.0';
+                    const noDiffIncorrectPct = noDiffData.labeled > 0 ? (noDiffData.incorrect/noDiffData.labeled*100).toFixed(1) : '0.0';
+                    statsHtml += `No difference detected: ${noDiffCorrectPct}% correct | ${noDiffIncorrectPct}% incorrect | `;
+                    
+                    const errorData = data.error_inconclusive;
+                    const errorCorrectPct = errorData.labeled > 0 ? (errorData.correct/errorData.labeled*100).toFixed(1) : '0.0';
+                    const errorIncorrectPct = errorData.labeled > 0 ? (errorData.incorrect/errorData.labeled*100).toFixed(1) : '0.0';
+                    statsHtml += `Error/Inconclusive: ${errorCorrectPct}% correct | ${errorIncorrectPct}% incorrect`;
+                    
+                    document.getElementById('stats').innerHTML = statsHtml;
+                });
+        }
+        
+        updateStats();
+        setInterval(updateStats, 5000); // Update every 5 seconds
+    </script>
+</body>
+</html>

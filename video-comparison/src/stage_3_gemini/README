@@ -1,0 +1,28 @@
+Action Differencing with Gemini synchronously
+======================================
+
+Works similar to ../stage_3 and synchronous_working/ but trys to do everything asynchronously
+
+
+- This has a lot of issues.
+	* Gemini will Ratelimit you after running this for ~8 hours.
+	* Gemini's "file api" only allows you to upload 20 gb worth of data at once
+		* If you lost track of all the uploaded files trying to rebuild the list of images uploaded is painfull, pagination is synchronous and takes a long time.
+		* You can "preload" a list (or ~20 gb) worth of images for the next future x amount of comparisons but this is a hacky workaround.
+	* Large json files are hard to read, ijson lets you iterativly parse it, but is hard to async.
+
+- The way i wrote the progra file read, writes happen asynchronous at some points (end of buffers for ijson mostly) this could lead to courruption of the json file, backup.sh is a hacky workaround.
+
+Requirements
+-----------
+ijson
+google-genai
+asyncio
+aiofiles
+
+Installation / Instructions 
+---------------------------
+
+Run concurrent_diffrencer.py
+
+

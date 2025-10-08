@@ -1,0 +1,46 @@
+Video Action Comparison 
+==================================
+
+                                        ┌───────────────────┐     
+                                      ┌─► Stage_1 (Proposer │     
+                                      │ └───────────────────┘     
+                                      │                           
+┌────────────────┐ ┌──────────────┐   │ ┌────────────────────────┐
+│ Action Dataset │ │ Run_Stage.py ┼───┼─►Stage_2 (Frame Retriver)│
+└────────────────┘ └──────────────┘   │ └────────────────────────┘
+                                      │                           
+                                      │ ┌──────────────────────┐  
+                                      ├─► Stage_3 (Differencer)│  
+                                      │ └──────────────────────┘  
+                                      │                           
+                                      │         OR                
+                                      │ ┌──────────────────────┐  
+                                      └─► Stage_3 (With gemini)│  
+                                        └──────────────────────┘  
+                                                                  
+
+Heavily based on [This paper / repo](https://github.com/jmhb0/VidDiff)
+
+* Start of by building an action oriented dataset (see /scripts)
+
+- The requiremnts will probably be incomplete.
+
+Requirements
+------------
+
+Python 
+A GPU with > 40Gb memory / Gemini api token.
+ffmpeg
+
+Everything in the requirements list
+
+Installation / Instructions 
+---------------------------
+
+Run each "stage" with Run.Stage.py (Stage_3 with gemini might be broken)
+
+
+Verification
+-----------
+
+To verify the comparison output, use the script in verification/ (change the filename inside verification/app.py)

@@ -1,0 +1,28 @@
+Action Differencing with Gemini synchronously
+======================================
+
+Works similar to ../../stage_3, A bit faster unless you have a powerfull GPU.
+
+
+- This was not used after a while, Has a few issues.
+
+* Getting Gemini to use files from gcloud buckets was hard, there is apparently a workaround with vertex ai.
+* Gemini's "file api" only allows you to upload 20 gb worth of data at once
+	* If you lost track of all the uploaded files trying to rebuild the list of images uploaded is painfull, pagination is synchronous and takes a long time.
+	* You can "preload" a list (or ~20 gb) worth of images for the next future x amount of comparisons but this is a hacky workaround.
+
+- Good news you wont get ratelimited.
+
+
+Requirements
+-----------
+ijson
+google-genai
+
+
+Installation / Instructions 
+---------------------------
+
+Run GeminiDifferencer.py
+
+

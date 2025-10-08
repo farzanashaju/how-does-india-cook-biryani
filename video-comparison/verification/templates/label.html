@@ -1,0 +1,138 @@
+{% extends "base.html" %}
+
+{% block title %}Label: {{ difference_name }} - Data Labeling Tool{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="labeling-header">
+        <h2>{{ action_class }}</h2>
+        <p><strong>Difference:</strong> {{ difference_name }}</p>
+        <p><strong>Query:</strong> "{{ query_string }}"</p>
+        <p><strong>System Winner:</strong> <span class="winner-badge winner-{{ winner }}">{{ winner.upper() }}</span> (Confidence: {{ confidence }})</p>
+    </div>
+
+    {% if existing_label %}
+    <div class="alert alert-info">
+        <strong>Already labeled as:</strong> {{ existing_label.label.upper() }} 
+        by {{ existing_label.username }} on {{ existing_label.timestamp[:19] }}
+    </div>
+    {% endif %}
+
+    <div class="clips-container">
+        <div class="clip-section">
+            <h3>Clip A: {{ clip1_type }}</h3>
+            <div class="frames-grid">
+                {% for frame in clip1_frames %}
+                <div class="frame-item">
+                    <img src="/frames/{{ frame }}" alt="Frame {{ frame }}" loading="lazy">
+                    <span class="frame-name">{{ frame }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="clip-section">
+            <h3>Clip B: {{ clip2_type }}</h3>
+            <div class="frames-grid">
+                {% for frame in clip2_frames %}
+                <div class="frame-item">
+                    <img src="/frames/{{ frame }}" alt="Frame {{ frame }}" loading="lazy">
+                    <span class="frame-name">{{ frame }}</span>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="reasoning-section">
+        <h3>System Reasoning:</h3>
+        <p class="reasoning-text">{{ winner_reason }}</p>
+    </div>
+
+    <div class="labeling-controls">
+        <h3>Your Label:</h3>
+        <div class="label-options">
+            <button class="btn btn-correct" onclick="submitLabel('correct')">✓ Correct</button>
+            <button class="btn btn-incorrect" onclick="submitLabel('incorrect')">✗ Incorrect</button>
+        </div>
+        
+        <div class="quick-actions">
+            <button class="btn btn-skip" onclick="skipItem()">Skip & Get Next Random</button>
+        </div>
+        
+        <div class="username-input">
+            <label for="username">Username (optional):</label>
+            <input type="text" id="username" placeholder="anonymous">
+        </div>
+        
+        <div class="shortcuts-info">
+            <strong>Keyboard Shortcuts:</strong> → or C = Correct | ← or X = Incorrect | S = Skip
+        </div>
+    </div>
+
+    <div class="navigation">
+        <span class="nav-info">Showing random unlabeled item</span>
+    </div>
+</div>
+
+<script>
+function submitLabel(label) {
+    const username = document.getElementById('username').value || 'anonymous';
+    
+    fetch('/api/label', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            comparison_id: '{{ comparison_id }}',
+            difference_id: '{{ difference_id }}',
+            label: label,
+            username: username
+        })
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            // Automatically load next random item
+            loadNextItem();
+        } else {
+            alert('Error saving label: ' + data.message);
+        }
+    })
+    .catch(error => {
+        alert('Error: ' + error);
+    });
+}
+
+function skipItem() {
+    loadNextItem();
+}
+
+function loadNextItem() {
+    fetch('/api/skip')
+        .then(response => response.json())
+        .then(data => {
+            if (data.complete) {
+                window.location.href = '/';
+            } else {
+                window.location.href = data.next_url;
+            }
+        });
+}
+
+// Keyboard shortcuts
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowRight' || e.key === 'c') {
+        e.preventDefault();
+        submitLabel('correct');
+    } else if (e.key === 'ArrowLeft' || e.key === 'x') {
+        e.preventDefault();
+        submitLabel('incorrect');
+    } else if (e.key === 's') {
+        e.preventDefault();
+        skipItem();
+    }
+});
+</script>
+{% endblock %}
