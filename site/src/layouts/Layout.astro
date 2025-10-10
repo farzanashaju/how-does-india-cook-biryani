@@ -1,0 +1,113 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Research paper presentation" } = Astro.props;
+const { url } = Astro;
+import '../styles/global.css';
+import ThemeIcon from '../components/ThemeIcon.astro';
+---
+
+<!DOCTYPE html>
+<html lang="en" class="mx-4">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content={description}>
+    <meta name="generator" content={Astro.generator}>
+    <title>{title}</title>
+    
+    <script is:inline>
+        function initTheme() {
+            let theme = 'light';
+            
+            if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+                theme = localStorage.getItem('theme');
+            } 
+            else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                theme = 'dark';
+            }
+            
+            if (theme === 'dark') {
+                document.documentElement.classList.add('dark');
+            } else {
+                document.documentElement.classList.remove('dark');
+            }
+            
+            if (typeof localStorage !== 'undefined') {
+                localStorage.setItem('theme', theme);
+            }
+        }
+        
+        initTheme();
+        
+        if (typeof localStorage === 'undefined' || !localStorage.getItem('theme')) {
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+                if (e.matches) {
+                    document.documentElement.classList.add('dark');
+                } else {
+                    document.documentElement.classList.remove('dark');
+                }
+            });
+        }
+    </script>
+</head>
+<body class="max-width">
+    <div class="my-6 flex">
+        <a href="/" class="hover:cursor-pointer opacity-100 hover:opacity-80 panda-link">
+            <h1>How Does India Cook Biryani</h1>
+        </a>
+        <div class="text-sm place-content-center inline ml-auto">
+            <ThemeIcon />
+        </div>
+    </div>
+    
+    <nav>
+        <a 
+            href="/" 
+            class="panda-link mr-4 animated hover:no-underline"
+            class:list={url.pathname === '/' ? 'active' : ''}
+        >paper</a>
+        <a 
+            href="/method" 
+            class="panda-link mr-4 animated hover:no-underline"
+            class:list={url.pathname.includes('/method') ? 'active' : ''}
+        >method</a>
+        <a 
+            href="/results" 
+            class="panda-link mr-4 animated hover:no-underline"
+            class:list={url.pathname.includes('/results') ? 'active' : ''}
+        >results</a>
+        <a 
+            href="/demo" 
+            class="panda-link mr-4 animated hover:no-underline"
+            class:list={url.pathname.includes('/demo') ? 'active' : ''}
+        >demo</a>
+    </nav>
+    
+    <main>
+        <slot />
+    </main>
+    
+    <footer class="mt-12 mb-6 text-sm">
+        <div class="mb-1">
+            <span>
+                <a href="https://github.com/farzanashaju/how-does-india-cook-biryani" class="panda-link">github</a>
+                <span class="mx-1">|</span>
+            </span>
+            <span>
+                <a href="#" class="panda-link">paper</a>
+                <span class="mx-1">|</span>
+            </span>
+            <span>
+                <a href="#" class="panda-link">arxiv</a>
+            </span>
+        </div>
+        <div class="mb-1">
+            <span>© {new Date().getFullYear()}</span>
+        </div>
+    </footer>
+</body>
+</html>
