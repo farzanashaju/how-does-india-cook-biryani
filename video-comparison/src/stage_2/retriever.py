@@ -54,7 +54,9 @@ class FrameRetriever:
         # Cache for text embeddings
         self.text_embedding_cache = {}
 
-    def _load_video_frames_batch(self, video_paths: List[str]) -> Dict[str, List[Image.Image]]:
+    def _load_video_frames_batch(
+        self, video_paths: List[str]
+    ) -> Dict[str, List[Image.Image]]:
         """Load frames from multiple videos in parallel."""
 
         def load_single_video(video_path):
@@ -136,7 +138,9 @@ class FrameRetriever:
 
         return np.vstack(all_embeddings)
 
-    def _get_image_embeddings_batch(self, all_images: List[List[Image.Image]]) -> List[np.ndarray]:
+    def _get_image_embeddings_batch(
+        self, all_images: List[List[Image.Image]]
+    ) -> List[np.ndarray]:
         """Generate CLIP image embeddings for multiple clips in large batches."""
         if not all_images:
             return []
@@ -157,11 +161,13 @@ class FrameRetriever:
         with torch.no_grad():
             for i in range(0, len(flattened_images), self.batch_size):
                 batch_images = flattened_images[i : i + self.batch_size]
-                image_tensors = torch.stack([self.preprocess(img) for img in batch_images]).to(
-                    self.device
-                )
+                image_tensors = torch.stack(
+                    [self.preprocess(img) for img in batch_images]
+                ).to(self.device)
                 image_features = self.model.encode_image(image_tensors)
-                image_features = image_features / image_features.norm(dim=-1, keepdim=True)
+                image_features = image_features / image_features.norm(
+                    dim=-1, keepdim=True
+                )
                 all_embeddings.append(image_features.cpu().numpy())
 
         if not all_embeddings:
@@ -182,7 +188,9 @@ class FrameRetriever:
 
         return clip_embeddings
 
-    def _cosine_similarity(self, embeddings1: np.ndarray, embeddings2: np.ndarray) -> np.ndarray:
+    def _cosine_similarity(
+        self, embeddings1: np.ndarray, embeddings2: np.ndarray
+    ) -> np.ndarray:
         """Calculate cosine similarity between two sets of embeddings."""
         return np.dot(embeddings1, embeddings2.T)
 
@@ -234,7 +242,9 @@ class FrameRetriever:
             text_embeddings = self._get_text_embeddings_cached(retrieval_strings)
 
             # Find best frames for all clips at once
-            best_frames_list = self._find_best_frames_batch(clip_embeddings_list, text_embeddings)
+            best_frames_list = self._find_best_frames_batch(
+                clip_embeddings_list, text_embeddings
+            )
 
             # Store results
             for i, clip_id in enumerate(clip_ids):
@@ -312,7 +322,9 @@ class FrameRetriever:
             desc="Processing clips",
             bar_format="{desc}: {percentage:3.0f}%|{bar}| {n_fmt}/{total_fmt}",
         ) as pbar:
-            for action_idx, (action_class, action_data) in enumerate(stage_2_data.items(), 1):
+            for action_idx, (action_class, action_data) in enumerate(
+                stage_2_data.items(), 1
+            ):
                 clips_data = action_data.get("Clips", {})
                 action_stages = action_data.get("action_stages", [])
 
@@ -321,16 +333,22 @@ class FrameRetriever:
 
                 processed_clips = self._get_processed_clips(action_data)
                 unprocessed_clips = [
-                    clip_id for clip_id in clips_data.keys() if clip_id not in processed_clips
+                    clip_id
+                    for clip_id in clips_data.keys()
+                    if clip_id not in processed_clips
                 ]
 
                 if not unprocessed_clips:
                     continue
 
-                pbar.set_description(f"Action {action_idx}/{len(stage_2_data)}: {action_class}")
+                pbar.set_description(
+                    f"Action {action_idx}/{len(stage_2_data)}: {action_class}"
+                )
 
                 # Process clips in batches
-                batch_size = min(32, len(unprocessed_clips))  # Adjust batch size as needed
+                batch_size = min(
+                    32, len(unprocessed_clips)
+                )  # Adjust batch size as needed
 
                 for i in range(0, len(unprocessed_clips), batch_size):
                     batch_clip_ids = unprocessed_clips[i : i + batch_size]
