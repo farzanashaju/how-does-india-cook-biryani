@@ -38,31 +38,35 @@
 :root.dark .dark\:fill-white {
     fill: #ffffff;
 }:root {
-    /* Softer colors for light mode - not harsh white */
-    --color-primary-main: 29 116 132;     /* Teal/cyan */
-    --color-secondary-main: 20 79 90;     /* Darker teal */
-    --color-text-body: 55 65 81;          /* gray-700 */
-    --color-text-heading: 55 65 81;       /* gray-700 */
-    --color-text-link: var(--color-primary-main);
-    --color-text-link-hover: var(--color-secondary-main);
-    --color-border: 229 231 235;          /* gray-200 */
-    --color-code-bg: 243 244 246;         /* gray-100 */
+    /* Professional color scheme - clean and modern */
+    --color-primary-main: 30 64 175;      /* Professional blue */
+    --color-secondary-main: 37 99 235;    /* Lighter blue */
+    --color-text-body: 31 41 55;          /* gray-800 - darker for readability */
+    --color-text-heading: 15 23 42;       /* slate-900 - very dark for headings */
+    --color-text-link: 30 64 175;         /* blue-700 */
+    --color-text-link-hover: 37 99 235;   /* blue-600 */
+    --color-border: 226 232 240;          /* slate-200 - subtle borders */
+    --color-code-bg: 248 250 252;         /* slate-50 - very light gray */
+    --color-bg: 255 255 255;              /* Pure white background */
+    --color-bg-secondary: 249 250 251;    /* gray-50 - for subtle backgrounds */
     
     scroll-behavior: smooth;
     color-scheme: light;
 }
 
 :root.dark {
-    /* Pink on dark gray - Panda style */
-    color-scheme: dark;
-    --color-primary-main: 235 153 161;    /* #eb99a1 - pink */
-    --color-secondary-main: 226 111 122;  /* #e26f7a - darker pink */
-    --color-text-body: 214 211 209;       /* light gray */
-    --color-text-heading: 255 255 255;    /* white */
-    --color-text-link: var(--color-primary-main);
-    --color-text-link-hover: var(--color-secondary-main);
-    --color-border: 82 82 82;             /* dark gray border */
-    --color-code-bg: 26 32 44;            /* #1a202c - dark gray */
+    /* Force same palette in dark mode to keep site light-themed */
+    color-scheme: light;
+    --color-primary-main: 30 64 175;      /* blue-700 */
+    --color-secondary-main: 37 99 235;    /* blue-600 */
+    --color-text-body: 31 41 55;          /* gray-800 */
+    --color-text-heading: 15 23 42;       /* slate-900 */
+    --color-text-link: 30 64 175;
+    --color-text-link-hover: 37 99 235;
+    --color-border: 226 232 240;          /* slate-200 */
+    --color-code-bg: 248 250 252;         /* slate-50 */
+    --color-bg: 255 255 255;              /* white */
+    --color-bg-secondary: 249 250 251;    /* gray-50 */
     
     scroll-behavior: smooth;
 }
@@ -74,15 +78,18 @@
 }
 
 body {
-    font-family: Verdana, sans-serif;
-    line-height: 1.6;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    line-height: 1.7;
     color: rgb(var(--color-text-body));
-    background: #fafafa;  /* Softer than white */
+    background: rgb(var(--color-bg));  /* Pure white */
     overflow-y: scroll;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 :root.dark body {
-    background: rgb(55, 65, 81);  /* Gray-700 - matches Panda's dark background */
+    background: rgb(var(--color-bg));
 }
 
 /* Utility classes from Panda */
@@ -159,42 +166,84 @@ body {
 
 /* Navigation */
 nav {
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgb(var(--color-border));
+}
+
+nav a {
+    font-weight: 500;
+    font-size: 0.9375rem;
+    letter-spacing: 0.01em;
+    text-transform: none;
+    color: rgb(var(--color-text-body));
+}
+
+nav a:hover {
+    color: rgb(var(--color-text-link));
+}
+
+nav a.active {
+    color: rgb(var(--color-text-link));
+    font-weight: 600;
 }
 
 /* Main content - simple, no wrapper */
 main {
-    margin-top: 2.25rem;
+    margin-top: 2.5rem;
+    margin-bottom: 4rem;
+    min-height: 60vh;
+}
+
+main strong {
+    font-weight: 600;
+    color: rgb(var(--color-text-heading));
 }
 
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
     color: rgb(var(--color-text-heading));
-    line-height: 1.2;
-    font-weight: 600;
+    line-height: 1.3;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
 
 h1 {
-    font-size: 2.5rem;
-    font-weight: 700;
-    margin-bottom: 0.5rem;
+    font-size: 2.75rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    margin-top: 0;
+    letter-spacing: -0.03em;
 }
 
 h2 {
     font-size: 2rem;
-    margin-top: 3rem;
-    margin-bottom: 1rem;
+    margin-top: 3.5rem;
+    margin-bottom: 1.25rem;
+    font-weight: 700;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid rgb(var(--color-border));
 }
 
 h3 {
     font-size: 1.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 1.25rem;
     margin-top: 2rem;
     margin-bottom: 0.75rem;
+    font-weight: 600;
 }
 
 p {
-    margin: 1rem 0;
+    margin: 1.25rem 0;
     color: rgb(var(--color-text-body));
+    line-height: 1.75;
 }
 
 .subtitle {
@@ -249,7 +298,8 @@ ul, ol {
 }
 
 li {
-    margin: 0.5rem 0;
+    margin: 0.75rem 0;
+    line-height: 1.7;
 }
 
 li::marker {
@@ -257,34 +307,47 @@ li::marker {
     font-weight: 600;
 }
 
+ul li, ol li {
+    padding-left: 0.5rem;
+}
+
 img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 2rem auto;
+    margin: 2.5rem auto;
+    border-radius: 6px;
 }
 
 video {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 2rem auto;
+    margin: 2.5rem auto;
+    border-radius: 6px;
 }
 
 /* Image grids for comparisons - better use of space */
 .img-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 2rem;
-    margin: 2rem 0;
+    gap: 2.5rem;
+    margin: 2.5rem 0;
 }
 
 .img-grid img,
 .img-grid video {
     margin: 0;
     border: 1px solid rgb(var(--color-border));
-    border-radius: 4px;
+    border-radius: 8px;
     width: 100%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: box-shadow 0.2s ease;
+}
+
+.img-grid img:hover,
+.img-grid video:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 @media (max-width: 768px) {
@@ -295,19 +358,23 @@ video {
 
 .img-caption {
     text-align: center;
-    font-size: 0.9rem;
-    color: rgb(var(--color-text-body) / 0.7);
-    margin-top: 0.5rem;
+    font-size: 0.875rem;
+    color: rgb(var(--color-text-body) / 0.65);
+    margin-top: 0.75rem;
+    margin-bottom: 0;
+    font-style: italic;
+    line-height: 1.5;
 }
 
 /* Code blocks (inline) */
 code {
-    font-family: 'SF Mono', 'Consolas', 'Monaco', 'Courier New', monospace;
-    font-size: 0.9em;
+    font-family: 'SF Mono', 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'Courier New', monospace;
+    font-size: 0.875em;
     background: rgb(var(--color-code-bg));
-    padding: 0.2em 0.4em;
-    border-radius: 3px;
+    padding: 0.2em 0.5em;
+    border-radius: 4px;
     color: rgb(var(--color-text-heading));
+    border: 1px solid rgb(var(--color-border));
 }
 
 /* Code blocks in pre tags are styled by expressive-code */
@@ -318,16 +385,17 @@ pre code {
 
 /* Blockquotes */
 blockquote {
-    background: rgb(var(--color-code-bg));
-    border-left: 6px solid rgb(var(--color-primary-main));
+    background: rgb(var(--color-bg-secondary));
+    border-left: 4px solid rgb(var(--color-primary-main));
     border-radius: 0 8px 8px 0;
-    padding: 1rem 1rem 1rem 1.5rem;
-    margin: 1.5rem 0;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
     font-style: normal;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
 :root.dark blockquote {
-    background: rgba(120, 113, 108, 0.3);  /* Stone-600 with opacity */
+    background: rgb(var(--color-bg-secondary));
 }
 
 blockquote p {
@@ -337,22 +405,31 @@ blockquote p {
 /* Buttons */
 .btn {
     display: inline-block;
-    padding: 0.75rem 1.5rem;
+    padding: 0.875rem 1.75rem;
     background: rgb(var(--color-primary-main));
-    color: white;
-    border-radius: 6px;
-    font-weight: 500;
+    color: #ffffff !important;
+    border-radius: 8px;
+    font-weight: 600;
     text-decoration: none;
     transition: all 0.2s ease;
     border: none;
     cursor: pointer;
+    font-size: 0.9375rem;
+    letter-spacing: 0.01em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+}
+
+.btn:visited {
+    color: #ffffff !important;
 }
 
 .btn:hover {
     background: rgb(var(--color-secondary-main));
+    color: #ffffff !important;
     text-decoration: none;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgb(var(--color-primary-main) / 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(30, 64, 175, 0.3);
 }
 
 .btn-group {
@@ -371,26 +448,41 @@ section {
 table {
     width: 100%;
     border-collapse: collapse;
-    margin: 2rem 0;
+    margin: 2.5rem 0;
+    border: 1px solid rgb(var(--color-border));
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
 th, td {
-    padding: 0.75rem;
+    padding: 1rem;
     text-align: left;
     border-bottom: 1px solid rgb(var(--color-border));
 }
 
 th {
     font-weight: 600;
-    background: rgb(var(--color-code-bg));
+    background: rgb(var(--color-bg-secondary));
     color: rgb(var(--color-text-heading));
+    text-transform: uppercase;
+    font-size: 0.8125rem;
+    letter-spacing: 0.05em;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+tr:hover {
+    background: rgb(var(--color-bg-secondary));
 }
 
 /* Horizontal rule */
 hr {
     border: none;
     border-top: 1px solid rgb(var(--color-border));
-    margin: 3rem 0;
+    margin: 4rem 0;
 }
 
 /* Notification boxes (useful for research papers) */
@@ -471,6 +563,19 @@ hr {
     font-weight: normal;
     text-decoration: none;
     color: rgb(var(--color-text-link));
+}
+
+/* Footer */
+footer {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgb(var(--color-border));
+    color: rgb(var(--color-text-body) / 0.65);
+    font-size: 0.875rem;
+}
+
+footer a {
+    font-weight: 500;
 }
 
 /* Utility classes */

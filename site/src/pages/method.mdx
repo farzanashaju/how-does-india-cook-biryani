@@ -1,71 +1,119 @@
 ---
 layout: ../layouts/Layout.astro
-title: Method - Your Paper Title
+title: Method - How Does India Cook Biryani?
 ---
 
 # Method
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Our framework consists of multiple integrated stages:
 
-1. **Lorem Ipsum** - dolor sit amet
-2. **Consectetur Adipiscing** - elit
-3. **Sed Do Eiusmod** - tempor incididunt
+1. **Video Segmentation (Stage 1)** - Using InternVL-14B to segment videos into fine-grained procedural units
+2. **Multimodal Alignment (Stage 2)** - Aligning video, audio transcripts, and recipe text using semantic embeddings
+3. **Video Comparison (Stage 3)** - Identifying and explaining procedural differences between regional variants
+4. **Video QA Benchmarking** - Evaluating VLMs on structured multimodal reasoning tasks
 
-![Method Pipeline](/images/placeholder.png)
-
----
-
-## Stage 1: Input Processing
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-```python title="lorem.py"
-def ipsum(dolor):
-    # Sit amet
-    consectetur = adipiscing(dolor)
-    
-    # Elit
-    sed = do(eiusmod)
-    
-    return tempor(incididunt)
-```
+![Method Pipeline](/images/video-segmentation.png)
 
 ---
 
-## Stage 2: Feature Extraction
+## Stage 1: Video Segmentation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+We use **InternVL-14B**, a state-of-the-art Vision-Language Model (VLM), to process each segment. The model is prompted to extract three key categories of information:
 
-<div class="img-grid">
-  <img src="/images/placeholder.png" alt="Lorem ipsum" />
-  <img src="/images/placeholder.png" alt="Dolor sit amet" />
+- **(a) Ingredients** - Detected food items and spices
+- **(b) Utensils (Objects)** - Cooking tools and containers
+- **(c) Actions (verbs)** - Cooking procedures and techniques
+
+**Crucially**, the model relies solely on **visual content (sampled video frames)** and does not access audio or transcripts, ensuring that annotations are grounded purely in visual evidence.
+
+### Temporal Merging
+
+Since cooking actions often span more than one 10-second interval, we merge timestamps for repeated actions within a video into a single continuous span, while ensuring unrelated actions in adjacent segments remain separate. This reduces unnecessary fragmentation and yields longer, coherent action-level sequences.
+
+### Action Clustering
+
+Direct application of InternVL-14B across thousands of segments yields a detailed mapping of ingredients, utensils, and actions over time. However, action descriptions often vary lexically despite being semantically identical (e.g., "stirring rice" vs. "stirring rice and water with a wooden spoon").
+
+To address this, each action phrase is embedded using the **all-MiniLM-L6-v2 SentenceTransformer model** and clustered via **agglomerative clustering with average linkage and a cosine distance threshold of 0.3**. A single representative phrase from each cluster serves as the canonical action label, improving label consistency.
+
+### Verification Step
+
+Although InternVL-14B produced high-quality visual annotations, we introduced an **automated verification step using Gemini-2.5-flash-lite** to ensure each labelled action was visibly present in its corresponding segment. This lightweight VLM was queried with deterministic yes/no prompts over sampled video frames, enabling reliable validation.
+
+---
+
+---
+
+## Stage 2: Multimodal Alignment
+
+To build a unified understanding of each biryani cooking video, we align three modalities:
+
+1. **WhisperX transcripts** (temporally ordered narration)
+2. **InternVL visual segment descriptions** (ingredients, utensils, and actions for every 10-second chunk)
+3. **Manually curated canonical recipes** (standard steps and titles per biryani type)
+
+### Alignment Process
+
+Alignment begins with **coarse filtering**, where lowercased and tokenised segment metadata keywords (from detected ingredients/utensils) are matched against transcript lines and recipe steps to eliminate irrelevant pairs.
+
+Remaining candidates undergo **fine-grained alignment**:
+
+- Transcript sentences and recipe steps are embedded with the **all-mpnet-base-v2 SentenceTransformer**
+- **Dynamic Time Warping (DTW)** over cosine distances preserves sequential structure while tolerating omissions, insertions, or re-ordering
+- For segments passing coarse filtering, we further embed InternVL-extracted actions and recipe steps with the **bge-large-en-v1.5 model**
+- We compute cosine similarities, assign each chunk to its most semantically relevant recipe step, and rank segments per step with confidence scores
+
+This multimodal alignment enables **recipe-aware search, visualisation, and retrieval** across heterogeneous timescales and structures.
+
+---
+
+## Stage 3: Video Comparison Framework
+
+To compare cooking processes across different biryani recipes, we adapted the VidDiff framework to our specific use case. The framework consists of three main stages:
+
+### Proposer Stage
+
+This stage generates plausible variations for each action class. For each action class, we prompt an LLM (Qwen2.5) to generate:
+
+- 2-3 variations in cooking actions that are visually significant
+- 2-4 sub-action stages for each action class
+- Explicit mappings between variations and sub-actions
+
+These mappings specify which differences would be most visually detectable during specific sub-action stages.
+
+### Frame Retriever Stage
+
+This stage retrieves temporal localisation of sub-actions from cooking videos using CLIP. We embed textual retrieval strings and video frames into a shared semantic space, then compute cosine similarity scores to identify the top-k (k=2) frames that best match each sub-action. This focuses on peak similarity moments where sub-actions are most visually apparent.
+
+### Action Differentiating Stage
+
+In this final stage, we analyse and visualise the differences between two cooking video segments. For each pair of corresponding sub-action segments identified in the previous stage, we pose a multiple-choice question to a VLM (Gemini-2.5-flash-lite), which determines whether each difference is present in Video A or Video B, or if it's unsure. This allows us to visualise and understand how the cooking processes differ between the two biryani recipes.
+
+![Video Comparison Pipeline](/images/biryani_comparison_pipline.png)
+
+<div class="img-caption">
+  Figure 4: Overview of the video comparison framework for biryani recipes. The
+  framework operates through three sequential stages: Proposer (Qwen2-VL)
+  generates plausible variations for each action, Frame Localiser (CLIP)
+  identifies relevant frames, and Action Differencer compares frame pairs to
+  detect differences.
 </div>
 
 ---
 
-## Stage 3: Optimization
+## Technical Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### Models Used
 
-```python title="ipsum.py"
-def dolor(sit, amet=100):
-    consectetur = sit
-    for i in range(amet):
-        # Adipiscing elit
-        sed = do(eiusmod)
-        tempor = incididunt(consectetur, sed)
-    return tempor
-```
-
----
-
-## Computational Complexity
-
-| Method | Time Complexity | Space Complexity |
-|--------|----------------|------------------|
-| Lorem | O(n²) | O(n) |
-| **Ipsum** | **O(n log n)** | **O(n)** |
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+| Component             | Model                                | Purpose                          |
+| --------------------- | ------------------------------------ | -------------------------------- |
+| Video Segmentation    | InternVL-14B                         | Extract visual annotations       |
+| Action Verification   | Gemini-2.5-flash-lite                | Verify action presence           |
+| Speech Recognition    | WhisperX / Whisper-Large             | Audio transcription              |
+| Translation           | GPT-4                                | Translate transcripts to English |
+| Alignment             | all-mpnet-base-v2, bge-large-en-v1.5 | Semantic embedding               |
+| Comparison Proposer   | Qwen2.5                              | Generate action variations       |
+| Frame Retrieval       | CLIP (ViT-BigG-14)                   | Localise sub-actions             |
+| Action Differentiator | Gemini-2.5-flash-lite                | Compare actions                  |
