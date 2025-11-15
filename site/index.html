@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Primary Meta Tags -->
+  <meta name="title" content="How Does India Cook Biryani? - C.V. Rishi, Farzana S, Shubham Goel, Aditya Arun, C.V. Jawahar">
+  <meta name="description" content="A large-scale dataset and VLM-based pipeline for analyzing procedural differences across 12 regional Indian biryani variants using 120 cooking videos.">
+  <meta name="keywords" content="biryani, cooking videos, vision-language models, procedural video understanding, Indian cuisine, video QA, computer vision, VLM">
+  <meta name="author" content="C.V. Rishi, Farzana S, Shubham Goel, Aditya Arun, C.V. Jawahar">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="IIIT Hyderabad">
+  <meta property="og:title" content="How Does India Cook Biryani?">
+  <meta property="og:description" content="A large-scale dataset and VLM-based pipeline for analyzing procedural differences across 12 regional Indian biryani variants using 120 cooking videos.">
+  <meta property="og:url" content="https://farzanashaju.github.io/how-does-india-cook-biryani">
+  <meta property="og:image" content="https://farzanashaju.github.io/how-does-india-cook-biryani/static/images/dataset.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="PAPER_TITLE - Research Preview">
+  <meta property="article:published_time" content="2024-01-01T00:00:00.000Z">
+  <meta property="article:author" content="FIRST_AUTHOR_NAME">
+  <meta property="article:section" content="Research">
+  <meta property="article:tag" content="KEYWORD1">
+  <meta property="article:tag" content="KEYWORD2">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@cvit_iiith">
+  <meta name="twitter:creator" content="@cvit_iiith">
+  <meta name="twitter:title" content="How Does India Cook Biryani?">
+  <meta name="twitter:description" content="A large-scale dataset and VLM-based pipeline for analyzing procedural differences across 12 regional Indian biryani variants using 120 cooking videos.">
+  <meta name="twitter:image" content="https://farzanashaju.github.io/how-does-india-cook-biryani/static/images/dataset.png">
+  <meta name="twitter:image:alt" content="PAPER_TITLE - Research Preview">
+
+  <!-- Academic/Research Specific -->
+  <meta name="citation_title" content="How Does India Cook Biryani?">
+  <meta name="citation_author" content="Rishi, C.V.">
+  <meta name="citation_author" content="S, Farzana">
+  <meta name="citation_author" content="Goel, Shubham">
+  <meta name="citation_author" content="Arun, Aditya">
+  <meta name="citation_author" content="Jawahar, C.V.">
+  <meta name="citation_publication_date" content="2025">
+  <meta name="citation_conference_title" content="ICVGIP'25">
+  <meta name="citation_pdf_url" content="https://farzanashaju.github.io/how-does-india-cook-biryani/static/pdfs/paper.pdf">
+  
+  <!-- Additional SEO -->
+  <meta name="theme-color" content="#2563eb">
+  <meta name="msapplication-TileColor" content="#2563eb">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://ajax.googleapis.com">
+  <link rel="preconnect" href="https://documentcloud.adobe.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+
+
+  <title>How Does India Cook Biryani? | ICVGIP'25</title>
+  
+  <!-- Critical CSS - Load synchronously -->
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+  
+  <!-- Non-critical CSS - Load asynchronously -->
+  <link rel="preload" href="static/css/bulma-carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="static/css/bulma-slider.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="static/css/fontawesome.all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  
+  <!-- Fallback for browsers that don't support preload -->
+  <noscript>
+    <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  </noscript>
+  
+  <!-- Fonts - Optimized loading -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Defer non-critical JavaScript -->
+  <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script defer src="static/js/bulma-carousel.min.js"></script>
+  <script defer src="static/js/bulma-slider.min.js"></script>
+  <script defer src="static/js/index.js"></script>
+  
+  <!-- Structured Data for Academic Papers -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": "How Does India Cook Biryani?",
+    "description": "A large-scale dataset and VLM-based pipeline for analyzing procedural differences across 12 regional Indian biryani variants using 120 cooking videos.",
+    "author": [
+      {
+        "@type": "Person",
+        "name": "C.V. Rishi",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "IIIT Hyderabad"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Farzana S",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "IIIT Hyderabad"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Shubham Goel",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "IIIT Hyderabad"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Aditya Arun",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "IIIT Hyderabad"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "C.V. Jawahar",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "IIIT Hyderabad"
+        }
+      }
+    ],
+    "datePublished": "2025-12-01",
+    "publisher": {
+      "@type": "Organization",
+      "name": "ICVGIP'25"
+    },
+    "url": "https://farzanashaju.github.io/how-does-india-cook-biryani",
+    "image": "https://farzanashaju.github.io/how-does-india-cook-biryani/static/images/dataset.png",
+    "keywords": ["biryani", "cooking videos", "vision-language models", "procedural video understanding", "Indian cuisine", "video QA", "computer vision"],
+    "abstract": "Biryani, one of India's most celebrated dishes, exhibits remarkable regional diversity in its preparation, ingredients, and presentation. With the growing availability of online cooking videos, there is unprecedented potential to study such culinary variations using computational tools systematically. However, existing video understanding methods fail to capture the fine-grained, multimodal, and culturally grounded differences in procedural cooking videos. This work presents the first large-scale, curated dataset of biryani preparation videos, comprising 120 high-quality YouTube recordings across 12 distinct regional styles. We propose a multi-stage framework leveraging recent advances in vision-language models (VLMs) to segment videos into fine-grained procedural units and align them with audio transcripts and canonical recipe text. Building on these aligned representations, we introduce a video comparison pipeline that automatically identifies and explains procedural differences between regional variants. We construct a comprehensive question-answer (QA) benchmark spanning multiple reasoning levels to evaluate procedural understanding in VLMs. Our approach employs multiple VLMs in complementary roles, incorporates human-in-the-loop verification for high-precision tasks, and benchmarks several state-of-the-art models under zero-shot and fine-tuned settings. The resulting dataset, comparison methodology, and QA benchmark provide a new testbed for evaluating VLMs on structured, multimodal reasoning tasks and open new directions for computational analysis of cultural heritage through cooking videos.",
+    "isAccessibleForFree": true,
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  }
+  </script>
+  
+  <!-- Website/Organization Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "IIIT Hyderabad - CVIT",
+    "url": "https://cvit.iiit.ac.in",
+    "sameAs": [
+      "https://twitter.com/cvit_iiith",
+      "https://github.com/farzanashaju"
+    ]
+  }
+  </script>
+</head>
+<body>
+
+
+  <!-- Scroll to Top Button -->
+  <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+
+  <main id="main-content">
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">How Does India Cook Biryani?</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="https://github.com/cv-rishi" target="_blank">C.V. Rishi</a><sup>*</sup>,</span>
+                <span class="author-block">
+                  <a href="https://github.com/farzanashaju" target="_blank">Farzana S</a><sup>*</sup>,</span>
+                  <span class="author-block">
+                    <a href="https://github.com/shubhamZXCV" target="_blank">Shubham Goel</a><sup>*</sup>,</span>
+                  <span class="author-block">
+                    Aditya Arun,</span>
+                  <span class="author-block">
+                    C.V. Jawahar
+                  </span>
+                  </div>
+
+                  <div class="is-size-5 publication-authors">
+                    <span class="author-block">IIIT Hyderabad<br>ICVGIP 2025</span>
+                    <span class="eql-cntrb"><small><br><sup>*</sup>Equal Contribution</small></span>
+                  </div>
+
+                  <div class="column has-text-centered">
+                    <div class="publication-links">
+                      <span class="link-block">
+                        <a href="https://arxiv.org/pdf/ARXIV_ID.pdf" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon">
+                          <i class="fas fa-file-pdf"></i>
+                        </span>
+                        <span>Paper</span>
+                      </a>
+                    </span>
+
+                  <span class="link-block">
+                    <a href="https://github.com/farzanashaju/how-does-india-cook-biryani" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/ARXIV_ID" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Teaser image -->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="static/images/biryani-map.png" alt="Regional Biryani Types Map of India" loading="lazy"/>
+      <h2 class="subtitle has-text-centered">
+        Regional map of 12 biryani styles across India, paired with representative dish images that reflect the rich cultural and procedural diversity motivating our computational analysis of biryani preparation videos.
+      </h2>
+    </div>
+  </div>
+</section>
+<!-- End teaser image -->
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Biryani, one of India's most celebrated dishes, exhibits remarkable regional diversity in its preparation, ingredients, and presentation. With the growing availability of online cooking videos, there is unprecedented potential to study such culinary variations using computational tools systematically. However, existing video understanding methods fail to capture the fine-grained, multimodal, and culturally grounded differences in procedural cooking videos. This work presents the first large-scale, curated dataset of biryani preparation videos, comprising 120 high-quality YouTube recordings across 12 distinct regional styles. We propose a multi-stage framework leveraging recent advances in vision-language models (VLMs) to segment videos into fine-grained procedural units and align them with audio transcripts and canonical recipe text. Building on these aligned representations, we introduce a video comparison pipeline that automatically identifies and explains procedural differences between regional variants. We construct a comprehensive question-answer (QA) benchmark spanning multiple reasoning levels to evaluate procedural understanding in VLMs. Our approach employs multiple VLMs in complementary roles, incorporates human-in-the-loop verification for high-precision tasks, and benchmarks several state-of-the-art models under zero-shot and fine-tuned settings. The resulting dataset, comparison methodology, and QA benchmark provide a new testbed for evaluating VLMs on structured, multimodal reasoning tasks and open new directions for computational analysis of cultural heritage through cooking videos.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+
+<!-- Pipeline Overview -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title is-3 has-text-centered">Method Pipeline</h2>
+      <div id="pipeline-carousel" class="carousel results-carousel">
+        <div class="item">
+          <img src="static/images/video-segmentation.png" alt="Video Segmentation Pipeline" loading="lazy"/>
+          <h2 class="subtitle has-text-centered">
+            <strong>Stage 1:</strong> Video segmentation to extract ingredients, utensils, and actions
+          </h2>
+        </div>
+        <div class="item">
+          <img src="static/images/biryani_comparison_pipline.png" alt="Video Comparison Pipeline" loading="lazy"/>
+          <h2 class="subtitle has-text-centered">
+            <strong>Stage 2:</strong> Multimodal alignment and video comparison framework for identifying procedural differences
+          </h2>
+        </div>
+        <div class="item">
+          <img src="static/images/qa-gen-pipeline.png" alt="QA Generation Pipeline" loading="lazy"/>
+          <h2 class="subtitle has-text-centered">
+            <strong>Stage 3:</strong> Question-answer generation pipeline
+          </h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End pipeline overview -->
+
+
+<!-- Key Results -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title is-3 has-text-centered">Key Results</h2>
+      
+      <!-- Video Comparison Results -->
+      <div class="columns is-centered" style="margin-bottom: 3rem;">
+        <div class="column is-10">
+          <h3 class="title is-4 has-text-centered">Procedural Variation Detection</h3>
+          <img src="static/images/biryani_variation_fig.png" alt="Biryani Variation Visualization" loading="lazy"/>
+          <p class="subtitle has-text-centered" style="margin-top: 1rem;">
+            Cooking variations detected between Hyderabadi and Lucknowi biryani. Opacity indicates degree of variation.
+          </p>
+        </div>
+      </div>
+
+      <!-- Skill-based Retrieval -->
+      <div class="columns is-centered" style="margin-bottom: 3rem;">
+        <div class="column is-10">
+          <h3 class="title is-4 has-text-centered">Action-Based Video Retrieval</h3>
+          <img src="static/images/marinade.png" alt="Action-based retrieval example" loading="lazy"/>
+          <p class="subtitle has-text-centered" style="margin-top: 1rem;">
+            Targeted retrieval of "marinating chicken" across multiple videos with precise temporal localization.
+          </p>
+        </div>
+      </div>
+
+      <!-- QA Results -->
+      <div class="columns is-centered">
+        <div class="column is-10">
+          <h3 class="title is-4 has-text-centered">Video Question Answering</h3>
+          <img src="static/images/qa-examples.png" alt="QA Examples" loading="lazy"/>
+          <p class="subtitle has-text-centered" style="margin-top: 1rem;">
+            Examples of generated question-answer pairs, spanning multiple reasoning levels.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End key results -->
+
+
+
+
+
+
+<!-- VLM Performance Benchmarks -->
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title is-3 has-text-centered">VLM Performance Benchmarks</h2>
+      
+      <div class="columns is-centered">
+        <div class="column is-11">
+          <h3 class="title is-4 has-text-centered">Video QA Performance</h3>
+          
+          <!-- Tab Navigation -->
+          <div class="tabs is-centered is-boxed" style="margin-bottom: 2rem;">
+            <ul>
+              <li class="is-active" data-tab="overall">
+                <a>
+                  <span class="icon is-small"><i class="fas fa-chart-bar"></i></span>
+                  <span>Overall Performance</span>
+                </a>
+              </li>
+              <li data-tab="hard-breakdown">
+                <a>
+                  <span class="icon is-small"><i class="fas fa-layer-group"></i></span>
+                  <span>Hard Tier Breakdown</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Overall Performance Table -->
+          <div id="overall-table" class="tab-content is-active">
+            <div class="content">
+              <p class="has-text-centered" style="margin-bottom: 1.5rem;">
+                Overall QA performance of VLMs across easy, medium, and hard difficulty tiers.
+              </p>
+              <div style="overflow-x: auto;">
+                <table class="table is-striped is-hoverable is-fullwidth">
+                  <thead>
+                    <tr>
+                      <th class="has-text-centered">VLM</th>
+                      <th class="has-text-centered">Metric</th>
+                      <th class="has-text-centered">Easy Tier</th>
+                      <th class="has-text-centered">Medium Tier</th>
+                      <th class="has-text-centered">Hard Tier</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <!-- InternVL3 -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>internvl3</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0294</td>
+                      <td class="has-text-centered">0.0291</td>
+                      <td class="has-text-centered">0.0395</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.2184</td>
+                      <td class="has-text-centered">0.1732</td>
+                      <td class="has-text-centered">0.2457</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">0.1663</td>
+                      <td class="has-text-centered">0.1628</td>
+                      <td class="has-text-centered">0.2683</td>
+                    </tr>
+                    
+                    <!-- Qwen2VL -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>qwen2vl</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0314</td>
+                      <td class="has-text-centered">0.0209</td>
+                      <td class="has-text-centered">0.0609</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.1914</td>
+                      <td class="has-text-centered">0.1189</td>
+                      <td class="has-text-centered">0.3201</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">0.1298</td>
+                      <td class="has-text-centered">-0.0747</td>
+                      <td class="has-text-centered">0.3022</td>
+                    </tr>
+                    
+                    <!-- LLaVA-NeXT -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>llavanext</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0128</td>
+                      <td class="has-text-centered">0.0216</td>
+                      <td class="has-text-centered">0.0150</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.1319</td>
+                      <td class="has-text-centered">0.1367</td>
+                      <td class="has-text-centered">0.1911</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">-0.1732</td>
+                      <td class="has-text-centered">0.0465</td>
+                      <td class="has-text-centered">0.0984</td>
+                    </tr>
+                    
+                    <!-- LLaVA-OV -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>llavaov</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0038</td>
+                      <td class="has-text-centered">0.0278</td>
+                      <td class="has-text-centered">0.0246</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.0408</td>
+                      <td class="has-text-centered">0.1383</td>
+                      <td class="has-text-centered">0.1386</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">-0.2586</td>
+                      <td class="has-text-centered">0.0377</td>
+                      <td class="has-text-centered">-0.0073</td>
+                    </tr>
+                    
+                    <!-- VideoLLaMA -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>videollama</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0194</td>
+                      <td class="has-text-centered">0.0787</td>
+                      <td class="has-text-centered">0.0502</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.1883</td>
+                      <td class="has-text-centered">0.2713</td>
+                      <td class="has-text-centered">0.2650</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">0.0897</td>
+                      <td class="has-text-centered">0.3071</td>
+                      <td class="has-text-centered">0.2445</td>
+                    </tr>
+                    
+                    <!-- Llama3ft (Fine-tuned) -->
+                    <tr style="background-color: #e8f4f8;">
+                      <td rowspan="3" style="vertical-align: middle;"><strong>llama3ft</strong><br><small>(fine-tuned)</small></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.0472</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.1683</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.1140</strong></td>
+                    </tr>
+                    <tr style="background-color: #e8f4f8;">
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.2689</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4214</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4072</strong></td>
+                    </tr>
+                    <tr style="background-color: #e8f4f8;">
+                      <td>BERTScore</td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.2660</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4869</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4526</strong></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <p class="has-text-centered" style="margin-top: 1.5rem;">
+                Fine-tuned Llama-3.2-11B significantly outperforms all zero-shot baselines across all difficulty tiers and metrics.
+              </p>
+            </div>
+          </div>
+
+          <!-- Hard Tier Breakdown Table -->
+          <div id="hard-breakdown-table" class="tab-content" style="display: none;">
+            <div class="content">
+              <p class="has-text-centered" style="margin-bottom: 1.5rem;">
+                Hard-tier breakdown showing VLM performance on subsets requiring reasoning across 2, 3, 4, and 5 videos.
+              </p>
+              <div style="overflow-x: auto;">
+                <table class="table is-striped is-hoverable is-fullwidth">
+                  <thead>
+                    <tr>
+                      <th class="has-text-centered">VLM</th>
+                      <th class="has-text-centered">Metric</th>
+                      <th class="has-text-centered">2 Videos</th>
+                      <th class="has-text-centered">3 Videos</th>
+                      <th class="has-text-centered">4 Videos</th>
+                      <th class="has-text-centered">5 Videos</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <!-- InternVL3 -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>internvl3</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0432</td>
+                      <td class="has-text-centered">0.0405</td>
+                      <td class="has-text-centered">0.0386</td>
+                      <td class="has-text-centered">0.0322</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.2624</td>
+                      <td class="has-text-centered">0.2510</td>
+                      <td class="has-text-centered">0.2444</td>
+                      <td class="has-text-centered">0.2087</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">0.2882</td>
+                      <td class="has-text-centered">0.2756</td>
+                      <td class="has-text-centered">0.2532</td>
+                      <td class="has-text-centered">0.2347</td>
+                    </tr>
+                    
+                    <!-- Qwen2VL -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>qwen2vl</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0597</td>
+                      <td class="has-text-centered">0.0679</td>
+                      <td class="has-text-centered">0.0526</td>
+                      <td class="has-text-centered">0.0570</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.3300</td>
+                      <td class="has-text-centered">0.3238</td>
+                      <td class="has-text-centered">0.3174</td>
+                      <td class="has-text-centered">0.2990</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">0.3107</td>
+                      <td class="has-text-centered">0.2980</td>
+                      <td class="has-text-centered">0.3052</td>
+                      <td class="has-text-centered">0.2932</td>
+                    </tr>
+                    
+                    <!-- LLaVA-NeXT -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>llavanext</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0052</td>
+                      <td class="has-text-centered">0.0205</td>
+                      <td class="has-text-centered">0.0113</td>
+                      <td class="has-text-centered">0.0239</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.1663</td>
+                      <td class="has-text-centered">0.2038</td>
+                      <td class="has-text-centered">0.1718</td>
+                      <td class="has-text-centered">0.2257</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">0.0700</td>
+                      <td class="has-text-centered">0.1066</td>
+                      <td class="has-text-centered">0.0727</td>
+                      <td class="has-text-centered">0.1540</td>
+                    </tr>
+                    
+                    <!-- LLaVA-OV -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>llavaov</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0226</td>
+                      <td class="has-text-centered">0.0282</td>
+                      <td class="has-text-centered">0.0215</td>
+                      <td class="has-text-centered">0.0236</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.1390</td>
+                      <td class="has-text-centered">0.1459</td>
+                      <td class="has-text-centered">0.1329</td>
+                      <td class="has-text-centered">0.1286</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">0.0066</td>
+                      <td class="has-text-centered">0.0094</td>
+                      <td class="has-text-centered">-0.0400</td>
+                      <td class="has-text-centered">-0.0327</td>
+                    </tr>
+                    
+                    <!-- VideoLLaMA -->
+                    <tr>
+                      <td rowspan="3" style="vertical-align: middle;"><strong>videollama</strong></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered">0.0504</td>
+                      <td class="has-text-centered">0.0624</td>
+                      <td class="has-text-centered">0.0339</td>
+                      <td class="has-text-centered">0.0411</td>
+                    </tr>
+                    <tr>
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered">0.2643</td>
+                      <td class="has-text-centered">0.2870</td>
+                      <td class="has-text-centered">0.2326</td>
+                      <td class="has-text-centered">0.2537</td>
+                    </tr>
+                    <tr>
+                      <td>BERTScore</td>
+                      <td class="has-text-centered">0.2573</td>
+                      <td class="has-text-centered">0.2552</td>
+                      <td class="has-text-centered">0.2049</td>
+                      <td class="has-text-centered">0.2391</td>
+                    </tr>
+                    
+                    <!-- Llama3ft (Fine-tuned) -->
+                    <tr style="background-color: #e8f4f8;">
+                      <td rowspan="3" style="vertical-align: middle;"><strong>llama3ft</strong><br><small>(fine-tuned)</small></td>
+                      <td>BLEU</td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.1073</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.1306</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.0987</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.1068</strong></td>
+                    </tr>
+                    <tr style="background-color: #e8f4f8;">
+                      <td>ROUGE-L</td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4045</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4279</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.3845</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.3927</strong></td>
+                    </tr>
+                    <tr style="background-color: #e8f4f8;">
+                      <td>BERTScore</td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4622</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4669</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4279</strong></td>
+                      <td class="has-text-centered"><strong style="color: #2563eb;">0.4319</strong></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+              <p class="has-text-centered" style="margin-top: 1.5rem;">
+                Performance degrades as the number of required videos increases, with fine-tuned llama3ft maintaining the strongest performance across all complexity levels.
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End VLM Performance Benchmarks -->
+
+
+
+<!--BibTex citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <div class="bibtex-header">
+        <h2 class="title">BibTeX</h2>
+        <button class="copy-bibtex-btn" onclick="copyBibTeX()" title="Copy BibTeX to clipboard">
+          <i class="fas fa-copy"></i>
+          <span class="copy-text">Copy</span>
+        </button>
+      </div>
+      <pre id="bibtex-code"><code>@inproceedings{biryaniofindia2025,
+  title={How Does India Cook Biryani?},
+  author={C. V. Rishi and Farzana S and Shubham Goel and Aditya Arun and C. V. Jawahar},
+  booktitle={Proceedings of 16th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP'25)},
+  year={2025},
+  organization={ACM}
+}</code></pre>
+    </div>
+</section>
+<!--End BibTex citation -->
+
+
+  <footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+            You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>
